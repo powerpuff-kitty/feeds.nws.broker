@@ -32,6 +32,11 @@ class DirectoryTest(unittest.TestCase):
         with TemporaryDirectory() as directory:
             root = Path(directory)
             build_directory(root, tables, {url}, 'a' * 64)
+            readme = (root / 'README.md').read_text()
+            self.assertIn('[nws.broker](https://nws.broker/)', readme)
+            self.assertIn('assets/nws-broker-mark.svg', readme)
+            self.assertIn('import 1 subscription', readme)
+            self.assertIn('branch=main&event=push', readme)
             with (root / 'directory/feeds.csv').open(newline='') as file:
                 rows = list(csv.DictReader(file))
             self.assertEqual(['F0001', 'F0002', 'F0003'], [row['endpoint_id'] for row in rows])

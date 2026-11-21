@@ -18,6 +18,8 @@ OPML uses original publisher links. It deduplicates exact URLs within each file.
 
 ## Refresh a snapshot
 
+The README is generated with the catalogue. Edit `scripts/build_directory.py` to change its layout or links. The checked-in brand mark mirrors the [nws.broker favicon](https://nws.broker/favicon.svg). GitHub Actions runs the offline tests on pull requests and main pushes, including checks that the published CSV, OPML, and manifest agree.
+
 Use Python 3.9 or later and `curl`. The generator reads the production import hash before and after download, validates table counts and identities, then writes to a new directory. It makes requests to the broker API. It does not request publisher feed bodies.
 
 ```sh

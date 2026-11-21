@@ -12,7 +12,12 @@ from urllib.parse import parse_qsl, quote, urlsplit
 import xml.etree.ElementTree as ET
 
 
-API = 'https://nws.broker/api'
+SITE = 'https://nws.broker'
+API = f'{SITE}/api'
+REPOSITORY = 'powerpuff-kitty/feeds.nws.broker'
+REPO_URL = f'https://github.com/{REPOSITORY}'
+RAW_URL = f'https://raw.githubusercontent.com/{REPOSITORY}/main'
+SHIELDS = 'https://img.shields.io'
 STATUSES = {
     'verified': ('Verified', 'The broker successfully parsed the feed at the recorded check.'),
     'advertised': ('Advertised', 'A source or directory advertised the endpoint. Verification is pending.'),
@@ -181,6 +186,28 @@ def topic_pages(directory, label, rows, formats, topic):
     return counts
 
 
+def readme_opening(endpoint_count, source_count, topic_count, subscription_count):
+    subscription_label = 'subscription' if subscription_count == 1 else 'subscriptions'
+    return [
+        '# nws.broker Feed Directory', '',
+        f'<a href="{SITE}/"><img src="assets/nws-broker-mark.svg" alt="nws.broker brand mark" width="40" height="40"></a>', '',
+        f'A public feed directory from [nws.broker]({SITE}/). Find publisher feeds for your reader or use the catalogue data in your own tools.', '',
+        f'[![Visit nws.broker]({SHIELDS}/badge/Visit-nws.broker-005675)]({SITE}/) '
+        f'[![Download feed catalogue CSV]({SHIELDS}/badge/Download-CSV-005675)]({RAW_URL}/directory/feeds.csv) '
+        f'[![Download subscription OPML]({SHIELDS}/badge/Download-OPML-713053)]({RAW_URL}/directory/opml/all.opml) '
+        f'[![Directory checks on main pushes]({SHIELDS}/github/actions/workflow/status/{REPOSITORY}/validate.yml?branch=main&event=push&label=directory%20checks)]({REPO_URL}/actions/workflows/validate.yml)', '',
+        f'**{endpoint_count:,} endpoint records** · **{source_count:,} sources** · **{topic_count:,} topics**', '',
+        '## Quick start', '',
+        '1. [Choose a topic](#browse-by-topic) and open its verified feeds.',
+        f'2. Save that topic’s OPML file and import it into your feed reader, or [import {subscription_count:,} {subscription_label}]({RAW_URL}/directory/opml/all.opml) from the combined file.',
+        '3. Use the [CSV](directory/feeds.csv) to filter by language, country, publisher, or feed status.', '',
+        f'[Browse the live catalogue]({SITE}/catalogue/) · [Snapshot manifest](directory/manifest.json) · [Maintenance](MAINTENANCE.md)', '',
+        '## Browse by topic', '',
+        '| Category | Parent | Verified | Advertised | Needs review | Unavailable | OPML |',
+        '| --- | --- | ---: | ---: | ---: | ---: | ---: |',
+    ]
+
+
 def build_directory(root, tables, subscriptions, version):
     data = root / 'directory'
     (data / 'opml').mkdir(parents=True)
@@ -198,14 +225,7 @@ def build_directory(root, tables, subscriptions, version):
             writer.writerow({key: spreadsheet(row.get(key)) for key in FIELDS})
     total_opml = write_opml(data / 'opml/all.opml', 'nws.broker subscriptions',
                             [(row['label'], by_topic[row['topic_id']]) for row in topics])
-    index = ['# nws.broker feed directory', '',
-             f'Browse **{len(rows):,} endpoint records** from {len({row["source_id"] for row in rows}):,} sources '
-             f'across {len(topics)} topics.', '',
-             f'[Full catalogue CSV](directory/feeds.csv) · [Import all {total_opml:,} subscriptions](directory/opml/all.opml) · '
-             '[Snapshot manifest](directory/manifest.json) · [Live catalogue](https://nws.broker/catalogue/)', '',
-             '## Browse by topic', '',
-             '| Category | Parent | Verified | Advertised | Needs review | Unavailable | OPML |',
-             '| --- | --- | ---: | ---: | ---: | ---: | ---: |']
+    index = readme_opening(len(rows), len({row['source_id'] for row in rows}), len(topics), total_opml)
     summaries = {}
     for topic in topics:
         key, label = topic['topic_id'], topic['label']

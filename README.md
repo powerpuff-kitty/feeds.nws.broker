@@ -1,8 +1,20 @@
-# nws.broker feed directory
+# nws.broker Feed Directory
 
-Browse **25,175 endpoint records** from 12,113 sources across 38 topics.
+<a href="https://nws.broker/"><img src="assets/nws-broker-mark.svg" alt="nws.broker brand mark" width="40" height="40"></a>
 
-[Full catalogue CSV](directory/feeds.csv) · [Import all 7,895 subscriptions](directory/opml/all.opml) · [Snapshot manifest](directory/manifest.json) · [Live catalogue](https://nws.broker/catalogue/)
+A public feed directory from [nws.broker](https://nws.broker/). Find publisher feeds for your reader or use the catalogue data in your own tools.
+
+[![Visit nws.broker](https://img.shields.io/badge/Visit-nws.broker-005675)](https://nws.broker/) [![Download feed catalogue CSV](https://img.shields.io/badge/Download-CSV-005675)](https://raw.githubusercontent.com/powerpuff-kitty/feeds.nws.broker/main/directory/feeds.csv) [![Download subscription OPML](https://img.shields.io/badge/Download-OPML-713053)](https://raw.githubusercontent.com/powerpuff-kitty/feeds.nws.broker/main/directory/opml/all.opml) [![Directory checks on main pushes](https://img.shields.io/github/actions/workflow/status/powerpuff-kitty/feeds.nws.broker/validate.yml?branch=main&event=push&label=directory%20checks)](https://github.com/powerpuff-kitty/feeds.nws.broker/actions/workflows/validate.yml)
+
+**25,175 endpoint records** · **12,113 sources** · **38 topics**
+
+## Quick start
+
+1. [Choose a topic](#browse-by-topic) and open its verified feeds.
+2. Save that topic’s OPML file and import it into your feed reader, or [import 7,895 subscriptions](https://raw.githubusercontent.com/powerpuff-kitty/feeds.nws.broker/main/directory/opml/all.opml) from the combined file.
+3. Use the [CSV](directory/feeds.csv) to filter by language, country, publisher, or feed status.
+
+[Browse the live catalogue](https://nws.broker/catalogue/) · [Snapshot manifest](directory/manifest.json) · [Maintenance](MAINTENANCE.md)
 
 ## Browse by topic
 
