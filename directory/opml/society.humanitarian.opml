@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · Humanitarian information</title>
+  </head>
+  <body>
+    <outline type="rss" text="Food and Agriculture Organization newsroom" title="Food and Agriculture Organization newsroom" xmlUrl="https://www.fao.org/feeds/fao-newsroom-rss" />
+    <outline type="rss" text="Food and Agriculture Organization newsroom" title="Food and Agriculture Organization newsroom" xmlUrl="https://www.fao.org/feeds/fao-newsroom-rss-ru" />
+    <outline type="rss" text="Food and Agriculture Organization newsroom" title="Food and Agriculture Organization newsroom" xmlUrl="https://www.fao.org/feeds/fao-newsroom-rss-zh" />
+    <outline type="rss" text="Food and Agriculture Organization newsroom" title="Food and Agriculture Organization newsroom" xmlUrl="https://www.fao.org/in-action/rss/en/" />
+    <outline type="rss" text="Food and Agriculture Organization newsroom" title="Food and Agriculture Organization newsroom" xmlUrl="https://www.fao.org/members-gateway/news/rss/en/" />
+    <outline type="rss" text="Food and Agriculture Organization newsroom" title="Food and Agriculture Organization newsroom" xmlUrl="https://www.fao.org/members-gateway/news/rss/es/" />
+    <outline type="rss" text="Food and Agriculture Organization newsroom" title="Food and Agriculture Organization newsroom" xmlUrl="https://www.fao.org/members-gateway/news/rss/fr/" />
+    <outline type="rss" text="SAAMO community-development publication" title="SAAMO community-development publication" xmlUrl="https://www.saamo.be/feed/" />
+    <outline type="rss" text="SAAMO community-development publication" title="SAAMO community-development publication" xmlUrl="https://www.saamo.be/comments/feed/" />
+    <outline type="rss" text="UN Geneva RSS" title="UN Geneva RSS" xmlUrl="https://www.ungeneva.org/news-media/press-releases-list/rss.xml" />
+    <outline type="rss" text="UN Geneva RSS" title="UN Geneva RSS" xmlUrl="https://www.ungeneva.org/news-media/meeting-summaries-list/rss.xml" />
+    <outline type="rss" text="UN Geneva RSS" title="UN Geneva RSS" xmlUrl="https://www.ungeneva.org/news-media/press-conferences-list/rss.xml" />
+    <outline type="rss" text="UN Geneva RSS" title="UN Geneva RSS" xmlUrl="https://www.ungeneva.org/news-media/briefings-list/rss.xml" />
+    <outline type="rss" text="UN news outlets" title="UN news outlets" xmlUrl="https://www.un.org/en/rss.xml" />
+    <outline type="rss" text="UN news outlets" title="UN news outlets" xmlUrl="https://www.un.org/press/en/feed" />
+    <outline type="rss" text="UN news outlets" title="UN news outlets" xmlUrl="https://www.un.org/sustainabledevelopment/blog/category/climate-change/feed/" />
+    <outline type="rss" text="UN news outlets" title="UN news outlets" xmlUrl="https://www.un.org/sustainabledevelopment/blog/category/featured/feed/" />
+    <outline type="rss" text="UN news outlets" title="UN news outlets" xmlUrl="https://www.un.org/sustainabledevelopment/blog/category/news/feed/" />
+    <outline type="rss" text="UN news outlets" title="UN news outlets" xmlUrl="https://www.un.org/sustainabledevelopment/feed/" />
+    <outline type="rss" text="Woonzaak housing-rights publication" title="Woonzaak housing-rights publication" xmlUrl="https://www.woonzaak.be/feed/" />
+    <outline type="rss" text="Woonzaak housing-rights publication" title="Woonzaak housing-rights publication" xmlUrl="https://www.woonzaak.be/comments/feed/" />
+  </body>
+</opml>

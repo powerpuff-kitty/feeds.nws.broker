@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · Technical standards</title>
+  </head>
+  <body>
+    <outline type="rss" text="IETF Datatracker" title="IETF Datatracker" xmlUrl="https://datatracker.ietf.org/feed/document-changes/draft-mcguinness-oauth-mission/" />
+    <outline type="rss" text="IETF Datatracker" title="IETF Datatracker" xmlUrl="https://datatracker.ietf.org/feed/document-changes/draft-rasmussen-acme-wif/" />
+    <outline type="rss" text="IETF Datatracker" title="IETF Datatracker" xmlUrl="https://datatracker.ietf.org/feed/document-changes/rfc1436/" />
+    <outline type="rss" text="IETF Datatracker" title="IETF Datatracker" xmlUrl="https://datatracker.ietf.org/feed/document-changes/rfc8628/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/Style/CSS/Overview.rss" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/WAI/feed.xml" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/blog/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/accessibility/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/corporate/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/data/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/developers/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/events/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/immersive-web/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/internationalization/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/privacy-and-security/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/privacy/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/security/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/sustainability/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/systems/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/testing/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/tools/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/training/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/tutorials/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/web-architecture/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/categories/workshop/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/ecosystems/automotive-transportation/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/ecosystems/data/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/ecosystems/e-commerce/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/ecosystems/media/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/ecosystems/network-communications/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/ecosystems/publishing/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/ecosystems/web-of-things/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/events/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/cg/aikr/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/cg/odrl/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/cg/webagents/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/cg/webdx/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/cg/webmachinelearning/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/ig/i18n/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/ig/publishing/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/ig/securepay/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/ig/security/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/ig/sustainableweb/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/other/ab/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/other/board/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/ag/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/distributed-tracing/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/dx/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/eowg/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/epub/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/fedid/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/i18n-core/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/immersive-web/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/json-ld/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/pat/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/payments/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/pm/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/privacy/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/publishing/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/webappsec/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/webauthn/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/groups/wg/webmachinelearning/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/ja/blog/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/news/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/zh-hans/blog/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/zh-hans/categories/corporate/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/zh-hans/categories/privacy-and-security/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/zh-hans/ecosystems/data/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/zh-hans/ecosystems/publishing/feed/" />
+    <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/zh-hans/groups/other/board/feed/" />
+  </body>
+</opml>

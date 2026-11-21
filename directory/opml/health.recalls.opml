@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · Product safety and recalls</title>
+  </head>
+  <body>
+    <outline type="rss" text="RASFF Window" title="RASFF Window" xmlUrl="https://webgate.ec.europa.eu/rasff-window/backend/public/consumer/rss/all/" />
+  </body>
+</opml>

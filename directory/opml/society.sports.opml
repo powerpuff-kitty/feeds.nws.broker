@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · Sports</title>
+  </head>
+  <body>
+    <outline type="rss" text="Better Chess" title="Better Chess" xmlUrl="https://betterchess.net/feed/" />
+    <outline type="rss" text="Chess News" title="Chess News" xmlUrl="https://en.chessbase.com/feed" />
+    <outline type="rss" text="Chess.com News" title="Chess.com News" xmlUrl="https://www.chess.com/rss/news" />
+    <outline type="rss" text="Chessable Blog" title="Chessable Blog" xmlUrl="https://www.chessable.com/blog/feed/" />
+    <outline type="rss" text="Cricket News: Stories, Features, Interviews, Opinion, Reports | Wisden" title="Cricket News: Stories, Features, Interviews, Opinion, Reports | Wisden" xmlUrl="https://www.wisden.com/feed" />
+    <outline type="rss" text="espn.com" title="espn.com" xmlUrl="https://www.espn.com/espn/rss/news" />
+    <outline type="rss" text="espn.com" title="espn.com" xmlUrl="https://www.espn.com/espn/rss/tennis/news" />
+    <outline type="rss" text="Feed at sports.yahoo.com" title="Feed at sports.yahoo.com" xmlUrl="https://sports.yahoo.com/rss/" />
+    <outline type="rss" text="feed.podbean.com" title="feed.podbean.com" xmlUrl="https://feed.podbean.com/essentialtennis/feed.xml" />
+    <outline type="rss" text="Lichess's Blog" title="Lichess's Blog" xmlUrl="https://lichess.org/blog.atom" />
+    <outline type="rss" text="Perfect Tennis" title="Perfect Tennis" xmlUrl="https://www.perfect-tennis.com/feed/" />
+    <outline type="rss" text="Soccer News" title="Soccer News" xmlUrl="https://www.soccernews.com/feed" />
+    <outline type="rss" text="sporza" title="sporza" xmlUrl="https://sporza.be/nl.rss.xml" />
+    <outline type="rss" text="Switch Hit Podcast" title="Switch Hit Podcast" xmlUrl="https://feeds.megaphone.fm/ESP9247246951" />
+    <outline type="rss" text="The Week in Chess" title="The Week in Chess" xmlUrl="https://theweekinchess.com/twic-rss-feed" />
+  </body>
+</opml>

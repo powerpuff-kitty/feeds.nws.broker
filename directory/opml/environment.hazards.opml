@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · Natural hazards</title>
+  </head>
+  <body>
+    <outline type="rss" text="GDACS feed reference" title="GDACS feed reference" xmlUrl="https://gdacs.org/xml/rss.xml" />
+    <outline type="rss" text="GDACS feed reference" title="GDACS feed reference" xmlUrl="https://www.gdacs.org/XML/RSS.xml" />
+    <outline type="rss" text="GDACS feed reference" title="GDACS feed reference" xmlUrl="https://www.gdacs.org/xml/rss.xml" />
+    <outline type="rss" text="GDACS feed reference" title="GDACS feed reference" xmlUrl="https://gdacs.org/xml/rss_24h.xml" />
+    <outline type="rss" text="GDACS feed reference" title="GDACS feed reference" xmlUrl="https://gdacs.org/xml/rss_7d.xml" />
+    <outline type="rss" text="GDACS feed reference" title="GDACS feed reference" xmlUrl="https://gdacs.org/xml/rss_eq_24h.xml" />
+    <outline type="rss" text="GDACS feed reference" title="GDACS feed reference" xmlUrl="https://gdacs.org/xml/rss_fl_7d.xml" />
+    <outline type="rss" text="Natural Resources Canada feed directory" title="Natural Resources Canada feed directory" xmlUrl="https://natural-resources.canada.ca/science-data/science-research/geomatics/geospatial-news/rss.xml" />
+    <outline type="rss" text="Natural Resources Canada feed directory" title="Natural Resources Canada feed directory" xmlUrl="https://ostr-backend-prod.azure.cloud.nrcan-rncan.gc.ca/server/opensearch/search?format=rss&amp;rpp=50" />
+    <outline type="rss" text="USGS earthquake feeds" title="USGS earthquake feeds" xmlUrl="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_hour.atom" />
+    <outline type="rss" text="USGS earthquake feeds" title="USGS earthquake feeds" xmlUrl="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom" />
+    <outline type="rss" text="USGS earthquake feeds" title="USGS earthquake feeds" xmlUrl="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_hour.atom" />
+    <outline type="rss" text="USGS earthquake feeds" title="USGS earthquake feeds" xmlUrl="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_month.atom" />
+    <outline type="rss" text="USGS earthquake feeds" title="USGS earthquake feeds" xmlUrl="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.atom" />
+    <outline type="rss" text="USGS earthquake feeds" title="USGS earthquake feeds" xmlUrl="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_day.atom" />
+    <outline type="rss" text="USGS earthquake feeds" title="USGS earthquake feeds" xmlUrl="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_day.atom" />
+    <outline type="rss" text="USGS earthquake feeds" title="USGS earthquake feeds" xmlUrl="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_week.atom" />
+    <outline type="rss" text="USGS earthquake feeds" title="USGS earthquake feeds" xmlUrl="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_hour.atom" />
+    <outline type="rss" text="USGS earthquake feeds" title="USGS earthquake feeds" xmlUrl="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.atom" />
+  </body>
+</opml>

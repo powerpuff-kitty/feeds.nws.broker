@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · Science</title>
+  </head>
+  <body>
+    <outline type="rss" text="Astroblog observing and science publication feeds" title="Astroblog observing and science publication feeds" xmlUrl="https://astroblogger.blogspot.com/feeds/posts/default" />
+    <outline type="rss" text="Astroblog observing and science publication feeds" title="Astroblog observing and science publication feeds" xmlUrl="https://astroblogger.blogspot.com/feeds/posts/default?alt=rss" />
+    <outline type="rss" text="Behind The Black commentary feeds" title="Behind The Black commentary feeds" xmlUrl="https://behindtheblack.com/feed/" />
+    <outline type="rss" text="Behind The Black commentary feeds" title="Behind The Black commentary feeds" xmlUrl="https://behindtheblack.com/comments/feed/" />
+    <outline type="rss" text="CNRS Le journal science and astronomy feeds" title="CNRS Le journal science and astronomy feeds" xmlUrl="https://lejournal.cnrs.fr/rss" />
+    <outline type="rss" text="CNRS Le journal science and astronomy feeds" title="CNRS Le journal science and astronomy feeds" xmlUrl="https://lejournal.cnrs.fr/rss/32" />
+    <outline type="rss" text="Eos Wetenschap podcast publication feed" title="Eos Wetenschap podcast publication feed" xmlUrl="https://feed.podbean.com/eoswetenschap/feed.xml" />
+    <outline type="rss" text="In the Dark cosmology and personal-blog feeds" title="In the Dark cosmology and personal-blog feeds" xmlUrl="https://telescoper.blog/feed/" />
+    <outline type="rss" text="In the Dark cosmology and personal-blog feeds" title="In the Dark cosmology and personal-blog feeds" xmlUrl="https://telescoper.blog/comments/feed/" />
+    <outline type="rss" text="In the Dark cosmology and personal-blog feeds" title="In the Dark cosmology and personal-blog feeds" xmlUrl="https://telescoper.blog/about/feed/" />
+    <outline type="rss" text="Quanta Magazine" title="Quanta Magazine" xmlUrl="https://www.quantamagazine.org/feed/" />
+    <outline type="rss" text="ScienceAlert general and platform-syndication feeds" title="ScienceAlert general and platform-syndication feeds" xmlUrl="https://www.sciencealert.com/feed/gn/" />
+    <outline type="rss" text="ScienceAlert general and platform-syndication feeds" title="ScienceAlert general and platform-syndication feeds" xmlUrl="https://www.sciencealert.com/feed/msft/" />
+    <outline type="rss" text="ScienceAlert general and platform-syndication feeds" title="ScienceAlert general and platform-syndication feeds" xmlUrl="https://www.sciencealert.com/feed/sn/" />
+    <outline type="rss" text="ScienceAlert general and platform-syndication feeds" title="ScienceAlert general and platform-syndication feeds" xmlUrl="https://www.sciencealert.com/feed/yn/" />
+    <outline type="rss" text="ScienceAlert general and platform-syndication feeds" title="ScienceAlert general and platform-syndication feeds" xmlUrl="https://www.sciencealert.com/feed/smartformat/" />
+    <outline type="rss" text="ScienceAlert general and platform-syndication feeds" title="ScienceAlert general and platform-syndication feeds" xmlUrl="https://www.sciencealert.com/feed" />
+    <outline type="rss" text="The Transmitter" title="The Transmitter" xmlUrl="https://www.thetransmitter.org/feed/" />
+    <outline type="rss" text="Udayana University" title="Udayana University" xmlUrl="https://www.unud.ac.id/feed/" />
+    <outline type="rss" text="Undark" title="Undark" xmlUrl="https://undark.org/feed/" />
+    <outline type="rss" text="University of Mataram" title="University of Mataram" xmlUrl="https://unram.ac.id/feed/" />
+    <outline type="rss" text="Women In Astronomy community publication feeds" title="Women In Astronomy community publication feeds" xmlUrl="https://womeninastronomy.blogspot.com/feeds/posts/default" />
+    <outline type="rss" text="Women In Astronomy community publication feeds" title="Women In Astronomy community publication feeds" xmlUrl="https://womeninastronomy.blogspot.com/feeds/posts/default?alt=rss" />
+  </body>
+</opml>

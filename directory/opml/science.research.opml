@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · Research publications</title>
+  </head>
+  <body>
+    <outline type="rss" text="arXiv RSS/Atom documentation / API manual" title="arXiv RSS/Atom documentation / API manual" xmlUrl="https://rss.arxiv.org/rss/cs" />
+    <outline type="rss" text="Asian Scientist" title="Asian Scientist" xmlUrl="https://www.asianscientist.com/feed/" />
+    <outline type="rss" text="CRISP political-research publication feeds" title="CRISP political-research publication feeds" xmlUrl="https://www.crisp.be/fr/feed?id_category=0&amp;orderby=date_add&amp;orderway=desc" />
+    <outline type="rss" text="CRISP political-research publication feeds" title="CRISP political-research publication feeds" xmlUrl="https://www.crisp.be/feed" />
+    <outline type="rss" text="CRISP political-research publication feeds" title="CRISP political-research publication feeds" xmlUrl="https://www.crisp.be/fr/feed" />
+    <outline type="rss" text="Flanders Hydraulics Research publication feeds" title="Flanders Hydraulics Research publication feeds" xmlUrl="https://expertplatform.waterbouwkundiglaboratorium.be/expert/imis.php?module=ref&amp;show=rss&amp;srchid=8947973" />
+    <outline type="rss" text="Flanders Hydraulics Research publication feeds" title="Flanders Hydraulics Research publication feeds" xmlUrl="https://expertplatform.waterbouwkundiglaboratorium.be/expert/imis.php?module=ref&amp;show=rss&amp;srchid=8947967" />
+    <outline type="rss" text="Flanders Hydraulics Research publication feeds" title="Flanders Hydraulics Research publication feeds" xmlUrl="https://expertplatform.waterbouwkundiglaboratorium.be/expert/imis.php?module=ref&amp;show=rss&amp;srchid=8947962" />
+    <outline type="rss" text="Flanders Hydraulics Research publication feeds" title="Flanders Hydraulics Research publication feeds" xmlUrl="https://expertplatform.waterbouwkundiglaboratorium.be/expert/imis.php?module=ref&amp;show=rss&amp;srchid=8947993" />
+    <outline type="rss" text="Flanders Hydraulics Research publication feeds" title="Flanders Hydraulics Research publication feeds" xmlUrl="https://expertplatform.waterbouwkundiglaboratorium.be/expert/imis.php?module=ref&amp;show=rss&amp;srchid=8947998" />
+    <outline type="rss" text="Ghent University Academic Bibliography feed service" title="Ghent University Academic Bibliography feed service" xmlUrl="https://biblio.ugent.be/feed/hourly" />
+    <outline type="rss" text="Ghent University Academic Bibliography feed service" title="Ghent University Academic Bibliography feed service" xmlUrl="https://biblio.ugent.be/feed/daily" />
+    <outline type="rss" text="Ghent University Academic Bibliography feed service" title="Ghent University Academic Bibliography feed service" xmlUrl="https://biblio.ugent.be/feed/weekly" />
+    <outline type="rss" text="Ghent University Academic Bibliography feed service" title="Ghent University Academic Bibliography feed service" xmlUrl="https://biblio.ugent.be/feed/monthly" />
+    <outline type="rss" text="Ghent University Academic Bibliography feed service" title="Ghent University Academic Bibliography feed service" xmlUrl="https://biblio.ugent.be/feed/monthly?q=affiliation+exact+GE12" />
+    <outline type="rss" text="Ghent University Academic Bibliography feed service" title="Ghent University Academic Bibliography feed service" xmlUrl="https://biblio.ugent.be/feed/weekly?q=affiliation+exact+LW" />
+    <outline type="rss" text="Ghent University Academic Bibliography feed service" title="Ghent University Academic Bibliography feed service" xmlUrl="https://biblio.ugent.be/feed/monthly?q=affiliation+exact+LW" />
+    <outline type="rss" text="Ghent University Academic Bibliography feed service" title="Ghent University Academic Bibliography feed service" xmlUrl="https://biblio.ugent.be/feed/daily?q=project+any+HERMIONE" />
+    <outline type="rss" text="Les Études Classiques journal announcement feeds" title="Les Études Classiques journal announcement feeds" xmlUrl="https://www.lesetudesclassiques.be/index.php/lec/gateway/plugin/AnnouncementFeedGatewayPlugin/atom" />
+    <outline type="rss" text="Les Études Classiques journal announcement feeds" title="Les Études Classiques journal announcement feeds" xmlUrl="https://www.lesetudesclassiques.be/index.php/lec/gateway/plugin/AnnouncementFeedGatewayPlugin/rss" />
+    <outline type="rss" text="Les Études Classiques journal announcement feeds" title="Les Études Classiques journal announcement feeds" xmlUrl="https://www.lesetudesclassiques.be/index.php/lec/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2" />
+    <outline type="rss" text="Nature" title="Nature" xmlUrl="https://www.nature.com/nature.rss" />
+    <outline type="rss" text="NCBI E-utilities" title="NCBI E-utilities" xmlUrl="https://www.ncbi.nlm.nih.gov/research/coronavirus-api/feed/" />
+    <outline type="rss" text="Phys.org - latest science and technology news stories" title="Phys.org - latest science and technology news stories" xmlUrl="https://phys.org/rss-feed/" />
+    <outline type="rss" text="podcasts.files.bbci.co.uk" title="podcasts.files.bbci.co.uk" xmlUrl="https://podcasts.files.bbci.co.uk/b00snr0w.rss" />
+    <outline type="rss" text="podcasts.files.bbci.co.uk" title="podcasts.files.bbci.co.uk" xmlUrl="https://podcasts.files.bbci.co.uk/p002w557.rss" />
+    <outline type="rss" text="podcasts.files.bbci.co.uk" title="podcasts.files.bbci.co.uk" xmlUrl="https://podcasts.files.bbci.co.uk/p02gsrmh.rss" />
+    <outline type="rss" text="podcasts.files.bbci.co.uk" title="podcasts.files.bbci.co.uk" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrsl2.rss" />
+    <outline type="rss" text="podcasts.files.bbci.co.uk" title="podcasts.files.bbci.co.uk" xmlUrl="https://podcasts.files.bbci.co.uk/p02pcb4w.rss" />
+    <outline type="rss" text="Popular Science" title="Popular Science" xmlUrl="https://www.popsci.com/arcio/rss/" />
+    <outline type="rss" text="Sawbones: A Marital Tour of Misguided Medicine" title="Sawbones: A Marital Tour of Misguided Medicine" xmlUrl="https://feeds.simplecast.com/y1LF_sn2" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/computers_math.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/computers_math/educational_technology.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/computers_math/robotics.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/air_pollution.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/air_quality.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/atmosphere.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/climate.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/drought.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/ecosystems.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/el_nino_and_la_nina.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/environmental_awareness.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/environmental_issues.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/environmental_policy.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/geography.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/geomagnetic_storms.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/global_warming.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/grasslands.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/hurricanes_and_cyclones.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/ice_ages.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/landslides.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/mining.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/ozone_holes.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/pollution.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/snow_and_avalanches.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/storms.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/weather.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/earth_climate/wildfires.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/education_learning.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/fossils_ruins.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/fossils_ruins/anthropology.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/fossils_ruins/archaeology.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/fossils_ruins/charles_darwin.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/fossils_ruins/cultures.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/fossils_ruins/dinosaurs.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/fossils_ruins/early_climate.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/fossils_ruins/early_mammals.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/fossils_ruins/human_evolution.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/fossils_ruins/origin_of_life.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/fossils_ruins/tyrannosaurus_rex.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/alternative_medicine.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/asthma.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/back_and_neck_pain.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/birth_defects.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/bladder_disorders.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/breast_cancer.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/breastfeeding.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/cancer.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/caregiving.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/cosmetic_surgery.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/cosmetics.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/diet_and_weight_loss.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/disability.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/epigenetics.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/fertility.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/healthy_aging.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/hormone_disorders.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/immune_system.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/insomnia.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/joint_health.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/joint_pain.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/lung_cancer.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/medical_devices.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/medical_education_and_training.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/mumps,_measles,_rubella.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/nervous_system.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/nutrition.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/ovarian_cancer.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/patient_education_and_counseling.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/pregnancy_and_childbirth.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/sexual_health.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/skin_care.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/sports_medicine.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/staying_healthy.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/stem_cells.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/ulcers.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/urology.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/vegetarian.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/health_medicine/vitamins.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/matter_energy/aerospace.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/matter_energy/energy_technology.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/matter_energy/engineering_and_construction.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/matter_energy/nanotechnology.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/matter_energy/telecommunications.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/matter_energy/textiles_and_clothing.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/alcoholism.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/anxiety.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/child_development.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/child_psychology.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/dyslexia.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/eating_disorders.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/epilepsy.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/infant_and_preschool_learning.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/parenting.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/psychiatry.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/smoking.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/social_psychology.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/mind_brain/stress.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/most_popular.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/plants_animals/agriculture_and_food.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/plants_animals/bacteria.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/plants_animals/fungus.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/plants_animals/microbes_and_more.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/plants_animals/prions.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/conflict.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/disaster_plan.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/education_and_employment.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/educational_policy.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/industrial_relations.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/justice.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/media_and_entertainment.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/political_science.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/privacy_issues.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/public_health.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/racial_disparity.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/religion.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/social_issues.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/space_policy.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/sports.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/surveillance.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/science_society/travel_and_recreation.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/asteroids,_comets_and_meteors.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/astronomy.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/black_holes.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/cosmic_rays.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/cosmology.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/esa.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/extrasolar_planets.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/moon.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/neptune.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/northern_lights.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/pluto.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/saturn.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/solar_system.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/space_probes.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/space_station.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/space_telescopes.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/stars.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/sun.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/uranus.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/venus.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/space_time/xena.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/strange_offbeat.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/strange_offbeat/bizarre_things.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/strange_offbeat/business_industry.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/strange_offbeat/computers_math.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/strange_offbeat/education_learning.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/strange_offbeat/fossils_ruins.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/strange_offbeat/human_quirks.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/strange_offbeat/matter_energy.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/strange_offbeat/mind_brain.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/strange_offbeat/odd_creatures.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/top.xml" />
+    <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/top/science.xml" />
+    <outline type="rss" text="Shirtloads of Science" title="Shirtloads of Science" xmlUrl="https://shirtloadsofscience.libsyn.com/rss" />
+    <outline type="rss" text="Turkish Journal of Astronomy and Astrophysics issue feeds" title="Turkish Journal of Astronomy and Astrophysics issue feeds" xmlUrl="https://dergipark.org.tr/en/pub/tjaa/rss/lastissue/en" />
+    <outline type="rss" text="Turkish Journal of Astronomy and Astrophysics issue feeds" title="Turkish Journal of Astronomy and Astrophysics issue feeds" xmlUrl="https://dergipark.org.tr/en/pub/tjaa/rss/lastissue/tr" />
+    <outline type="rss" text="Turkish Journal of Astronomy and Astrophysics issue feeds" title="Turkish Journal of Astronomy and Astrophysics issue feeds" xmlUrl="https://dergipark.org.tr/en/pub/tjaa/rss/earlypub/en" />
+    <outline type="rss" text="Turkish Journal of Astronomy and Astrophysics issue feeds" title="Turkish Journal of Astronomy and Astrophysics issue feeds" xmlUrl="https://dergipark.org.tr/en/pub/tjaa/rss/earlypub/tr" />
+  </body>
+</opml>

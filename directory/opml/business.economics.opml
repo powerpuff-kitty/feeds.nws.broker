@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · Economics and statistics</title>
+  </head>
+  <body>
+    <outline type="rss" text="Bank of Japan" title="Bank of Japan" xmlUrl="https://www.boj.or.jp/en/rss/statistics.xml" />
+    <outline type="rss" text="Bank of Japan" title="Bank of Japan" xmlUrl="https://www.boj.or.jp/en/rss/whatsnew.xml" />
+    <outline type="rss" text="Bank of Japan" title="Bank of Japan" xmlUrl="https://www.boj.or.jp/rss/statistics.xml" />
+    <outline type="rss" text="Bank of Japan" title="Bank of Japan" xmlUrl="https://www.boj.or.jp/rss/whatsnew.xml" />
+    <outline type="rss" text="BIS Data Portal" title="BIS Data Portal" xmlUrl="https://data.bis.org/feed.xml" />
+    <outline type="rss" text="Breaking News on Seeking Alpha" title="Breaking News on Seeking Alpha" xmlUrl="https://seekingalpha.com/market_currents.xml" />
+    <outline type="rss" text="Conversable Economist" title="Conversable Economist" xmlUrl="https://conversableeconomist.com/feed/" />
+    <outline type="rss" text="EconTalk" title="EconTalk" xmlUrl="https://feeds.simplecast.com/wgl4xEgL" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/blog.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-aud.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-bgn.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-brl.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-cad.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-chf.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-cny.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-czk.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-dkk.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-eek.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-gbp.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-hkd.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-hrk.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-huf.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-idr.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-ils.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-inr.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-isk.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-jpy.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-krw.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-mxn.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-myr.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-nok.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-nzd.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-php.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-pln.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-ron.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-rub.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-sek.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-sgd.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-thb.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-try.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-usd.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-zar.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/operations.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/press.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/press.xml" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/procurements.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/pub.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/rbu.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/statpress.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/tipsmeetdocs.rss" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/wppub.html" />
+    <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/yc.html" />
+    <outline type="rss" text="Eurostat catalogue RSS documentation" title="Eurostat catalogue RSS documentation" xmlUrl="https://ec.europa.eu/eurostat/api/dissemination/catalogue/rss/en/statistics-update.rss" />
+    <outline type="rss" text="Forbes - Business" title="Forbes - Business" xmlUrl="https://www.forbes.com/business/feed/" />
+    <outline type="rss" text="Fortune | FORTUNE" title="Fortune | FORTUNE" xmlUrl="https://fortune.com/feed" />
+    <outline type="rss" text="National Bank of Belgium publication feeds" title="National Bank of Belgium publication feeds" xmlUrl="https://www.nbb.be/en/news_rss.xml" />
+    <outline type="rss" text="National Bank of Belgium publication feeds" title="National Bank of Belgium publication feeds" xmlUrl="https://www.nbb.be/en/blog_rss.xml" />
+    <outline type="rss" text="National Bank of Belgium publication feeds" title="National Bank of Belgium publication feeds" xmlUrl="https://www.nbb.be/en/publication_rss.xml" />
+    <outline type="rss" text="National Bank of Belgium publication feeds" title="National Bank of Belgium publication feeds" xmlUrl="https://www.nbb.be/nl/news_rss.xml" />
+    <outline type="rss" text="National Bank of Belgium publication feeds" title="National Bank of Belgium publication feeds" xmlUrl="https://www.nbb.be/nl/blog_rss.xml" />
+    <outline type="rss" text="National Bank of Belgium publication feeds" title="National Bank of Belgium publication feeds" xmlUrl="https://www.nbb.be/nl/publication_rss.xml" />
+    <outline type="rss" text="National Bank of Belgium publication feeds" title="National Bank of Belgium publication feeds" xmlUrl="https://www.nbb.be/fr/news_rss.xml" />
+    <outline type="rss" text="National Bank of Belgium publication feeds" title="National Bank of Belgium publication feeds" xmlUrl="https://www.nbb.be/fr/blog_rss.xml" />
+    <outline type="rss" text="National Bank of Belgium publication feeds" title="National Bank of Belgium publication feeds" xmlUrl="https://www.nbb.be/fr/publication_rss.xml" />
+    <outline type="rss" text="Statistics Canada" title="Statistics Canada" xmlUrl="https://www150.statcan.gc.ca/n1/rss/dai-quo/32-eng.atom" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/all-content" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/all-figures" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/all-news-items" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/arbeid-en-inkomen" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/arbeid-en-sociale-zekerheid" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/bedrijven" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/bevolking" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/bouwen-en-wonen" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/economie" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/financiele-en-zakelijke-diensten" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/gezondheid-en-welzijn" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/handel-en-horeca" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/industrie-en-energie" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/inkomen-en-bestedingen" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/internationale-handel" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/landbouw" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/maatschappij" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/macro-economie" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/natuur-en-milieu" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/onderwijs" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/overheid-en-politiek" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/prijzen" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/veiligheid-en-recht" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/verkeer-en-vervoer" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/vrije-tijd-en-cultuur" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/alle-nieuwsberichten" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/alles" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/arbeid-en-inkomen" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/arbeid-en-sociale-zekerheid" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/arbeidsmarkt-zorg-en-welzijn" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/bedrijven" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/bevolking" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/bouwen-en-wonen" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/cijfers" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/corporate-nieuws" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/dossier-globalisering" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/economie" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/financiele-en-zakelijke-diensten" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/gezondheid-en-welzijn" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/handel-en-horeca" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/industrie-en-energie" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/inkomen-en-bestedingen" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/internationale-handel" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/iv3-modellen" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/landbouw" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/maatschappij" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/macro-economie" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/natuur-en-milieu" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/onderwijs" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/overheid-en-politiek" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/podcast-cijfers-voor-iedereen" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/prijzen" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/statistische-trends" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/veiligheid-en-recht" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/verkeer-en-vervoer" />
+    <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/vrije-tijd-en-cultuur" />
+    <outline type="rss" text="The Blog of Author Tim Ferriss" title="The Blog of Author Tim Ferriss" xmlUrl="https://tim.blog/feed/" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_OUTST.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_OUTST_DTBSPCKA_N.WW.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_OUTST_DTBSPCKFD_N.WW.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_OUTST_DTBSPCKFF_N.WW.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_OUTST_DTBSPCKND_N.WW.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_OUTST_DTBSPCKNF_N.WW.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_RATES.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_RATES_RIFSPPAAAD01_N.B.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_RATES_RIFSPPAAAD30_N.B.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_RATES_RIFSPPFAAD01_N.B.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_RATES_RIFSPPFAAD30_N.B.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_RATES_RIFSPPNA2P2D01_N.B.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_RATES_RIFSPPNA2P2D30_N.B.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_RATES_RIFSPPNAAD01_N.B.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_RATES_RIFSPPNAAD30_N.B.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLDIY01_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLDIY02_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLDIY03_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLDIY04_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLDIY05_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLDIY07_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLDIY10_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLDIY30_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLGFCM01_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLGFCM03_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLGFCM06_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLGFCY01_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLGFCY02_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLGFCY03_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLGFCY05_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLGFCY05_XII_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLGFCY07_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLGFCY07_XII_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLGFCY10_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLGFCY10_XII_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLGFCY20_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLGFCY20_XII_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLGFCY30_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFLGFL_XII_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFSGFSM03_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFSGFSM06_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFSGFSW04_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFSGFSY01_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFSPBLP_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFSPFF_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFSPPFAAD30_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFSPPFAAD60_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFSPPFAAD90_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFSPPNAAD30_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFSPPNAAD60_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFSPPNAAD90_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIFSRP_F02_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RILSPDEPM01_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RILSPDEPM03_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RILSPDEPM06_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIMLPAAAR_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/H15_H15_RIMLPBAAR_N.B.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/bankinginfo-rss.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/boardmeetings.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/chgdel.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/clp.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/covid-19.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/cp.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/currentfaqs.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10.XML" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_JRXWTFB_N.B.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_JRXWTFN_N.B.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_JRXWTFO_N.B.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI$US_N.B.AL.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI$US_N.B.EU.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI$US_N.B.NZ.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI$US_N.B.UK.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.BZ.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.CA.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.CH.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.DN.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.HK.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.IN.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.JA.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.KO.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.MA.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.MX.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.NO.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.SD.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.SF.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.SI.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.SL.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.SZ.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.TA.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.TH.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.VE.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/datadownload.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/e2.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/feds.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/feds_notes.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/fofguide.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/for.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/g17.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/g19.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/g20.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/h10.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/h15.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/h41.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/h8.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/ifdp.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/m_w_Bowman.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/prates.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/press_all.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/press_bcreg.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/press_enforcement.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/press_monetary.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/press_orders.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/press_other.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/reportforms-rss.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/s_t_barr.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/s_t_cook.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/s_t_jefferson.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/s_t_kugler.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/s_t_miran.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/s_t_powell.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/s_t_waller.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/scoos.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/sloos.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/speeches.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/speeches_and_testimony.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/testimony.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/working_papers.xml" />
+    <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/z1.xml" />
+    <outline type="rss" text="World Trade Organization news" title="World Trade Organization news" xmlUrl="https://www.wto.org/library/rss/latest_news_e.xml" />
+    <outline type="rss" text="World Trade Organization news" title="World Trade Organization news" xmlUrl="https://www.wto.org/library/rss/latest_news_f.xml" />
+    <outline type="rss" text="World Trade Organization news" title="World Trade Organization news" xmlUrl="https://www.wto.org/library/rss/latest_news_s.xml" />
+    <outline type="rss" text="World Trade Organization news" title="World Trade Organization news" xmlUrl="https://www.wto.org/library/rss/podcasts_e.xml" />
+  </body>
+</opml>

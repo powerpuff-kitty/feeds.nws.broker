@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · Transport</title>
+  </head>
+  <body>
+    <outline type="rss" text="BikeEXIF" title="BikeEXIF" xmlUrl="https://www.bikeexif.com/feed" />
+    <outline type="rss" text="BMWBLOG" title="BMWBLOG" xmlUrl="https://feeds.feedburner.com/BmwBlog" />
+    <outline type="rss" text="Car Body Design" title="Car Body Design" xmlUrl="https://www.carbodydesign.com/feed/" />
+    <outline type="rss" text="Carscoops" title="Carscoops" xmlUrl="https://www.carscoops.com/feed/" />
+    <outline type="rss" text="European Union Aviation Safety Agency" title="European Union Aviation Safety Agency" xmlUrl="https://www.easa.europa.eu/en/document-library/acceptable-means-of-compliance-and-guidance-material/feed.xml" />
+    <outline type="rss" text="European Union Aviation Safety Agency" title="European Union Aviation Safety Agency" xmlUrl="https://www.easa.europa.eu/en/document-library/agency-decisions/feed.xml" />
+    <outline type="rss" text="European Union Aviation Safety Agency" title="European Union Aviation Safety Agency" xmlUrl="https://www.easa.europa.eu/en/document-library/certification-specifications/feed.xml" />
+    <outline type="rss" text="European Union Aviation Safety Agency" title="European Union Aviation Safety Agency" xmlUrl="https://www.easa.europa.eu/en/document-library/general-publications/feed.xml" />
+    <outline type="rss" text="European Union Aviation Safety Agency" title="European Union Aviation Safety Agency" xmlUrl="https://www.easa.europa.eu/en/document-library/notices-of-proposed-amendment/feed.xml" />
+    <outline type="rss" text="European Union Aviation Safety Agency" title="European Union Aviation Safety Agency" xmlUrl="https://www.easa.europa.eu/en/document-library/research-reports/feed.xml" />
+    <outline type="rss" text="European Union Aviation Safety Agency" title="European Union Aviation Safety Agency" xmlUrl="https://www.easa.europa.eu/en/document-library/terms-of-reference-and-group-compositions/feed.xml" />
+    <outline type="rss" text="Jalopnik - Obsessed with the culture of cars" title="Jalopnik - Obsessed with the culture of cars" xmlUrl="https://jalopnik.com/rss" />
+    <outline type="rss" text="Latest Content - Car and Driver" title="Latest Content - Car and Driver" xmlUrl="https://www.caranddriver.com/rss/all.xml/" />
+    <outline type="rss" text="Railway Technology" title="Railway Technology" xmlUrl="https://www.railway-technology.com/feed/" />
+    <outline type="rss" text="Strong Towns" title="Strong Towns" xmlUrl="https://www.strongtowns.org/journal/rss.xml" />
+    <outline type="rss" text="The best vintage and classic cars for sale online | Bring a Trailer" title="The best vintage and classic cars for sale online | Bring a Trailer" xmlUrl="https://bringatrailer.com/feed/" />
+    <outline type="rss" text="Walloon mobility publication feeds" title="Walloon mobility publication feeds" xmlUrl="https://mobilite.wallonie.be/home/actus/zone-maincontent/actualites.rss" />
+    <outline type="rss" text="Walloon mobility publication feeds" title="Walloon mobility publication feeds" xmlUrl="https://mobilite.wallonie.be/en_GB/home/agenda/zone-maincontent/agenda.rss" />
+  </body>
+</opml>

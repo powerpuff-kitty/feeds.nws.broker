@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · Law and legislation</title>
+  </head>
+  <body>
+    <outline type="rss" text="BOE RSS / open-data API" title="BOE RSS / open-data API" xmlUrl="https://boe.es/rss/boe.php" />
+    <outline type="rss" text="BOE RSS / open-data API" title="BOE RSS / open-data API" xmlUrl="https://boe.es/rss/borme.php" />
+    <outline type="rss" text="BOE RSS / open-data API" title="BOE RSS / open-data API" xmlUrl="https://boe.es/rss/canal_cpv.php?l=a&amp;c=600" />
+    <outline type="rss" text="BOE RSS / open-data API" title="BOE RSS / open-data API" xmlUrl="https://boe.es/rss/canal_cpv.php?l=a&amp;c=630" />
+    <outline type="rss" text="BOE RSS / open-data API" title="BOE RSS / open-data API" xmlUrl="https://www.boe.es/rss/boe.php" />
+    <outline type="rss" text="BOE RSS / open-data API" title="BOE RSS / open-data API" xmlUrl="https://www.boe.es/rss/boe.php?s=2B" />
+    <outline type="rss" text="BOE RSS / open-data API" title="BOE RSS / open-data API" xmlUrl="https://www.boe.es/rss/borme.php" />
+    <outline type="rss" text="BOE RSS / open-data API" title="BOE RSS / open-data API" xmlUrl="https://www.boe.es/rss/canal.php?c=ayudas" />
+    <outline type="rss" text="BOE RSS / open-data API" title="BOE RSS / open-data API" xmlUrl="https://www.boe.es/rss/canal.php?c=becas" />
+    <outline type="rss" text="BOE RSS / open-data API" title="BOE RSS / open-data API" xmlUrl="https://www.boe.es/rss/canal_leg.php?l=l&amp;c=114" />
+    <outline type="rss" text="BOE RSS / open-data API" title="BOE RSS / open-data API" xmlUrl="https://www.boe.es/rss/canal_per.php?l=p&amp;c=140" />
+    <outline type="rss" text="BOE RSS / open-data API" title="BOE RSS / open-data API" xmlUrl="https://www.boe.es/rss/canal_per.php?l=p&amp;c=141" />
+    <outline type="rss" text="Carnet de route en droit immobilier" title="Carnet de route en droit immobilier" xmlUrl="https://gillescarnoy.be/feed/" />
+    <outline type="rss" text="Carnet de route en droit immobilier" title="Carnet de route en droit immobilier" xmlUrl="https://gillescarnoy.be/comments/feed/" />
+    <outline type="rss" text="EQUAL Partners legal news" title="EQUAL Partners legal news" xmlUrl="https://www.equal-partners.eu/feed.rss" />
+    <outline type="rss" text="EUR-Lex predefined feeds / custom alerts" title="EUR-Lex predefined feeds / custom alerts" xmlUrl="https://eur-lex.europa.eu/EN/display-feed.rss?rssId=162" />
+    <outline type="rss" text="EUR-Lex predefined feeds / custom alerts" title="EUR-Lex predefined feeds / custom alerts" xmlUrl="https://eur-lex.europa.eu/EN/display-feed.rss?rssId=165" />
+    <outline type="rss" text="European Data Protection Board" title="European Data Protection Board" xmlUrl="https://www.edpb.europa.eu/feed/news_en" />
+    <outline type="rss" text="European Data Protection Board" title="European Data Protection Board" xmlUrl="https://www.edpb.europa.eu/feed/publications_en" />
+    <outline type="rss" text="Jubel legal-editorial publication" title="Jubel legal-editorial publication" xmlUrl="https://www.jubel.be/fr/feed/" />
+  </body>
+</opml>

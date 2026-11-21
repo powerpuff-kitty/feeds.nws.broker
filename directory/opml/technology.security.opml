@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · Security advisories</title>
+  </head>
+  <body>
+    <outline type="rss" text="CERT-EU public security publications" title="CERT-EU public security publications" xmlUrl="https://cert.europa.eu/publications/security-advisories-rss" />
+    <outline type="rss" text="CERT-EU public security publications" title="CERT-EU public security publications" xmlUrl="https://cert.europa.eu/publications/threat-intelligence-rss" />
+    <outline type="rss" text="CERT-FR" title="CERT-FR" xmlUrl="https://cert.cyber.gouv.fr/actualite/feed/" />
+    <outline type="rss" text="CERT-FR" title="CERT-FR" xmlUrl="https://cert.cyber.gouv.fr/alerte/feed/" />
+    <outline type="rss" text="CERT-FR" title="CERT-FR" xmlUrl="https://cert.cyber.gouv.fr/avis/feed/" />
+    <outline type="rss" text="CERT-FR" title="CERT-FR" xmlUrl="https://cert.cyber.gouv.fr/cti/feed/" />
+    <outline type="rss" text="CERT-FR" title="CERT-FR" xmlUrl="https://cert.cyber.gouv.fr/dur/feed/" />
+    <outline type="rss" text="CERT-FR" title="CERT-FR" xmlUrl="https://cert.cyber.gouv.fr/feed/" />
+    <outline type="rss" text="CERT-FR" title="CERT-FR" xmlUrl="https://cert.cyber.gouv.fr/feed/scada/" />
+    <outline type="rss" text="CERT-FR" title="CERT-FR" xmlUrl="https://cert.cyber.gouv.fr/ioc/feed/" />
+    <outline type="rss" text="CISA KEV catalogue" title="CISA KEV catalogue" xmlUrl="https://www.cisa.gov/blog.xml" />
+    <outline type="rss" text="CISA KEV catalogue" title="CISA KEV catalogue" xmlUrl="https://www.cisa.gov/cybersecurity-advisories/analysis-reports.xml" />
+    <outline type="rss" text="CISA KEV catalogue" title="CISA KEV catalogue" xmlUrl="https://www.cisa.gov/cybersecurity-advisories/ics-medical-advisories.xml" />
+    <outline type="rss" text="CISA KEV catalogue" title="CISA KEV catalogue" xmlUrl="https://www.cisa.gov/news.xml" />
+    <outline type="rss" text="Darknet Diaries" title="Darknet Diaries" xmlUrl="https://feeds.megaphone.fm/darknetdiaries" />
+    <outline type="rss" text="Hacking Humans" title="Hacking Humans" xmlUrl="https://feeds.megaphone.fm/hacking-humans" />
+    <outline type="rss" text="Latest news" title="Latest news" xmlUrl="https://www.zdnet.com/topic/security/rss.xml" />
+    <outline type="rss" text="Malicious Life" title="Malicious Life" xmlUrl="https://malicious.life/feed/podcast/" />
+    <outline type="rss" text="Risky Business" title="Risky Business" xmlUrl="https://risky.biz/feeds/risky-business" />
+  </body>
+</opml>

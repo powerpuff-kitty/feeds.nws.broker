@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · News agencies</title>
+  </head>
+  <body>
+    <outline type="rss" text="Agence France-Presse" title="Agence France-Presse" xmlUrl="https://www.afp.com/en/actus/afp_communique/all/feed" />
+    <outline type="rss" text="Agence France-Presse" title="Agence France-Presse" xmlUrl="https://www.afp.com/en/rss.xml" />
+    <outline type="rss" text="Agence France-Presse" title="Agence France-Presse" xmlUrl="https://www.afp.com/fr/actus/afp_actualite/792,31,9,7,33/feed" />
+    <outline type="rss" text="ANTARA Bali" title="ANTARA Bali" xmlUrl="https://bali.antaranews.com/rss/terkini.xml" />
+    <outline type="rss" text="ANTARA Bali" title="ANTARA Bali" xmlUrl="https://bali.antaranews.com/rss/top-news.xml" />
+    <outline type="rss" text="ANTARA Bali" title="ANTARA Bali" xmlUrl="https://bali.antaranews.com/rss/photo.xml" />
+    <outline type="rss" text="ANTARA Bali" title="ANTARA Bali" xmlUrl="https://bali.antaranews.com/rss/nasional.xml" />
+    <outline type="rss" text="ANTARA Bali" title="ANTARA Bali" xmlUrl="https://bali.antaranews.com/rss/updates.xml" />
+    <outline type="rss" text="ANTARA Bali" title="ANTARA Bali" xmlUrl="https://bali.antaranews.com/rss/ekonomi.xml" />
+    <outline type="rss" text="ANTARA Bali" title="ANTARA Bali" xmlUrl="https://bali.antaranews.com/rss/humaniora.xml" />
+    <outline type="rss" text="ANTARA Bali" title="ANTARA Bali" xmlUrl="https://bali.antaranews.com/rss/pariwisata.xml" />
+    <outline type="rss" text="ANTARA Bali" title="ANTARA Bali" xmlUrl="https://bali.antaranews.com/rss/fokus-hoax.xml" />
+    <outline type="rss" text="ANTARA Bali" title="ANTARA Bali" xmlUrl="https://bali.antaranews.com/rss/olahraga.xml" />
+    <outline type="rss" text="ANTARA Bali" title="ANTARA Bali" xmlUrl="https://bali.antaranews.com/rss/taksu.xml" />
+    <outline type="rss" text="ANTARA Bali" title="ANTARA Bali" xmlUrl="https://bali.antaranews.com/rss/artikel.xml" />
+    <outline type="rss" text="ANTARA Bali" title="ANTARA Bali" xmlUrl="https://bali.antaranews.com/rss/seni-dan-hiburan.xml" />
+    <outline type="rss" text="ANTARA English" title="ANTARA English" xmlUrl="https://en.antaranews.com/rss/news.xml" />
+    <outline type="rss" text="ANTARA English" title="ANTARA English" xmlUrl="https://en.antaranews.com/rss/current-issue.xml" />
+    <outline type="rss" text="ANTARA English" title="ANTARA English" xmlUrl="https://en.antaranews.com/rss/world.xml" />
+    <outline type="rss" text="ANTARA English" title="ANTARA English" xmlUrl="https://en.antaranews.com/rss/business-investment.xml" />
+    <outline type="rss" text="ANTARA English" title="ANTARA English" xmlUrl="https://en.antaranews.com/rss/explore-indonesia.xml" />
+    <outline type="rss" text="ANTARA English" title="ANTARA English" xmlUrl="https://en.antaranews.com/rss/article.xml" />
+    <outline type="rss" text="ANTARA English" title="ANTARA English" xmlUrl="https://en.antaranews.com/rss/press-release.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/terkini.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/tekno.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/photo.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/video.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/top-news.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/politik.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/hukum.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/ekonomi.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/ekonomi-finansial.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/ekonomi-bisnis.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/ekonomi-bursa.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/metro.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/metro-kriminalitas.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/metro-lintas-kota.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/metro-lenggang-jakarta.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/sepakbola.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/sepakbola-liga-indonesia.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/sepakbola-internasional.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/sepakbola-liga-inggris-premier.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/sepakbola-liga-spanyol.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/sepakbola-liga-italia-seri-a.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/sepakbola-liga-champions.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/sepakbola-liga-liga-dunia.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/olahraga.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/olahraga-bulutangkis.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/olahraga-bola-basket.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/olahraga-tenis.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/olahraga-balap.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/olahraga-all-sport.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/humaniora.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/lifestyle.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/hiburan.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/dunia.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/dunia-asean.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/dunia-internasional.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/dunia-internasional-corner.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/infografik.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/otomotif.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/otomotif-umum.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/otomotif-go-green.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/otomotif-prototype.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/otomotif-review.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/warta-bumi.xml" />
+    <outline type="rss" text="ANTARA Indonesia" title="ANTARA Indonesia" xmlUrl="https://www.antaranews.com/rss/rilis-pers.xml" />
+    <outline type="rss" text="ANTARA Mataram / NTB" title="ANTARA Mataram / NTB" xmlUrl="https://mataram.antaranews.com/rss/terkini.xml" />
+    <outline type="rss" text="ANTARA Mataram / NTB" title="ANTARA Mataram / NTB" xmlUrl="https://mataram.antaranews.com/rss/kabar-ntb.xml" />
+    <outline type="rss" text="ANTARA Mataram / NTB" title="ANTARA Mataram / NTB" xmlUrl="https://mataram.antaranews.com/rss/top-news.xml" />
+    <outline type="rss" text="ANTARA Mataram / NTB" title="ANTARA Mataram / NTB" xmlUrl="https://mataram.antaranews.com/rss/photo.xml" />
+    <outline type="rss" text="ANTARA Mataram / NTB" title="ANTARA Mataram / NTB" xmlUrl="https://mataram.antaranews.com/rss/kabar-ntb-ntb.xml" />
+    <outline type="rss" text="ANTARA Mataram / NTB" title="ANTARA Mataram / NTB" xmlUrl="https://mataram.antaranews.com/rss/hukum-kriminal.xml" />
+    <outline type="rss" text="ANTARA Mataram / NTB" title="ANTARA Mataram / NTB" xmlUrl="https://mataram.antaranews.com/rss/politik.xml" />
+    <outline type="rss" text="ANTARA Mataram / NTB" title="ANTARA Mataram / NTB" xmlUrl="https://mataram.antaranews.com/rss/ekonomi-bisnis.xml" />
+    <outline type="rss" text="ANTARA Mataram / NTB" title="ANTARA Mataram / NTB" xmlUrl="https://mataram.antaranews.com/rss/olahraga.xml" />
+    <outline type="rss" text="ANTARA Mataram / NTB" title="ANTARA Mataram / NTB" xmlUrl="https://mataram.antaranews.com/rss/sepakbola.xml" />
+  </body>
+</opml>

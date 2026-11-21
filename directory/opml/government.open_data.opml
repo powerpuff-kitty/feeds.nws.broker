@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · Government and local open data</title>
+  </head>
+  <body>
+    <outline type="rss" text="Belgian federal data portal" title="Belgian federal data portal" xmlUrl="https://data.gov.be/en/rss.xml" />
+    <outline type="rss" text="datos.gob.es API / SPARQL" title="datos.gob.es API / SPARQL" xmlUrl="https://datos.gob.es/ca/rss-blog.xml" />
+    <outline type="rss" text="datos.gob.es API / SPARQL" title="datos.gob.es API / SPARQL" xmlUrl="https://datos.gob.es/es/rss-blog.xml" />
+    <outline type="rss" text="datos.gob.es API / SPARQL" title="datos.gob.es API / SPARQL" xmlUrl="https://datos.gob.es/es/rss-noticias.xml" />
+    <outline type="rss" text="Flemish Heritage Inventory publication feed" title="Flemish Heritage Inventory publication feed" xmlUrl="https://inventaris.onroerenderfgoed.be/erfgoedobjecten/recent/rss" />
+  </body>
+</opml>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · Clinical and biomedical research</title>
+  </head>
+  <body>
+    <outline type="rss" text="Belgian Health Care Knowledge Centre publication feeds" title="Belgian Health Care Knowledge Centre publication feeds" xmlUrl="https://kce.fgov.be/en/kce-reports-nl/rss.xml" />
+    <outline type="rss" text="Belgian Health Care Knowledge Centre publication feeds" title="Belgian Health Care Knowledge Centre publication feeds" xmlUrl="https://kce.fgov.be/en/pers/rss.xml" />
+    <outline type="rss" text="Belgian Health Care Knowledge Centre publication feeds" title="Belgian Health Care Knowledge Centre publication feeds" xmlUrl="https://kce.fgov.be/en/kce-reports-en/rss.xml" />
+    <outline type="rss" text="Belgian Health Care Knowledge Centre publication feeds" title="Belgian Health Care Knowledge Centre publication feeds" xmlUrl="https://kce.fgov.be/en/press-reslease/rss.xml" />
+    <outline type="rss" text="Belgian Health Care Knowledge Centre publication feeds" title="Belgian Health Care Knowledge Centre publication feeds" xmlUrl="https://kce.fgov.be/en/kce-reports-fr/rss.xml" />
+    <outline type="rss" text="Belgian Health Care Knowledge Centre publication feeds" title="Belgian Health Care Knowledge Centre publication feeds" xmlUrl="https://kce.fgov.be/en/communiques-de-presse/rss.xml" />
+    <outline type="rss" text="ClinicalTrials.gov" title="ClinicalTrials.gov" xmlUrl="https://clinicaltrials.gov/ct2/results/rss.xml?rcv_d=&amp;lup_d=1&amp;term=diabetes&amp;show_rss=Y&amp;sel_rss=mod1&amp;count=10000" />
+    <outline type="rss" text="ClinicalTrials.gov" title="ClinicalTrials.gov" xmlUrl="https://clinicaltrials.gov/ct2/results/rss.xml?rcv_d=&amp;lup_d=14&amp;cond=%22Pulmonary+Hypertension%22+OR+%22Pulmonary+Arterial+Hypertension%22+OR+PAH+OR+CTEPH+OR+%E2%80%9CChronic+Thromboembolic+Pulmonary+Hypertension%E2%80%9D&amp;show_rss=Y&amp;sel_rss=mod14&amp;count=10000" />
+    <outline type="rss" text="ClinicalTrials.gov" title="ClinicalTrials.gov" xmlUrl="https://clinicaltrials.gov/ct2/results/rss.xml?rcv_d=&amp;lup_d=14&amp;cond=diabetes&amp;show_rss=Y&amp;sel_rss=mod14&amp;count=10000" />
+    <outline type="rss" text="ClinicalTrials.gov" title="ClinicalTrials.gov" xmlUrl="https://clinicaltrials.gov/ct2/results/rss.xml?rcv_d=14&amp;lup_d=&amp;term=nanoparticles&amp;show_rss=Y&amp;count=10000" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/agendas-and-minutes.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/eurd-list.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/events.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/fees.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/herbal-medicine-new.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/human-medicine-highlights-newsletter.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/human-medicine-new.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/inspections.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/max-residue.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/new-human-medicine-new.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/new-veterinary-medicine-new.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/news.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/orphan.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/pip.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/procurement.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/public-consultations.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/regulatory-and-procedural-guideline.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/scientific-guidelines.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/veterinary-medicine-new.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/whats-new.xml" />
+    <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/withdrawn-applications.xml" />
+  </body>
+</opml>

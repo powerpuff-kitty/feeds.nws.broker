@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · Technology</title>
+  </head>
+  <body>
+    <outline type="rss" text="404 Media" title="404 Media" xmlUrl="https://www.404media.co/rss/" />
+    <outline type="rss" text="9to5Mac" title="9to5Mac" xmlUrl="https://9to5mac.com/feed" />
+    <outline type="rss" text="Analog(ue)" title="Analog(ue)" xmlUrl="https://www.relay.fm/analogue/feed" />
+    <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="https://www.androidauthority.com/feed" />
+    <outline type="rss" text="Android Authority Podcast" title="Android Authority Podcast" xmlUrl="https://androidauthority.libsyn.com/rss" />
+    <outline type="rss" text="Apple Newsroom" title="Apple Newsroom" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" />
+    <outline type="rss" text="AppleInsider News" title="AppleInsider News" xmlUrl="https://appleinsider.com/rss/news/" />
+    <outline type="rss" text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed" />
+    <outline type="rss" text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed/" />
+    <outline type="rss" text="BetaKit" title="BetaKit" xmlUrl="https://betakit.com/feed" />
+    <outline type="rss" text="blog.google" title="blog.google" xmlUrl="https://blog.google/products/android/rss" />
+    <outline type="rss" text="blog.google" title="blog.google" xmlUrl="https://www.blog.google/rss/" />
+    <outline type="rss" text="Clockwise" title="Clockwise" xmlUrl="https://www.relay.fm/clockwise/feed" />
+    <outline type="rss" text="CNET" title="CNET" xmlUrl="https://www.cnet.com/rss/news/" />
+    <outline type="rss" text="CSS Author" title="CSS Author" xmlUrl="https://cssauthor.com/feed/" />
+    <outline type="rss" text="Cult of Android" title="Cult of Android" xmlUrl="https://www.cultofandroid.com/feed" />
+    <outline type="rss" text="Cult of Mac" title="Cult of Mac" xmlUrl="https://www.cultofmac.com/feed" />
+    <outline type="rss" text="DailySocial" title="DailySocial" xmlUrl="https://dailysocial.id/feed" />
+    <outline type="rss" text="Daring Fireball" title="Daring Fireball" xmlUrl="https://daringfireball.net/feeds/main" />
+    <outline type="rss" text="Daring Fireball" title="Daring Fireball" xmlUrl="https://daringfireball.net/feeds/json" />
+    <outline type="rss" text="detikINET" title="detikINET" xmlUrl="https://inet.detik.com/googlenews/rss" />
+    <outline type="rss" text="Digital News Asia" title="Digital News Asia" xmlUrl="https://www.digitalnewsasia.com/rss.xml" />
+    <outline type="rss" text="Droid Life – Opinionated Android news." title="Droid Life – Opinionated Android news." xmlUrl="https://www.droid-life.com/feed" />
+    <outline type="rss" text="Duniailkom" title="Duniailkom" xmlUrl="https://www.duniailkom.com/feed/" />
+    <outline type="rss" text="Engadget - Technology News &amp; Expert Reviews" title="Engadget - Technology News &amp; Expert Reviews" xmlUrl="https://www.engadget.com/rss.xml" />
+    <outline type="rss" text="Feed at cyanogenmods.org" title="Feed at cyanogenmods.org" xmlUrl="https://www.cyanogenmods.org/feed" />
+    <outline type="rss" text="feeds.twit.tv" title="feeds.twit.tv" xmlUrl="https://feeds.twit.tv/aaa.xml" />
+    <outline type="rss" text="feeds.twit.tv" title="feeds.twit.tv" xmlUrl="https://feeds.twit.tv/floss.xml" />
+    <outline type="rss" text="feeds.twit.tv" title="feeds.twit.tv" xmlUrl="https://feeds.twit.tv/twit.xml" />
+    <outline type="rss" text="Fintech Singapore" title="Fintech Singapore" xmlUrl="https://fintechnews.sg/feed/" />
+    <outline type="rss" text="Furbo" title="Furbo" xmlUrl="https://furbo.org/feed/json/" />
+    <outline type="rss" text="Geek Culture" title="Geek Culture" xmlUrl="https://geekculture.co/feed/" />
+    <outline type="rss" text="gizmodo.com" title="gizmodo.com" xmlUrl="https://gizmodo.com/rss" />
+    <outline type="rss" text="gizmodo.com" title="gizmodo.com" xmlUrl="https://gizmodo.com/tag/science/rss" />
+    <outline type="rss" text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" />
+    <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="https://news.ycombinator.com/rss" />
+    <outline type="rss" text="HardwareZone" title="HardwareZone" xmlUrl="https://www.hardwarezone.com.sg/_plat/api/rss/all.xml" />
+    <outline type="rss" text="HardwareZone" title="HardwareZone" xmlUrl="https://www.hardwarezone.com.sg/_plat/api/rss/features.xml" />
+    <outline type="rss" text="HardwareZone" title="HardwareZone" xmlUrl="https://www.hardwarezone.com.sg/_plat/api/rss/news.xml" />
+    <outline type="rss" text="HardwareZone" title="HardwareZone" xmlUrl="https://www.hardwarezone.com.sg/_plat/api/rss/gaming.xml" />
+    <outline type="rss" text="HardwareZone" title="HardwareZone" xmlUrl="https://www.hardwarezone.com.sg/_plat/api/rss/tv.xml" />
+    <outline type="rss" text="Hongkiat" title="Hongkiat" xmlUrl="https://www.hongkiat.com/blog/feed/" />
+    <outline type="rss" text="Hongkiat" title="Hongkiat" xmlUrl="https://www.hongkiat.com/blog/web-stories/feed/" />
+    <outline type="rss" text="Hybrid" title="Hybrid" xmlUrl="https://hybrid.co.id/feed/" />
+    <outline type="rss" text="Jagat Review" title="Jagat Review" xmlUrl="https://www.jagatreview.com/feed/" />
+    <outline type="rss" text="Lifehacker" title="Lifehacker" xmlUrl="https://lifehacker.com/rss" />
+    <outline type="rss" text="Line25" title="Line25" xmlUrl="https://line25.com/feed/" />
+    <outline type="rss" text="MacStories" title="MacStories" xmlUrl="https://www.macstories.net/feed" />
+    <outline type="rss" text="Macworld" title="Macworld" xmlUrl="https://www.macworld.com/index.rss" />
+    <outline type="rss" text="Marco.org" title="Marco.org" xmlUrl="https://marco.org/rss" />
+    <outline type="rss" text="NN/g latest articles and announcements" title="NN/g latest articles and announcements" xmlUrl="https://www.nngroup.com/feed/rss/" />
+    <outline type="rss" text="NXT" title="NXT" xmlUrl="https://nxtmag.tech/feed/" />
+    <outline type="rss" text="Platformer" title="Platformer" xmlUrl="https://www.platformer.news/rss/" />
+    <outline type="rss" text="ReadWrite" title="ReadWrite" xmlUrl="https://readwrite.com/feed/" />
+    <outline type="rss" text="Reply All" title="Reply All" xmlUrl="https://feeds.megaphone.fm/replyall" />
+    <outline type="rss" text="Rest of World" title="Rest of World" xmlUrl="https://restofworld.org/feed/latest" />
+    <outline type="rss" text="Rocket" title="Rocket" xmlUrl="https://www.relay.fm/rocket/feed" />
+    <outline type="rss" text="Six Colors" title="Six Colors" xmlUrl="https://sixcolors.com/feed/json/" />
+    <outline type="rss" text="Speckyboy" title="Speckyboy" xmlUrl="https://speckyboy.com/feed/" />
+    <outline type="rss" text="Techgoondu" title="Techgoondu" xmlUrl="https://www.techgoondu.com/feed/" />
+    <outline type="rss" text="TechnoBaboy" title="TechnoBaboy" xmlUrl="https://www.technobaboy.com/feed/" />
+    <outline type="rss" text="The Loop" title="The Loop" xmlUrl="https://www.loopinsight.com/feed" />
+    <outline type="rss" text="The Markup" title="The Markup" xmlUrl="https://themarkup.org/feeds/rss.xml" />
+    <outline type="rss" text="The Verge" title="The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" />
+    <outline type="rss" text="UX Collective - Medium" title="UX Collective - Medium" xmlUrl="https://uxdesign.cc/feed" />
+    <outline type="rss" text="UX Design Weekly" title="UX Design Weekly" xmlUrl="https://uxdesignweekly.com/feed/" />
+    <outline type="rss" text="UX Movement" title="UX Movement" xmlUrl="https://uxmovement.com/feed/" />
+    <outline type="rss" text="Vulcan Post" title="Vulcan Post" xmlUrl="https://vulcanpost.com/feed/" />
+    <outline type="rss" text="Web Design Ledger" title="Web Design Ledger" xmlUrl="https://webdesignledger.com/feed/" />
+    <outline type="rss" text="Webdesigner Depot" title="Webdesigner Depot" xmlUrl="https://webdesignerdepot.com/feed/" />
+    <outline type="rss" text="Yangcanggih" title="Yangcanggih" xmlUrl="https://www.yangcanggih.com/feed/" />
+  </body>
+</opml>

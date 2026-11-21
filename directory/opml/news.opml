@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · News</title>
+  </head>
+  <body>
+    <outline type="rss" text="NewsData.io" title="NewsData.io" xmlUrl="https://newsdata.io/blog/comments/feed/" />
+    <outline type="rss" text="NewsData.io" title="NewsData.io" xmlUrl="https://newsdata.io/blog/feed/" />
+  </body>
+</opml>

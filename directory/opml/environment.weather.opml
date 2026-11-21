@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>nws.broker · Weather</title>
+  </head>
+  <body>
+    <outline type="rss" text="INMET weather alerts" title="INMET weather alerts" xmlUrl="https://apiprevmet3.inmet.gov.br/avisos/rss" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/xml/HSFEP3.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/audio/podcast-sp.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/audio/podcast.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/gis-at.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/gis-ep.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/gtwo.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/index-at-sp.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/index-at.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/index-cp.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/index-ep.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/nhc_at1.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/nhc_at2.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/nhc_at3.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/nhc_at4.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/nhc_at5.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/nhc_cp1.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/nhc_cp2.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/nhc_cp3.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/nhc_cp4.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/nhc_cp5.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/nhc_ep1.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/nhc_ep2.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/nhc_ep3.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/nhc_ep4.xml" />
+    <outline type="rss" text="NOAA National Hurricane Center and Central Pacific Hurricane Center" title="NOAA National Hurricane Center and Central Pacific Hurricane Center" xmlUrl="https://www.nhc.noaa.gov/nhc_ep5.xml" />
+    <outline type="rss" text="US National Weather Service API" title="US National Weather Service API" xmlUrl="https://www.weather.gov/rss_page.php?site_name=abr" />
+    <outline type="rss" text="US National Weather Service API" title="US National Weather Service API" xmlUrl="https://www.weather.gov/rss_page.php?site_name=dmx" />
+    <outline type="rss" text="US National Weather Service API" title="US National Weather Service API" xmlUrl="https://www.weather.gov/rss_page.php?site_name=lot" />
+    <outline type="rss" text="US National Weather Service API" title="US National Weather Service API" xmlUrl="https://www.weather.gov/rss_page.php?site_name=mpx" />
+    <outline type="rss" text="US National Weather Service API" title="US National Weather Service API" xmlUrl="https://www.weather.gov/rss_page.php?site_name=nws" />
+    <outline type="rss" text="US National Weather Service API" title="US National Weather Service API" xmlUrl="https://www.weather.gov/source/tsa/rss/xml/LSR/LSR.xml" />
+  </body>
+</opml>
