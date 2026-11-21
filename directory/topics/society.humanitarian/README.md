@@ -2,19 +2,20 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/society.humanitarian.opml)
 
-222 endpoint records.
+232 endpoint records.
 
-## Verified (34)
+## Verified (43)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–34](verified-001.md) · Famine Early Warning Systems Network to Woonzaak housing-rights publication
+- [1–43](verified-001.md) · Albanian Helsinki Committee to Woonzaak housing-rights publication
 
-## Needs review (150)
+## Needs review (151)
 
 The record needs follow-up, for example on access, format, or parsing.
 
-- [1–150](needs_review-001.md) · Famine Early Warning Systems Network to UN news outlets
+- [1–150](needs_review-001.md) · Espacio Público to UN news outlets
+- [151–151](needs_review-002.md) · UN news outlets to UN news outlets
 
 ## Unavailable (38)
 

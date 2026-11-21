@@ -3,5 +3,98 @@
   <head>
     <title>nws.broker · Patents</title>
   </head>
-  <body />
+  <body>
+    <outline type="rss" text="IP5 — Five Intellectual Property Offices" title="IP5 — Five Intellectual Property Offices" xmlUrl="https://link.epo.org/ip5/news_rss.xml" />
+    <outline type="rss" text="Organisation Africaine de la Propriété Intellectuelle — brevets" title="Organisation Africaine de la Propriété Intellectuelle — brevets" xmlUrl="https://oapi.int/category/bopi/brevets/feed/" />
+    <outline type="rss" text="Patently-O" title="Patently-O" xmlUrl="https://patentlyo.com/feed" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/blog/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/samsung/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/google/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/sony/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/apple/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/microsoft/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/nvidia/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/qualcomm/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/ibm/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/adobe/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/intel/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/meta/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/amd/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/amazon/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/salesforce/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/disney/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/tesla/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/openai/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/ai-ml/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/hardware/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/software/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/display-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/ar-vr/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/chip-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/networking/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/cell-phone-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/enterprise-ai-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/ai-agent-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/language-ai-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/automotive/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/security/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/ai-vision-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/ai-training-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/camera-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/robotics-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/ai-image-video-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/voice-ai-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/ai-simulation-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/energy/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/wearable-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/audio-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/ai-recommendation-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/sensor-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/input-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/ai-safety-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/memory-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/quantum-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/antenna-patents/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/biotech/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/other/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/the-ar-glasses-race/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/the-ai-chip-wars/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/the-self-driving-sensing-race/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/the-ai-photo-editing-race/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/the-ai-guardrails-race/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/ai-agents-that-act-for-you/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/the-on-device-ai-privacy-push/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/ai-models-that-work-in-teams/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/sonys-playstation-playbook/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/samsungs-camera-sensor-push/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/the-gpu-rendering-race/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/ai-assistants-that-remember-you/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/samsungs-display-technology/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/apples-ar-glasses/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/the-foldable-phone-race/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/wearables-that-read-your-body/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/samsungs-foldable-phones/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/samsungs-5g-and-network-push/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/metas-smart-glasses/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/teaching-robots-to-grasp-and-move/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/waymos-robotaxi-senses/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/googles-smart-glasses-display/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/samsungs-home-robots/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/apples-eye-and-hand-controls/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/adobes-controllable-ai-images/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/samsungs-next-generation-ssds/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/apples-device-to-device-handoff/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/nvidias-text-to-3d-characters/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/ibms-quantum-computing-buildout/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/metas-muscle-reading-wristband/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/apples-health-sensors/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/alexa-learns-to-act/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/teslas-camera-only-bet/feed/" />
+    <outline type="rss" text="Patentlyze" title="Patentlyze" xmlUrl="https://patentlyze.com/watchlist/apples-foldable-iphone/feed/" />
+    <outline type="rss" text="Spanish Patent and Trademark Office — inventions" title="Spanish Patent and Trademark Office — inventions" xmlUrl="https://www.oepm.es/es/rssDef/Noticias/RSS_145_noticiasInvenciones.xml" />
+    <outline type="rss" text="Spanish Patent and Trademark Office — inventions" title="Spanish Patent and Trademark Office — inventions" xmlUrl="https://www.oepm.es/es/rssDef/Eventos/RSS_110_eventosInvenciones.xml" />
+    <outline type="rss" text="Taiwan Intellectual Property Office" title="Taiwan Intellectual Property Office" xmlUrl="https://www.tipo.gov.tw/tw/tipo1/890-RSS.html" />
+  </body>
 </opml>

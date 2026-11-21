@@ -3,5 +3,16 @@
   <head>
     <title>nws.broker · Procurement and public spending</title>
   </head>
-  <body />
+  <body>
+    <outline type="rss" text="Agencia Nacional de Contratación Pública" title="Agencia Nacional de Contratación Pública" xmlUrl="https://www.colombiacompra.gov.co/feed" />
+    <outline type="rss" text="ChileCompra" title="ChileCompra" xmlUrl="https://www.chilecompra.cl/category/noticias/destacados/feed/" />
+    <outline type="rss" text="Government of Lesotho — tenders" title="Government of Lesotho — tenders" xmlUrl="https://www.gov.ls/category/tenders/feed/" />
+    <outline type="rss" text="Hong Kong EMSD — tender notices" title="Hong Kong EMSD — tender notices" xmlUrl="https://www.emsd.gov.hk/filemanager/tendernotice/en/tender_notices.xml" />
+    <outline type="rss" text="Hong Kong EMSD — tender notices" title="Hong Kong EMSD — tender notices" xmlUrl="https://www.emsd.gov.hk/filemanager/tendernotice/en/consultancy.xml" />
+    <outline type="rss" text="Municipality of Roca Sales" title="Municipality of Roca Sales" xmlUrl="https://rocasales.rs.gov.br/feed/licitacoes.xml" />
+    <outline type="rss" text="Organisation Africaine de la Propriété Intellectuelle — appels d’offres" title="Organisation Africaine de la Propriété Intellectuelle — appels d’offres" xmlUrl="https://oapi.int/category/appels-d-offres/feed/" />
+    <outline type="rss" text="Préfecture de Saint-Pierre-et-Miquelon" title="Préfecture de Saint-Pierre-et-Miquelon" xmlUrl="https://www.saint-pierre-et-miquelon.gouv.fr/syndication/flux/Marches_Publics" />
+    <outline type="rss" text="Public Procurement Authority Ghana" title="Public Procurement Authority Ghana" xmlUrl="https://ppa.gov.gh/feed/" />
+    <outline type="rss" text="Tenders Electronic Daily" title="Tenders Electronic Daily" xmlUrl="https://ted.europa.eu/en/simap/rss-feed/-/rss/generate?query=%28classification-cpv+IN+%28ener%29%29&amp;title=TED&amp;description=TED+%7C+Energy+and+Related+Services+%7C+%3A-++%7C+EN&amp;fields=publication-date%2C+deadline-receipt-request%2C+notice-type&amp;language=EN&amp;scope=&amp;limit=" />
+  </body>
 </opml>

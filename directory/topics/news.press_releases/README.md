@@ -2,19 +2,19 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/news.press_releases.opml)
 
-62 endpoint records.
+117 endpoint records.
 
-## Verified (17)
+## Verified (62)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–17](verified-001.md) · PR Newswire to PR Newswire
+- [1–62](verified-001.md) · Agencia IP to WIPO — intellectual property news
 
-## Needs review (23)
+## Needs review (33)
 
 The record needs follow-up, for example on access, format, or parsing.
 
-- [1–23](needs_review-001.md) · EurekAlert to GlobeNewswire
+- [1–33](needs_review-001.md) · Austrian Federal Ministry of Agriculture, Forestry, Climate and Environmental Protection, Regions and Water Management to Press Information Bureau — India
 
 ## Unavailable (22)
 

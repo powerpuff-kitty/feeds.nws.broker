@@ -2,22 +2,23 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/news.agencies.opml)
 
-94 endpoint records.
+191 endpoint records.
 
-## Verified (77)
+## Verified (166)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–77](verified-001.md) · Agence France-Presse to ANTARA Mataram / NTB
+- [1–150](verified-001.md) · Agence Djiboutienne d’Information to Prensa Latina
+- [151–166](verified-002.md) · Rador Press Agency to Yonhap News Agency
 
-## Needs review (5)
+## Needs review (11)
 
 The record needs follow-up, for example on access, format, or parsing.
 
-- [1–5](needs_review-001.md) · Reuters Connect / delivery integrations to Reuters Connect / delivery integrations
+- [1–11](needs_review-001.md) · Agence de Presse Sénégalaise to Xinhua
 
-## Unavailable (12)
+## Unavailable (14)
 
 The endpoint was unavailable at the recorded check.
 
-- [1–12](unavailable-001.md) · ANTARA Mataram / NTB to Reuters Connect / delivery integrations
+- [1–14](unavailable-001.md) · ANTARA Mataram / NTB to Reuters Connect / delivery integrations

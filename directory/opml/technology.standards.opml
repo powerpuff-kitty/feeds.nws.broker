@@ -4,10 +4,21 @@
     <title>nws.broker · Technical standards</title>
   </head>
   <body>
+    <outline type="rss" text="DIN — German standards" title="DIN — German standards" xmlUrl="https://www.din.de/service/rss/din-en/67544/feed.rss" />
+    <outline type="rss" text="DIN — German standards" title="DIN — German standards" xmlUrl="https://www.din.de/en/getting-involved/standards-committees/fsf/75716!w3l-search-rss.xml" />
+    <outline type="rss" text="DIN — German standards" title="DIN — German standards" xmlUrl="https://www.din.de/en/getting-involved/standards-committees/nabau/62224!w3l-search-rss.xml" />
+    <outline type="rss" text="DIN — German standards" title="DIN — German standards" xmlUrl="https://www.din.de/en/getting-involved/standards-committees/nagln/70326!w3l-search-rss.xml" />
+    <outline type="rss" text="DIN — German standards" title="DIN — German standards" xmlUrl="https://www.din.de/en/getting-involved/standards-committees/naw/70350!w3l-search-rss.xml" />
+    <outline type="rss" text="DIN — German standards" title="DIN — German standards" xmlUrl="https://www.din.de/en/getting-involved/standards-committees/ne/61716!w3l-search-rss.xml" />
+    <outline type="rss" text="DIN — German standards" title="DIN — German standards" xmlUrl="https://www.din.de/en/getting-involved/standards-committees/nhm/77666!w3l-search-rss.xml" />
+    <outline type="rss" text="DIN — German standards" title="DIN — German standards" xmlUrl="https://www.din.de/en/getting-involved/standards-committees/nl/77372!w3l-search-rss.xml" />
+    <outline type="rss" text="DIN — German standards" title="DIN — German standards" xmlUrl="https://www.din.de/en/getting-involved/standards-committees/nqsz/77180!w3l-search-rss.xml" />
     <outline type="rss" text="IETF Datatracker" title="IETF Datatracker" xmlUrl="https://datatracker.ietf.org/feed/document-changes/draft-mcguinness-oauth-mission/" />
     <outline type="rss" text="IETF Datatracker" title="IETF Datatracker" xmlUrl="https://datatracker.ietf.org/feed/document-changes/draft-rasmussen-acme-wif/" />
     <outline type="rss" text="IETF Datatracker" title="IETF Datatracker" xmlUrl="https://datatracker.ietf.org/feed/document-changes/rfc1436/" />
     <outline type="rss" text="IETF Datatracker" title="IETF Datatracker" xmlUrl="https://datatracker.ietf.org/feed/document-changes/rfc8628/" />
+    <outline type="rss" text="National Authority for Management and Regulation in Communications (ANCOM)" title="National Authority for Management and Regulation in Communications (ANCOM)" xmlUrl="https://www.ancom.ro/feed/" />
+    <outline type="rss" text="National Institute of Standards and Technology" title="National Institute of Standards and Technology" xmlUrl="https://www.nist.gov/news-events/standards/rss.xml" />
     <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/Style/CSS/Overview.rss" />
     <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/WAI/feed.xml" />
     <outline type="rss" text="W3C news and specifications" title="W3C news and specifications" xmlUrl="https://www.w3.org/blog/feed/" />

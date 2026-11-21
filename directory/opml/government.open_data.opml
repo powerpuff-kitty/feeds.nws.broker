@@ -5,9 +5,25 @@
   </head>
   <body>
     <outline type="rss" text="Belgian federal data portal" title="Belgian federal data portal" xmlUrl="https://data.gov.be/en/rss.xml" />
+    <outline type="rss" text="Brunei Department of Economic Planning and Statistics" title="Brunei Department of Economic Planning and Statistics" xmlUrl="https://www.deps.gov.bn/feed/" />
+    <outline type="rss" text="Civio" title="Civio" xmlUrl="https://civio.es/feed.xml" />
+    <outline type="rss" text="Cook Islands Ministry of Finance &amp; Economic Management" title="Cook Islands Ministry of Finance &amp; Economic Management" xmlUrl="https://www.mfem.gov.ck/blog-feed.xml" />
+    <outline type="rss" text="Data.gouv.fr data catalogue" title="Data.gouv.fr data catalogue" xmlUrl="https://www.data.gouv.fr/datasets/recent.atom" />
+    <outline type="rss" text="Dataphyte" title="Dataphyte" xmlUrl="https://www.dataphyte.com/rss.xml" />
     <outline type="rss" text="datos.gob.es API / SPARQL" title="datos.gob.es API / SPARQL" xmlUrl="https://datos.gob.es/ca/rss-blog.xml" />
     <outline type="rss" text="datos.gob.es API / SPARQL" title="datos.gob.es API / SPARQL" xmlUrl="https://datos.gob.es/es/rss-blog.xml" />
     <outline type="rss" text="datos.gob.es API / SPARQL" title="datos.gob.es API / SPARQL" xmlUrl="https://datos.gob.es/es/rss-noticias.xml" />
     <outline type="rss" text="Flemish Heritage Inventory publication feed" title="Flemish Heritage Inventory publication feed" xmlUrl="https://inventaris.onroerenderfgoed.be/erfgoedobjecten/recent/rss" />
+    <outline type="rss" text="FSM Statistics" title="FSM Statistics" xmlUrl="https://stats.gov.fm/feed/" />
+    <outline type="rss" text="Hong Kong Open Data Portal" title="Hong Kong Open Data Portal" xmlUrl="https://data.gov.hk/filestore/feeds/data_rss_tc.xml" />
+    <outline type="rss" text="Korea Ministry of Data and Statistics" title="Korea Ministry of Data and Statistics" xmlUrl="https://mods.go.kr/board.es?mid=a10301010000&amp;bid=a103010100&amp;act=rss" />
+    <outline type="rss" text="Korea Ministry of Data and Statistics" title="Korea Ministry of Data and Statistics" xmlUrl="https://mods.go.kr/board.es?mid=a10304010000&amp;bid=a103040100&amp;act=rss" />
+    <outline type="rss" text="Open Development Cambodia" title="Open Development Cambodia" xmlUrl="https://opendevelopmentcambodia.net/feed/" />
+    <outline type="rss" text="Open Government Canada" title="Open Government Canada" xmlUrl="https://open.canada.ca/data/en/feeds/dataset.atom" />
+    <outline type="rss" text="Samoa Bureau of Statistics" title="Samoa Bureau of Statistics" xmlUrl="https://www.sbs.gov.ws/feed/" />
+    <outline type="rss" text="Statistical Office in Wrocław" title="Statistical Office in Wrocław" xmlUrl="https://wroclaw.stat.gov.pl/rss/pl/wroclaw.xml" />
+    <outline type="rss" text="Swedish Meteorological and Hydrological Institute" title="Swedish Meteorological and Hydrological Institute" xmlUrl="https://www.smhi.se/rss/uppdateringar-oppna-data-fran-smhi" />
+    <outline type="rss" text="Tonga Statistics Department" title="Tonga Statistics Department" xmlUrl="https://tongastats.gov.to/feed/" />
+    <outline type="rss" text="Vietnam Ministry of Science and Technology" title="Vietnam Ministry of Science and Technology" xmlUrl="https://mst.gov.vn/rss/so-lieu-thong-ke/khoa-hoc-va-cong-nghe.rss" />
   </body>
 </opml>

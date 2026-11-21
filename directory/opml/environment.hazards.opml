@@ -4,6 +4,8 @@
     <title>nws.broker · Natural hazards</title>
   </head>
   <body>
+    <outline type="rss" text="CONRED" title="CONRED" xmlUrl="https://conred.gob.gt/feed/" />
+    <outline type="rss" text="Direction Générale de la Protection Civile Haiti" title="Direction Générale de la Protection Civile Haiti" xmlUrl="https://www.protectioncivile.gouv.ht/blog-feed.xml" />
     <outline type="rss" text="GDACS feed reference" title="GDACS feed reference" xmlUrl="https://gdacs.org/xml/rss.xml" />
     <outline type="rss" text="GDACS feed reference" title="GDACS feed reference" xmlUrl="https://www.gdacs.org/XML/RSS.xml" />
     <outline type="rss" text="GDACS feed reference" title="GDACS feed reference" xmlUrl="https://www.gdacs.org/xml/rss.xml" />
@@ -11,8 +13,16 @@
     <outline type="rss" text="GDACS feed reference" title="GDACS feed reference" xmlUrl="https://gdacs.org/xml/rss_7d.xml" />
     <outline type="rss" text="GDACS feed reference" title="GDACS feed reference" xmlUrl="https://gdacs.org/xml/rss_eq_24h.xml" />
     <outline type="rss" text="GDACS feed reference" title="GDACS feed reference" xmlUrl="https://gdacs.org/xml/rss_fl_7d.xml" />
+    <outline type="rss" text="GeoNet" title="GeoNet" xmlUrl="https://api.geonet.org.nz/cap/1.2/GPA1.0/feed/atom1.0/quake" />
+    <outline type="rss" text="Japan Meteorological Agency" title="Japan Meteorological Agency" xmlUrl="https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml" />
+    <outline type="rss" text="Meteorological Service Singapore" title="Meteorological Service Singapore" xmlUrl="https://www.weather.gov.sg/files/rss/rsscapalert/rsscapalert.xml" />
+    <outline type="rss" text="Montserrat Volcano Observatory" title="Montserrat Volcano Observatory" xmlUrl="https://www.mvo.ms/feed/" />
+    <outline type="rss" text="National Emergency Management Organisation Saint Vincent and the Grenadines" title="National Emergency Management Organisation Saint Vincent and the Grenadines" xmlUrl="https://nemo.gov.vc/nemo/index.php?format=feed&amp;type=rss" />
     <outline type="rss" text="Natural Resources Canada feed directory" title="Natural Resources Canada feed directory" xmlUrl="https://natural-resources.canada.ca/science-data/science-research/geomatics/geospatial-news/rss.xml" />
     <outline type="rss" text="Natural Resources Canada feed directory" title="Natural Resources Canada feed directory" xmlUrl="https://ostr-backend-prod.azure.cloud.nrcan-rncan.gc.ca/server/opensearch/search?format=rss&amp;rpp=50" />
+    <outline type="rss" text="OVSICORI-UNA" title="OVSICORI-UNA" xmlUrl="https://www.ovsicori.una.ac.cr/index.php?format=feed&amp;type=rss" />
+    <outline type="rss" text="Royal Netherlands Meteorological Institute" title="Royal Netherlands Meteorological Institute" xmlUrl="https://rdsa.knmi.nl/abcws/event/query?format=rss&amp;limit=30" />
+    <outline type="rss" text="Sistema Nacional de Protección Civil Panamá" title="Sistema Nacional de Protección Civil Panamá" xmlUrl="https://www.sinaproc.gob.pa/feed/" />
     <outline type="rss" text="USGS earthquake feeds" title="USGS earthquake feeds" xmlUrl="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_hour.atom" />
     <outline type="rss" text="USGS earthquake feeds" title="USGS earthquake feeds" xmlUrl="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom" />
     <outline type="rss" text="USGS earthquake feeds" title="USGS earthquake feeds" xmlUrl="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_hour.atom" />

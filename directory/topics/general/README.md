@@ -2,7 +2,7 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/general.opml)
 
-19,795 endpoint records.
+19,797 endpoint records.
 
 ## Verified (4,838)
 
@@ -132,7 +132,7 @@ A source or directory advertised the endpoint. Verification is pending.
 - [12,451–12,600](advertised-084.md) · www.wearegreenbay.com to www.youtube.com
 - [12,601–12,713](advertised-085.md) · www.youtube.com to производства.рф
 
-## Needs review (1,843)
+## Needs review (1,845)
 
 The record needs follow-up, for example on access, format, or parsing.
 
@@ -140,15 +140,15 @@ The record needs follow-up, for example on access, format, or parsing.
 - [151–300](needs_review-002.md) · blog.europepmc.org to cmdctrlpwr.libsyn.com
 - [301–450](needs_review-003.md) · coloradonewsline.com to floridagators.com
 - [451–600](needs_review-004.md) · focus-wtv.be to nationalinterest.org
-- [601–750](needs_review-005.md) · nationalparkstraveler.libsyn.com to qna.org.qa
-- [751–900](needs_review-006.md) · qsrweb.com to Release notes from tensorflow
-- [901–1,050](needs_review-007.md) · Release notes from uhd to t24.com.tr
-- [1,051–1,200](needs_review-008.md) · tagblatt.ch to unionnewsdaily.com
-- [1,201–1,350](needs_review-009.md) · universitytimes.ie to www.autohebdo.fr
-- [1,351–1,500](needs_review-010.md) · www.ayandon.com.tr to www.gazetadecarasseverin.ro
-- [1,501–1,650](needs_review-011.md) · www.gazetepencere.com to www.mymcmedia.org
-- [1,651–1,800](needs_review-012.md) · www.nanaimobulletin.com to www.varmatin.com
-- [1,801–1,843](needs_review-013.md) · www.velonews.com to 明天的乌云
+- [601–750](needs_review-005.md) · nationalparkstraveler.libsyn.com to qingccl.github.io
+- [751–900](needs_review-006.md) · qna.org.qa to Release notes from stylus
+- [901–1,050](needs_review-007.md) · Release notes from tensorflow to szbz.de
+- [1,051–1,200](needs_review-008.md) · t24.com.tr to unewsonline.com
+- [1,201–1,350](needs_review-009.md) · unionnewsdaily.com to www.australianjewishnews.com
+- [1,351–1,500](needs_review-010.md) · www.autodesk.com to www.fu-berlin.de
+- [1,501–1,650](needs_review-011.md) · www.gazetadambovitei.ro to www.myfoxzone.com
+- [1,651–1,800](needs_review-012.md) · www.mylondon.news to www.usatoday.com
+- [1,801–1,845](needs_review-013.md) · www.vanguardngr.com to 明天的乌云
 
 ## Unavailable (401)
 

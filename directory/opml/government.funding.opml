@@ -4,6 +4,7 @@
     <title>nws.broker · Grants and funding</title>
   </head>
   <body>
+    <outline type="rss" text="Office of the Republic of Slovenia for Recovery and Resilience" title="Office of the Republic of Slovenia for Recovery and Resilience" xmlUrl="https://www.gov.si/novice/rss/?orgID%5B0%5D=3447" />
     <outline type="rss" text="UK Research and Innovation" title="UK Research and Innovation" xmlUrl="https://www.ukri.org/blog/feed/" />
     <outline type="rss" text="UK Research and Innovation" title="UK Research and Innovation" xmlUrl="https://www.ukri.org/news/feed/" />
     <outline type="rss" text="UK Research and Innovation" title="UK Research and Innovation" xmlUrl="https://www.ukri.org/opportunity/feed/" />

@@ -182,6 +182,8 @@
     <outline type="rss" text="Planetary Research community blog feeds" title="Planetary Research community blog feeds" xmlUrl="https://blog.planetary-research.org/category/commentary/feed" />
     <outline type="rss" text="Planetary Research community blog feeds" title="Planetary Research community blog feeds" xmlUrl="https://blog.planetary-research.org/category/planetary-research/feed" />
     <outline type="rss" text="Planetary Research community blog feeds" title="Planetary Research community blog feeds" xmlUrl="https://blog.planetary-research.org/category/blog/feed" />
+    <outline type="rss" text="Polish Space Agency" title="Polish Space Agency" xmlUrl="https://polsa.gov.pl/feed/" />
+    <outline type="rss" text="Portuguese Space Agency" title="Portuguese Space Agency" xmlUrl="https://ptspace.pt/feed/" />
     <outline type="rss" text="Royal Astronomical Society of Canada eNews feed" title="Royal Astronomical Society of Canada eNews feed" xmlUrl="https://www.rasc.ca/rasc-enews-feed" />
     <outline type="rss" text="Space Explored publication feeds" title="Space Explored publication feeds" xmlUrl="https://spaceexplored.com/feed/" />
     <outline type="rss" text="Space Explored publication feeds" title="Space Explored publication feeds" xmlUrl="https://spaceexplored.com/comments/feed/" />
@@ -196,6 +198,7 @@
     <outline type="rss" text="StarDate Online publication and podcast feeds" title="StarDate Online publication and podcast feeds" xmlUrl="https://stardate.org/feed/podcast" />
     <outline type="rss" text="The Planetary Society articles and Planetary Radio feeds" title="The Planetary Society articles and Planetary Radio feeds" xmlUrl="https://www.planetary.org/rss/articles" />
     <outline type="rss" text="TMT International Observatory project-news feeds" title="TMT International Observatory project-news feeds" xmlUrl="https://www.tmt.org/news.rss" />
+    <outline type="rss" text="UK Space Agency" title="UK Space Agency" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=uk-space-agency" />
     <outline type="rss" text="Universe Awareness programme and Space Scoop feeds" title="Universe Awareness programme and Space Scoop feeds" xmlUrl="https://www.unawe.org/news/feed/" />
     <outline type="rss" text="Universe Awareness programme and Space Scoop feeds" title="Universe Awareness programme and Space Scoop feeds" xmlUrl="https://www.unawe.org/kids/feed/" />
     <outline type="rss" text="Universe Today astronomy publication feeds" title="Universe Today astronomy publication feeds" xmlUrl="https://www.universetoday.com/rss.xml" />

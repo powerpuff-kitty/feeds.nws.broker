@@ -2,19 +2,19 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/environment.weather.opml)
 
-52 endpoint records.
+77 endpoint records.
 
-## Verified (32)
+## Verified (51)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–32](verified-001.md) · INMET weather alerts to US National Weather Service API
+- [1–51](verified-001.md) · EUMETNET Meteoalarm to US National Weather Service API
 
-## Needs review (7)
+## Needs review (13)
 
 The record needs follow-up, for example on access, format, or parsing.
 
-- [1–7](needs_review-001.md) · Australian Bureau of Meteorology to Australian Bureau of Meteorology
+- [1–13](needs_review-001.md) · Australian Bureau of Meteorology to The Met Office — National Severe Weather Warnings
 
 ## Unavailable (13)
 

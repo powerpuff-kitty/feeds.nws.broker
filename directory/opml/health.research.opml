@@ -35,5 +35,8 @@
     <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/veterinary-medicine-new.xml" />
     <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/whats-new.xml" />
     <outline type="rss" text="European Medicines Agency" title="European Medicines Agency" xmlUrl="https://www.ema.europa.eu/en/withdrawn-applications.xml" />
+    <outline type="rss" text="Pakistan Journal of Medical Sciences" title="Pakistan Journal of Medical Sciences" xmlUrl="https://pjms.org.pk/index.php/pjms/gateway/plugin/WebFeedGatewayPlugin/rss2" />
+    <outline type="rss" text="Philippine Council for Health Research and Development" title="Philippine Council for Health Research and Development" xmlUrl="https://www.pchrd.dost.gov.ph/feed/" />
+    <outline type="rss" text="Turkish Journal of Medical Sciences" title="Turkish Journal of Medical Sciences" xmlUrl="https://journals.tubitak.gov.tr/medical/recent.rss" />
   </body>
 </opml>

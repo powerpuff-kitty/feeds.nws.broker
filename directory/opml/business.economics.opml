@@ -4,14 +4,37 @@
     <title>nws.broker · Economics and statistics</title>
   </head>
   <body>
+    <outline type="rss" text="Algemeen Bureau voor de Statistiek Suriname" title="Algemeen Bureau voor de Statistiek Suriname" xmlUrl="https://statistics-suriname.org/feed/" />
+    <outline type="rss" text="Algerie Invest" title="Algerie Invest" xmlUrl="https://www.algerieinvest.dz/feed/" />
+    <outline type="rss" text="Arab Times Kuwait" title="Arab Times Kuwait" xmlUrl="https://www.arabtimesonline.com/rssFeed/30/" />
+    <outline type="rss" text="Armbanks" title="Armbanks" xmlUrl="https://armbanks.am/en/category/economy-en/feed/" />
+    <outline type="rss" text="Ayna.az" title="Ayna.az" xmlUrl="https://www.ayna.az/rss/category/iqtisadiyyat" />
+    <outline type="rss" text="Banco Central de Bolivia" title="Banco Central de Bolivia" xmlUrl="https://www.bcb.gob.bo/?q=rss.xml" />
+    <outline type="rss" text="Bank of Jamaica" title="Bank of Jamaica" xmlUrl="https://boj.org.jm/feed/?feed=fxrates" />
+    <outline type="rss" text="Bank of Jamaica" title="Bank of Jamaica" xmlUrl="https://boj.org.jm/feed/" />
     <outline type="rss" text="Bank of Japan" title="Bank of Japan" xmlUrl="https://www.boj.or.jp/en/rss/statistics.xml" />
     <outline type="rss" text="Bank of Japan" title="Bank of Japan" xmlUrl="https://www.boj.or.jp/en/rss/whatsnew.xml" />
     <outline type="rss" text="Bank of Japan" title="Bank of Japan" xmlUrl="https://www.boj.or.jp/rss/statistics.xml" />
     <outline type="rss" text="Bank of Japan" title="Bank of Japan" xmlUrl="https://www.boj.or.jp/rss/whatsnew.xml" />
+    <outline type="rss" text="Bank of South Sudan" title="Bank of South Sudan" xmlUrl="https://boss.gov.ss/feed/" />
+    <outline type="rss" text="Banque Centrale du Congo" title="Banque Centrale du Congo" xmlUrl="https://www.bcc.cd/feed.xml" />
     <outline type="rss" text="BIS Data Portal" title="BIS Data Portal" xmlUrl="https://data.bis.org/feed.xml" />
+    <outline type="rss" text="Biz Bahrain" title="Biz Bahrain" xmlUrl="https://www.bizbahrain.com/feed/" />
+    <outline type="rss" text="Biz Brunei" title="Biz Brunei" xmlUrl="https://www.bizbrunei.com/feed/" />
     <outline type="rss" text="Breaking News on Seeking Alpha" title="Breaking News on Seeking Alpha" xmlUrl="https://seekingalpha.com/market_currents.xml" />
+    <outline type="rss" text="Burundi Eco" title="Burundi Eco" xmlUrl="https://burundi-eco.com/feed/" />
+    <outline type="rss" text="Business in Cameroon" title="Business in Cameroon" xmlUrl="https://www.businessincameroon.com/index.php/component/obrss/fullrss" />
+    <outline type="rss" text="Central Bank of Eswatini" title="Central Bank of Eswatini" xmlUrl="https://www.centralbank.org.sz/feed/" />
+    <outline type="rss" text="Central Bank of Ireland" title="Central Bank of Ireland" xmlUrl="https://www.centralbank.ie/feeds/markets-updates-feed" />
+    <outline type="rss" text="Central Bank of Jordan" title="Central Bank of Jordan" xmlUrl="https://www.cbj.gov.jo/RSSFeeds/RSSNewsEN.aspx" />
+    <outline type="rss" text="Central Bank of Libya" title="Central Bank of Libya" xmlUrl="https://cbl.gov.ly/feed/" />
+    <outline type="rss" text="Centre for Policy Dialogue — Bangladesh" title="Centre for Policy Dialogue — Bangladesh" xmlUrl="https://cpd.org.bd/feed/" />
+    <outline type="rss" text="Centro Regional de Estrategias Económicas Sostenibles" title="Centro Regional de Estrategias Económicas Sostenibles" xmlUrl="https://crees.org.do/?feed=rss2" />
     <outline type="rss" text="Conversable Economist" title="Conversable Economist" xmlUrl="https://conversableeconomist.com/feed/" />
+    <outline type="rss" text="Cuba y Economía" title="Cuba y Economía" xmlUrl="https://cubayeconomia.blogspot.com/feeds/posts/default?alt=rss" />
+    <outline type="rss" text="Economist.kg" title="Economist.kg" xmlUrl="https://economist.kg/rss/" />
     <outline type="rss" text="EconTalk" title="EconTalk" xmlUrl="https://feeds.simplecast.com/wgl4xEgL" />
+    <outline type="rss" text="EnterpriseAM — Egypt" title="EnterpriseAM — Egypt" xmlUrl="https://enterpriseam.com/egypt/feed/" />
     <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/blog.html" />
     <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-aud.html" />
     <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/fxref-bgn.html" />
@@ -57,8 +80,34 @@
     <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/wppub.html" />
     <outline type="rss" text="European Central Bank RSS / data services" title="European Central Bank RSS / data services" xmlUrl="https://www.ecb.europa.eu/rss/yc.html" />
     <outline type="rss" text="Eurostat catalogue RSS documentation" title="Eurostat catalogue RSS documentation" xmlUrl="https://ec.europa.eu/eurostat/api/dissemination/catalogue/rss/en/statistics-update.rss" />
+    <outline type="rss" text="EVN Report" title="EVN Report" xmlUrl="https://evnreport.com/arm/series-category/economy-arm/feed/" />
+    <outline type="rss" text="Expresso das Ilhas — Economia" title="Expresso das Ilhas — Economia" xmlUrl="https://expressodasilhas.cv/economia/rss" />
+    <outline type="rss" text="Financial Mirror" title="Financial Mirror" xmlUrl="https://www.financialmirror.com/category/cyprus/economy/feed/" />
+    <outline type="rss" text="Financial Mirror" title="Financial Mirror" xmlUrl="https://www.financialmirror.com/category/business/feed/" />
     <outline type="rss" text="Forbes - Business" title="Forbes - Business" xmlUrl="https://www.forbes.com/business/feed/" />
     <outline type="rss" text="Fortune | FORTUNE" title="Fortune | FORTUNE" xmlUrl="https://fortune.com/feed" />
+    <outline type="rss" text="France-Antilles Martinique" title="France-Antilles Martinique" xmlUrl="https://www.martinique.franceantilles.fr/actualite/economie/rss.xml" />
+    <outline type="rss" text="Gibraltar Federation of Small Businesses" title="Gibraltar Federation of Small Businesses" xmlUrl="https://gibraltarbusiness.gi/feed/" />
+    <outline type="rss" text="Grenada Central Statistical Office" title="Grenada Central Statistical Office" xmlUrl="https://stats.gov.gd/feed/" />
+    <outline type="rss" text="Guadeloupe France-Antilles" title="Guadeloupe France-Antilles" xmlUrl="https://www.guadeloupe.franceantilles.fr/actualite/economie/rss.xml" />
+    <outline type="rss" text="Guam Economic Development Authority" title="Guam Economic Development Authority" xmlUrl="https://www.investguam.com/feed/" />
+    <outline type="rss" text="Guernsey Financial Services Commission" title="Guernsey Financial Services Commission" xmlUrl="https://www.gfsc.gg/article.xml" />
+    <outline type="rss" text="Guernsey Financial Services Commission" title="Guernsey Financial Services Commission" xmlUrl="https://www.gfsc.gg/article.xml?tid=50,51" />
+    <outline type="rss" text="Guinea InfoMarket" title="Guinea InfoMarket" xmlUrl="https://www.guineainfomarket.com/noticias-economicas-y-oportunidades-de-inversion-en-guinea-ecuatorial-guineamarket/feed/" />
+    <outline type="rss" text="Haut-Commissariat au Plan" title="Haut-Commissariat au Plan" xmlUrl="https://www.hcp.ma/xml/syndication.rss" />
+    <outline type="rss" text="Institut national de la statistique et des études économiques et démographiques" title="Institut national de la statistique et des études économiques et démographiques" xmlUrl="https://inseed.tg/feed/" />
+    <outline type="rss" text="Instituto Nacional de Estadística" title="Instituto Nacional de Estadística" xmlUrl="https://ine.es/dyngs/Prensa/es/rssNovedades.xml" />
+    <outline type="rss" text="Instituto Nacional de Estadística Honduras" title="Instituto Nacional de Estadística Honduras" xmlUrl="https://ine.gob.hn/feed/" />
+    <outline type="rss" text="Istanbul Journal of Economics" title="Istanbul Journal of Economics" xmlUrl="https://dergipark.org.tr/en/pub/istjecon/rss/lastissue/en" />
+    <outline type="rss" text="Istat" title="Istat" xmlUrl="https://www.istat.it/feed/" />
+    <outline type="rss" text="İstanbul Chamber of Industry" title="İstanbul Chamber of Industry" xmlUrl="https://www.iso.org.tr/rss/haberler/" />
+    <outline type="rss" text="İstanbul Chamber of Industry" title="İstanbul Chamber of Industry" xmlUrl="https://www.iso.org.tr/rss/basin/basin-bultenleri/" />
+    <outline type="rss" text="Kenya National Bureau of Statistics" title="Kenya National Bureau of Statistics" xmlUrl="https://www.knbs.or.ke/feed/" />
+    <outline type="rss" text="Kiribati National Statistics Office" title="Kiribati National Statistics Office" xmlUrl="https://nso.gov.ki/feed/" />
+    <outline type="rss" text="Madagascar Tribune — Économie" title="Madagascar Tribune — Économie" xmlUrl="https://www.madagascar-tribune.com/spip.php?page=backend&amp;id_rubrique=5" />
+    <outline type="rss" text="Malawi24 — Business" title="Malawi24 — Business" xmlUrl="https://malawi24.com/business/feed/" />
+    <outline type="rss" text="Malta Business Weekly" title="Malta Business Weekly" xmlUrl="https://maltabusinessweekly.com/feed/" />
+    <outline type="rss" text="Mercado Angola" title="Mercado Angola" xmlUrl="https://mercado.co.ao/feed/" />
     <outline type="rss" text="National Bank of Belgium publication feeds" title="National Bank of Belgium publication feeds" xmlUrl="https://www.nbb.be/en/news_rss.xml" />
     <outline type="rss" text="National Bank of Belgium publication feeds" title="National Bank of Belgium publication feeds" xmlUrl="https://www.nbb.be/en/blog_rss.xml" />
     <outline type="rss" text="National Bank of Belgium publication feeds" title="National Bank of Belgium publication feeds" xmlUrl="https://www.nbb.be/en/publication_rss.xml" />
@@ -68,7 +117,27 @@
     <outline type="rss" text="National Bank of Belgium publication feeds" title="National Bank of Belgium publication feeds" xmlUrl="https://www.nbb.be/fr/news_rss.xml" />
     <outline type="rss" text="National Bank of Belgium publication feeds" title="National Bank of Belgium publication feeds" xmlUrl="https://www.nbb.be/fr/blog_rss.xml" />
     <outline type="rss" text="National Bank of Belgium publication feeds" title="National Bank of Belgium publication feeds" xmlUrl="https://www.nbb.be/fr/publication_rss.xml" />
+    <outline type="rss" text="National Bank of Kazakhstan" title="National Bank of Kazakhstan" xmlUrl="https://nationalbank.kz/rss_news_kazakh.xml" />
+    <outline type="rss" text="National Bank of Kazakhstan" title="National Bank of Kazakhstan" xmlUrl="https://nationalbank.kz/rss_news_russian.xml" />
+    <outline type="rss" text="National Bank of Kazakhstan" title="National Bank of Kazakhstan" xmlUrl="https://nationalbank.kz/rss_news_english.xml" />
+    <outline type="rss" text="National Bank of Kazakhstan" title="National Bank of Kazakhstan" xmlUrl="https://nationalbank.kz/rss/rates_all.xml" />
+    <outline type="rss" text="Người Lao Động" title="Người Lao Động" xmlUrl="https://tuoitre.vn/nld/rss/kinh-te.rss" />
+    <outline type="rss" text="Niue Statistics Office" title="Niue Statistics Office" xmlUrl="https://niuestatistics.nu/feed/" />
+    <outline type="rss" text="Observatorio Venezolano de Finanzas" title="Observatorio Venezolano de Finanzas" xmlUrl="https://observatoriodefinanzas.com/feed/" />
+    <outline type="rss" text="Panorama" title="Panorama" xmlUrl="https://panorama.ro/feed/" />
+    <outline type="rss" text="Portfolio.hu" title="Portfolio.hu" xmlUrl="https://www.portfolio.hu/rss/gazdasag.xml" />
+    <outline type="rss" text="Portfolio.hu" title="Portfolio.hu" xmlUrl="https://www.portfolio.hu/rss/unios-forrasok.xml" />
+    <outline type="rss" text="Portfolio.hu" title="Portfolio.hu" xmlUrl="https://www.portfolio.hu/en/rss/energy.xml" />
+    <outline type="rss" text="Radio Dabanga — Economy" title="Radio Dabanga — Economy" xmlUrl="https://www.dabangasudan.org/en/all-news/category/news/economy/feed" />
+    <outline type="rss" text="Rwanda Development Board" title="Rwanda Development Board" xmlUrl="https://rdb.rw/feed/" />
+    <outline type="rss" text="Saint Lucia Central Statistical Office" title="Saint Lucia Central Statistical Office" xmlUrl="https://stats.gov.lc/feed/" />
+    <outline type="rss" text="Saint-Pierre-et-Miquelon IEDOM" title="Saint-Pierre-et-Miquelon IEDOM" xmlUrl="https://www.iedom.fr/spip.php?page=backend&amp;id_rubrique=18" />
+    <outline type="rss" text="Service de la statistique et des études économiques de Wallis-et-Futuna" title="Service de la statistique et des études économiques de Wallis-et-Futuna" xmlUrl="https://www.statistique.wf/feed/" />
+    <outline type="rss" text="Spot.uz" title="Spot.uz" xmlUrl="https://www.spot.uz/en/rss/" />
+    <outline type="rss" text="State Statistical Office of North Macedonia" title="State Statistical Office of North Macedonia" xmlUrl="https://www.stat.gov.mk/RSS/RSS_EN.xml" />
+    <outline type="rss" text="Statistical Institute of Belize" title="Statistical Institute of Belize" xmlUrl="https://sib.org.bz/feed/" />
     <outline type="rss" text="Statistics Canada" title="Statistics Canada" xmlUrl="https://www150.statcan.gc.ca/n1/rss/dai-quo/32-eng.atom" />
+    <outline type="rss" text="Statistics Iceland" title="Statistics Iceland" xmlUrl="https://statice.is/rss/prices/" />
     <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/all-content" />
     <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/all-figures" />
     <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/en-gb/rss-feeds/all-news-items" />
@@ -125,7 +194,28 @@
     <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/veiligheid-en-recht" />
     <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/verkeer-en-vervoer" />
     <outline type="rss" text="Statistics Netherlands CBS" title="Statistics Netherlands CBS" xmlUrl="https://www.cbs.nl/nl-nl/rss-feeds/vrije-tijd-en-cultuur" />
+    <outline type="rss" text="Statistics Norway" title="Statistics Norway" xmlUrl="https://www.ssb.no/en/rss/" />
+    <outline type="rss" text="Statistics Norway" title="Statistics Norway" xmlUrl="https://www.ssb.no/en/rss/arbeid-og-lonn" />
+    <outline type="rss" text="Statistics Norway" title="Statistics Norway" xmlUrl="https://www.ssb.no/en/rss/statkal" />
+    <outline type="rss" text="Statistics Norway" title="Statistics Norway" xmlUrl="https://www.ssb.no/en/rss/statbank" />
+    <outline type="rss" text="Statistics Norway" title="Statistics Norway" xmlUrl="https://www.ssb.no/rss/" />
+    <outline type="rss" text="Statistics Norway" title="Statistics Norway" xmlUrl="https://www.ssb.no/en/rss/arbeid-og-lonn+kpi" />
+    <outline type="rss" text="Statistics Norway" title="Statistics Norway" xmlUrl="https://www.ssb.no/rss/arbeid-og-lonn" />
+    <outline type="rss" text="Statistics Norway" title="Statistics Norway" xmlUrl="https://www.ssb.no/rss/arbeid-og-lonn+kpi" />
+    <outline type="rss" text="Statistics Norway" title="Statistics Norway" xmlUrl="https://www.ssb.no/rss/statkal" />
+    <outline type="rss" text="Statistics Norway" title="Statistics Norway" xmlUrl="https://www.ssb.no/rss/statbank" />
+    <outline type="rss" text="Statistics Norway" title="Statistics Norway" xmlUrl="https://www.ssb.no/en/rss/statbank/ppi" />
+    <outline type="rss" text="Statistics Norway" title="Statistics Norway" xmlUrl="https://www.ssb.no/en/rss/statbank/ppi+kpi" />
+    <outline type="rss" text="Statistics Sweden" title="Statistics Sweden" xmlUrl="https://www.scb.se/feed/statistiknyheter" />
+    <outline type="rss" text="Statistisches Bundesamt" title="Statistisches Bundesamt" xmlUrl="https://www.destatis.de/Aktuelles.xml" />
+    <outline type="rss" text="Taiwan Directorate-General of Budget, Accounting and Statistics" title="Taiwan Directorate-General of Budget, Accounting and Statistics" xmlUrl="https://www.dgbas.gov.tw/OpenData.aspx?SN=0DA0FD2F5416554E&amp;isRssFeed=1" />
+    <outline type="rss" text="Tazabek" title="Tazabek" xmlUrl="https://www.tazabek.kg/rss/news.rss" />
+    <outline type="rss" text="Telenoche" title="Telenoche" xmlUrl="https://www.telenoche.com.uy/rss/pages/economia.xml" />
     <outline type="rss" text="The Blog of Author Tim Ferriss" title="The Blog of Author Tim Ferriss" xmlUrl="https://tim.blog/feed/" />
+    <outline type="rss" text="The Voice Botswana — business" title="The Voice Botswana — business" xmlUrl="https://thevoicebw.com/category/business/feed/" />
+    <outline type="rss" text="Trinidad and Tobago Central Statistical Office" title="Trinidad and Tobago Central Statistical Office" xmlUrl="https://cso.gov.tt/feed/" />
+    <outline type="rss" text="U.S. Virgin Islands Economic Development Authority" title="U.S. Virgin Islands Economic Development Authority" xmlUrl="https://usvieda.org/feed/" />
+    <outline type="rss" text="Uganda Bureau of Statistics" title="Uganda Bureau of Statistics" xmlUrl="https://www.ubos.org/feed/" />
     <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_OUTST.xml" />
     <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_OUTST_DTBSPCKA_N.WW.xml" />
     <outline type="rss" text="US Federal Reserve Board" title="US Federal Reserve Board" xmlUrl="https://www.federalreserve.gov/feeds/Data/CP_OUTST_DTBSPCKFD_N.WW.xml" />
@@ -259,5 +349,7 @@
     <outline type="rss" text="World Trade Organization news" title="World Trade Organization news" xmlUrl="https://www.wto.org/library/rss/latest_news_f.xml" />
     <outline type="rss" text="World Trade Organization news" title="World Trade Organization news" xmlUrl="https://www.wto.org/library/rss/latest_news_s.xml" />
     <outline type="rss" text="World Trade Organization news" title="World Trade Organization news" xmlUrl="https://www.wto.org/library/rss/podcasts_e.xml" />
+    <outline type="rss" text="Zambia Statistics Agency" title="Zambia Statistics Agency" xmlUrl="https://www.zamstats.gov.zm/feed/" />
+    <outline type="rss" text="Ålands landsbygdscentrum" title="Ålands landsbygdscentrum" xmlUrl="https://landsbygd.ax/feed/" />
   </body>
 </opml>

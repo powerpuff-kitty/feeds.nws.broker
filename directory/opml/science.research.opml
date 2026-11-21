@@ -4,16 +4,25 @@
     <title>nws.broker · Research publications</title>
   </head>
   <body>
+    <outline type="rss" text="Ancient Cyprus" title="Ancient Cyprus" xmlUrl="https://www.ancientcyprus.com/news/topic/research/feed.xml" />
+    <outline type="rss" text="Antarctic Research Trust" title="Antarctic Research Trust" xmlUrl="https://antarctic-research.de/wordpress2014/en/feed/" />
     <outline type="rss" text="arXiv RSS/Atom documentation / API manual" title="arXiv RSS/Atom documentation / API manual" xmlUrl="https://rss.arxiv.org/rss/cs" />
     <outline type="rss" text="Asian Scientist" title="Asian Scientist" xmlUrl="https://www.asianscientist.com/feed/" />
+    <outline type="rss" text="Australian Antarctic Program — News" title="Australian Antarctic Program — News" xmlUrl="https://www.antarctica.gov.au/news/rss/" />
+    <outline type="rss" text="Centro de Ciencia del Clima y la Resiliencia" title="Centro de Ciencia del Clima y la Resiliencia" xmlUrl="https://www.cr2.cl/feed/" />
     <outline type="rss" text="CRISP political-research publication feeds" title="CRISP political-research publication feeds" xmlUrl="https://www.crisp.be/fr/feed?id_category=0&amp;orderby=date_add&amp;orderway=desc" />
     <outline type="rss" text="CRISP political-research publication feeds" title="CRISP political-research publication feeds" xmlUrl="https://www.crisp.be/feed" />
     <outline type="rss" text="CRISP political-research publication feeds" title="CRISP political-research publication feeds" xmlUrl="https://www.crisp.be/fr/feed" />
+    <outline type="rss" text="Cyprus Institute" title="Cyprus Institute" xmlUrl="https://www.cyi.ac.cy/index.php?format=feed&amp;type=rss" />
     <outline type="rss" text="Flanders Hydraulics Research publication feeds" title="Flanders Hydraulics Research publication feeds" xmlUrl="https://expertplatform.waterbouwkundiglaboratorium.be/expert/imis.php?module=ref&amp;show=rss&amp;srchid=8947973" />
     <outline type="rss" text="Flanders Hydraulics Research publication feeds" title="Flanders Hydraulics Research publication feeds" xmlUrl="https://expertplatform.waterbouwkundiglaboratorium.be/expert/imis.php?module=ref&amp;show=rss&amp;srchid=8947967" />
     <outline type="rss" text="Flanders Hydraulics Research publication feeds" title="Flanders Hydraulics Research publication feeds" xmlUrl="https://expertplatform.waterbouwkundiglaboratorium.be/expert/imis.php?module=ref&amp;show=rss&amp;srchid=8947962" />
     <outline type="rss" text="Flanders Hydraulics Research publication feeds" title="Flanders Hydraulics Research publication feeds" xmlUrl="https://expertplatform.waterbouwkundiglaboratorium.be/expert/imis.php?module=ref&amp;show=rss&amp;srchid=8947993" />
     <outline type="rss" text="Flanders Hydraulics Research publication feeds" title="Flanders Hydraulics Research publication feeds" xmlUrl="https://expertplatform.waterbouwkundiglaboratorium.be/expert/imis.php?module=ref&amp;show=rss&amp;srchid=8947998" />
+    <outline type="rss" text="Fundação para a Ciência e a Tecnologia" title="Fundação para a Ciência e a Tecnologia" xmlUrl="https://www.fct.pt/media/noticias/feed/" />
+    <outline type="rss" text="Fundação para a Ciência e a Tecnologia" title="Fundação para a Ciência e a Tecnologia" xmlUrl="https://www.fct.pt/media/noticias/feed/?type=calendar_event" />
+    <outline type="rss" text="Fundação para a Ciência e a Tecnologia" title="Fundação para a Ciência e a Tecnologia" xmlUrl="https://www.fct.pt/media/noticias/feed/?type=science_in_focus" />
+    <outline type="rss" text="Gary G. Fletcher Chagos expedition field notes" title="Gary G. Fletcher Chagos expedition field notes" xmlUrl="https://garygfletcher.wordpress.com/category/chagos-expedition/feed/" />
     <outline type="rss" text="Ghent University Academic Bibliography feed service" title="Ghent University Academic Bibliography feed service" xmlUrl="https://biblio.ugent.be/feed/hourly" />
     <outline type="rss" text="Ghent University Academic Bibliography feed service" title="Ghent University Academic Bibliography feed service" xmlUrl="https://biblio.ugent.be/feed/daily" />
     <outline type="rss" text="Ghent University Academic Bibliography feed service" title="Ghent University Academic Bibliography feed service" xmlUrl="https://biblio.ugent.be/feed/weekly" />
@@ -22,11 +31,19 @@
     <outline type="rss" text="Ghent University Academic Bibliography feed service" title="Ghent University Academic Bibliography feed service" xmlUrl="https://biblio.ugent.be/feed/weekly?q=affiliation+exact+LW" />
     <outline type="rss" text="Ghent University Academic Bibliography feed service" title="Ghent University Academic Bibliography feed service" xmlUrl="https://biblio.ugent.be/feed/monthly?q=affiliation+exact+LW" />
     <outline type="rss" text="Ghent University Academic Bibliography feed service" title="Ghent University Academic Bibliography feed service" xmlUrl="https://biblio.ugent.be/feed/daily?q=project+any+HERMIONE" />
+    <outline type="rss" text="Greenland Arctic Research Hub" title="Greenland Arctic Research Hub" xmlUrl="https://arctichub.gl/feed/" />
+    <outline type="rss" text="Institute of Marine Affairs" title="Institute of Marine Affairs" xmlUrl="https://www.ima.gov.tt/feed/" />
+    <outline type="rss" text="Instituto Oceanográfico y Antártico de la Armada Ecuador" title="Instituto Oceanográfico y Antártico de la Armada Ecuador" xmlUrl="https://www.inocar.mil.ec/web/index.php?format=feed&amp;type=rss" />
     <outline type="rss" text="Les Études Classiques journal announcement feeds" title="Les Études Classiques journal announcement feeds" xmlUrl="https://www.lesetudesclassiques.be/index.php/lec/gateway/plugin/AnnouncementFeedGatewayPlugin/atom" />
     <outline type="rss" text="Les Études Classiques journal announcement feeds" title="Les Études Classiques journal announcement feeds" xmlUrl="https://www.lesetudesclassiques.be/index.php/lec/gateway/plugin/AnnouncementFeedGatewayPlugin/rss" />
     <outline type="rss" text="Les Études Classiques journal announcement feeds" title="Les Études Classiques journal announcement feeds" xmlUrl="https://www.lesetudesclassiques.be/index.php/lec/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2" />
+    <outline type="rss" text="NASA Earthdata CMR — Bouvet Island collections" title="NASA Earthdata CMR — Bouvet Island collections" xmlUrl="https://cmr.earthdata.nasa.gov/search/collections.atom?entry_title%5B%5D=%2ABouvet+Island%2A&amp;entry_title%5B%5D=%2ABouvet%C3%B8ya%2A&amp;entry_title%5B%5D=%2ABouvetoya%2A&amp;entry_title%5B%5D=%2A%C3%8Ele+Bouvet%2A&amp;options%5Bentry_title%5D%5Bpattern%5D=true&amp;options%5Bentry_title%5D%5Bignore_case%5D=true&amp;page_size=20" />
+    <outline type="rss" text="National Antarctic Scientific Research Center Ukraine" title="National Antarctic Scientific Research Center Ukraine" xmlUrl="https://uac.gov.ua/en/feed/" />
+    <outline type="rss" text="National Institute of Standards and Technology" title="National Institute of Standards and Technology" xmlUrl="https://www.nist.gov/news-events/Mathematics%20and%20Statistics/rss.xml" />
+    <outline type="rss" text="National Institute of Standards and Technology" title="National Institute of Standards and Technology" xmlUrl="https://www.nist.gov/news-events/metrology/rss.xml" />
     <outline type="rss" text="Nature" title="Nature" xmlUrl="https://www.nature.com/nature.rss" />
     <outline type="rss" text="NCBI E-utilities" title="NCBI E-utilities" xmlUrl="https://www.ncbi.nlm.nih.gov/research/coronavirus-api/feed/" />
+    <outline type="rss" text="Open University of Cyprus" title="Open University of Cyprus" xmlUrl="https://www.ouc.ac.cy/index.php/el/?format=feed&amp;type=rss" />
     <outline type="rss" text="Phys.org - latest science and technology news stories" title="Phys.org - latest science and technology news stories" xmlUrl="https://phys.org/rss-feed/" />
     <outline type="rss" text="podcasts.files.bbci.co.uk" title="podcasts.files.bbci.co.uk" xmlUrl="https://podcasts.files.bbci.co.uk/b00snr0w.rss" />
     <outline type="rss" text="podcasts.files.bbci.co.uk" title="podcasts.files.bbci.co.uk" xmlUrl="https://podcasts.files.bbci.co.uk/p002w557.rss" />
@@ -194,10 +211,22 @@
     <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/strange_offbeat/odd_creatures.xml" />
     <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/top.xml" />
     <outline type="rss" text="ScienceDaily" title="ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/top/science.xml" />
+    <outline type="rss" text="Scientific Committee on Antarctic Research" title="Scientific Committee on Antarctic Research" xmlUrl="https://scar.org/feed" />
     <outline type="rss" text="Shirtloads of Science" title="Shirtloads of Science" xmlUrl="https://shirtloadsofscience.libsyn.com/rss" />
+    <outline type="rss" text="South African National Antarctic Programme" title="South African National Antarctic Programme" xmlUrl="https://www.sanap.ac.za/feed" />
+    <outline type="rss" text="Summer at Christmas Island — fieldwork diary" title="Summer at Christmas Island — fieldwork diary" xmlUrl="https://summeratchristmasisland.blogspot.com/feeds/posts/default" />
+    <outline type="rss" text="Summer at Christmas Island — fieldwork diary" title="Summer at Christmas Island — fieldwork diary" xmlUrl="https://summeratchristmasisland.blogspot.com/feeds/posts/default?alt=rss" />
+    <outline type="rss" text="Swedish Meteorological and Hydrological Institute" title="Swedish Meteorological and Hydrological Institute" xmlUrl="https://www.smhi.se/rss/uppdateringar-shark" />
+    <outline type="rss" text="Taiwan National Science and Technology Council" title="Taiwan National Science and Technology Council" xmlUrl="https://www.nstc.gov.tw/nstc/rss/news" />
     <outline type="rss" text="Turkish Journal of Astronomy and Astrophysics issue feeds" title="Turkish Journal of Astronomy and Astrophysics issue feeds" xmlUrl="https://dergipark.org.tr/en/pub/tjaa/rss/lastissue/en" />
     <outline type="rss" text="Turkish Journal of Astronomy and Astrophysics issue feeds" title="Turkish Journal of Astronomy and Astrophysics issue feeds" xmlUrl="https://dergipark.org.tr/en/pub/tjaa/rss/lastissue/tr" />
     <outline type="rss" text="Turkish Journal of Astronomy and Astrophysics issue feeds" title="Turkish Journal of Astronomy and Astrophysics issue feeds" xmlUrl="https://dergipark.org.tr/en/pub/tjaa/rss/earlypub/en" />
     <outline type="rss" text="Turkish Journal of Astronomy and Astrophysics issue feeds" title="Turkish Journal of Astronomy and Astrophysics issue feeds" xmlUrl="https://dergipark.org.tr/en/pub/tjaa/rss/earlypub/tr" />
+    <outline type="rss" text="Università di San Marino" title="Università di San Marino" xmlUrl="https://www.unirsm.sm/feed/" />
+    <outline type="rss" text="Université de La Réunion" title="Université de La Réunion" xmlUrl="https://www.univ-reunion.fr/feed/" />
+    <outline type="rss" text="Vietnam Ministry of Science and Technology" title="Vietnam Ministry of Science and Technology" xmlUrl="https://mst.gov.vn/rss/tin-tuc-su-kien/khoa-hoc-va-cong-nghe.rss" />
+    <outline type="rss" text="VK0EK — Heard Island expedition archive" title="VK0EK — Heard Island expedition archive" xmlUrl="https://vk0ek.org/feed/" />
+    <outline type="rss" text="WIPO — intellectual property news" title="WIPO — intellectual property news" xmlUrl="https://www.wipo.int/rss/publications.xml" />
+    <outline type="rss" text="Ålands Fredsinstitut" title="Ålands Fredsinstitut" xmlUrl="https://peace.ax/feed/" />
   </body>
 </opml>

@@ -2,16 +2,22 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/government.open_data.opml)
 
-8 endpoint records.
+32 endpoint records.
 
-## Verified (6)
+## Verified (24)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–6](verified-001.md) · Belgian federal data portal to INE JSON API
+- [1–24](verified-001.md) · Belgian federal data portal to Vietnam Ministry of Science and Technology
 
-## Needs review (2)
+## Needs review (4)
 
 The record needs follow-up, for example on access, format, or parsing.
 
-- [1–2](needs_review-001.md) · Géoportail de la Wallonie RSS publication links to Géoportail de la Wallonie RSS publication links
+- [1–4](needs_review-001.md) · Géoportail de la Wallonie RSS publication links to Uzbekistan National Statistics Committee
+
+## Unavailable (4)
+
+The endpoint was unavailable at the recorded check.
+
+- [1–4](unavailable-001.md) · Open Government Canada to Saudi General Authority for Statistics

@@ -4,6 +4,38 @@
     <title>nws.broker · Press releases</title>
   </head>
   <body>
+    <outline type="rss" text="Agencia IP" title="Agencia IP" xmlUrl="https://www.ip.gov.py/ip/feed/" />
+    <outline type="rss" text="Bank of Russia" title="Bank of Russia" xmlUrl="https://www.cbr.ru/rss/RssPress" />
+    <outline type="rss" text="Bank of Russia" title="Bank of Russia" xmlUrl="https://www.cbr.ru/rss/RssCurrency" />
+    <outline type="rss" text="Bank of Russia" title="Bank of Russia" xmlUrl="https://www.cbr.ru/rss/EngRssPress" />
+    <outline type="rss" text="Bundesministerium für Inneres" title="Bundesministerium für Inneres" xmlUrl="https://www.bmi.gv.at/rss/bmi_presse.xml" />
+    <outline type="rss" text="Canton de Berne" title="Canton de Berne" xmlUrl="https://www.blog.police.be.ch/feed/" />
+    <outline type="rss" text="Department of Public Information Guyana" title="Department of Public Information Guyana" xmlUrl="https://dpi.gov.gy/feed/" />
+    <outline type="rss" text="Gouvernement de la Nouvelle-Calédonie — Espace presse" title="Gouvernement de la Nouvelle-Calédonie — Espace presse" xmlUrl="https://gouv.nc/espace-presse/rss.xml" />
+    <outline type="rss" text="Gouvernement du Luxembourg" title="Gouvernement du Luxembourg" xmlUrl="https://gouvernement.lu/fr/actualites/toutes_actualites.rss" />
+    <outline type="rss" text="Gouvernement Princier de Monaco" title="Gouvernement Princier de Monaco" xmlUrl="https://www.gouv.mc/rss/feed/portail-gouv-actualites-fr" />
+    <outline type="rss" text="Gouvernement Princier de Monaco" title="Gouvernement Princier de Monaco" xmlUrl="https://www.gouv.mc/rss/feed/portail-gouv-publications-fr" />
+    <outline type="rss" text="Government of Belize Press Office" title="Government of Belize Press Office" xmlUrl="https://www.pressoffice.gov.bz/feed/" />
+    <outline type="rss" text="Government of Montenegro" title="Government of Montenegro" xmlUrl="https://rss.gov.me" />
+    <outline type="rss" text="Government of Montserrat" title="Government of Montserrat" xmlUrl="https://www.gov.ms/feed/" />
+    <outline type="rss" text="Government of Saint Vincent and the Grenadines" title="Government of Saint Vincent and the Grenadines" xmlUrl="https://www.gov.vc/index.php?format=feed&amp;type=rss" />
+    <outline type="rss" text="Government of the Czech Republic" title="Government of the Czech Republic" xmlUrl="https://vlada.gov.cz/cs/urad/RSS/rss.xml" />
+    <outline type="rss" text="Government of the Republic of Moldova" title="Government of the Republic of Moldova" xmlUrl="https://gov.md/ro/rss.xml" />
+    <outline type="rss" text="Kiribati Ministry of Foreign Affairs and Immigration" title="Kiribati Ministry of Foreign Affairs and Immigration" xmlUrl="https://www.mfa.gov.ki/feed/" />
+    <outline type="rss" text="Korea Ministry of the Interior and Safety" title="Korea Ministry of the Interior and Safety" xmlUrl="https://www.mois.go.kr/gpms/view/jsp/rss/rss.jsp?ctxCd=1012" />
+    <outline type="rss" text="Land Tirol" title="Land Tirol" xmlUrl="https://www.tirol.gv.at/rss/meldungen/" />
+    <outline type="rss" text="Land Tirol" title="Land Tirol" xmlUrl="https://www.tirol.gv.at/rss/kundmachungen/" />
+    <outline type="rss" text="Mayotte Prefecture" title="Mayotte Prefecture" xmlUrl="https://www.mayotte.gouv.fr/syndication/flux/presse" />
+    <outline type="rss" text="Ministry of Foreign Affairs of Türkiye" title="Ministry of Foreign Affairs of Türkiye" xmlUrl="https://www.mfa.gov.tr/tr.rss.mfa?8a5e254e-533a-4b3d-84db-9f95be1207ff" />
+    <outline type="rss" text="Ministry of Foreign Affairs of Türkiye" title="Ministry of Foreign Affairs of Türkiye" xmlUrl="https://www.mfa.gov.tr/tr.rss.mfa?a2aa6dde-f503-4a54-ba92-d960969a9a84" />
+    <outline type="rss" text="Office of Competition and Consumer Protection (UOKiK)" title="Office of Competition and Consumer Protection (UOKiK)" xmlUrl="https://uokik.gov.pl/en/feed" />
+    <outline type="rss" text="Office of the Governor of Guam" title="Office of the Governor of Guam" xmlUrl="https://governor.guam.gov/feed/" />
+    <outline type="rss" text="Office of the President of the Federated States of Micronesia" title="Office of the President of the Federated States of Micronesia" xmlUrl="https://gov.fm/feed/" />
+    <outline type="rss" text="Office of the Prime Minister of The Bahamas" title="Office of the Prime Minister of The Bahamas" xmlUrl="https://opm.gov.bs/feed/" />
+    <outline type="rss" text="Oireachtas" title="Oireachtas" xmlUrl="https://www.oireachtas.ie/en/rss/press-releases.xml" />
+    <outline type="rss" text="Oman Foreign Ministry" title="Oman Foreign Ministry" xmlUrl="https://www.fm.gov.om/en/feed/" />
+    <outline type="rss" text="Palau National Government" title="Palau National Government" xmlUrl="https://www.palaugov.pw/feed/" />
+    <outline type="rss" text="Papua New Guinea National Information Centre" title="Papua New Guinea National Information Centre" xmlUrl="https://info.gov.pg/feed/" />
     <outline type="rss" text="PR Newswire" title="PR Newswire" xmlUrl="https://www.prnewswire.com/rss/automotive-transportation-latest-news/automotive-transportation-latest-news-list.rss" />
     <outline type="rss" text="PR Newswire" title="PR Newswire" xmlUrl="https://www.prnewswire.com/rss/business-technology-latest-news/business-technology-latest-news-list.rss" />
     <outline type="rss" text="PR Newswire" title="PR Newswire" xmlUrl="https://www.prnewswire.com/rss/consumer-products-retail-latest-news/consumer-products-retail-latest-news-list.rss" />
@@ -21,5 +53,18 @@
     <outline type="rss" text="PR Newswire" title="PR Newswire" xmlUrl="https://www.prnewswire.com/rss/sports-latest-news/sports-latest-news-list.rss" />
     <outline type="rss" text="PR Newswire" title="PR Newswire" xmlUrl="https://www.prnewswire.com/rss/telecommunications-latest-news/telecommunications-latest-news-list.rss" />
     <outline type="rss" text="PR Newswire" title="PR Newswire" xmlUrl="https://www.prnewswire.com/rss/travel-latest-news/travel-latest-news-list.rss" />
+    <outline type="rss" text="Pressemeddelelse.dk" title="Pressemeddelelse.dk" xmlUrl="https://pressemeddelelse.dk/feed/" />
+    <outline type="rss" text="Préfecture Saint-Barthélemy et Saint-Martin" title="Préfecture Saint-Barthélemy et Saint-Martin" xmlUrl="https://www.saint-barth-saint-martin.gouv.fr/syndication/flux/rss_feed_69" />
+    <outline type="rss" text="Slovensko.sk Central Public Administration Portal" title="Slovensko.sk Central Public Administration Portal" xmlUrl="https://www.slovensko.sk/sk/rss/oznamy" />
+    <outline type="rss" text="Slovensko.sk Central Public Administration Portal" title="Slovensko.sk Central Public Administration Portal" xmlUrl="https://www.slovensko.sk/sk/rss/zivotne-situacie" />
+    <outline type="rss" text="Slovensko.sk Central Public Administration Portal" title="Slovensko.sk Central Public Administration Portal" xmlUrl="https://www.slovensko.sk/en/rss/agency" />
+    <outline type="rss" text="Slovensko.sk Central Public Administration Portal" title="Slovensko.sk Central Public Administration Portal" xmlUrl="https://www.slovensko.sk/en/rss/all" />
+    <outline type="rss" text="South African Government News Agency" title="South African Government News Agency" xmlUrl="https://www.sanews.gov.za/rss-old.xml" />
+    <outline type="rss" text="St Kitts and Nevis Information Service" title="St Kitts and Nevis Information Service" xmlUrl="https://www.sknis.gov.kn/feed/" />
+    <outline type="rss" text="United Nations Office at Geneva" title="United Nations Office at Geneva" xmlUrl="https://www.ungeneva.org/news-media/press-items-list/rss.xml" />
+    <outline type="rss" text="Universität Innsbruck" title="Universität Innsbruck" xmlUrl="https://www.uibk.ac.at/newsroom/pressemitteilungen.rss" />
+    <outline type="rss" text="Ville de Luxembourg" title="Ville de Luxembourg" xmlUrl="https://www.vdl.lu/fr/news/rss.xml" />
+    <outline type="rss" text="Ville de Luxembourg" title="Ville de Luxembourg" xmlUrl="https://www.vdl.lu/fr/agenda/rss.xml" />
+    <outline type="rss" text="WIPO — intellectual property news" title="WIPO — intellectual property news" xmlUrl="https://www.wipo.int/pressroom/en/rss.xml" />
   </body>
 </opml>

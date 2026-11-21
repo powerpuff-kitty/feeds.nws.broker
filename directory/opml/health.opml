@@ -3,5 +3,10 @@
   <head>
     <title>nws.broker · Health</title>
   </head>
-  <body />
+  <body>
+    <outline type="rss" text="Arab Times Kuwait" title="Arab Times Kuwait" xmlUrl="https://www.arabtimesonline.com/rssFeed/91/" />
+    <outline type="rss" text="Daily Mirror Sri Lanka" title="Daily Mirror Sri Lanka" xmlUrl="https://www.dailymirror.lk/rss/medicine/308" />
+    <outline type="rss" text="MedlinePlus — general health" title="MedlinePlus — general health" xmlUrl="https://medlineplus.gov/feeds/whatsnew.xml" />
+    <outline type="rss" text="Người Lao Động" title="Người Lao Động" xmlUrl="https://tuoitre.vn/nld/rss/suc-khoe.rss" />
+  </body>
 </opml>

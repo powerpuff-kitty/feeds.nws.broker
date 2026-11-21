@@ -2,13 +2,13 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/environment.biodiversity.opml)
 
-23 endpoint records.
+39 endpoint records.
 
-## Verified (13)
+## Verified (29)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–13](verified-001.md) · Active Wild to Stories Archives - Nature Canada
+- [1–29](verified-001.md) · Active Wild to Tuvalu Fisheries Authority
 
 ## Needs review (9)
 

@@ -2,19 +2,19 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/environment.energy.opml)
 
-16 endpoint records.
+39 endpoint records.
 
-## Verified (6)
+## Verified (28)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–6](verified-001.md) · Renouvelle sustainable-energy publication to Utility Dive
+- [1–28](verified-001.md) · Agence Nationale pour la Maîtrise de l’Énergie, Tunisie to Vietnam Ministry of Science and Technology
 
-## Needs review (7)
+## Needs review (8)
 
 The record needs follow-up, for example on access, format, or parsing.
 
-- [1–7](needs_review-001.md) · EDORA renewable-energy federation publication feed to US Energy Information Administration
+- [1–8](needs_review-001.md) · EDORA renewable-energy federation publication feed to US Energy Information Administration
 
 ## Unavailable (3)
 

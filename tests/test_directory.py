@@ -31,12 +31,15 @@ class DirectoryTest(unittest.TestCase):
         }], formats=[{'format_id': 'rss', 'label': 'RSS'}])
         with TemporaryDirectory() as directory:
             root = Path(directory)
-            build_directory(root, tables, {url}, 'a' * 64)
+            api = 'https://preview.nws.broker/api'
+            build_directory(root, tables, {url}, 'a' * 64, api=api)
             readme = (root / 'README.md').read_text()
             self.assertIn('[nws.broker](https://nws.broker/)', readme)
             self.assertIn('assets/nws-broker-mark.svg', readme)
             self.assertIn('import 1 subscription', readme)
             self.assertIn('branch=main&event=push', readme)
+            self.assertIn(f'[Preview catalogue API]({api}/catalogue)', readme)
+            self.assertIn('[Platform feeds](PLATFORMS.md)', readme)
             with (root / 'directory/feeds.csv').open(newline='') as file:
                 rows = list(csv.DictReader(file))
             self.assertEqual(['F0001', 'F0002', 'F0003'], [row['endpoint_id'] for row in rows])
@@ -44,13 +47,14 @@ class DirectoryTest(unittest.TestCase):
             self.assertEqual('', rows[2]['feed_url'])
             self.assertEqual('BE', rows[0]['coverage_country_codes'])
             page = (root / 'directory/topics/news/advertised-001.md').read_text()
-            self.assertIn('F0002', page)
+            self.assertIn(f'[F0002]({api}/endpoints/F0002)', page)
             self.assertIn('&#124;', page)
             self.assertFalse((root / 'directory/topics/news/README.md').read_text().endswith('\n\n'))
             for file in ('all.opml', 'news.opml'):
                 opml = ET.parse(root / 'directory/opml' / file)
                 self.assertEqual([url], [item.attrib['xmlUrl'] for item in opml.findall('.//outline[@xmlUrl]')])
             manifest = json.loads((root / 'directory/manifest.json').read_text())
+            self.assertEqual(api, manifest['source'])
             self.assertEqual(3, manifest['endpoint_count'])
             self.assertEqual(1, manifest['withheld_url_count'])
 

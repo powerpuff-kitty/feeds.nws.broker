@@ -14,6 +14,7 @@ import xml.etree.ElementTree as ET
 
 SITE = 'https://nws.broker'
 API = f'{SITE}/api'
+API_SOURCES = {'production': API, 'preview': 'https://preview.nws.broker/api'}
 REPOSITORY = 'powerpuff-kitty/feeds.nws.broker'
 REPO_URL = f'https://github.com/{REPOSITORY}'
 RAW_URL = f'https://raw.githubusercontent.com/{REPOSITORY}/main'
@@ -38,21 +39,21 @@ PAGE_SIZE = 150
 SECRET_QUERY_KEY = re.compile(r'token|secret|password|passwd|signature|apikey|accesskey|clientkey|credential|^sig$|^key$|^auth$|^x-amz|^x-goog')
 
 
-def download(path):
+def download(api, path):
     return subprocess.run(
-        ['curl', '--fail', '--silent', '--show-error', '--max-time', '60', '--retry', '2', f'{API}/{path}'],
+        ['curl', '--fail', '--silent', '--show-error', '--max-time', '60', '--retry', '2', f'{api}/{path}'],
         check=True, capture_output=True,
     ).stdout
 
 
-def snapshot():
-    before = json.loads(download('catalogue'))
-    tables = {name: json.loads(download(f'export/{name}')) for name in TABLES}
-    opml = ET.fromstring(download('subscriptions/opml?prefer=original'))
-    after = json.loads(download('catalogue'))
+def snapshot(api):
+    before = json.loads(download(api, 'catalogue'))
+    tables = {name: json.loads(download(api, f'export/{name}')) for name in TABLES}
+    opml = ET.fromstring(download(api, 'subscriptions/opml?prefer=original'))
+    after = json.loads(download(api, 'catalogue'))
     version = before['import']['version']
     if after['import']['version'] != version or after['counts'] != before['counts']:
-        raise ValueError('Production catalogue changed during download. Run the generator again.')
+        raise ValueError('The catalogue changed during download. Run the generator again.')
     for name, key in TABLES.items():
         rows = tables[name]
         fields = (key,) if isinstance(key, str) else key
@@ -151,7 +152,7 @@ def write_text(path, lines):
     path.write_text('\n'.join(lines).rstrip('\n') + '\n', encoding='utf-8')
 
 
-def topic_pages(directory, label, rows, formats, topic):
+def topic_pages(directory, label, rows, formats, topic, api):
     directory.mkdir(parents=True)
     index = [f'# {markdown(label)}', '', '[All categories](../../../README.md) · '
              f'[Download OPML](../../opml/{topic}.opml)', '', f'{len(rows):,} endpoint records.', '']
@@ -176,7 +177,7 @@ def topic_pages(directory, label, rows, formats, topic):
                 if row['opml_eligible'] == 'true':
                     url = quote(row['feed_url'], safe=":/?#[]@!$&'()*+,;=%~")
                     feed_link = f'[Feed](<{url}>)'
-                values = [markdown(row['source_name']), f'[{endpoint}]({API}/endpoints/{endpoint})',
+                values = [markdown(row['source_name']), f'[{endpoint}]({api}/endpoints/{endpoint})',
                           markdown(formats.get(key, key)), markdown(row['language_tag'] or 'und'),
                           markdown((row['last_checked_at'] or '—')[:10]), feed_link]
                 lines.append('| ' + ' | '.join(values) + ' |')
@@ -186,8 +187,9 @@ def topic_pages(directory, label, rows, formats, topic):
     return counts
 
 
-def readme_opening(endpoint_count, source_count, topic_count, subscription_count):
+def readme_opening(endpoint_count, source_count, topic_count, subscription_count, api):
     subscription_label = 'subscription' if subscription_count == 1 else 'subscriptions'
+    source_label = 'Production catalogue API' if api == API else 'Preview catalogue API'
     return [
         '# nws.broker Feed Directory', '',
         f'<a href="{SITE}/"><img src="assets/nws-broker-mark.svg" alt="nws.broker brand mark" width="40" height="40"></a>', '',
@@ -201,14 +203,15 @@ def readme_opening(endpoint_count, source_count, topic_count, subscription_count
         '1. [Choose a topic](#browse-by-topic) and open its verified feeds.',
         f'2. Save that topic’s OPML file and import it into your feed reader, or [import {subscription_count:,} {subscription_label}]({RAW_URL}/directory/opml/all.opml) from the combined file.',
         '3. Use the [CSV](directory/feeds.csv) to filter by language, country, publisher, or feed status.', '',
-        f'[Browse the live catalogue]({SITE}/catalogue/) · [Snapshot manifest](directory/manifest.json) · [Maintenance](MAINTENANCE.md)', '',
+        f'[Browse the live catalogue]({SITE}/catalogue/) · [Snapshot manifest](directory/manifest.json) · [Platform feeds](PLATFORMS.md) · [Maintenance](MAINTENANCE.md)', '',
+        f'This snapshot comes from the [{source_label}]({api}/catalogue).', '',
         '## Browse by topic', '',
         '| Category | Parent | Verified | Advertised | Needs review | Unavailable | OPML |',
         '| --- | --- | ---: | ---: | ---: | ---: | ---: |',
     ]
 
 
-def build_directory(root, tables, subscriptions, version):
+def build_directory(root, tables, subscriptions, version, *, api=API):
     data = root / 'directory'
     (data / 'opml').mkdir(parents=True)
     rows = sorted(records(tables, subscriptions), key=lambda item: (item['source_name'].casefold(), item['endpoint_id']))
@@ -225,14 +228,14 @@ def build_directory(root, tables, subscriptions, version):
             writer.writerow({key: spreadsheet(row.get(key)) for key in FIELDS})
     total_opml = write_opml(data / 'opml/all.opml', 'nws.broker subscriptions',
                             [(row['label'], by_topic[row['topic_id']]) for row in topics])
-    index = readme_opening(len(rows), len({row['source_id'] for row in rows}), len(topics), total_opml)
+    index = readme_opening(len(rows), len({row['source_id'] for row in rows}), len(topics), total_opml, api)
     summaries = {}
     for topic in topics:
         key, label = topic['topic_id'], topic['label']
         if not re.fullmatch(r'[a-z0-9_-]+(?:\.[a-z0-9_-]+)*', key):
             raise ValueError('Invalid topic ID in export.')
         entries = by_topic[key]
-        counts = topic_pages(data / 'topics' / key, label, entries, formats, key)
+        counts = topic_pages(data / 'topics' / key, label, entries, formats, key, api)
         count_opml = write_opml(data / 'opml' / f'{key}.opml', f'nws.broker · {label}', [(None, entries)])
         values = [f'[{markdown(label)}](directory/topics/{key}/README.md)', markdown(labels.get(topic['parent_id'])),
                   *(f'{counts[status]:,}' for status in STATUSES), f'[{count_opml:,}](directory/opml/{key}.opml)']
@@ -247,7 +250,7 @@ def build_directory(root, tables, subscriptions, version):
                   'Use GitHub’s **Raw** button to save a file and import it into your reader. JSON Feed support depends on the reader.',
                   '', 'See [data fields, source, and refresh instructions](MAINTENANCE.md).'])
     write_text(root / 'README.md', index)
-    manifest = {'source': API, 'catalogue_import': version, 'endpoint_count': len(rows),
+    manifest = {'source': api, 'catalogue_import': version, 'endpoint_count': len(rows),
                 'opml_count': total_opml, 'withheld_url_count': sum(not row['feed_url'] for row in rows),
                 'status_counts': dict(Counter(row['verification_status'] for row in rows)), 'topics': summaries}
     write_text(data / 'manifest.json', [json.dumps(manifest, indent=2, sort_keys=True)])
@@ -257,11 +260,13 @@ def build_directory(root, tables, subscriptions, version):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output', type=Path, required=True, help='New directory for the generated snapshot')
+    parser.add_argument('--source', choices=API_SOURCES, default='production', help='Public catalogue snapshot to export')
     args = parser.parse_args()
     if args.output.exists():
         parser.error('--output must be a new directory')
-    tables, subscriptions, version = snapshot()
-    manifest = build_directory(args.output, tables, subscriptions, version)
+    api = API_SOURCES[args.source]
+    tables, subscriptions, version = snapshot(api)
+    manifest = build_directory(args.output, tables, subscriptions, version, api=api)
     print(f"Built {manifest['endpoint_count']:,} endpoint records and {manifest['opml_count']:,} subscriptions.")
 
 

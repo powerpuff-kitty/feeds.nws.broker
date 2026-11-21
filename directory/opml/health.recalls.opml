@@ -4,6 +4,14 @@
     <title>nws.broker · Product safety and recalls</title>
   </head>
   <body>
+    <outline type="rss" text="ACCC Product Safety" title="ACCC Product Safety" xmlUrl="https://www.productsafety.gov.au/rss/recalls.xml?f%5B%5D=field_psa_product_category%3A40159" />
+    <outline type="rss" text="ACCC Product Safety" title="ACCC Product Safety" xmlUrl="https://www.productsafety.gov.au/rss/recalls.xml?f%5B%5D=field_psa_product_category%3A10009" />
+    <outline type="rss" text="ACCC Product Safety" title="ACCC Product Safety" xmlUrl="https://www.productsafety.gov.au/rss/recalls.xml?f%5B%5D=field_psa_product_category%3A10051" />
+    <outline type="rss" text="Health Canada — recalls and alerts" title="Health Canada — recalls and alerts" xmlUrl="https://recalls-rappels.canada.ca/en/feed/consumer-products-alerts-recalls" />
+    <outline type="rss" text="Health Canada — recalls and alerts" title="Health Canada — recalls and alerts" xmlUrl="https://recalls-rappels.canada.ca/en/feed/cfia-alerts-recalls" />
+    <outline type="rss" text="Hong Kong Centre for Food Safety" title="Hong Kong Centre for Food Safety" xmlUrl="https://www.cfs.gov.hk/filemanager/foodalert/english/foodalert.xml" />
+    <outline type="rss" text="Medicines and Healthcare products Regulatory Agency" title="Medicines and Healthcare products Regulatory Agency" xmlUrl="https://www.gov.uk/drug-device-alerts.atom" />
+    <outline type="rss" text="Office for Product Safety and Standards" title="Office for Product Safety and Standards" xmlUrl="https://www.gov.uk/product-safety-alerts-reports-recalls.atom" />
     <outline type="rss" text="RASFF Window" title="RASFF Window" xmlUrl="https://webgate.ec.europa.eu/rasff-window/backend/public/consumer/rss/all/" />
   </body>
 </opml>

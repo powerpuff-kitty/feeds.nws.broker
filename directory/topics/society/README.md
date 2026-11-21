@@ -2,13 +2,13 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/society.opml)
 
-34 endpoint records.
+55 endpoint records.
 
-## Verified (24)
+## Verified (45)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–24](verified-001.md) · 30 for 30 Podcasts to You Must Remember This
+- [1–45](verified-001.md) · 30 for 30 Podcasts to You Must Remember This
 
 ## Needs review (10)
 

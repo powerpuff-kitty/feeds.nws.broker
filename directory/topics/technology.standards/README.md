@@ -2,13 +2,13 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/technology.standards.opml)
 
-144 endpoint records.
+155 endpoint records.
 
-## Verified (71)
+## Verified (82)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–71](verified-001.md) · IETF Datatracker to W3C news and specifications
+- [1–82](verified-001.md) · DIN — German standards to W3C news and specifications
 
 ## Needs review (72)
 

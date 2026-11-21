@@ -4,6 +4,12 @@
     <title>nws.broker · Public health</title>
   </head>
   <body>
+    <outline type="rss" text="Africa Centres for Disease Control and Prevention" title="Africa Centres for Disease Control and Prevention" xmlUrl="https://africacdc.org/feed/" />
+    <outline type="rss" text="Agence de régulation de l’action sanitaire et sociale" title="Agence de régulation de l’action sanitaire et sociale" xmlUrl="https://www.service-public.pf/arass/feed/" />
+    <outline type="rss" text="Bhutan Ministry of Health" title="Bhutan Ministry of Health" xmlUrl="https://moh.gov.bt/feed/" />
+    <outline type="rss" text="BVI Health Services Authority" title="BVI Health Services Authority" xmlUrl="https://www.bvihsa.vg/feed/" />
+    <outline type="rss" text="Directorate of Health Security and Emergencies Sierra Leone" title="Directorate of Health Security and Emergencies Sierra Leone" xmlUrl="https://dhse.gov.sl/feed/" />
+    <outline type="rss" text="Ethiopian Public Health Institute" title="Ethiopian Public Health Institute" xmlUrl="https://ephi.gov.et/feed/" />
     <outline type="rss" text="European Centre for Disease Prevention and Control" title="European Centre for Disease Prevention and Control" xmlUrl="https://www.ecdc.europa.eu/en/taxonomy/term/1244/feed" />
     <outline type="rss" text="European Centre for Disease Prevention and Control" title="European Centre for Disease Prevention and Control" xmlUrl="https://www.ecdc.europa.eu/en/taxonomy/term/1250/feed" />
     <outline type="rss" text="European Centre for Disease Prevention and Control" title="European Centre for Disease Prevention and Control" xmlUrl="https://www.ecdc.europa.eu/en/taxonomy/term/1253/feed" />
@@ -29,10 +35,27 @@
     <outline type="rss" text="European Food Safety Authority" title="European Food Safety Authority" xmlUrl="https://www.efsa.europa.eu/en/events/rss" />
     <outline type="rss" text="European Food Safety Authority" title="European Food Safety Authority" xmlUrl="https://www.efsa.europa.eu/en/press/rss" />
     <outline type="rss" text="European Food Safety Authority" title="European Food Safety Authority" xmlUrl="https://www.efsa.europa.eu/en/procurement/negproc/rss" />
+    <outline type="rss" text="Fiji Ministry of Health and Medical Services" title="Fiji Ministry of Health and Medical Services" xmlUrl="https://www.health.gov.fj/feed/" />
+    <outline type="rss" text="Fundación Plenitud" title="Fundación Plenitud" xmlUrl="https://fundacionplenitud.org/feed/" />
+    <outline type="rss" text="Guinea Ministry of Health — news" title="Guinea Ministry of Health — news" xmlUrl="https://sante.gov.gn/category/actualites/feed/" />
+    <outline type="rss" text="Health Ministry Brazil" title="Health Ministry Brazil" xmlUrl="https://www.gov.br/saude/pt-br/assuntos/noticias/noticias/rss.xml" />
     <outline type="rss" text="KFF Health News" title="KFF Health News" xmlUrl="https://kffhealthnews.org/feed/" />
+    <outline type="rss" text="Laotian Times — Public Health" title="Laotian Times — Public Health" xmlUrl="https://laotiantimes.com/tag/public-health/feed/" />
+    <outline type="rss" text="Ministerio de Salud Pública Ecuador" title="Ministerio de Salud Pública Ecuador" xmlUrl="https://www.salud.gob.ec/feed/" />
+    <outline type="rss" text="Ministerio de Salud Pública República Dominicana" title="Ministerio de Salud Pública República Dominicana" xmlUrl="https://msp.gob.do/web/?feed=rss2" />
+    <outline type="rss" text="Ministry of Health Liberia" title="Ministry of Health Liberia" xmlUrl="https://moh.gov.lr/feed/" />
+    <outline type="rss" text="Ministère de la Santé et de la Population" title="Ministère de la Santé et de la Population" xmlUrl="https://sante.gouv.cg/feed/" />
+    <outline type="rss" text="Norfolk Island Health and Residential Aged Care Service" title="Norfolk Island Health and Residential Aged Care Service" xmlUrl="https://norfolkislandhealth.gov.nf/feed/" />
     <outline type="rss" text="Noso-Info infection-prevention bulletin archive" title="Noso-Info infection-prevention bulletin archive" xmlUrl="https://www.nosoinfo.be/nosoinfos/feed/" />
     <outline type="rss" text="Noso-Info infection-prevention bulletin archive" title="Noso-Info infection-prevention bulletin archive" xmlUrl="https://www.nosoinfo.be/nosoinfos/comments/feed/" />
     <outline type="rss" text="Noso-Info infection-prevention bulletin archive" title="Noso-Info infection-prevention bulletin archive" xmlUrl="https://www.nosoinfo.be/nosoinfos/comments/feed/?lang=nl" />
+    <outline type="rss" text="Public Health Agency of Sweden" title="Public Health Agency of Sweden" xmlUrl="https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/?syndication=rss" />
+    <outline type="rss" text="Saba Cares Foundation" title="Saba Cares Foundation" xmlUrl="https://www.sabacares.org/blog-feed.xml" />
+    <outline type="rss" text="Santé publique France" title="Santé publique France" xmlUrl="https://www.santepubliquefrance.fr/rss/1060" />
     <outline type="rss" text="STAT" title="STAT" xmlUrl="https://www.statnews.com/feed/" />
+    <outline type="rss" text="UK Health Security Agency" title="UK Health Security Agency" xmlUrl="https://www.gov.uk/government/organisations/uk-health-security-agency.atom" />
+    <outline type="rss" text="UK Health Security Agency" title="UK Health Security Agency" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=uk-health-security-agency" />
+    <outline type="rss" text="Wallis-et-Futuna Administration Supérieure" title="Wallis-et-Futuna Administration Supérieure" xmlUrl="https://www.wallis-et-futuna.gouv.fr/syndication/flux/rss_feed_9395" />
+    <outline type="rss" text="Wallis-et-Futuna Administration Supérieure" title="Wallis-et-Futuna Administration Supérieure" xmlUrl="https://www.wallis-et-futuna.gouv.fr/syndication/flux/rss_feed_8759" />
   </body>
 </opml>

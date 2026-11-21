@@ -4,6 +4,7 @@
     <title>nws.broker · Government</title>
   </head>
   <body>
+    <outline type="rss" text="American Samoa Government" title="American Samoa Government" xmlUrl="https://www.americansamoa.gov/blog-feed.xml" />
     <outline type="rss" text="Baarle-Hertog municipal publication feeds" title="Baarle-Hertog municipal publication feeds" xmlUrl="https://www.baarle-hertog.be/nieuws/rss" />
     <outline type="rss" text="Belgian FPS BOSA publication feeds" title="Belgian FPS BOSA publication feeds" xmlUrl="https://bosa.belgium.be/nl/content-feed/news/rss.xml" />
     <outline type="rss" text="Belgian FPS BOSA publication feeds" title="Belgian FPS BOSA publication feeds" xmlUrl="https://bosa.belgium.be/nl/content-feed/events/rss.xml" />
@@ -12,11 +13,87 @@
     <outline type="rss" text="Belgian FPS BOSA publication feeds" title="Belgian FPS BOSA publication feeds" xmlUrl="https://bosa.belgium.be/fr/content-feed/news/rss.xml" />
     <outline type="rss" text="Belgian FPS BOSA publication feeds" title="Belgian FPS BOSA publication feeds" xmlUrl="https://bosa.belgium.be/fr/content-feed/events/rss.xml" />
     <outline type="rss" text="Belgian FPS BOSA publication feeds" title="Belgian FPS BOSA publication feeds" xmlUrl="https://bosa.belgium.be/fr/content-feed/trainings/rss.xml" />
+    <outline type="rss" text="British Indian Ocean Territory Administration" title="British Indian Ocean Territory Administration" xmlUrl="https://www.biot.gov.io/news/category/news/feed/" />
+    <outline type="rss" text="Cabo Verde Reforma do Estado" title="Cabo Verde Reforma do Estado" xmlUrl="https://www.reformadoestado.gov.cv/index.php?format=feed&amp;type=rss" />
+    <outline type="rss" text="Centro de Integridade Pública" title="Centro de Integridade Pública" xmlUrl="https://www.cipmoz.org/feed/" />
     <outline type="rss" text="City of Brussels website news" title="City of Brussels website news" xmlUrl="https://www.brussels.be/rss.xml" />
     <outline type="rss" text="City of Brussels website news" title="City of Brussels website news" xmlUrl="https://www.bruxelles.be/rss.xml" />
     <outline type="rss" text="City of Brussels website news" title="City of Brussels website news" xmlUrl="https://www.brussel.be/rss.xml" />
+    <outline type="rss" text="Collectivité territoriale de Martinique" title="Collectivité territoriale de Martinique" xmlUrl="https://www.collectivitedemartinique.mq/feed/" />
+    <outline type="rss" text="Cornwall Council" title="Cornwall Council" xmlUrl="https://www.cornwall.gov.uk/council-news/rss-feeds/newsfeed/" />
+    <outline type="rss" text="Câmara Municipal de Guimarães" title="Câmara Municipal de Guimarães" xmlUrl="https://www.cm-guimaraes.pt/pages/rss-feed%2Frss-de-noticias.rss" />
+    <outline type="rss" text="Câmara Municipal de Mafra" title="Câmara Municipal de Mafra" xmlUrl="https://www.cm-mafra.pt/pages/321.rss" />
+    <outline type="rss" text="Câmara Municipal de Palmela" title="Câmara Municipal de Palmela" xmlUrl="https://www.cm-palmela.pt/pages/feed-rss-noticias-50.rss" />
+    <outline type="rss" text="Direction de l’enseignement de la Nouvelle-Calédonie" title="Direction de l’enseignement de la Nouvelle-Calédonie" xmlUrl="https://denc.gouv.nc/rss/actualites" />
+    <outline type="rss" text="El Periòdic d’Andorra — Política" title="El Periòdic d’Andorra — Política" xmlUrl="https://elperiodic.ad/categories/politica/feed/" />
+    <outline type="rss" text="Financial Administration of the Republic of Slovenia" title="Financial Administration of the Republic of Slovenia" xmlUrl="https://www.fu.gov.si/rss/prebivalci/" />
+    <outline type="rss" text="Financial Administration of the Republic of Slovenia" title="Financial Administration of the Republic of Slovenia" xmlUrl="https://www.fu.gov.si/rss/podjetja/" />
+    <outline type="rss" text="Financial Administration of the Republic of Slovenia" title="Financial Administration of the Republic of Slovenia" xmlUrl="https://www.fu.gov.si/rss/portal_e_davki/" />
+    <outline type="rss" text="French Guiana Prefecture" title="French Guiana Prefecture" xmlUrl="https://www.guyane.gouv.fr/syndication/flux/actualites" />
+    <outline type="rss" text="French Guiana Prefecture" title="French Guiana Prefecture" xmlUrl="https://www.guyane.gouv.fr/syndication/flux/rss_feed_87" />
     <outline type="rss" text="Fulcrum" title="Fulcrum" xmlUrl="https://fulcrum.sg/feed/" />
+    <outline type="rss" text="Gemeente Heemstede" title="Gemeente Heemstede" xmlUrl="https://www.heemstede.nl/nieuws.rss" />
+    <outline type="rss" text="Gemeente Utrecht" title="Gemeente Utrecht" xmlUrl="https://www.utrecht.nl/nieuws/rss.xml" />
+    <outline type="rss" text="Gouvernement de la Nouvelle-Calédonie — Séances" title="Gouvernement de la Nouvelle-Calédonie — Séances" xmlUrl="https://gouv.nc/decisions/rss.xml" />
+    <outline type="rss" text="GOV.UK — Afghanistan communications" title="GOV.UK — Afghanistan communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=afghanistan" />
+    <outline type="rss" text="GOV.UK — Algeria communications" title="GOV.UK — Algeria communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=algeria" />
+    <outline type="rss" text="GOV.UK — Anguilla communications" title="GOV.UK — Anguilla communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=anguilla" />
+    <outline type="rss" text="GOV.UK — Armenia communications" title="GOV.UK — Armenia communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=armenia" />
+    <outline type="rss" text="GOV.UK — Aruba communications" title="GOV.UK — Aruba communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=aruba" />
+    <outline type="rss" text="GOV.UK — Azerbaijan communications" title="GOV.UK — Azerbaijan communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=azerbaijan" />
+    <outline type="rss" text="GOV.UK — Bahrain communications" title="GOV.UK — Bahrain communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=bahrain" />
+    <outline type="rss" text="GOV.UK — Belarus communications" title="GOV.UK — Belarus communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=belarus" />
+    <outline type="rss" text="GOV.UK — Bhutan communications" title="GOV.UK — Bhutan communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=bhutan" />
+    <outline type="rss" text="GOV.UK — Bonaire/St Eustatius/Saba communications" title="GOV.UK — Bonaire/St Eustatius/Saba communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=bonaire-st-eustatius-saba" />
+    <outline type="rss" text="GOV.UK — British Antarctic Territory communications" title="GOV.UK — British Antarctic Territory communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=british-antarctic-territory" />
+    <outline type="rss" text="GOV.UK — British Virgin Islands communications" title="GOV.UK — British Virgin Islands communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=british-virgin-islands" />
+    <outline type="rss" text="GOV.UK — Brunei communications" title="GOV.UK — Brunei communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=brunei" />
+    <outline type="rss" text="GOV.UK — Burkina Faso communications" title="GOV.UK — Burkina Faso communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=burkina-faso" />
+    <outline type="rss" text="GOV.UK — Cape Verde communications" title="GOV.UK — Cape Verde communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=cape-verde" />
+    <outline type="rss" text="GOV.UK — Comoros communications" title="GOV.UK — Comoros communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=comoros" />
+    <outline type="rss" text="GOV.UK — Cote d’Ivoire communications" title="GOV.UK — Cote d’Ivoire communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=cote-d-ivoire" />
+    <outline type="rss" text="GOV.UK — Dominican Republic communications" title="GOV.UK — Dominican Republic communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=dominican-republic" />
+    <outline type="rss" text="GOV.UK — El Salvador communications" title="GOV.UK — El Salvador communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=el-salvador" />
+    <outline type="rss" text="GOV.UK — Falkland Islands communications" title="GOV.UK — Falkland Islands communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=falkland-islands" />
+    <outline type="rss" text="GOV.UK — Georgia communications" title="GOV.UK — Georgia communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=georgia" />
+    <outline type="rss" text="GOV.UK — Guinea-Bissau communications" title="GOV.UK — Guinea-Bissau communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=guinea-bissau" />
+    <outline type="rss" text="GOV.UK — Holy See communications" title="GOV.UK — Holy See communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=holy-see" />
+    <outline type="rss" text="GOV.UK — India communications" title="GOV.UK — India communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=india" />
+    <outline type="rss" text="GOV.UK — Iran communications" title="GOV.UK — Iran communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=iran" />
+    <outline type="rss" text="GOV.UK — Israel communications" title="GOV.UK — Israel communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=israel" />
+    <outline type="rss" text="GOV.UK — Kosovo communications" title="GOV.UK — Kosovo communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=kosovo" />
+    <outline type="rss" text="GOV.UK — Kyrgyzstan communications" title="GOV.UK — Kyrgyzstan communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=kyrgyzstan" />
+    <outline type="rss" text="GOV.UK — Lebanon communications" title="GOV.UK — Lebanon communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=lebanon" />
+    <outline type="rss" text="GOV.UK — Macao communications" title="GOV.UK — Macao communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=macao" />
+    <outline type="rss" text="GOV.UK — Madagascar communications" title="GOV.UK — Madagascar communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=madagascar" />
+    <outline type="rss" text="GOV.UK — Malawi communications" title="GOV.UK — Malawi communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=malawi" />
+    <outline type="rss" text="GOV.UK — Maldives communications" title="GOV.UK — Maldives communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=maldives" />
+    <outline type="rss" text="GOV.UK — Malta communications" title="GOV.UK — Malta communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=malta" />
+    <outline type="rss" text="GOV.UK — Marshall Islands communications" title="GOV.UK — Marshall Islands communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=marshall-islands" />
+    <outline type="rss" text="GOV.UK — Mauritania communications" title="GOV.UK — Mauritania communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=mauritania" />
+    <outline type="rss" text="GOV.UK — Mexico communications" title="GOV.UK — Mexico communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=mexico" />
+    <outline type="rss" text="GOV.UK — Myanmar communications" title="GOV.UK — Myanmar communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=myanmar" />
+    <outline type="rss" text="GOV.UK — Nauru communications" title="GOV.UK — Nauru communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=nauru" />
+    <outline type="rss" text="GOV.UK — North Korea communications" title="GOV.UK — North Korea communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=north-korea" />
+    <outline type="rss" text="GOV.UK — Pakistan communications" title="GOV.UK — Pakistan communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=pakistan" />
+    <outline type="rss" text="GOV.UK — Palestine communications" title="GOV.UK — Palestine communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=palestine" />
+    <outline type="rss" text="GOV.UK — Philippines communications" title="GOV.UK — Philippines communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=philippines" />
+    <outline type="rss" text="GOV.UK — Pitcairn Island communications" title="GOV.UK — Pitcairn Island communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=pitcairn-island" />
+    <outline type="rss" text="GOV.UK — Qatar communications" title="GOV.UK — Qatar communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=qatar" />
+    <outline type="rss" text="GOV.UK — Saudi Arabia communications" title="GOV.UK — Saudi Arabia communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=saudi-arabia" />
+    <outline type="rss" text="GOV.UK — Sudan communications" title="GOV.UK — Sudan communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=sudan" />
+    <outline type="rss" text="GOV.UK — Syria communications" title="GOV.UK — Syria communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=syria" />
+    <outline type="rss" text="GOV.UK — Tajikistan communications" title="GOV.UK — Tajikistan communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=tajikistan" />
+    <outline type="rss" text="GOV.UK — United Arab Emirates communications" title="GOV.UK — United Arab Emirates communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=united-arab-emirates" />
+    <outline type="rss" text="GOV.UK — Uzbekistan communications" title="GOV.UK — Uzbekistan communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=uzbekistan" />
+    <outline type="rss" text="GOV.UK — Western Sahara communications" title="GOV.UK — Western Sahara communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=western-sahara" />
+    <outline type="rss" text="GOV.UK — Yemen communications" title="GOV.UK — Yemen communications" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?world_locations%5B%5D=yemen" />
     <outline type="rss" text="Government of Canada news releases" title="Government of Canada news releases" xmlUrl="https://api.io.canada.ca/io-server/gc/news/en/v2?type=newsreleases&amp;sort=publishedDate&amp;orderBy=desc&amp;pick=100&amp;format=atom&amp;atomtitle=news%20releases" />
+    <outline type="rss" text="Government of Iceland" title="Government of Iceland" xmlUrl="https://www.stjornarradid.is/api/documents/views/frettir-news-articles/Grindavik/rss" />
+    <outline type="rss" text="Government of South Georgia and the South Sandwich Islands" title="Government of South Georgia and the South Sandwich Islands" xmlUrl="https://gov.gs/feed/" />
+    <outline type="rss" text="Government of the U.S. Virgin Islands" title="Government of the U.S. Virgin Islands" xmlUrl="https://www.vi.gov/feed/" />
+    <outline type="rss" text="Governor of Svalbard" title="Governor of Svalbard" xmlUrl="https://www.sysselmesteren.no/nb/nyheter/rss" />
+    <outline type="rss" text="Governor of Svalbard English news" title="Governor of Svalbard English news" xmlUrl="https://www.sysselmesteren.no/en/news/rss" />
     <outline type="rss" text="GovInfo" title="GovInfo" xmlUrl="https://www.govinfo.gov/rss.xml" />
     <outline type="rss" text="GovInfo" title="GovInfo" xmlUrl="https://www.govinfo.gov/rss/bills-bulkdata.xml" />
     <outline type="rss" text="GovInfo" title="GovInfo" xmlUrl="https://www.govinfo.gov/rss/bills.xml" />
@@ -128,13 +205,26 @@
     <outline type="rss" text="GovInfo" title="GovInfo" xmlUrl="https://www.govinfo.gov/rss/uscourts-wyb.xml" />
     <outline type="rss" text="GovInfo" title="GovInfo" xmlUrl="https://www.govinfo.gov/rss/uscourts-wyd.xml" />
     <outline type="rss" text="GovInfo" title="GovInfo" xmlUrl="https://www.govinfo.gov/rss/usreports.xml" />
+    <outline type="rss" text="Guadeloupe Prefecture" title="Guadeloupe Prefecture" xmlUrl="https://www.guadeloupe.gouv.fr/syndication/flux/rss_feed_72" />
+    <outline type="rss" text="Guadeloupe regional council" title="Guadeloupe regional council" xmlUrl="https://www.regionguadeloupe.fr/spip.php?page=backend" />
     <outline type="rss" text="Herzele municipal publication feeds" title="Herzele municipal publication feeds" xmlUrl="https://www.herzele.be/Nieuws/rss" />
     <outline type="rss" text="Herzele municipal publication feeds" title="Herzele municipal publication feeds" xmlUrl="https://www.herzele.be/Events/rss" />
     <outline type="rss" text="Herzele municipal publication feeds" title="Herzele municipal publication feeds" xmlUrl="https://www.herzele.be/nieuws/rss" />
     <outline type="rss" text="IBGE News Agency" title="IBGE News Agency" xmlUrl="https://agenciadenoticias.ibge.gov.br/agencia-rss" />
+    <outline type="rss" text="Institute for Development Policy Kosovo" title="Institute for Development Policy Kosovo" xmlUrl="https://indep.info/feed/" />
+    <outline type="rss" text="Japan Cabinet Office" title="Japan Cabinet Office" xmlUrl="https://www.cao.go.jp/rss/news.rdf" />
+    <outline type="rss" text="Korea Ministry of the Interior and Safety" title="Korea Ministry of the Interior and Safety" xmlUrl="https://www.mois.go.kr/gpms/view/jsp/rss/rss.jsp?ctxCd=1013" />
+    <outline type="rss" text="La Réunion Prefecture" title="La Réunion Prefecture" xmlUrl="https://www.reunion.gouv.fr/syndication/flux/rss_feed_69" />
+    <outline type="rss" text="Local Authorities of Jamaica" title="Local Authorities of Jamaica" xmlUrl="https://localauthorities.gov.jm/feed/local-authorities.xml" />
     <outline type="rss" text="Maasmechelen municipal publication feeds" title="Maasmechelen municipal publication feeds" xmlUrl="https://www.maasmechelen.be/Nieuws/rss" />
     <outline type="rss" text="Maasmechelen municipal publication feeds" title="Maasmechelen municipal publication feeds" xmlUrl="https://www.maasmechelen.be/nieuws/rss" />
+    <outline type="rss" text="Malta Competition and Consumer Affairs Authority" title="Malta Competition and Consumer Affairs Authority" xmlUrl="https://mccaa.org.mt/feed/" />
+    <outline type="rss" text="Mauritius Revenue Authority" title="Mauritius Revenue Authority" xmlUrl="https://www.mra.mu/index.php?format=feed&amp;type=rss" />
+    <outline type="rss" text="Ministry of Religious Affairs City of Yogyakarta" title="Ministry of Religious Affairs City of Yogyakarta" xmlUrl="https://yogyakartakota.kemenag.go.id/ppid/rss.xml" />
+    <outline type="rss" text="Myndigheten för civilt försvar" title="Myndigheten för civilt försvar" xmlUrl="https://www.mcf.se/sv/rss-floden/rss-alla-nyheter-fran-myndigheten-for-civilt-forsvar/" />
     <outline type="rss" text="New Mandala" title="New Mandala" xmlUrl="https://www.newmandala.org/feed/" />
+    <outline type="rss" text="Odense Kommune" title="Odense Kommune" xmlUrl="https://www.odense.dk/feed.aspx" />
+    <outline type="rss" text="Office for Product Safety and Standards" title="Office for Product Safety and Standards" xmlUrl="https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=office-for-product-safety-and-standards" />
     <outline type="rss" text="Parliament of Wallonia publication feeds" title="Parliament of Wallonia publication feeds" xmlUrl="https://www.parlement-wallonie.be/actu/rss_cal_generator.php?aff=rss" />
     <outline type="rss" text="Parliament of Wallonia publication feeds" title="Parliament of Wallonia publication feeds" xmlUrl="https://www.parlement-wallonie.be/actu/rss_doc_generator.php" />
     <outline type="rss" text="Parliament of Wallonia publication feeds" title="Parliament of Wallonia publication feeds" xmlUrl="https://www.parlement-wallonie.be/actu/rss_doc_generator.php?aff=rss&amp;type=parch" />
@@ -144,8 +234,20 @@
     <outline type="rss" text="Parliament of Wallonia publication feeds" title="Parliament of Wallonia publication feeds" xmlUrl="https://www.parlement-wallonie.be/actu/rss_doc_generator.php?aff=rss&amp;type=res" />
     <outline type="rss" text="Parliament of Wallonia publication feeds" title="Parliament of Wallonia publication feeds" xmlUrl="https://www.parlement-wallonie.be/actu/rss_pod_generator.php?aff=rss" />
     <outline type="rss" text="Parliament of Wallonia publication feeds" title="Parliament of Wallonia publication feeds" xmlUrl="https://www.parlement-wallonie.be/flux-rss/feed" />
+    <outline type="rss" text="Porta Vendore" title="Porta Vendore" xmlUrl="https://portavendore.al/feed/" />
+    <outline type="rss" text="Préfecture de Saint-Pierre-et-Miquelon" title="Préfecture de Saint-Pierre-et-Miquelon" xmlUrl="https://www.saint-pierre-et-miquelon.gouv.fr/syndication/flux/actualites" />
+    <outline type="rss" text="Préfecture Saint-Barthélemy et Saint-Martin" title="Préfecture Saint-Barthélemy et Saint-Martin" xmlUrl="https://www.saint-barth-saint-martin.gouv.fr/syndication/flux/rss_feed_66" />
+    <outline type="rss" text="Présidence du Tchad" title="Présidence du Tchad" xmlUrl="https://presidence.td/feed/" />
+    <outline type="rss" text="Setomaa Rural Municipality" title="Setomaa Rural Municipality" xmlUrl="https://setomaa.ee/feed/" />
+    <outline type="rss" text="Shire of Cocos (Keeling) Islands" title="Shire of Cocos (Keeling) Islands" xmlUrl="https://shire.cc/en/?format=feed&amp;type=rss" />
+    <outline type="rss" text="Shire of Cocos (Keeling) Islands" title="Shire of Cocos (Keeling) Islands" xmlUrl="https://shire.cc/en/?format=feed&amp;type=atom" />
     <outline type="rss" text="Sint-Pieters-Leeuw municipal publication feeds" title="Sint-Pieters-Leeuw municipal publication feeds" xmlUrl="https://www.sint-pieters-leeuw.be/rss/nieuws.rss" />
     <outline type="rss" text="Sint-Pieters-Leeuw municipal publication feeds" title="Sint-Pieters-Leeuw municipal publication feeds" xmlUrl="https://www.sint-pieters-leeuw.be/rss/activiteiten.rss" />
+    <outline type="rss" text="Statens servicecenter" title="Statens servicecenter" xmlUrl="https://www.statenssc.se/4.14488607168eee7a2b4349/12.14488607168eee7a2b434f.portlet?state=rss&amp;sv.contenttype=text/xml;charset=UTF-8" />
+    <outline type="rss" text="Sudan Transparency and Policy Tracker" title="Sudan Transparency and Policy Tracker" xmlUrl="https://sudantransparency.org/feed/" />
+    <outline type="rss" text="TAAF Crozet district" title="TAAF Crozet district" xmlUrl="https://ilescrozet.blogspot.com/feeds/posts/default?alt=rss" />
+    <outline type="rss" text="TAAF Kerguelen district" title="TAAF Kerguelen district" xmlUrl="https://ileskerguelen.blogspot.com/feeds/posts/default?alt=rss" />
+    <outline type="rss" text="Thailand Public Relations Department" title="Thailand Public Relations Department" xmlUrl="https://www.thailand.go.th/useful-rss?hl=en" />
     <outline type="rss" text="Union des Villes et Communes de Wallonie publication feeds" title="Union des Villes et Communes de Wallonie publication feeds" xmlUrl="https://www.uvcw.be/rss" />
     <outline type="rss" text="Union des Villes et Communes de Wallonie publication feeds" title="Union des Villes et Communes de Wallonie publication feeds" xmlUrl="https://www.uvcw.be/rss/aide-alimentaire" />
     <outline type="rss" text="Union des Villes et Communes de Wallonie publication feeds" title="Union des Villes et Communes de Wallonie publication feeds" xmlUrl="https://www.uvcw.be/rss/aide-sociale" />

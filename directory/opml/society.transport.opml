@@ -4,10 +4,15 @@
     <title>nws.broker · Transport</title>
   </head>
   <body>
+    <outline type="rss" text="Autoridad del Canal de Panamá" title="Autoridad del Canal de Panamá" xmlUrl="https://pancanal.com/en/feed/" />
+    <outline type="rss" text="Barbados Port Inc." title="Barbados Port Inc." xmlUrl="https://barbadosport.com/feed/" />
     <outline type="rss" text="BikeEXIF" title="BikeEXIF" xmlUrl="https://www.bikeexif.com/feed" />
     <outline type="rss" text="BMWBLOG" title="BMWBLOG" xmlUrl="https://feeds.feedburner.com/BmwBlog" />
+    <outline type="rss" text="Canal de Panamá" title="Canal de Panamá" xmlUrl="https://pancanal.com/feed/" />
     <outline type="rss" text="Car Body Design" title="Car Body Design" xmlUrl="https://www.carbodydesign.com/feed/" />
     <outline type="rss" text="Carscoops" title="Carscoops" xmlUrl="https://www.carscoops.com/feed/" />
+    <outline type="rss" text="Direction des transports terrestres" title="Direction des transports terrestres" xmlUrl="https://www.service-public.pf/dtt/feed/" />
+    <outline type="rss" text="Estonian Transport Administration" title="Estonian Transport Administration" xmlUrl="https://transpordiamet.ee/rss-feeds/rss.xml" />
     <outline type="rss" text="European Union Aviation Safety Agency" title="European Union Aviation Safety Agency" xmlUrl="https://www.easa.europa.eu/en/document-library/acceptable-means-of-compliance-and-guidance-material/feed.xml" />
     <outline type="rss" text="European Union Aviation Safety Agency" title="European Union Aviation Safety Agency" xmlUrl="https://www.easa.europa.eu/en/document-library/agency-decisions/feed.xml" />
     <outline type="rss" text="European Union Aviation Safety Agency" title="European Union Aviation Safety Agency" xmlUrl="https://www.easa.europa.eu/en/document-library/certification-specifications/feed.xml" />
@@ -15,8 +20,17 @@
     <outline type="rss" text="European Union Aviation Safety Agency" title="European Union Aviation Safety Agency" xmlUrl="https://www.easa.europa.eu/en/document-library/notices-of-proposed-amendment/feed.xml" />
     <outline type="rss" text="European Union Aviation Safety Agency" title="European Union Aviation Safety Agency" xmlUrl="https://www.easa.europa.eu/en/document-library/research-reports/feed.xml" />
     <outline type="rss" text="European Union Aviation Safety Agency" title="European Union Aviation Safety Agency" xmlUrl="https://www.easa.europa.eu/en/document-library/terms-of-reference-and-group-compositions/feed.xml" />
+    <outline type="rss" text="Hong Kong Transport Department" title="Hong Kong Transport Department" xmlUrl="https://www.td.gov.hk/en/special_news/spnews_rss.xml" />
+    <outline type="rss" text="Hong Kong Transport Department" title="Hong Kong Transport Department" xmlUrl="https://www.td.gov.hk/filemanager/rss/en/traffic_notices.xml" />
+    <outline type="rss" text="Infrastructure Cook Islands" title="Infrastructure Cook Islands" xmlUrl="https://ici.gov.ck/feed/" />
+    <outline type="rss" text="Instituto Dominicano de Aviación Civil" title="Instituto Dominicano de Aviación Civil" xmlUrl="https://www.idac.gob.do/es/feed/" />
     <outline type="rss" text="Jalopnik - Obsessed with the culture of cars" title="Jalopnik - Obsessed with the culture of cars" xmlUrl="https://jalopnik.com/rss" />
     <outline type="rss" text="Latest Content - Car and Driver" title="Latest Content - Car and Driver" xmlUrl="https://www.caranddriver.com/rss/all.xml/" />
+    <outline type="rss" text="National Institute of Standards and Technology" title="National Institute of Standards and Technology" xmlUrl="https://www.nist.gov/news-events/transportation/rss.xml" />
+    <outline type="rss" text="Network Rail Media Centre" title="Network Rail Media Centre" xmlUrl="https://www.networkrailmediacentre.co.uk/feed/rss" />
+    <outline type="rss" text="Papua New Guinea Accident Investigation Commission" title="Papua New Guinea Accident Investigation Commission" xmlUrl="https://aic.gov.pg/daily-news-rss-feed.xml" />
+    <outline type="rss" text="Port Authority of Jamaica" title="Port Authority of Jamaica" xmlUrl="https://portauthorityofjamaica.azurewebsites.net/feed/" />
+    <outline type="rss" text="Port Authority of Trinidad and Tobago" title="Port Authority of Trinidad and Tobago" xmlUrl="https://www.patnt.com/feed/" />
     <outline type="rss" text="Railway Technology" title="Railway Technology" xmlUrl="https://www.railway-technology.com/feed/" />
     <outline type="rss" text="Strong Towns" title="Strong Towns" xmlUrl="https://www.strongtowns.org/journal/rss.xml" />
     <outline type="rss" text="The best vintage and classic cars for sale online | Bring a Trailer" title="The best vintage and classic cars for sale online | Bring a Trailer" xmlUrl="https://bringatrailer.com/feed/" />

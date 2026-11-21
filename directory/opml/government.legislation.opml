@@ -18,11 +18,54 @@
     <outline type="rss" text="BOE RSS / open-data API" title="BOE RSS / open-data API" xmlUrl="https://www.boe.es/rss/canal_per.php?l=p&amp;c=141" />
     <outline type="rss" text="Carnet de route en droit immobilier" title="Carnet de route en droit immobilier" xmlUrl="https://gillescarnoy.be/feed/" />
     <outline type="rss" text="Carnet de route en droit immobilier" title="Carnet de route en droit immobilier" xmlUrl="https://gillescarnoy.be/comments/feed/" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/aktuellethemen.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/arbeitsoziales.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/auswaertiges.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/bauwohnenstadtentwicklungkommunen.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/bildung.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/digitales.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/drucksachen.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/entwicklung.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/eu.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/familie.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/finanzen.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/haushalt.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/hib.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/inneres.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/kultur.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/landwirtschafternaehrung.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/menschenrechte.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/petitionen.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/plenarprotokolle.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/pressemitteilungen.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/recht.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/sport.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/stellenausschreibungen.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/tagesordnungen.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/tourismus.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/umwelt.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/verkehr.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/verteidigung.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/wirtschaft.rss" />
+    <outline type="rss" text="Deutscher Bundestag" title="Deutscher Bundestag" xmlUrl="https://www.bundestag.de/static/appdata/includes/rss/wissenschaftlichedienste.rss" />
     <outline type="rss" text="EQUAL Partners legal news" title="EQUAL Partners legal news" xmlUrl="https://www.equal-partners.eu/feed.rss" />
     <outline type="rss" text="EUR-Lex predefined feeds / custom alerts" title="EUR-Lex predefined feeds / custom alerts" xmlUrl="https://eur-lex.europa.eu/EN/display-feed.rss?rssId=162" />
     <outline type="rss" text="EUR-Lex predefined feeds / custom alerts" title="EUR-Lex predefined feeds / custom alerts" xmlUrl="https://eur-lex.europa.eu/EN/display-feed.rss?rssId=165" />
     <outline type="rss" text="European Data Protection Board" title="European Data Protection Board" xmlUrl="https://www.edpb.europa.eu/feed/news_en" />
     <outline type="rss" text="European Data Protection Board" title="European Data Protection Board" xmlUrl="https://www.edpb.europa.eu/feed/publications_en" />
+    <outline type="rss" text="Government of Jersey official notices" title="Government of Jersey official notices" xmlUrl="https://www.gov.je/RSSFeeds/RSSGazette.rss" />
+    <outline type="rss" text="Guernsey Financial Services Commission" title="Guernsey Financial Services Commission" xmlUrl="https://www.gfsc.gg/article.xml?tid=56" />
     <outline type="rss" text="Jubel legal-editorial publication" title="Jubel legal-editorial publication" xmlUrl="https://www.jubel.be/fr/feed/" />
+    <outline type="rss" text="Kosovo Law Institute" title="Kosovo Law Institute" xmlUrl="https://kli-ks.org/feed/" />
+    <outline type="rss" text="Legislative Herald of Georgia" title="Legislative Herald of Georgia" xmlUrl="https://matsne.gov.ge/en/document/feed" />
+    <outline type="rss" text="LEX.UZ National Legislation Database" title="LEX.UZ National Legislation Database" xmlUrl="https://lex.uz/en/rss" />
+    <outline type="rss" text="National Assembly of the Republic of Bulgaria" title="National Assembly of the Republic of Bulgaria" xmlUrl="https://www.parliament.bg/feed/bills" />
+    <outline type="rss" text="National Assembly of the Republic of Bulgaria" title="National Assembly of the Republic of Bulgaria" xmlUrl="https://www.parliament.bg/feed/laws" />
+    <outline type="rss" text="National Assembly of the Republic of Bulgaria" title="National Assembly of the Republic of Bulgaria" xmlUrl="https://www.parliament.bg/feed/plenary" />
+    <outline type="rss" text="Office of the President, Taiwan" title="Office of the President, Taiwan" xmlUrl="https://www.president.gov.tw/RSSGazette.aspx" />
+    <outline type="rss" text="Sint Maarten Parliament" title="Sint Maarten Parliament" xmlUrl="https://sxmparliament.org/feed/" />
+    <outline type="rss" text="Torbay Council" title="Torbay Council" xmlUrl="https://www.torbay.gov.uk/DemocraticServices/mgRss.aspx?f=7" />
+    <outline type="rss" text="Torbay Council" title="Torbay Council" xmlUrl="https://www.torbay.gov.uk/news-rss/" />
+    <outline type="rss" text="Veritas Zimbabwe" title="Veritas Zimbabwe" xmlUrl="https://veritaszim.net/rss.xml" />
   </body>
 </opml>

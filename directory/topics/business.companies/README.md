@@ -2,13 +2,13 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/business.companies.opml)
 
-38 endpoint records.
+39 endpoint records.
 
-## Verified (9)
+## Verified (10)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–9](verified-001.md) · feld.com to The Intercom Blog
+- [1–10](verified-001.md) · feld.com to The Intercom Blog
 
 ## Needs review (29)
 

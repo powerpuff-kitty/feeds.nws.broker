@@ -2,13 +2,13 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/health.research.opml)
 
-35 endpoint records.
+38 endpoint records.
 
-## Verified (32)
+## Verified (35)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–32](verified-001.md) · Belgian Health Care Knowledge Centre publication feeds to European Medicines Agency
+- [1–35](verified-001.md) · Belgian Health Care Knowledge Centre publication feeds to Turkish Journal of Medical Sciences
 
 ## Needs review (3)
 

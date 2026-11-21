@@ -2,13 +2,13 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/technology.opml)
 
-181 endpoint records.
+190 endpoint records.
 
-## Verified (81)
+## Verified (90)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–81](verified-001.md) · 404 Media to Yangcanggih
+- [1–90](verified-001.md) · 404 Media to Yangcanggih
 
 ## Needs review (100)
 

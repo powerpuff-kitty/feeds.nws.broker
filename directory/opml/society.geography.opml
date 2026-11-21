@@ -3,5 +3,21 @@
   <head>
     <title>nws.broker · Maps and geography</title>
   </head>
-  <body />
+  <body>
+    <outline type="rss" text="Famine Early Warning Systems Network" title="Famine Early Warning Systems Network" xmlUrl="https://fews.net/fr/taxonomy/term/626/feed" />
+    <outline type="rss" text="Instituto Geográfico Militar Ecuador" title="Instituto Geográfico Militar Ecuador" xmlUrl="https://www.geoportaligm.gob.ec/portal/index.php/feed/" />
+    <outline type="rss" text="Instituto Nicaragüense de Estudios Territoriales" title="Instituto Nicaragüense de Estudios Territoriales" xmlUrl="https://www.ineter.gob.ni/feed/" />
+    <outline type="rss" text="OpenStreetMap — mapping community blogs" title="OpenStreetMap — mapping community blogs" xmlUrl="https://blogs.openstreetmap.org/rss20.xml" />
+    <outline type="rss" text="OpenStreetMap — OpenStreetMap Foundation blog" title="OpenStreetMap — OpenStreetMap Foundation blog" xmlUrl="https://blog.openstreetmap.org/feed/" />
+    <outline type="rss" text="OpenStreetMap — OpenStreetMap Foundation blog" title="OpenStreetMap — OpenStreetMap Foundation blog" xmlUrl="https://blog.openstreetmap.org/rsslatest.xml" />
+    <outline type="rss" text="Po Ve Sham - Muki Haklay's personal blog" title="Po Ve Sham - Muki Haklay's personal blog" xmlUrl="https://povesham.wordpress.com/tag/openstreetmap/feed/" />
+    <outline type="rss" text="ResultMaps — Pascal Neis" title="ResultMaps — Pascal Neis" xmlUrl="https://resultmaps.neis-one.org/osm-notes-country-feed?c=Bouvet%20Island&amp;a=closed" />
+    <outline type="rss" text="ResultMaps — Pascal Neis" title="ResultMaps — Pascal Neis" xmlUrl="https://resultmaps.neis-one.org/osm-notes-country-feed?c=Bouvet%20Island&amp;a=opened" />
+    <outline type="rss" text="ResultMaps — Pascal Neis" title="ResultMaps — Pascal Neis" xmlUrl="https://resultmaps.neis-one.org/osm-notes-country-feed?c=Bouvet%20Island&amp;a=commented" />
+    <outline type="rss" text="ResultMaps — Pascal Neis" title="ResultMaps — Pascal Neis" xmlUrl="https://resultmaps.neis-one.org/osm-notes-country-feed?c=Bouvet%20Island&amp;a=reopened" />
+    <outline type="rss" text="RSS Feed - All posts with tag &quot;openstreetmap&quot;" title="RSS Feed - All posts with tag &quot;openstreetmap&quot;" xmlUrl="https://derickrethans.nl/feed-openstreetmap.xml" />
+    <outline type="rss" text="Scanning Pages" title="Scanning Pages" xmlUrl="https://scanningpages.wordpress.com/category/openstreetmap/feed/" />
+    <outline type="rss" text="Tokelau Pictures — atoll photo archive" title="Tokelau Pictures — atoll photo archive" xmlUrl="https://tokelaupictures.wordpress.com/feed/" />
+    <outline type="rss" text="WeeklyOSM" title="WeeklyOSM" xmlUrl="https://weeklyosm.eu/feed.xml" />
+  </body>
 </opml>

@@ -2,22 +2,22 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/environment.opml)
 
-58 endpoint records.
+96 endpoint records.
 
-## Verified (48)
+## Verified (81)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–48](verified-001.md) · Bionic Planet: Reversing Climate Change by Restoring Nature to Yale Environment 360
+- [1–81](verified-001.md) · Agencia Tierra Viva to Ålands Natur och Miljö
 
-## Needs review (5)
+## Needs review (9)
 
 The record needs follow-up, for example on access, format, or parsing.
 
-- [1–5](needs_review-001.md) · &quot;Human Nature&quot; Blog Feed to European Environment Agency
+- [1–9](needs_review-001.md) · &quot;Human Nature&quot; Blog Feed to PacIOOS — Palmyra Atoll water quality
 
-## Unavailable (5)
+## Unavailable (6)
 
 The endpoint was unavailable at the recorded check.
 
-- [1–5](unavailable-001.md) · EMIS environmental information system (VITO) to EMIS environmental information system (VITO)
+- [1–6](unavailable-001.md) · EMIS environmental information system (VITO) to Mongabay — Ivory Coast conservation reporting

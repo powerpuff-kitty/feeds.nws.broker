@@ -2,13 +2,13 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/technology.security.opml)
 
-38 endpoint records.
+39 endpoint records.
 
-## Verified (27)
+## Verified (28)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–27](verified-001.md) · CERT-EU public security publications to The Hacker News
+- [1–28](verified-001.md) · CERT-EU public security publications to The Hacker News
 
 ## Needs review (10)
 

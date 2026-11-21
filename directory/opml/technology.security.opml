@@ -18,6 +18,7 @@
     <outline type="rss" text="CISA KEV catalogue" title="CISA KEV catalogue" xmlUrl="https://www.cisa.gov/cybersecurity-advisories/analysis-reports.xml" />
     <outline type="rss" text="CISA KEV catalogue" title="CISA KEV catalogue" xmlUrl="https://www.cisa.gov/cybersecurity-advisories/ics-medical-advisories.xml" />
     <outline type="rss" text="CISA KEV catalogue" title="CISA KEV catalogue" xmlUrl="https://www.cisa.gov/news.xml" />
+    <outline type="rss" text="Cyprus Computer Security Incident Response Team" title="Cyprus Computer Security Incident Response Team" xmlUrl="https://csirt.cy/?format=feed&amp;type=rss" />
     <outline type="rss" text="Darknet Diaries" title="Darknet Diaries" xmlUrl="https://feeds.megaphone.fm/darknetdiaries" />
     <outline type="rss" text="Hacking Humans" title="Hacking Humans" xmlUrl="https://feeds.megaphone.fm/hacking-humans" />
     <outline type="rss" text="Latest news" title="Latest news" xmlUrl="https://www.zdnet.com/topic/security/rss.xml" />

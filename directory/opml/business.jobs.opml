@@ -4,6 +4,7 @@
     <title>nws.broker · Jobs and employment</title>
   </head>
   <body>
+    <outline type="rss" text="Arab Times Kuwait" title="Arab Times Kuwait" xmlUrl="https://www.arabtimesonline.com/rssFeed/81/" />
     <outline type="rss" text="Cliniques universitaires Saint-Luc public vacancy feeds" title="Cliniques universitaires Saint-Luc public vacancy feeds" xmlUrl="https://jobs.saintluc.be/handlers/offerRss.ashx?LCID=1036" />
     <outline type="rss" text="Cliniques universitaires Saint-Luc public vacancy feeds" title="Cliniques universitaires Saint-Luc public vacancy feeds" xmlUrl="https://jobs.saintluc.be/handlers/offerRss.ashx?LCID=1036&amp;Rss_JobFamily=4930" />
     <outline type="rss" text="Cliniques universitaires Saint-Luc public vacancy feeds" title="Cliniques universitaires Saint-Luc public vacancy feeds" xmlUrl="https://jobs.saintluc.be/handlers/offerRss.ashx?LCID=1036&amp;Rss_JobFamily=4745" />
@@ -475,5 +476,10 @@
     <outline type="rss" text="Cliniques universitaires Saint-Luc public vacancy feeds" title="Cliniques universitaires Saint-Luc public vacancy feeds" xmlUrl="https://jobs.saintluc.be/handlers/offerRss.ashx?LCID=1036&amp;Rss_Profile=4890" />
     <outline type="rss" text="Cliniques universitaires Saint-Luc public vacancy feeds" title="Cliniques universitaires Saint-Luc public vacancy feeds" xmlUrl="https://jobs.saintluc.be/handlers/offerRss.ashx?LCID=1036&amp;Rss_Profile=4646" />
     <outline type="rss" text="Cliniques universitaires Saint-Luc public vacancy feeds" title="Cliniques universitaires Saint-Luc public vacancy feeds" xmlUrl="https://jobs.saintluc.be/handlers/offerRss.ashx?LCID=1036&amp;Rss_Profile=4580" />
+    <outline type="rss" text="Gamjobs.com" title="Gamjobs.com" xmlUrl="https://gamjobs.com/feed/" />
+    <outline type="rss" text="Người Lao Động" title="Người Lao Động" xmlUrl="https://tuoitre.vn/nld/rss/nld/lao-dong/viec-lam.rss" />
+    <outline type="rss" text="Polynésie française Direction générale des ressources humaines" title="Polynésie française Direction générale des ressources humaines" xmlUrl="https://www.aravihi.gov.pf/handlers/offerRss.ashx?LCID=1036" />
+    <outline type="rss" text="Prefeitura de Roca Sales" title="Prefeitura de Roca Sales" xmlUrl="https://rocasales.rs.gov.br/feed/concursos.xml" />
+    <outline type="rss" text="Taiwan National Science and Technology Council" title="Taiwan National Science and Technology Council" xmlUrl="https://www.nstc.gov.tw/nstc/rss/hr" />
   </body>
 </opml>

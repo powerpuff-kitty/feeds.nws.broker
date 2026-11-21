@@ -5,8 +5,10 @@
   </head>
   <body>
     <outline type="rss" text="404 Media" title="404 Media" xmlUrl="https://www.404media.co/rss/" />
+    <outline type="rss" text="4253" title="4253" xmlUrl="https://epsg4253.wordpress.com/feed/" />
     <outline type="rss" text="9to5Mac" title="9to5Mac" xmlUrl="https://9to5mac.com/feed" />
     <outline type="rss" text="Analog(ue)" title="Analog(ue)" xmlUrl="https://www.relay.fm/analogue/feed" />
+    <outline type="rss" text="Andrew Harvey's Blog" title="Andrew Harvey's Blog" xmlUrl="https://andrewharvey4.wordpress.com/tag/osm/feed/" />
     <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="https://www.androidauthority.com/feed" />
     <outline type="rss" text="Android Authority Podcast" title="Android Authority Podcast" xmlUrl="https://androidauthority.libsyn.com/rss" />
     <outline type="rss" text="Apple Newsroom" title="Apple Newsroom" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" />
@@ -16,6 +18,9 @@
     <outline type="rss" text="BetaKit" title="BetaKit" xmlUrl="https://betakit.com/feed" />
     <outline type="rss" text="blog.google" title="blog.google" xmlUrl="https://blog.google/products/android/rss" />
     <outline type="rss" text="blog.google" title="blog.google" xmlUrl="https://www.blog.google/rss/" />
+    <outline type="rss" text="blog.jochentopf.com" title="blog.jochentopf.com" xmlUrl="https://blog.jochentopf.com/feed.xml" />
+    <outline type="rss" text="blog.openrailwaymap.org" title="blog.openrailwaymap.org" xmlUrl="https://blog.openrailwaymap.org/en.rss" />
+    <outline type="rss" text="chrisfleming.org" title="chrisfleming.org" xmlUrl="https://chrisfleming.org/atom.xml" />
     <outline type="rss" text="Clockwise" title="Clockwise" xmlUrl="https://www.relay.fm/clockwise/feed" />
     <outline type="rss" text="CNET" title="CNET" xmlUrl="https://www.cnet.com/rss/news/" />
     <outline type="rss" text="CSS Author" title="CSS Author" xmlUrl="https://cssauthor.com/feed/" />
@@ -55,12 +60,15 @@
     <outline type="rss" text="Macworld" title="Macworld" xmlUrl="https://www.macworld.com/index.rss" />
     <outline type="rss" text="Marco.org" title="Marco.org" xmlUrl="https://marco.org/rss" />
     <outline type="rss" text="NN/g latest articles and announcements" title="NN/g latest articles and announcements" xmlUrl="https://www.nngroup.com/feed/rss/" />
+    <outline type="rss" text="Nominatim" title="Nominatim" xmlUrl="https://nominatim.org/feed.xml" />
     <outline type="rss" text="NXT" title="NXT" xmlUrl="https://nxtmag.tech/feed/" />
+    <outline type="rss" text="osm2pgsql.org" title="osm2pgsql.org" xmlUrl="https://osm2pgsql.org/news/feed.xml" />
     <outline type="rss" text="Platformer" title="Platformer" xmlUrl="https://www.platformer.news/rss/" />
     <outline type="rss" text="ReadWrite" title="ReadWrite" xmlUrl="https://readwrite.com/feed/" />
     <outline type="rss" text="Reply All" title="Reply All" xmlUrl="https://feeds.megaphone.fm/replyall" />
     <outline type="rss" text="Rest of World" title="Rest of World" xmlUrl="https://restofworld.org/feed/latest" />
     <outline type="rss" text="Rocket" title="Rocket" xmlUrl="https://www.relay.fm/rocket/feed" />
+    <outline type="rss" text="Shaun McDonald's Blog" title="Shaun McDonald's Blog" xmlUrl="https://blog.shaunmcdonald.me.uk/feed/" />
     <outline type="rss" text="Six Colors" title="Six Colors" xmlUrl="https://sixcolors.com/feed/json/" />
     <outline type="rss" text="Speckyboy" title="Speckyboy" xmlUrl="https://speckyboy.com/feed/" />
     <outline type="rss" text="Techgoondu" title="Techgoondu" xmlUrl="https://www.techgoondu.com/feed/" />
@@ -68,6 +76,7 @@
     <outline type="rss" text="The Loop" title="The Loop" xmlUrl="https://www.loopinsight.com/feed" />
     <outline type="rss" text="The Markup" title="The Markup" xmlUrl="https://themarkup.org/feeds/rss.xml" />
     <outline type="rss" text="The Verge" title="The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" />
+    <outline type="rss" text="TRT Haber" title="TRT Haber" xmlUrl="https://www.trthaber.com/bilim_teknoloji_articles.rss" />
     <outline type="rss" text="UX Collective - Medium" title="UX Collective - Medium" xmlUrl="https://uxdesign.cc/feed" />
     <outline type="rss" text="UX Design Weekly" title="UX Design Weekly" xmlUrl="https://uxdesignweekly.com/feed/" />
     <outline type="rss" text="UX Movement" title="UX Movement" xmlUrl="https://uxmovement.com/feed/" />

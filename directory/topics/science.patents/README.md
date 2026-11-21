@@ -2,7 +2,13 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/science.patents.opml)
 
-23 endpoint records.
+115 endpoint records.
+
+## Verified (92)
+
+The broker successfully parsed the feed at the recorded check.
+
+- [1–92](verified-001.md) · IP5 — Five Intellectual Property Offices to Taiwan Intellectual Property Office
 
 ## Unavailable (23)
 

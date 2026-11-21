@@ -2,14 +2,14 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/science.space.opml)
 
-271 endpoint records.
+274 endpoint records.
 
-## Verified (208)
+## Verified (211)
 
 The broker successfully parsed the feed at the recorded check.
 
 - [1–150](verified-001.md) · AAS Nova research-highlights feeds to NASA SDO solar-product update feeds
-- [151–208](verified-002.md) · NASA SDO solar-product update feeds to Universe Today astronomy publication feeds
+- [151–211](verified-002.md) · NASA SDO solar-product update feeds to Universe Today astronomy publication feeds
 
 ## Needs review (57)
 

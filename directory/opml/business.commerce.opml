@@ -3,5 +3,15 @@
   <head>
     <title>nws.broker · Products and commerce</title>
   </head>
-  <body />
+  <body>
+    <outline type="rss" text="Aruba Free Zone" title="Aruba Free Zone" xmlUrl="https://www.freezonearuba.com/feed/" />
+    <outline type="rss" text="Caribbean Export Development Agency" title="Caribbean Export Development Agency" xmlUrl="https://carib-export.com/en/feed/news" />
+    <outline type="rss" text="Famine Early Warning Systems Network" title="Famine Early Warning Systems Network" xmlUrl="https://fews.net/taxonomy/term/41/feed" />
+    <outline type="rss" text="National Institute of Standards and Technology" title="National Institute of Standards and Technology" xmlUrl="https://www.nist.gov/news-events/manufacturing/rss.xml" />
+    <outline type="rss" text="Portal Único Siscomex" title="Portal Único Siscomex" xmlUrl="https://www.gov.br/siscomex/pt-br/noticias/noticias-siscomex-exportacao/noticias-siscomex-exportacao/rss.xml" />
+    <outline type="rss" text="PRO ECUADOR" title="PRO ECUADOR" xmlUrl="https://www.proecuador.gob.ec/feed/" />
+    <outline type="rss" text="TanzaniaInvest" title="TanzaniaInvest" xmlUrl="https://www.tanzaniainvest.com/feed" />
+    <outline type="rss" text="TradeMark Africa" title="TradeMark Africa" xmlUrl="https://trademarkafrica.com/feed/" />
+    <outline type="rss" text="VnExpress" title="VnExpress" xmlUrl="https://vnexpress.net/rss/bat-dong-san.rss" />
+  </body>
 </opml>

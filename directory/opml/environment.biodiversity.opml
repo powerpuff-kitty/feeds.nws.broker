@@ -5,15 +5,29 @@
   </head>
   <body>
     <outline type="rss" text="Active Wild" title="Active Wild" xmlUrl="https://www.activewild.com/feed/" />
+    <outline type="rss" text="Antarctic and Southern Ocean Coalition — Bouvet Island search results" title="Antarctic and Southern Ocean Coalition — Bouvet Island search results" xmlUrl="https://www.asoc.org/search/Bouvet/feed/rss2/" />
+    <outline type="rss" text="Antarctic research coverage at Mongabay" title="Antarctic research coverage at Mongabay" xmlUrl="https://news.mongabay.com/feed/?s=&amp;type=post&amp;location=antarctica" />
+    <outline type="rss" text="Bahamas National Trust" title="Bahamas National Trust" xmlUrl="https://bnt.bs/feed/" />
     <outline type="rss" text="BLOG POSTS – Mark Avery" title="BLOG POSTS – Mark Avery" xmlUrl="https://markavery.info/blog/feed/" />
     <outline type="rss" text="Blog | Nature | PBS" title="Blog | Nature | PBS" xmlUrl="https://www.pbs.org/wnet/nature/blog/feed/" />
+    <outline type="rss" text="BVI National Parks Trust" title="BVI National Parks Trust" xmlUrl="https://www.bvinpt.org/blog-feed.xml" />
+    <outline type="rss" text="Friends of Midway Atoll" title="Friends of Midway Atoll" xmlUrl="https://friendsofmidway.org/feed/" />
+    <outline type="rss" text="Friends of the Mariana Trench" title="Friends of the Mariana Trench" xmlUrl="https://www.friendsmarianatrench.org/feed/" />
+    <outline type="rss" text="Instituto da Biodiversidade e das Áreas Protegidas" title="Instituto da Biodiversidade e das Áreas Protegidas" xmlUrl="https://ibapgbissau.org/feed/" />
     <outline type="rss" text="Mongabay" title="Mongabay" xmlUrl="https://news.mongabay.com/feed/?post_type=post&amp;feedtype=bulletpoints&amp;location=indonesia" />
     <outline type="rss" text="Mongabay" title="Mongabay" xmlUrl="https://news.mongabay.com/?feed=custom&amp;s=&amp;post_type=posts&amp;topic=" />
     <outline type="rss" text="Mongabay" title="Mongabay" xmlUrl="https://news.mongabay.com/?feed=custom&amp;s=&amp;post_type=posts&amp;topic=marine-conservation" />
     <outline type="rss" text="Mongabay" title="Mongabay" xmlUrl="https://news.mongabay.com/feed/" />
+    <outline type="rss" text="Nature Foundation Sint Maarten" title="Nature Foundation Sint Maarten" xmlUrl="https://naturefoundationsxm.org/feed/" />
+    <outline type="rss" text="Nature Seychelles" title="Nature Seychelles" xmlUrl="https://natureseychelles.org/feed/" />
+    <outline type="rss" text="Pacific Bee Foundation sanctuary" title="Pacific Bee Foundation sanctuary" xmlUrl="https://www.pacificbeefoundation.org/feed/" />
+    <outline type="rss" text="Pacific Islands Heritage Coalition" title="Pacific Islands Heritage Coalition" xmlUrl="https://protectpih.org/feed/" />
     <outline type="rss" text="Reflections of the Natural World" title="Reflections of the Natural World" xmlUrl="https://reflectionsofthenaturalworld.com/feed/" />
     <outline type="rss" text="rss.acast.com" title="rss.acast.com" xmlUrl="https://rss.acast.com/bbcearthpodcast" />
     <outline type="rss" text="rss.acast.com" title="rss.acast.com" xmlUrl="https://rss.acast.com/harrypottersacredtext" />
+    <outline type="rss" text="South Georgia Heritage Trust" title="South Georgia Heritage Trust" xmlUrl="https://sght.org/feed/" />
+    <outline type="rss" text="St Helena National Trust" title="St Helena National Trust" xmlUrl="https://www.trust.org.sh/feed/" />
     <outline type="rss" text="Stories Archives - Nature Canada" title="Stories Archives - Nature Canada" xmlUrl="https://naturecanada.ca/category/news/blog/feed/" />
+    <outline type="rss" text="Tuvalu Fisheries Authority" title="Tuvalu Fisheries Authority" xmlUrl="https://tuvalufisheries.tv/feed/" />
   </body>
 </opml>

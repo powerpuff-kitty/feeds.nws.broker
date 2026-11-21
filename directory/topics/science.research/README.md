@@ -2,20 +2,20 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/science.research.opml)
 
-218 endpoint records.
+251 endpoint records.
 
-## Verified (202)
+## Verified (231)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–150](verified-001.md) · arXiv RSS/Atom documentation / API manual to ScienceDaily
-- [151–202](verified-002.md) · ScienceDaily to Turkish Journal of Astronomy and Astrophysics issue feeds
+- [1–150](verified-001.md) · Ancient Cyprus to ScienceDaily
+- [151–231](verified-002.md) · ScienceDaily to Ålands Fredsinstitut
 
-## Needs review (14)
+## Needs review (18)
 
 The record needs follow-up, for example on access, format, or parsing.
 
-- [1–14](needs_review-001.md) · arXiv RSS/Atom documentation / API manual to Zenodo developer documentation
+- [1–18](needs_review-001.md) · arXiv RSS/Atom documentation / API manual to Zenodo developer documentation
 
 ## Unavailable (2)
 

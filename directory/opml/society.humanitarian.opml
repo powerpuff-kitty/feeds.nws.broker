@@ -4,6 +4,13 @@
     <title>nws.broker · Humanitarian information</title>
   </head>
   <body>
+    <outline type="rss" text="Albanian Helsinki Committee" title="Albanian Helsinki Committee" xmlUrl="https://ahc.org.al/feed/" />
+    <outline type="rss" text="Belarusian Association of Journalists" title="Belarusian Association of Journalists" xmlUrl="https://baj.media/be/feed" />
+    <outline type="rss" text="C-Libre" title="C-Libre" xmlUrl="https://clibrehonduras.com/feed/" />
+    <outline type="rss" text="CEDIB" title="CEDIB" xmlUrl="https://www.cedib.org/feed/" />
+    <outline type="rss" text="Chagos Refugees Group culture and heritage" title="Chagos Refugees Group culture and heritage" xmlUrl="https://thechagosrefugeesgroup.com/feed/" />
+    <outline type="rss" text="Chagossian Voices" title="Chagossian Voices" xmlUrl="https://chagossianvoices.org/feed/" />
+    <outline type="rss" text="Famine Early Warning Systems Network" title="Famine Early Warning Systems Network" xmlUrl="https://fews.net/taxonomy/term/537/feed" />
     <outline type="rss" text="Food and Agriculture Organization newsroom" title="Food and Agriculture Organization newsroom" xmlUrl="https://www.fao.org/feeds/fao-newsroom-rss" />
     <outline type="rss" text="Food and Agriculture Organization newsroom" title="Food and Agriculture Organization newsroom" xmlUrl="https://www.fao.org/feeds/fao-newsroom-rss-ru" />
     <outline type="rss" text="Food and Agriculture Organization newsroom" title="Food and Agriculture Organization newsroom" xmlUrl="https://www.fao.org/feeds/fao-newsroom-rss-zh" />
@@ -11,8 +18,10 @@
     <outline type="rss" text="Food and Agriculture Organization newsroom" title="Food and Agriculture Organization newsroom" xmlUrl="https://www.fao.org/members-gateway/news/rss/en/" />
     <outline type="rss" text="Food and Agriculture Organization newsroom" title="Food and Agriculture Organization newsroom" xmlUrl="https://www.fao.org/members-gateway/news/rss/es/" />
     <outline type="rss" text="Food and Agriculture Organization newsroom" title="Food and Agriculture Organization newsroom" xmlUrl="https://www.fao.org/members-gateway/news/rss/fr/" />
+    <outline type="rss" text="Prensa Comunitaria" title="Prensa Comunitaria" xmlUrl="https://prensacomunitaria.org/feed/" />
     <outline type="rss" text="SAAMO community-development publication" title="SAAMO community-development publication" xmlUrl="https://www.saamo.be/feed/" />
     <outline type="rss" text="SAAMO community-development publication" title="SAAMO community-development publication" xmlUrl="https://www.saamo.be/comments/feed/" />
+    <outline type="rss" text="Todas Puerto Rico" title="Todas Puerto Rico" xmlUrl="https://todaspr.com/feed/" />
     <outline type="rss" text="UN Geneva RSS" title="UN Geneva RSS" xmlUrl="https://www.ungeneva.org/news-media/press-releases-list/rss.xml" />
     <outline type="rss" text="UN Geneva RSS" title="UN Geneva RSS" xmlUrl="https://www.ungeneva.org/news-media/meeting-summaries-list/rss.xml" />
     <outline type="rss" text="UN Geneva RSS" title="UN Geneva RSS" xmlUrl="https://www.ungeneva.org/news-media/press-conferences-list/rss.xml" />

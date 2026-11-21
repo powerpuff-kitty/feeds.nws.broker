@@ -4,9 +4,59 @@
     <title>nws.broker · News agencies</title>
   </head>
   <body>
+    <outline type="rss" text="Agence Djiboutienne d’Information" title="Agence Djiboutienne d’Information" xmlUrl="https://www.adi.dj/rss" />
     <outline type="rss" text="Agence France-Presse" title="Agence France-Presse" xmlUrl="https://www.afp.com/en/actus/afp_communique/all/feed" />
     <outline type="rss" text="Agence France-Presse" title="Agence France-Presse" xmlUrl="https://www.afp.com/en/rss.xml" />
     <outline type="rss" text="Agence France-Presse" title="Agence France-Presse" xmlUrl="https://www.afp.com/fr/actus/afp_actualite/792,31,9,7,33/feed" />
+    <outline type="rss" text="Agence Gabonaise de Presse" title="Agence Gabonaise de Presse" xmlUrl="https://agpgabon.ga/feed/" />
+    <outline type="rss" text="Agence Nigérienne de Presse" title="Agence Nigérienne de Presse" xmlUrl="https://anp.ne/feed/" />
+    <outline type="rss" text="Agência Brasil" title="Agência Brasil" xmlUrl="https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/abruzzo/notizie/abruzzo_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/americalatina/noticia/al_nr_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/ansamed/it/rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/ansamednew/ar/notizie/ansamedar_nr_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/basilicata/notizie/basilicata_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/brasil/noticias/ind_nr_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/calabria/notizie/calabria_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/campania/notizie/campania_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/canale_lifestyle/notizie/lifestyle_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/canale_motori/notizie/motori_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/canale_saluteebenessere/notizie/saluteebenessere_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/canale_scienza_tecnica/notizie/scienzaetecnica_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/canale_tecnologia/notizie/tecnologia_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/canale_terraegusto/notizie/terraegusto_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/canale_viaggi/notizie/viaggiart_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/china/notizie/china_nr_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/emiliaromagna/notizie/emiliaromagna_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/english/news/english_nr_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/europa/notizie/rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/friuliveneziagiulia/notizie/friuliveneziagiulia_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/golf/notizie/golf_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/lazio/notizie/lazio_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/liguria/notizie/liguria_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/lombardia/notizie/lombardia_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/marche/notizie/marche_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/molise/notizie/molise_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/nuova_europa/en/rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/nuova_europa/it/rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/piemonte/notizie/piemonte_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/puglia/notizie/puglia_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/sardegna/notizie/sardegna_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/sicilia/notizie/sicilia_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/sito/notizie/cultura/cinema/cinema_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/sito/notizie/cultura/cultura_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/sito/notizie/economia/economia_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/sito/notizie/sport/calcio/calcio_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/sito/notizie/sport/sport_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/sito/notizie/topnews/topnews_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/sito/photogallery/foto_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/sito/videogallery/video_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/toscana/notizie/toscana_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/trentino/notizie/trentino_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/umbria/notizie/umbria_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/valledaosta/notizie/valledaosta_rss.xml" />
+    <outline type="rss" text="ANSA" title="ANSA" xmlUrl="https://www.ansa.it/veneto/notizie/veneto_rss.xml" />
     <outline type="rss" text="ANTARA Bali" title="ANTARA Bali" xmlUrl="https://bali.antaranews.com/rss/terkini.xml" />
     <outline type="rss" text="ANTARA Bali" title="ANTARA Bali" xmlUrl="https://bali.antaranews.com/rss/top-news.xml" />
     <outline type="rss" text="ANTARA Bali" title="ANTARA Bali" xmlUrl="https://bali.antaranews.com/rss/photo.xml" />
@@ -81,5 +131,44 @@
     <outline type="rss" text="ANTARA Mataram / NTB" title="ANTARA Mataram / NTB" xmlUrl="https://mataram.antaranews.com/rss/ekonomi-bisnis.xml" />
     <outline type="rss" text="ANTARA Mataram / NTB" title="ANTARA Mataram / NTB" xmlUrl="https://mataram.antaranews.com/rss/olahraga.xml" />
     <outline type="rss" text="ANTARA Mataram / NTB" title="ANTARA Mataram / NTB" xmlUrl="https://mataram.antaranews.com/rss/sepakbola.xml" />
+    <outline type="rss" text="APA" title="APA" xmlUrl="https://apa.az/rss" />
+    <outline type="rss" text="APFMercosur" title="APFMercosur" xmlUrl="https://www.apfmercosur.com.ar/rss/noticias/" />
+    <outline type="rss" text="Avesta" title="Avesta" xmlUrl="https://avesta.tj/feed/" />
+    <outline type="rss" text="AZERTAC" title="AZERTAC" xmlUrl="https://azertag.az/rss" />
+    <outline type="rss" text="Baghdad Today" title="Baghdad Today" xmlUrl="https://baghdadtoday.news/rss.xml" />
+    <outline type="rss" text="BelTA" title="BelTA" xmlUrl="https://belta.by/rss" />
+    <outline type="rss" text="Bulgarian News Agency (BTA)" title="Bulgarian News Agency (BTA)" xmlUrl="https://www.bta.bg/bg/news/bulgaria/rss" />
+    <outline type="rss" text="China News Service" title="China News Service" xmlUrl="https://www.chinanews.com.cn/rss/scroll-news.xml" />
+    <outline type="rss" text="Interfax" title="Interfax" xmlUrl="https://www.interfax.ru/rss" />
+    <outline type="rss" text="Khaama Press" title="Khaama Press" xmlUrl="https://www.khaama.com/feed/" />
+    <outline type="rss" text="KosovaPress" title="KosovaPress" xmlUrl="https://kosovapress.com/feed" />
+    <outline type="rss" text="Media Information Agency (MIA)" title="Media Information Agency (MIA)" xmlUrl="https://mia.mk/feed" />
+    <outline type="rss" text="Mediamax" title="Mediamax" xmlUrl="https://mediamax.am/am/index.rss" />
+    <outline type="rss" text="Mediamax" title="Mediamax" xmlUrl="https://mediamax.am/en/index.rss" />
+    <outline type="rss" text="Meta.mk" title="Meta.mk" xmlUrl="https://meta.mk/feed/" />
+    <outline type="rss" text="Meta.mk" title="Meta.mk" xmlUrl="https://meta.mk/en/feed/" />
+    <outline type="rss" text="Moldpres" title="Moldpres" xmlUrl="https://www.moldpres.md/config/rss.php?lang=rus" />
+    <outline type="rss" text="Moldpres" title="Moldpres" xmlUrl="https://www.moldpres.md/config/rss.php?lang=eng" />
+    <outline type="rss" text="Moldpres" title="Moldpres" xmlUrl="https://www.moldpres.md/config/rssSinteza.php?lang=rom" />
+    <outline type="rss" text="Moldpres" title="Moldpres" xmlUrl="https://www.moldpres.md/config/rssSinteza.php?lang=eng" />
+    <outline type="rss" text="MONTSAME" title="MONTSAME" xmlUrl="https://montsame.mn/en/rss.xml" />
+    <outline type="rss" text="Newsline Samoa" title="Newsline Samoa" xmlUrl="https://newslinesamoa.com/category/local/feed/" />
+    <outline type="rss" text="Prensa Latina" title="Prensa Latina" xmlUrl="https://www.prensa-latina.cu/feed/" />
+    <outline type="rss" text="Rador Press Agency" title="Rador Press Agency" xmlUrl="https://www.rador.ro/feed/" />
+    <outline type="rss" text="State News Agency of Turkmenistan" title="State News Agency of Turkmenistan" xmlUrl="https://turkmenistan.gov.tm/rss.xml" />
+    <outline type="rss" text="STP-Press" title="STP-Press" xmlUrl="https://www.stp-press.st/feed/" />
+    <outline type="rss" text="Tatoli National News Agency" title="Tatoli National News Agency" xmlUrl="https://en.tatoli.tl/feed/" />
+    <outline type="rss" text="Tatoli National News Agency" title="Tatoli National News Agency" xmlUrl="https://tatoli.tl/feed/" />
+    <outline type="rss" text="Tatoli National News Agency" title="Tatoli National News Agency" xmlUrl="https://id.tatoli.tl/feed/" />
+    <outline type="rss" text="Trend News Agency" title="Trend News Agency" xmlUrl="https://www.trend.az/feeds/index.rss" />
+    <outline type="rss" text="Uzbekistan National News Agency" title="Uzbekistan National News Agency" xmlUrl="https://uza.uz/uz/rss" />
+    <outline type="rss" text="Uzbekistan National News Agency" title="Uzbekistan National News Agency" xmlUrl="https://uza.uz/en/rss" />
+    <outline type="rss" text="Yonhap News Agency" title="Yonhap News Agency" xmlUrl="https://cn.yna.co.kr/RSS/news.xml" />
+    <outline type="rss" text="Yonhap News Agency" title="Yonhap News Agency" xmlUrl="https://cn.yna.co.kr/RSS/politics.xml" />
+    <outline type="rss" text="Yonhap News Agency" title="Yonhap News Agency" xmlUrl="https://cn.yna.co.kr/RSS/economy.xml" />
+    <outline type="rss" text="Yonhap News Agency" title="Yonhap News Agency" xmlUrl="https://cn.yna.co.kr/RSS/society.xml" />
+    <outline type="rss" text="Yonhap News Agency" title="Yonhap News Agency" xmlUrl="https://cn.yna.co.kr/RSS/culture-sports.xml" />
+    <outline type="rss" text="Yonhap News Agency" title="Yonhap News Agency" xmlUrl="https://cn.yna.co.kr/RSS/nk.xml" />
+    <outline type="rss" text="Yonhap News Agency" title="Yonhap News Agency" xmlUrl="https://cn.yna.co.kr/RSS/china-relationship.xml" />
   </body>
 </opml>

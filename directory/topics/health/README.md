@@ -2,7 +2,13 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/health.opml)
 
-3 endpoint records.
+7 endpoint records.
+
+## Verified (4)
+
+The broker successfully parsed the feed at the recorded check.
+
+- [1–4](verified-001.md) · Arab Times Kuwait to Người Lao Động
 
 ## Needs review (3)
 

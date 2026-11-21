@@ -4,11 +4,33 @@
     <title>nws.broker · Energy</title>
   </head>
   <body>
+    <outline type="rss" text="Agence Nationale pour la Maîtrise de l’Énergie, Tunisie" title="Agence Nationale pour la Maîtrise de l’Énergie, Tunisie" xmlUrl="https://www.anme.tn/fr/rss.xml" />
+    <outline type="rss" text="Aruba Utilities" title="Aruba Utilities" xmlUrl="https://www.utilitiesarubanv.com/main/feed/" />
+    <outline type="rss" text="Bermuda Electric Light Company" title="Bermuda Electric Light Company" xmlUrl="https://belco.bm/feed/" />
+    <outline type="rss" text="BVI Electricity Corporation news" title="BVI Electricity Corporation news" xmlUrl="https://bvielectricity.com/feed/" />
+    <outline type="rss" text="Commission de régulation du secteur de l’électricité" title="Commission de régulation du secteur de l’électricité" xmlUrl="https://www.crse.sn/feed/" />
+    <outline type="rss" text="Commonwealth of the Northern Mariana Islands — Energy Division" title="Commonwealth of the Northern Mariana Islands — Energy Division" xmlUrl="https://cnmienergy.gov.mp/feed/" />
+    <outline type="rss" text="Commonwealth Utilities Corporation CNMI" title="Commonwealth Utilities Corporation CNMI" xmlUrl="https://cucgov.org/feed/" />
+    <outline type="rss" text="Direction polynésienne de l’énergie" title="Direction polynésienne de l’énergie" xmlUrl="https://www.service-public.pf/sde/feed/" />
+    <outline type="rss" text="Electricity Regulatory Authority Uganda" title="Electricity Regulatory Authority Uganda" xmlUrl="https://www.era.go.ug/feed/" />
+    <outline type="rss" text="Electricity Supply Corporation of Malawi" title="Electricity Supply Corporation of Malawi" xmlUrl="https://www.escom.mw/feed/" />
+    <outline type="rss" text="Energy Division Barbados" title="Energy Division Barbados" xmlUrl="https://energy.gov.bb/feed/" />
+    <outline type="rss" text="Energy Regulation Board Zambia" title="Energy Regulation Board Zambia" xmlUrl="https://www.erb.org.zm/feed/" />
+    <outline type="rss" text="Eskom" title="Eskom" xmlUrl="https://www.eskom.co.za/feed/" />
+    <outline type="rss" text="Grenada Electricity Services" title="Grenada Electricity Services" xmlUrl="https://grenlec.com/feed/" />
+    <outline type="rss" text="Namcor" title="Namcor" xmlUrl="https://www.namcor.com.na/feed/" />
+    <outline type="rss" text="National Institute of Standards and Technology" title="National Institute of Standards and Technology" xmlUrl="https://www.nist.gov/news-events/energy/rss.xml" />
+    <outline type="rss" text="National Oil Corporation Libya" title="National Oil Corporation Libya" xmlUrl="https://noc.ly/feed/" />
+    <outline type="rss" text="Nepal Renewable Energy Programme" title="Nepal Renewable Energy Programme" xmlUrl="https://nrep.aepc.gov.np/feed/" />
+    <outline type="rss" text="Nigerian Electricity Regulatory Commission" title="Nigerian Electricity Regulatory Commission" xmlUrl="https://nerc.gov.ng/media-category/news/feed/" />
     <outline type="rss" text="Renouvelle sustainable-energy publication" title="Renouvelle sustainable-energy publication" xmlUrl="https://www.renouvelle.be/fr/feed/" />
+    <outline type="rss" text="Solomon Power" title="Solomon Power" xmlUrl="https://solomonpower.com.sb/feed/" />
+    <outline type="rss" text="Svenska kraftnät" title="Svenska kraftnät" xmlUrl="https://www.svk.se/Api/RSSFeed/GetNewsByCategory?name=Elmarknadallm%C3%A4nt" />
     <outline type="rss" text="US Energy Information Administration" title="US Energy Information Administration" xmlUrl="https://www.eia.gov/about/new/WNtest3.php" />
     <outline type="rss" text="US Energy Information Administration" title="US Energy Information Administration" xmlUrl="https://www.eia.gov/petroleum/gasdiesel/includes/gas_diesel_rss.xml" />
     <outline type="rss" text="US Energy Information Administration" title="US Energy Information Administration" xmlUrl="https://www.eia.gov/petroleum/heatingoilpropane/includes/hopu_rss.xml" />
     <outline type="rss" text="US Energy Information Administration" title="US Energy Information Administration" xmlUrl="https://www.eia.gov/petroleum/weekly/includes/week_in_petroleum_rss.xml" />
     <outline type="rss" text="Utility Dive" title="Utility Dive" xmlUrl="https://www.utilitydive.com/feeds/news/" />
+    <outline type="rss" text="Vietnam Ministry of Science and Technology" title="Vietnam Ministry of Science and Technology" xmlUrl="https://mst.gov.vn/rss/tin-tuc-su-kien/nang-luong-nguyen-tu.rss" />
   </body>
 </opml>
