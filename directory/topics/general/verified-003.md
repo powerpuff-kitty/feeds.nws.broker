@@ -4,6 +4,13 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Axol&#x27;s Blog | [F20782](https://preview.nws.broker/api/endpoints/F20782) | Atom | en | 2026-11-19 | [Feed](<https://theaxolot.wordpress.com/atom>) |
+| AZoOptics.com - Optics and Photonics News Feed | [F13190](https://preview.nws.broker/api/endpoints/F13190) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.azooptics.com/syndication.axd>) |
+| Aztek&#x27;s Mixtape Podcast | [F23010](https://preview.nws.broker/api/endpoints/F23010) | RSS | en-US | 2026-11-19 | [Feed](<https://muzikdj.podomatic.com/rss2.xml>) |
+| b(l&#124;ookmark)ing | [F24261](https://preview.nws.broker/api/endpoints/F24261) | RSS | en-GB | 2026-11-19 | [Feed](<https://wecoso.org/feed>) |
+| B.P.M. Session Podcast | [F22239](https://preview.nws.broker/api/endpoints/F22239) | RSS | en-US | 2026-11-19 | [Feed](<https://djstrangelove.podomatic.com/rss2.xml>) |
+| b10c.me | [F7900](https://preview.nws.broker/api/endpoints/F7900) | RSS | en-GB | 2026-11-19 | [Feed](<https://b10c.me/feed.xml>) |
+| B12info.com | [F24397](https://preview.nws.broker/api/endpoints/F24397) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.b12info.com/feed/>) |
 | Babies Learning Language | [F22135](https://preview.nws.broker/api/endpoints/F22135) | Atom | und | 2026-11-19 | [Feed](<https://babieslearninglanguage.blogspot.com/feeds/posts/default>) |
 | Back Talk | [F2982](https://preview.nws.broker/api/endpoints/F2982) | RSS | en | 2026-11-02 | [Feed](<https://wcbe.drupal.publicbroadcasting.net/podcasts/156618/rss.xml>) |
 | baconsale.podbean.com | [F22137](https://preview.nws.broker/api/endpoints/F22137) | RSS | en | 2026-11-19 | [Feed](<https://baconsale.podbean.com/feed.xml>) |
@@ -42,6 +49,7 @@
 | berita.rtm.gov.my | [F7963](https://preview.nws.broker/api/endpoints/F7963) | RSS | en-US | 2026-11-19 | [Feed](<https://berita.rtm.gov.my/category/kes/feed/>) |
 | Berkeleyside | [F24411](https://preview.nws.broker/api/endpoints/F24411) | RSS | en-US | 2026-11-19 | [Feed](<https://www.berkeleyside.org/feed>) |
 | bestcoder.cn | [F7968](https://preview.nws.broker/api/endpoints/F7968) | RSS | en-US | 2026-11-19 | [Feed](<https://bestcoder.cn/feed>) |
+| bethanythebuilder.substack.com | [F18890](https://preview.nws.broker/api/endpoints/F18890) | RSS | en | 2026-11-21 | [Feed](<https://bethanythebuilder.substack.com/feed>) |
 | Betreutes Fühlen | [F22160](https://preview.nws.broker/api/endpoints/F22160) | RSS | de | 2026-11-19 | [Feed](<https://betreutesfuehlen.podigee.io/feed/mp3>) |
 | Bewusst leben. | [F22162](https://preview.nws.broker/api/endpoints/F22162) | RSS | de | 2026-11-19 | [Feed](<https://bewusstleben.podigee.io/feed/mp3>) |
 | beyazgazete.com | [F7973](https://preview.nws.broker/api/endpoints/F7973) | RSS | tr | 2026-11-19 | [Feed](<https://beyazgazete.com/rss/guncel.xml>) |
@@ -146,11 +154,3 @@
 | blog.doaj.org | [F0636](https://preview.nws.broker/api/endpoints/F0636) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/author-processing-charges/feed/>) |
 | blog.doaj.org | [F0637](https://preview.nws.broker/api/endpoints/F0637) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/copyright-and-licensing/feed/>) |
 | blog.doaj.org | [F0638](https://preview.nws.broker/api/endpoints/F0638) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/crowdsourcing-2/feed/>) |
-| blog.doaj.org | [F0639](https://preview.nws.broker/api/endpoints/F0639) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/discovery/feed/>) |
-| blog.doaj.org | [F0640](https://preview.nws.broker/api/endpoints/F0640) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/doaj-ambassadors/feed/>) |
-| blog.doaj.org | [F0641](https://preview.nws.broker/api/endpoints/F0641) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/doaj-voices/feed/>) |
-| blog.doaj.org | [F0642](https://preview.nws.broker/api/endpoints/F0642) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/funding/feed/>) |
-| blog.doaj.org | [F0643](https://preview.nws.broker/api/endpoints/F0643) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/governance/feed/>) |
-| blog.doaj.org | [F0644](https://preview.nws.broker/api/endpoints/F0644) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/guest-post/feed/>) |
-| blog.doaj.org | [F0645](https://preview.nws.broker/api/endpoints/F0645) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/letter/feed/>) |
-| blog.doaj.org | [F0646](https://preview.nws.broker/api/endpoints/F0646) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/letter/funding/feed/>) |

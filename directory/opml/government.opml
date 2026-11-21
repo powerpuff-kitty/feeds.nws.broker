@@ -4,8 +4,10 @@
     <title>nws.broker · Government</title>
   </head>
   <body>
+    <outline type="rss" text="AGAPE’TH on PeerTube" title="AGAPE’TH on PeerTube" xmlUrl="https://tube.numerique.gouv.fr/feeds/videos.xml?videoChannelId=374" />
     <outline type="rss" text="American Samoa Government" title="American Samoa Government" xmlUrl="https://www.americansamoa.gov/blog-feed.xml" />
     <outline type="rss" text="Baarle-Hertog municipal publication feeds" title="Baarle-Hertog municipal publication feeds" xmlUrl="https://www.baarle-hertog.be/nieuws/rss" />
+    <outline type="rss" text="Belastingdienst on Mastodon" title="Belastingdienst on Mastodon" xmlUrl="https://social.overheid.nl/@belastingdienst.rss" />
     <outline type="rss" text="Belgian FPS BOSA publication feeds" title="Belgian FPS BOSA publication feeds" xmlUrl="https://bosa.belgium.be/nl/content-feed/news/rss.xml" />
     <outline type="rss" text="Belgian FPS BOSA publication feeds" title="Belgian FPS BOSA publication feeds" xmlUrl="https://bosa.belgium.be/nl/content-feed/events/rss.xml" />
     <outline type="rss" text="Belgian FPS BOSA publication feeds" title="Belgian FPS BOSA publication feeds" xmlUrl="https://bosa.belgium.be/nl/content-feed/trainings/rss.xml" />
@@ -14,18 +16,24 @@
     <outline type="rss" text="Belgian FPS BOSA publication feeds" title="Belgian FPS BOSA publication feeds" xmlUrl="https://bosa.belgium.be/fr/content-feed/events/rss.xml" />
     <outline type="rss" text="Belgian FPS BOSA publication feeds" title="Belgian FPS BOSA publication feeds" xmlUrl="https://bosa.belgium.be/fr/content-feed/trainings/rss.xml" />
     <outline type="rss" text="British Indian Ocean Territory Administration" title="British Indian Ocean Territory Administration" xmlUrl="https://www.biot.gov.io/news/category/news/feed/" />
+    <outline type="rss" text="Bundesbeauftragter für den Datenschutz und die Informationsfreiheit on Mastodon" title="Bundesbeauftragter für den Datenschutz und die Informationsfreiheit on Mastodon" xmlUrl="https://social.bund.de/@bfdi.rss" />
+    <outline type="rss" text="Bundesregierung on Mastodon" title="Bundesregierung on Mastodon" xmlUrl="https://social.bund.de/@Bundesregierung.rss" />
     <outline type="rss" text="Cabo Verde Reforma do Estado" title="Cabo Verde Reforma do Estado" xmlUrl="https://www.reformadoestado.gov.cv/index.php?format=feed&amp;type=rss" />
     <outline type="rss" text="Centro de Integridade Pública" title="Centro de Integridade Pública" xmlUrl="https://www.cipmoz.org/feed/" />
     <outline type="rss" text="City of Brussels website news" title="City of Brussels website news" xmlUrl="https://www.brussels.be/rss.xml" />
     <outline type="rss" text="City of Brussels website news" title="City of Brussels website news" xmlUrl="https://www.bruxelles.be/rss.xml" />
     <outline type="rss" text="City of Brussels website news" title="City of Brussels website news" xmlUrl="https://www.brussel.be/rss.xml" />
+    <outline type="rss" text="CNIL — privacy and data protection videos on PeerTube" title="CNIL — privacy and data protection videos on PeerTube" xmlUrl="https://video.cnil.fr/feeds/videos.xml?videoChannelId=6" />
     <outline type="rss" text="Collectivité territoriale de Martinique" title="Collectivité territoriale de Martinique" xmlUrl="https://www.collectivitedemartinique.mq/feed/" />
+    <outline type="rss" text="Commission nationale de l’informatique et des libertés on PeerTube" title="Commission nationale de l’informatique et des libertés on PeerTube" xmlUrl="https://video.cnil.fr/feeds/videos.xml" />
     <outline type="rss" text="Cornwall Council" title="Cornwall Council" xmlUrl="https://www.cornwall.gov.uk/council-news/rss-feeds/newsfeed/" />
     <outline type="rss" text="Câmara Municipal de Guimarães" title="Câmara Municipal de Guimarães" xmlUrl="https://www.cm-guimaraes.pt/pages/rss-feed%2Frss-de-noticias.rss" />
     <outline type="rss" text="Câmara Municipal de Mafra" title="Câmara Municipal de Mafra" xmlUrl="https://www.cm-mafra.pt/pages/321.rss" />
     <outline type="rss" text="Câmara Municipal de Palmela" title="Câmara Municipal de Palmela" xmlUrl="https://www.cm-palmela.pt/pages/feed-rss-noticias-50.rss" />
+    <outline type="rss" text="DINUM on PeerTube" title="DINUM on PeerTube" xmlUrl="https://tube.numerique.gouv.fr/feeds/videos.xml" />
     <outline type="rss" text="Direction de l’enseignement de la Nouvelle-Calédonie" title="Direction de l’enseignement de la Nouvelle-Calédonie" xmlUrl="https://denc.gouv.nc/rss/actualites" />
     <outline type="rss" text="El Periòdic d’Andorra — Política" title="El Periòdic d’Andorra — Política" xmlUrl="https://elperiodic.ad/categories/politica/feed/" />
+    <outline type="rss" text="European Commission on Mastodon" title="European Commission on Mastodon" xmlUrl="https://ec.social-network.europa.eu/@EUCommission.rss" />
     <outline type="rss" text="Financial Administration of the Republic of Slovenia" title="Financial Administration of the Republic of Slovenia" xmlUrl="https://www.fu.gov.si/rss/prebivalci/" />
     <outline type="rss" text="Financial Administration of the Republic of Slovenia" title="Financial Administration of the Republic of Slovenia" xmlUrl="https://www.fu.gov.si/rss/podjetja/" />
     <outline type="rss" text="Financial Administration of the Republic of Slovenia" title="Financial Administration of the Republic of Slovenia" xmlUrl="https://www.fu.gov.si/rss/portal_e_davki/" />
@@ -219,6 +227,7 @@
     <outline type="rss" text="Maasmechelen municipal publication feeds" title="Maasmechelen municipal publication feeds" xmlUrl="https://www.maasmechelen.be/Nieuws/rss" />
     <outline type="rss" text="Maasmechelen municipal publication feeds" title="Maasmechelen municipal publication feeds" xmlUrl="https://www.maasmechelen.be/nieuws/rss" />
     <outline type="rss" text="Malta Competition and Consumer Affairs Authority" title="Malta Competition and Consumer Affairs Authority" xmlUrl="https://mccaa.org.mt/feed/" />
+    <outline type="rss" text="Mastodon Overheid Community Management" title="Mastodon Overheid Community Management" xmlUrl="https://social.overheid.nl/@communitymanager.rss" />
     <outline type="rss" text="Mauritius Revenue Authority" title="Mauritius Revenue Authority" xmlUrl="https://www.mra.mu/index.php?format=feed&amp;type=rss" />
     <outline type="rss" text="Ministry of Religious Affairs City of Yogyakarta" title="Ministry of Religious Affairs City of Yogyakarta" xmlUrl="https://yogyakartakota.kemenag.go.id/ppid/rss.xml" />
     <outline type="rss" text="Myndigheten för civilt försvar" title="Myndigheten för civilt försvar" xmlUrl="https://www.mcf.se/sv/rss-floden/rss-alla-nyheter-fran-myndigheten-for-civilt-forsvar/" />

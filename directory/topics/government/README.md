@@ -2,14 +2,15 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/government.opml)
 
-899 endpoint records.
+908 endpoint records.
 
-## Verified (292)
+## Verified (301)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–150](verified-001.md) · American Samoa Government to GovInfo
-- [151–292](verified-002.md) · GovInfo to Union des Villes et Communes de Wallonie publication feeds
+- [1–150](verified-001.md) · AGAPE’TH on PeerTube to GovInfo
+- [151–300](verified-002.md) · GovInfo to Union des Villes et Communes de Wallonie publication feeds
+- [301–301](verified-003.md) · Union des Villes et Communes de Wallonie publication feeds to Union des Villes et Communes de Wallonie publication feeds
 
 ## Needs review (602)
 

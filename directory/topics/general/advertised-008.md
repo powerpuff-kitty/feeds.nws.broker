@@ -4,23 +4,6 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
-| codeklets.nl | [F19000](https://preview.nws.broker/api/endpoints/F19000) | RSS | und | — | — |
-| coffeeadastra.com | [F8363](https://preview.nws.broker/api/endpoints/F8363) | RSS | und | — | — |
-| coffeeblog.co.uk | [F8364](https://preview.nws.broker/api/endpoints/F8364) | RSS | und | — | — |
-| coffeechronicler.com | [F8365](https://preview.nws.broker/api/endpoints/F8365) | RSS | und | — | — |
-| coffeegeek.com | [F8366](https://preview.nws.broker/api/endpoints/F8366) | RSS | und | — | — |
-| coffeelogik.com | [F8367](https://preview.nws.broker/api/endpoints/F8367) | RSS | und | — | — |
-| cogneurosociety.org | [F8368](https://preview.nws.broker/api/endpoints/F8368) | RSS | und | — | — |
-| coinjournal.net | [F8370](https://preview.nws.broker/api/endpoints/F8370) | RSS | und | — | — |
-| coinjournal.net | [F8371](https://preview.nws.broker/api/endpoints/F8371) | RSS | und | — | — |
-| cointelegraph.com | [F8373](https://preview.nws.broker/api/endpoints/F8373) | RSS | und | — | — |
-| cointelegraph.com | [F8374](https://preview.nws.broker/api/endpoints/F8374) | RSS | und | — | — |
-| cointelegraph.com | [F8375](https://preview.nws.broker/api/endpoints/F8375) | RSS | und | — | — |
-| cointelegraph.com | [F8376](https://preview.nws.broker/api/endpoints/F8376) | RSS | und | — | — |
-| cointelegraph.com | [F8377](https://preview.nws.broker/api/endpoints/F8377) | RSS | und | — | — |
-| cointelegraph.com | [F8378](https://preview.nws.broker/api/endpoints/F8378) | RSS | und | — | — |
-| cointelegraph.com | [F8379](https://preview.nws.broker/api/endpoints/F8379) | RSS | und | — | — |
-| cointelegraph.com | [F8380](https://preview.nws.broker/api/endpoints/F8380) | RSS | und | — | — |
 | cointelegraph.com | [F8382](https://preview.nws.broker/api/endpoints/F8382) | RSS | und | — | — |
 | cointelegraph.com | [F8383](https://preview.nws.broker/api/endpoints/F8383) | RSS | und | — | — |
 | colacherald.com.au | [F8384](https://preview.nws.broker/api/endpoints/F8384) | RSS | und | — | — |
@@ -154,3 +137,20 @@
 | decrypt.co | [F8508](https://preview.nws.broker/api/endpoints/F8508) | RSS | und | — | — |
 | deepmind.google | [F8510](https://preview.nws.broker/api/endpoints/F8510) | RSS | und | — | — |
 | deepresource.wordpress.com | [F19052](https://preview.nws.broker/api/endpoints/F19052) | RSS | und | — | — |
+| deepstateua.com | [F8511](https://preview.nws.broker/api/endpoints/F8511) | RSS | und | — | — |
+| deeptechgermany.podcaster.de | [F19053](https://preview.nws.broker/api/endpoints/F19053) | RSS | und | — | — |
+| defence-blog.com | [F8514](https://preview.nws.broker/api/endpoints/F8514) | RSS | und | — | — |
+| defence-industry.eu | [F8515](https://preview.nws.broker/api/endpoints/F8515) | RSS | und | — | — |
+| defence24.pl | [F8516](https://preview.nws.broker/api/endpoints/F8516) | RSS | und | — | — |
+| defencereviewasia.com | [F8517](https://preview.nws.broker/api/endpoints/F8517) | RSS | und | — | — |
+| defendernetwork.com | [F8518](https://preview.nws.broker/api/endpoints/F8518) | RSS | und | — | — |
+| defense-update.com | [F8520](https://preview.nws.broker/api/endpoints/F8520) | RSS | und | — | — |
+| defenseindepth.libsyn.com | [F19054](https://preview.nws.broker/api/endpoints/F19054) | RSS | und | — | — |
+| defensescoop.com | [F8521](https://preview.nws.broker/api/endpoints/F8521) | RSS | und | — | — |
+| defmin.fi | [F8522](https://preview.nws.broker/api/endpoints/F8522) | RSS | und | — | — |
+| deister-echo.de | [F8523](https://preview.nws.broker/api/endpoints/F8523) | RSS | und | — | — |
+| delfino.cr | [F8524](https://preview.nws.broker/api/endpoints/F8524) | RSS | und | — | — |
+| deliciousspizzarecipes.blogspot.in | [F8525](https://preview.nws.broker/api/endpoints/F8525) | RSS | und | — | — |
+| delta.chat | [F8526](https://preview.nws.broker/api/endpoints/F8526) | RSS | und | — | — |
+| denik.to | [F8527](https://preview.nws.broker/api/endpoints/F8527) | RSS | und | — | — |
+| dennikn.sk | [F8532](https://preview.nws.broker/api/endpoints/F8532) | RSS | und | — | — |

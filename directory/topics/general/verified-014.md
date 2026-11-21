@@ -4,6 +4,28 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Long Walls | [F19799](https://preview.nws.broker/api/endpoints/F19799) | RSS | en | 2026-11-19 | [Feed](<https://longwalls.substack.com/feed>) |
+| Longreads | [F22964](https://preview.nws.broker/api/endpoints/F22964) | RSS | en-US | 2026-11-19 | [Feed](<https://longreads.com/feed/>) |
+| Longview News-Journal | [F19904](https://preview.nws.broker/api/endpoints/F19904) | RSS | en-US | 2026-11-19 | [Feed](<https://news-journal.com/feed>) |
+| Loreto Secondary School | [F24825](https://preview.nws.broker/api/endpoints/F24825) | RSS | en-US | 2026-11-19 | [Feed](<https://www.loretobalbriggan.ie/feed/>) |
+| lorexxar.cn | [F9891](https://preview.nws.broker/api/endpoints/F9891) | Atom | und | 2026-11-19 | [Feed](<https://lorexxar.cn/atom.xml>) |
+| loudwire.com | [F9893](https://preview.nws.broker/api/endpoints/F9893) | RSS | en-US | 2026-11-19 | [Feed](<https://loudwire.com/category/metal/feed/>) |
+| Louis-Philippe Véronneau | [F24194](https://preview.nws.broker/api/endpoints/F24194) | Atom | und | 2026-11-19 | [Feed](<https://veronneau.org/feeds/atom.xml>) |
+| Louisiana First News | [F21501](https://preview.nws.broker/api/endpoints/F21501) | RSS | en-US | 2026-11-19 | [Feed](<https://www.louisianafirstnews.com/feed/>) |
+| Love and Lemons | [F0482](https://preview.nws.broker/api/endpoints/F0482) | RSS | en-US | 2026-11-02 | — |
+| Love and Olive Oil | [F4991](https://preview.nws.broker/api/endpoints/F4991) | RSS | en-US | 2026-11-02 | [Feed](<https://www.loveandoliveoil.com/feed>) |
+| lr-aloe-vera.blogspot.com | [F9900](https://preview.nws.broker/api/endpoints/F9900) | RSS | und | 2026-11-19 | [Feed](<https://lr-aloe-vera.blogspot.com/rss.xml>) |
+| LSM | [F11833](https://preview.nws.broker/api/endpoints/F11833) | RSS | ru | 2026-11-19 | [Feed](<https://rus.lsm.lv/rss>) |
+| lucifer.ren | [F9901](https://preview.nws.broker/api/endpoints/F9901) | Atom | und | 2026-11-19 | [Feed](<https://lucifer.ren/blog/atom.xml>) |
+| LuCom Médias | [F24828](https://preview.nws.broker/api/endpoints/F24828) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.lucommedias.cd/feed/>) |
+| lukefan.com | [F9902](https://preview.nws.broker/api/endpoints/F9902) | RSS | zh-Hans | 2026-11-19 | — |
+| luolei.org | [F9904](https://preview.nws.broker/api/endpoints/F9904) | RSS | zh-CN | 2026-11-19 | — |
+| lutaonan.com | [F9905](https://preview.nws.broker/api/endpoints/F9905) | RSS | und | 2026-11-19 | [Feed](<https://lutaonan.com/rss.xml>) |
+| LYFtv.com | [F24829](https://preview.nws.broker/api/endpoints/F24829) | Atom | und | 2026-11-19 | [Feed](<https://www.lyftv.com/feeds/posts/default>) |
+| LäkemedelsVärlden | [F15321](https://preview.nws.broker/api/endpoints/F15321) | RSS | sv-SE | 2026-11-19 | [Feed](<https://www.lakemedelsvarlden.se/feed/>) |
+| Lõunaeestlane | [F9895](https://preview.nws.broker/api/endpoints/F9895) | Atom | et | 2026-11-19 | [Feed](<https://lounaeestlane.ee/feed/atom/>) |
+| M. Douglas Wray | [F24831](https://preview.nws.broker/api/endpoints/F24831) | RSS | en-US | 2026-11-19 | [Feed](<https://www.macwebguru.com/feed/>) |
+| Mac Geek Gab — Apple Tips, Tricks, and Troubleshooting | [F21502](https://preview.nws.broker/api/endpoints/F21502) | RSS | en-US | 2026-11-19 | [Feed](<https://www.macgeekgab.com/feed/podcast/>) |
 | Macao News | [F9914](https://preview.nws.broker/api/endpoints/F9914) | RSS | en-US | 2026-11-19 | [Feed](<https://macaonews.org/feed/>) |
 | macaucloser.com | [F9915](https://preview.nws.broker/api/endpoints/F9915) | RSS | en-US | 2026-11-19 | [Feed](<https://macaucloser.com/feed/>) |
 | macaudailytimes.com.mo | [F9919](https://preview.nws.broker/api/endpoints/F9919) | RSS | en-US | 2026-11-19 | [Feed](<https://macaudailytimes.com.mo/feed>) |
@@ -49,7 +71,12 @@
 | media.rss.com | [F22976](https://preview.nws.broker/api/endpoints/F22976) | RSS | de | 2026-11-19 | [Feed](<https://media.rss.com/aufloesungpod/feed.xml>) |
 | Medical News Bulletin | [F9992](https://preview.nws.broker/api/endpoints/F9992) | RSS | en-US | 2026-11-19 | [Feed](<https://medicalnewsbulletin.com/feed/>) |
 | medicinasa.com.br | [F9997](https://preview.nws.broker/api/endpoints/F9997) | RSS | pt-BR | 2026-11-19 | [Feed](<https://medicinasa.com.br/feed/>) |
+| medium.com | [F10000](https://preview.nws.broker/api/endpoints/F10000) | RSS | und | 2026-11-21 | [Feed](<https://medium.com/feed/prxofficial>) |
+| medium.com | [F10001](https://preview.nws.broker/api/endpoints/F10001) | RSS | und | 2026-11-21 | [Feed](<https://medium.com/feed/t%C3%BCrkiye>) |
 | medium.com | [F10002](https://preview.nws.broker/api/endpoints/F10002) | RSS | und | 2026-11-19 | [Feed](<https://medium.com/feed/xandr-tech>) |
+| medium.com | [F19838](https://preview.nws.broker/api/endpoints/F19838) | RSS | und | 2026-11-21 | [Feed](<https://medium.com/feed/medium-eng>) |
+| medium.com | [F19839](https://preview.nws.broker/api/endpoints/F19839) | RSS | und | 2026-11-21 | [Feed](<https://medium.com/feed/paypal-engineering>) |
+| medium.com | [F9999](https://preview.nws.broker/api/endpoints/F9999) | RSS | und | 2026-11-21 | [Feed](<https://medium.com/feed/@beautyon_>) |
 | mediumturkiye.com | [F10003](https://preview.nws.broker/api/endpoints/F10003) | RSS | und | 2026-11-19 | [Feed](<https://mediumturkiye.com/feed>) |
 | Mehr News Agency | [F8737](https://preview.nws.broker/api/endpoints/F8737) | RSS | en | 2026-11-19 | [Feed](<https://en.mehrnews.com/rss>) |
 | Meldungen - Lehrte | [F15440](https://preview.nws.broker/api/endpoints/F15440) | RSS | de | 2026-11-19 | [Feed](<https://www.lehrte.de/portal/rss.xml>) |
@@ -127,30 +154,3 @@
 | My MMA News | [F10135](https://preview.nws.broker/api/endpoints/F10135) | RSS | en-US | 2026-11-19 | [Feed](<https://mymmanews.com/feed/>) |
 | My Nottingham News | [F24872](https://preview.nws.broker/api/endpoints/F24872) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.mynottinghamnews.co.uk/feed/>) |
 | myfox8.com | [F10133](https://preview.nws.broker/api/endpoints/F10133) | RSS | en-US | 2026-11-19 | [Feed](<https://myfox8.com/feed/>) |
-| MyNewsGh | [F24871](https://preview.nws.broker/api/endpoints/F24871) | RSS | en-US | 2026-11-19 | [Feed](<https://www.mynewsgh.com/feed/>) |
-| Médiář | [F24846](https://preview.nws.broker/api/endpoints/F24846) | RSS | cs | 2026-11-19 | [Feed](<https://www.mediar.cz/rss>) |
-| Música en todo su esplendor | [F24866](https://preview.nws.broker/api/endpoints/F24866) | Atom | und | 2026-11-19 | [Feed](<https://www.musicaentodosuesplendor.es/feeds/posts/default>) |
-| n1info.si | [F10143](https://preview.nws.broker/api/endpoints/F10143) | RSS | und | 2026-11-19 | [Feed](<https://n1info.si/feed/>) |
-| Nachgefragt | [F23016](https://preview.nws.broker/api/endpoints/F23016) | RSS | de-DE | 2026-11-19 | [Feed](<https://nachgefragt-podcast.de/feed/episodes/>) |
-| Nachrichten Unterhaltung | [F10151](https://preview.nws.broker/api/endpoints/F10151) | RSS | de | 2026-11-19 | [Feed](<https://nachrichtenunterhaltung.de/feed/>) |
-| nachrichtenfeeds.br.de | [F23018](https://preview.nws.broker/api/endpoints/F23018) | RSS | de-DE | 2026-11-19 | [Feed](<https://nachrichtenfeeds.br.de/rss/nachrichten/seiten/QXAPvmL>) |
-| NAFSTS | [F19879](https://preview.nws.broker/api/endpoints/F19879) | RSS | en-US | 2026-11-19 | [Feed](<https://nafstsuniuyo.org.ng/feed/>) |
-| Nagaland News and Info – NagasConnect.com | [F24876](https://preview.nws.broker/api/endpoints/F24876) | RSS | en-US | 2026-11-19 | [Feed](<https://www.nagasconnect.com/feed>) |
-| nairobileo.co.ke | [F10155](https://preview.nws.broker/api/endpoints/F10155) | RSS | en-US | 2026-11-19 | [Feed](<https://nairobileo.co.ke/feed/business>) |
-| Namasthe Telangana | [F24919](https://preview.nws.broker/api/endpoints/F24919) | RSS | te | 2026-11-19 | [Feed](<https://www.ntnews.com/feed>) |
-| NAnews – Nikk.Agency Israel News | [F19908](https://preview.nws.broker/api/endpoints/F19908) | RSS | en-GB | 2026-11-19 | [Feed](<https://news.nikk.co.il/en/feed/>) |
-| NapocaNews | [F24878](https://preview.nws.broker/api/endpoints/F24878) | RSS | ro-RO | 2026-11-19 | [Feed](<https://www.napocanews.ro/feed>) |
-| nasetema.cz | [F23023](https://preview.nws.broker/api/endpoints/F23023) | RSS | cs | 2026-11-19 | [Feed](<https://nasetema.cz/rubrika/sport/feed/>) |
-| Nat? Nat. Nat! | [F24320](https://preview.nws.broker/api/endpoints/F24320) | RSS | en | 2026-11-19 | [Feed](<https://writing.natwelch.com/feed.rss>) |
-| Nate Angell | [F21798](https://preview.nws.broker/api/endpoints/F21798) | RSS | en-US | 2026-11-19 | [Feed](<https://xolotl.org/feed>) |
-| National FASD | [F23025](https://preview.nws.broker/api/endpoints/F23025) | RSS | en-US | 2026-11-19 | [Feed](<https://nationalfasd.org.uk/feed/>) |
-| National Infinity Magazine | [F24727](https://preview.nws.broker/api/endpoints/F24727) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.infinitylive.com.ng/feed/>) |
-| National News - The Lethbridge Herald - News and Sports from around Lethbridge | [F9853](https://preview.nws.broker/api/endpoints/F9853) | RSS | en-US | 2026-11-19 | [Feed](<https://lethbridgeherald.com/news/national-news/feed>) |
-| National security and defence | [F0551](https://preview.nws.broker/api/endpoints/F0551) | Atom | und | 2026-11-01 | [Feed](<https://api.io.canada.ca/io-server/gc/news/en/v2?topic=nationalsecurityanddefence&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-10-25&pick=100&format=atom&atomtitle=National+security+and+defence>) |
-| National Team Notebook | [F21537](https://preview.nws.broker/api/endpoints/F21537) | Atom | und | 2026-11-19 | [Feed](<https://www.nationalteamnotebook.com/feeds/posts/default>) |
-| Nations pride | [F23027](https://preview.nws.broker/api/endpoints/F23027) | RSS | en-US | 2026-11-19 | [Feed](<https://nationspride.ng/feed/>) |
-| Native America Calling | [F24882](https://preview.nws.broker/api/endpoints/F24882) | RSS | en | 2026-11-19 | [Feed](<https://www.nativeamericacalling.com/feed/podcast/>) |
-| Natural History of the Future | [F20226](https://preview.nws.broker/api/endpoints/F20226) | RSS | en | 2026-11-19 | [Feed](<https://robbrooks.substack.com/feed>) |
-| Naturalis Historia | [F24017](https://preview.nws.broker/api/endpoints/F24017) | RSS | en | 2026-11-19 | [Feed](<https://thenaturalhistorian.com/feed/>) |
-| Nature Matters | [F25083](https://preview.nws.broker/api/endpoints/F25083) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.sciencebase.com/science-blog/feed>) |
-| nauka.bg | [F19884](https://preview.nws.broker/api/endpoints/F19884) | RSS | bg-BG | 2026-11-19 | [Feed](<https://nauka.bg/blog/feed>) |

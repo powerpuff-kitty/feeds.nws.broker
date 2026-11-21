@@ -2,13 +2,13 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/society.geography.opml)
 
-23 endpoint records.
+24 endpoint records.
 
-## Verified (15)
+## Verified (16)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–15](verified-001.md) · Famine Early Warning Systems Network to WeeklyOSM
+- [1–16](verified-001.md) · Famine Early Warning Systems Network to WeeklyOSM
 
 ## Advertised (1)
 

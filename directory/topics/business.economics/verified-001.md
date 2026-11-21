@@ -109,6 +109,7 @@
 | Malawi24 — Business | [F26451](https://preview.nws.broker/api/endpoints/F26451) | RSS | en-GB | 2026-11-19 | [Feed](<https://malawi24.com/business/feed/>) |
 | Malta Business Weekly | [F25312](https://preview.nws.broker/api/endpoints/F25312) | RSS | en-GB | 2026-11-19 | [Feed](<https://maltabusinessweekly.com/feed/>) |
 | Mercado Angola | [F26341](https://preview.nws.broker/api/endpoints/F26341) | RSS | pt-PT | 2026-11-19 | [Feed](<https://mercado.co.ao/feed/>) |
+| Mikroökonomen | [F27113](https://preview.nws.broker/api/endpoints/F27113) | RSS | de | 2026-11-21 | [Feed](<https://mikrooekonomen.de/rss/>) |
 | National Bank of Belgium publication feeds | [F6257](https://preview.nws.broker/api/endpoints/F6257) | RSS | en | 2026-11-03 | [Feed](<https://www.nbb.be/en/news_rss.xml>) |
 | National Bank of Belgium publication feeds | [F6258](https://preview.nws.broker/api/endpoints/F6258) | RSS | en | 2026-11-03 | [Feed](<https://www.nbb.be/en/blog_rss.xml>) |
 | National Bank of Belgium publication feeds | [F6259](https://preview.nws.broker/api/endpoints/F6259) | RSS | en | 2026-11-03 | [Feed](<https://www.nbb.be/en/publication_rss.xml>) |
@@ -153,4 +154,3 @@
 | Statistics Netherlands CBS | [F3351](https://preview.nws.broker/api/endpoints/F3351) | RSS | en-GB | 2026-11-02 | [Feed](<https://www.cbs.nl/en-gb/rss-feeds/handel-en-horeca>) |
 | Statistics Netherlands CBS | [F3352](https://preview.nws.broker/api/endpoints/F3352) | RSS | en-GB | 2026-11-02 | [Feed](<https://www.cbs.nl/en-gb/rss-feeds/industrie-en-energie>) |
 | Statistics Netherlands CBS | [F3353](https://preview.nws.broker/api/endpoints/F3353) | RSS | en-GB | 2026-11-02 | [Feed](<https://www.cbs.nl/en-gb/rss-feeds/inkomen-en-bestedingen>) |
-| Statistics Netherlands CBS | [F3354](https://preview.nws.broker/api/endpoints/F3354) | RSS | en-GB | 2026-11-02 | [Feed](<https://www.cbs.nl/en-gb/rss-feeds/internationale-handel>) |

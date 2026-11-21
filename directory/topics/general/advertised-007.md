@@ -4,24 +4,9 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
-| burmese.voanews.com | [F8220](https://preview.nws.broker/api/endpoints/F8220) | RSS | und | — | — |
-| burnafterrunningrpg.com | [F8221](https://preview.nws.broker/api/endpoints/F8221) | RSS | und | — | — |
-| bus2bus.podigee.io | [F18950](https://preview.nws.broker/api/endpoints/F18950) | RSS | und | — | — |
-| business.nikkei.com | [F8223](https://preview.nws.broker/api/endpoints/F8223) | RSS | und | — | — |
-| business.nikkei.com | [F8224](https://preview.nws.broker/api/endpoints/F8224) | RSS | und | — | — |
-| businessam.be | [F8225](https://preview.nws.broker/api/endpoints/F8225) | RSS | und | — | — |
-| businessden.com | [F8227](https://preview.nws.broker/api/endpoints/F8227) | RSS | und | — | — |
-| businessengineer.ai | [F18951](https://preview.nws.broker/api/endpoints/F18951) | RSS | und | — | — |
-| businessinsider.com.pl | [F8228](https://preview.nws.broker/api/endpoints/F8228) | RSS | und | — | — |
-| businessintelligence.mo | [F8229](https://preview.nws.broker/api/endpoints/F8229) | RSS | und | — | — |
-| businessjournalism.podomatic.com | [F18952](https://preview.nws.broker/api/endpoints/F18952) | RSS | und | — | — |
-| businessnews.com.tn | [F8230](https://preview.nws.broker/api/endpoints/F8230) | RSS | und | — | — |
-| businessof.technology | [F18953](https://preview.nws.broker/api/endpoints/F18953) | RSS | und | — | — |
-| buzzmachine.com | [F18954](https://preview.nws.broker/api/endpoints/F18954) | RSS | und | — | — |
 | byc-news.de | [F8232](https://preview.nws.broker/api/endpoints/F8232) | RSS | und | — | — |
 | bylines.cymru | [F8233](https://preview.nws.broker/api/endpoints/F8233) | RSS | und | — | — |
 | bytebacklaw.com | [F8235](https://preview.nws.broker/api/endpoints/F8235) | RSS | und | — | — |
-| bytesizedbiz.substack.com | [F18956](https://preview.nws.broker/api/endpoints/F18956) | RSS | und | — | — |
 | bzbasel.ch | [F8236](https://preview.nws.broker/api/endpoints/F8236) | RSS | und | — | — |
 | c-ville.com | [F8237](https://preview.nws.broker/api/endpoints/F8237) | RSS | und | — | — |
 | cachingnw.libsyn.com | [F18958](https://preview.nws.broker/api/endpoints/F18958) | RSS | und | — | — |
@@ -95,7 +80,6 @@
 | celebrityinsider.org | [F8309](https://preview.nws.broker/api/endpoints/F8309) | RSS | und | — | — |
 | cen.com.kh | [F8310](https://preview.nws.broker/api/endpoints/F8310) | RSS | und | — | — |
 | cennydd.com | [F18972](https://preview.nws.broker/api/endpoints/F18972) | RSS | und | — | — |
-| centerforhumanetechnology.substack.com | [F18973](https://preview.nws.broker/api/endpoints/F18973) | RSS | und | — | — |
 | centralna.ba | [F8311](https://preview.nws.broker/api/endpoints/F8311) | RSS | und | — | — |
 | centreforaviation.com | [F8312](https://preview.nws.broker/api/endpoints/F8312) | RSS | und | — | — |
 | cepr.org | [F8313](https://preview.nws.broker/api/endpoints/F8313) | RSS | und | — | — |
@@ -114,7 +98,6 @@
 | chicago.suntimes.com | [F8327](https://preview.nws.broker/api/endpoints/F8327) | RSS | und | — | — |
 | chicagoreader.com | [F8328](https://preview.nws.broker/api/endpoints/F8328) | RSS | und | — | — |
 | chinacase.substack.com | [F18982](https://preview.nws.broker/api/endpoints/F18982) | RSS | und | — | — |
-| chinai.substack.com | [F8329](https://preview.nws.broker/api/endpoints/F8329) | RSS | und | — | — |
 | chrisdaleoxford.com | [F18983](https://preview.nws.broker/api/endpoints/F18983) | RSS | und | — | — |
 | chrislaing.net | [F18984](https://preview.nws.broker/api/endpoints/F18984) | RSS | und | — | — |
 | christopher-parsons.com | [F18985](https://preview.nws.broker/api/endpoints/F18985) | RSS | und | — | — |
@@ -154,3 +137,20 @@
 | cnes.fr | [F8360](https://preview.nws.broker/api/endpoints/F8360) | RSS | und | — | — |
 | cnevpost.com | [F8361](https://preview.nws.broker/api/endpoints/F8361) | RSS | und | — | — |
 | cocorioko.net | [F8362](https://preview.nws.broker/api/endpoints/F8362) | RSS | und | — | — |
+| codeklets.nl | [F19000](https://preview.nws.broker/api/endpoints/F19000) | RSS | und | — | — |
+| coffeeadastra.com | [F8363](https://preview.nws.broker/api/endpoints/F8363) | RSS | und | — | — |
+| coffeeblog.co.uk | [F8364](https://preview.nws.broker/api/endpoints/F8364) | RSS | und | — | — |
+| coffeechronicler.com | [F8365](https://preview.nws.broker/api/endpoints/F8365) | RSS | und | — | — |
+| coffeegeek.com | [F8366](https://preview.nws.broker/api/endpoints/F8366) | RSS | und | — | — |
+| coffeelogik.com | [F8367](https://preview.nws.broker/api/endpoints/F8367) | RSS | und | — | — |
+| cogneurosociety.org | [F8368](https://preview.nws.broker/api/endpoints/F8368) | RSS | und | — | — |
+| coinjournal.net | [F8370](https://preview.nws.broker/api/endpoints/F8370) | RSS | und | — | — |
+| coinjournal.net | [F8371](https://preview.nws.broker/api/endpoints/F8371) | RSS | und | — | — |
+| cointelegraph.com | [F8373](https://preview.nws.broker/api/endpoints/F8373) | RSS | und | — | — |
+| cointelegraph.com | [F8374](https://preview.nws.broker/api/endpoints/F8374) | RSS | und | — | — |
+| cointelegraph.com | [F8375](https://preview.nws.broker/api/endpoints/F8375) | RSS | und | — | — |
+| cointelegraph.com | [F8376](https://preview.nws.broker/api/endpoints/F8376) | RSS | und | — | — |
+| cointelegraph.com | [F8377](https://preview.nws.broker/api/endpoints/F8377) | RSS | und | — | — |
+| cointelegraph.com | [F8378](https://preview.nws.broker/api/endpoints/F8378) | RSS | und | — | — |
+| cointelegraph.com | [F8379](https://preview.nws.broker/api/endpoints/F8379) | RSS | und | — | — |
+| cointelegraph.com | [F8380](https://preview.nws.broker/api/endpoints/F8380) | RSS | und | — | — |

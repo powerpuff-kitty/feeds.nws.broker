@@ -4,6 +4,24 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| feeds.nos.nl | [F1419](https://preview.nws.broker/api/endpoints/F1419) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nosnieuwstech>) |
+| feeds.nos.nl | [F1420](https://preview.nws.broker/api/endpoints/F1420) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nosnieuwsvideo>) |
+| feeds.nos.nl | [F1421](https://preview.nws.broker/api/endpoints/F1421) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nosop3>) |
+| feeds.nos.nl | [F1422](https://preview.nws.broker/api/endpoints/F1422) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossportalgemeen>) |
+| feeds.nos.nl | [F1423](https://preview.nws.broker/api/endpoints/F1423) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossportformule1>) |
+| feeds.nos.nl | [F1424](https://preview.nws.broker/api/endpoints/F1424) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossportformule1video>) |
+| feeds.nos.nl | [F1425](https://preview.nws.broker/api/endpoints/F1425) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossportschaatsen>) |
+| feeds.nos.nl | [F1426](https://preview.nws.broker/api/endpoints/F1426) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossportschaatsenvideo>) |
+| feeds.nos.nl | [F1427](https://preview.nws.broker/api/endpoints/F1427) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossporttennis>) |
+| feeds.nos.nl | [F1428](https://preview.nws.broker/api/endpoints/F1428) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossporttennisvideo>) |
+| feeds.nos.nl | [F1429](https://preview.nws.broker/api/endpoints/F1429) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossportvoetbalvideo>) |
+| feeds.nos.nl | [F1430](https://preview.nws.broker/api/endpoints/F1430) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossportwielrennen>) |
+| feeds.nos.nl | [F1431](https://preview.nws.broker/api/endpoints/F1431) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossportwielrennenvideo>) |
+| feeds.nos.nl | [F1432](https://preview.nws.broker/api/endpoints/F1432) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nosvoetbal>) |
+| feeds.npr.org | [F9127](https://preview.nws.broker/api/endpoints/F9127) | RSS | en | 2026-11-19 | [Feed](<https://feeds.npr.org/1082539802/rss.xml>) |
+| feeds.osce.org | [F0150](https://preview.nws.broker/api/endpoints/F0150) | RSS | en | 2026-11-02 | — |
+| feeds.osce.org | [F0151](https://preview.nws.broker/api/endpoints/F0151) | RSS | en | 2026-11-02 | — |
+| feeds.osce.org | [F0152](https://preview.nws.broker/api/endpoints/F0152) | RSS | en | 2026-11-02 | — |
 | feeds.osce.org | [F0153](https://preview.nws.broker/api/endpoints/F0153) | RSS | en | 2026-11-02 | — |
 | feeds.osce.org | [F0154](https://preview.nws.broker/api/endpoints/F0154) | RSS | en | 2026-11-02 | — |
 | feeds.osce.org | [F0155](https://preview.nws.broker/api/endpoints/F0155) | RSS | en | 2026-11-02 | — |
@@ -136,21 +154,3 @@
 | Giornale Cittadino Press | [F24647](https://preview.nws.broker/api/endpoints/F24647) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.giornalecittadinopress.it/feed/>) |
 | Giornale di Puglia | [F24648](https://preview.nws.broker/api/endpoints/F24648) | Atom | und | 2026-11-19 | [Feed](<https://www.giornaledipuglia.com/feeds/posts/default>) |
 | Giornale L’Ora | [F24649](https://preview.nws.broker/api/endpoints/F24649) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.giornalelora.it/feed/>) |
-| Giornalistitalia | [F24650](https://preview.nws.broker/api/endpoints/F24650) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.giornalistitalia.it/feed/>) |
-| github.blog | [F1702](https://preview.nws.broker/api/endpoints/F1702) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/ai-and-ml/github-copilot/feed/>) |
-| github.blog | [F1703](https://preview.nws.broker/api/endpoints/F1703) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/author/bk2204/feed/>) |
-| github.blog | [F1704](https://preview.nws.broker/api/endpoints/F1704) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/author/deborahdigges/feed/>) |
-| github.blog | [F1705](https://preview.nws.broker/api/endpoints/F1705) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/author/janmaartena11y-2-2/feed/>) |
-| github.blog | [F1706](https://preview.nws.broker/api/endpoints/F1706) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/author/naguevara/feed/>) |
-| github.blog | [F1707](https://preview.nws.broker/api/endpoints/F1707) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/developer-skills/programming-languages-and-frameworks/feed/>) |
-| github.blog | [F1708](https://preview.nws.broker/api/endpoints/F1708) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/engineering/architecture-optimization/feed/>) |
-| github.blog | [F1709](https://preview.nws.broker/api/endpoints/F1709) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/engineering/engineering-principles/feed/>) |
-| github.blog | [F1710](https://preview.nws.broker/api/endpoints/F1710) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/engineering/feed/>) |
-| github.blog | [F1711](https://preview.nws.broker/api/endpoints/F1711) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/engineering/infrastructure/feed/>) |
-| github.blog | [F1712](https://preview.nws.broker/api/endpoints/F1712) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/engineering/user-experience/feed/>) |
-| github.blog | [F1713](https://preview.nws.broker/api/endpoints/F1713) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/enterprise-software/ci-cd/feed/>) |
-| github.blog | [F1714](https://preview.nws.broker/api/endpoints/F1714) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/enterprise-software/devops/feed/>) |
-| github.blog | [F1715](https://preview.nws.broker/api/endpoints/F1715) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/enterprise-software/devsecops/feed/>) |
-| github.blog | [F1716](https://preview.nws.broker/api/endpoints/F1716) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/feed/>) |
-| github.blog | [F1717](https://preview.nws.broker/api/endpoints/F1717) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/news-insights/feed/>) |
-| github.blog | [F1718](https://preview.nws.broker/api/endpoints/F1718) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/security/web-application-security/feed/>) |

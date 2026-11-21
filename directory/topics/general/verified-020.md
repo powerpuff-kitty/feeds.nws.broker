@@ -4,6 +4,34 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Privie | [F20112](https://preview.nws.broker/api/endpoints/F20112) | RSS | en-US | 2026-11-19 | [Feed](<https://privie.com/feed/>) |
+| prMac | [F20114](https://preview.nws.broker/api/endpoints/F20114) | RSS | en-US | 2026-11-19 | [Feed](<https://prmac.com/feed/>) |
+| Proceedings of Machine Learning Research | [F0185](https://preview.nws.broker/api/endpoints/F0185) | RSS | und | 2026-11-02 | — |
+| Proceedings of the National Academy of Sciences: Proceedings of the National Academy of Sciences: Table of Contents | [F16487](https://preview.nws.broker/api/endpoints/F16487) | RSS | und | 2026-11-19 | [Feed](<https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas>) |
+| Producing The Beatles | [F25027](https://preview.nws.broker/api/endpoints/F25027) | RSS | en-US | 2026-11-19 | [Feed](<https://www.producingthebeatles.com/new-episodes/?format=rss>) |
+| Product Design, Responsive Web Design, UX Design, Belfast Northern Ireland &#124; Jordan Moore | [F2027](https://preview.nws.broker/api/endpoints/F2027) | RSS | und | 2026-11-01 | [Feed](<https://jordanm.co.uk/feed>) |
+| Product Pickle | [F20117](https://preview.nws.broker/api/endpoints/F20117) | Atom | en | 2026-11-19 | [Feed](<https://productpickle.online/atom>) |
+| PROF Richard Wiseman | [F23375](https://preview.nws.broker/api/endpoints/F23375) | RSS | en | 2026-11-19 | [Feed](<https://richardwiseman.wordpress.com/feed/>) |
+| Programmable Mutter | [F21636](https://preview.nws.broker/api/endpoints/F21636) | RSS | en | 2026-11-19 | [Feed](<https://www.programmablemutter.com/feed>) |
+| Project Casting | [F20123](https://preview.nws.broker/api/endpoints/F20123) | RSS | en-US | 2026-11-19 | [Feed](<https://projectcasting.com/feed>) |
+| promodj.com | [F23307](https://preview.nws.broker/api/endpoints/F23307) | RSS | ru | 2026-11-19 | [Feed](<https://promodj.com/bass-ace/podcast.xml>) |
+| Prothom Alo English | [F8740](https://preview.nws.broker/api/endpoints/F8740) | RSS | en-US | 2026-11-19 | [Feed](<https://en.prothomalo.com/feed>) |
+| Proxmox VE 1.x: Installation and configuration | [F9218](https://preview.nws.broker/api/endpoints/F9218) | RSS | en-US | 2026-11-19 | [Feed](<https://forum.proxmox.com/forums/proxmox-ve-news-announcements.12/index.rss>) |
+| prozorski.ba | [F23310](https://preview.nws.broker/api/endpoints/F23310) | RSS | bs-BA | 2026-11-19 | [Feed](<https://prozorski.ba/feed/>) |
+| Psychogeographic Review | [F23312](https://preview.nws.broker/api/endpoints/F23312) | RSS | en-US | 2026-11-19 | [Feed](<https://psychogeographicreview.com/feed>) |
+| PT&#x27;s Coffee - PT&#x27;s Blog | [F11466](https://preview.nws.broker/api/endpoints/F11466) | Atom | en | 2026-11-19 | [Feed](<https://ptscoffee.com/blogs/news.atom>) |
+| publicola.com | [F11468](https://preview.nws.broker/api/endpoints/F11468) | RSS | en-US | 2026-11-19 | [Feed](<https://publicola.com/feed>) |
+| publish.tribuneindia.com | [F11474](https://preview.nws.broker/api/endpoints/F11474) | RSS | en-US | 2026-11-19 | [Feed](<https://publish.tribuneindia.com/newscategory/top-headlines/feed/>) |
+| Puls Biznesu - portal biznesowy | [F16440](https://preview.nws.broker/api/endpoints/F16440) | RSS | und | 2026-11-19 | [Feed](<https://www.pb.pl/rss/najnowsze.xml>) |
+| Pulse Blog | [F20137](https://preview.nws.broker/api/endpoints/F20137) | RSS | en | 2026-11-19 | [Feed](<https://pulse.internetsociety.org/feed>) |
+| Pulse India News | [F23317](https://preview.nws.broker/api/endpoints/F23317) | RSS | en-US | 2026-11-19 | [Feed](<https://pulseindianews.com/feed/>) |
+| Punya Mishra&#x27;s Web | [F20138](https://preview.nws.broker/api/endpoints/F20138) | RSS | en-US | 2026-11-19 | [Feed](<https://punyamishra.com/feed>) |
+| pv magazine Australia | [F16597](https://preview.nws.broker/api/endpoints/F16597) | RSS | en-AU | 2026-11-19 | [Feed](<https://www.pv-magazine-australia.com/feed/>) |
+| pv magazine India | [F16598](https://preview.nws.broker/api/endpoints/F16598) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.pv-magazine-india.com/feed/>) |
+| pv magazine USA | [F16599](https://preview.nws.broker/api/endpoints/F16599) | RSS | en-US | 2026-11-19 | [Feed](<https://www.pv-magazine-usa.com/feed/>) |
+| pxlnv.com | [F11485](https://preview.nws.broker/api/endpoints/F11485) | RSS | en-CA | 2026-11-19 | [Feed](<https://pxlnv.com/feed>) |
+| PyPI newest packages | [F2535](https://preview.nws.broker/api/endpoints/F2535) | RSS | en | 2026-11-02 | [Feed](<https://pypi.org/rss/packages.xml>) |
+| Pyrénées, Tarbes info | [F23913](https://preview.nws.broker/api/endpoints/F23913) | RSS | fr-FR | 2026-11-19 | [Feed](<https://tarbesinfo.fr/feed/>) |
 | pythoncat.top | [F11486](https://preview.nws.broker/api/endpoints/F11486) | RSS | und | 2026-11-19 | [Feed](<https://pythoncat.top/rss.xml>) |
 | quaily.com | [F11492](https://preview.nws.broker/api/endpoints/F11492) | Atom | und | 2026-11-19 | [Feed](<https://quaily.com/lyric/feed/atom>) |
 | quant67.com | [F11494](https://preview.nws.broker/api/endpoints/F11494) | RSS | zh-CN | 2026-11-19 | [Feed](<https://quant67.com/rss.xml>) |
@@ -126,31 +154,3 @@
 | Rob Pegoraro | [F20240](https://preview.nws.broker/api/endpoints/F20240) | Atom | en | 2026-11-19 | [Feed](<https://robpegoraro.com/feed/atom>) |
 | robcee.net | [F20227](https://preview.nws.broker/api/endpoints/F20227) | RSS | und | 2026-11-19 | [Feed](<https://robcee.net/feed>) |
 | Robert Greiner | [F20231](https://preview.nws.broker/api/endpoints/F20231) | RSS | en-US | 2026-11-19 | [Feed](<https://robertgreiner.com/rss>) |
-| Robert&#x27;s Blog | [F20229](https://preview.nws.broker/api/endpoints/F20229) | RSS | en-GB | 2026-11-19 | [Feed](<https://robert.hawdon.net/feed>) |
-| Roberto Lupi | [F23383](https://preview.nws.broker/api/endpoints/F23383) | RSS | en | 2026-11-19 | [Feed](<https://rlupi.com/rss.xml>) |
-| robertsabinbass | [F23385](https://preview.nws.broker/api/endpoints/F23385) | RSS | en | 2026-11-19 | [Feed](<https://robertsabinbass.wordpress.com/feed/>) |
-| Robin Ewing | [F20235](https://preview.nws.broker/api/endpoints/F20235) | RSS | en-US | 2026-11-19 | [Feed](<https://robinewing.com/feed/>) |
-| Robin The Fog | [F23391](https://preview.nws.broker/api/endpoints/F23391) | RSS | en | 2026-11-19 | [Feed](<https://robinthefog.com/feed>) |
-| Roborooter.com | [F23392](https://preview.nws.broker/api/endpoints/F23392) | RSS | en | 2026-11-19 | [Feed](<https://roborooter.com/feed>) |
-| RobotToday - Connecting Minds, Powering Futures | [F20239](https://preview.nws.broker/api/endpoints/F20239) | RSS | en-US | 2026-11-19 | [Feed](<https://robottoday.com/feed.xml>) |
-| Rochester Beacon | [F23395](https://preview.nws.broker/api/endpoints/F23395) | RSS | en-US | 2026-11-19 | [Feed](<https://rochesterbeacon.com/feed/>) |
-| RockySunico.com | [F21664](https://preview.nws.broker/api/endpoints/F21664) | Atom | und | 2026-11-19 | [Feed](<https://www.rockysunico.com/feeds/posts/default>) |
-| rokcso.com | [F11623](https://preview.nws.broker/api/endpoints/F11623) | RSS | en-US | 2026-11-19 | [Feed](<https://rokcso.com/index.xml>) |
-| roleplayingtips.com | [F11624](https://preview.nws.broker/api/endpoints/F11624) | RSS | en-US | 2026-11-19 | [Feed](<https://roleplayingtips.com/feed>) |
-| Rolling Stone Africa | [F11625](https://preview.nws.broker/api/endpoints/F11625) | RSS | en-US | 2026-11-19 | [Feed](<https://rollingstoneafrica.com/feed/>) |
-| Romania TV | [F25061](https://preview.nws.broker/api/endpoints/F25061) | RSS | ro-RO | 2026-11-19 | [Feed](<https://www.romaniatv.net/feed>) |
-| Ronnie&#x27;s Blog | [F23398](https://preview.nws.broker/api/endpoints/F23398) | RSS | en-US | 2026-11-19 | [Feed](<https://ronnie-s.com/feed/>) |
-| RookieOven RSS Feed | [F20250](https://preview.nws.broker/api/endpoints/F20250) | RSS | und | 2026-11-19 | [Feed](<https://rookieoven.com/rss.xml>) |
-| Room 7609 | [F21818](https://preview.nws.broker/api/endpoints/F21818) | RSS | en-US | 2026-11-19 | [Feed](<https://zedstarr.com/feed>) |
-| Roraty dla tych, co zaspali | [F24820](https://preview.nws.broker/api/endpoints/F24820) | RSS | pl | 2026-11-19 | [Feed](<https://www.liturgia.pl/podcast/roraty/feed.xml>) |
-| Rounding Off Infinity | [F20256](https://preview.nws.broker/api/endpoints/F20256) | RSS | en | 2026-11-19 | [Feed](<https://roundingoffinfinity.blog/feed/>) |
-| Rowan Manning | [F23405](https://preview.nws.broker/api/endpoints/F23405) | Atom | en-GB | 2026-11-19 | [Feed](<https://rowanmanning.com/feed.xml>) |
-| roy.wang | [F11631](https://preview.nws.broker/api/endpoints/F11631) | Atom | und | 2026-11-19 | [Feed](<https://roy.wang/feed/>) |
-| Roya Bloom | [F23408](https://preview.nws.broker/api/endpoints/F23408) | RSS | en | 2026-11-19 | [Feed](<https://royabloom.blog/feed/>) |
-| Royal Examiner (11-19-2026) (11-19-2026) | [F20259](https://preview.nws.broker/api/endpoints/F20259) | RSS | en-US | 2026-11-19 | [Feed](<https://royalexaminer.com/feed/>) |
-| rp-online.de | [F11636](https://preview.nws.broker/api/endpoints/F11636) | RSS | de-DE | 2026-11-19 | [Feed](<https://rp-online.de/feed.rss>) |
-| rp-online.de | [F23417](https://preview.nws.broker/api/endpoints/F23417) | RSS | de-DE | 2026-11-19 | [Feed](<https://rp-online.de/sport/eishockey/deg/feed.rss>) |
-| RPM: Jonathan Perry&#x27;s Life in Analog | [F23432](https://preview.nws.broker/api/endpoints/F23432) | RSS | en | 2026-11-19 | [Feed](<https://rpmlifeinanalog.com/feed>) |
-| rrorangeandfriends.de | [F11638](https://preview.nws.broker/api/endpoints/F11638) | RSS | zh-Hans | 2026-11-19 | [Feed](<https://rrorangeandfriends.de/feed.xml>) |
-| RSA Daily News Hub | [F23433](https://preview.nws.broker/api/endpoints/F23433) | RSS | en-US | 2026-11-19 | [Feed](<https://rsasearch.co.za/feed/rss>) |
-| RSS Feed Aktuelle Pressemitteilungen | [F16438](https://preview.nws.broker/api/endpoints/F16438) | RSS | de | 2026-11-19 | [Feed](<https://www.parlament-berlin.de/rss/meldungen>) |

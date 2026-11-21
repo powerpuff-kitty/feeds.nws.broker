@@ -4,24 +4,6 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
-| feeds.feedburner.com | [F9052](https://preview.nws.broker/api/endpoints/F9052) | RSS | und | — | — |
-| feeds.feedburner.com | [F9053](https://preview.nws.broker/api/endpoints/F9053) | RSS | und | — | — |
-| feeds.feedburner.com | [F9054](https://preview.nws.broker/api/endpoints/F9054) | RSS | und | — | — |
-| feeds.feedburner.com | [F9055](https://preview.nws.broker/api/endpoints/F9055) | RSS | und | — | — |
-| feeds.feedburner.com | [F9056](https://preview.nws.broker/api/endpoints/F9056) | RSS | und | — | — |
-| feeds.feedburner.com | [F9057](https://preview.nws.broker/api/endpoints/F9057) | RSS | und | — | — |
-| feeds.feedburner.com | [F9058](https://preview.nws.broker/api/endpoints/F9058) | RSS | und | — | — |
-| feeds.feedburner.com | [F9059](https://preview.nws.broker/api/endpoints/F9059) | RSS | und | — | — |
-| feeds.feedburner.com | [F9060](https://preview.nws.broker/api/endpoints/F9060) | RSS | und | — | — |
-| feeds.feedburner.com | [F9061](https://preview.nws.broker/api/endpoints/F9061) | RSS | und | — | — |
-| feeds.feedburner.com | [F9062](https://preview.nws.broker/api/endpoints/F9062) | RSS | und | — | — |
-| feeds.feedburner.com | [F9063](https://preview.nws.broker/api/endpoints/F9063) | RSS | und | — | — |
-| feeds.feedburner.com | [F9064](https://preview.nws.broker/api/endpoints/F9064) | RSS | und | — | — |
-| feeds.feedburner.com | [F9065](https://preview.nws.broker/api/endpoints/F9065) | RSS | und | — | — |
-| feeds.feedburner.com | [F9066](https://preview.nws.broker/api/endpoints/F9066) | RSS | und | — | — |
-| feeds.feedburner.com | [F9067](https://preview.nws.broker/api/endpoints/F9067) | RSS | und | — | — |
-| feeds.feedburner.com | [F9068](https://preview.nws.broker/api/endpoints/F9068) | RSS | und | — | — |
-| feeds.feedburner.com | [F9069](https://preview.nws.broker/api/endpoints/F9069) | RSS | und | — | — |
 | feeds.feedburner.com | [F9070](https://preview.nws.broker/api/endpoints/F9070) | RSS | und | — | — |
 | feeds.feedburner.com | [F9071](https://preview.nws.broker/api/endpoints/F9071) | RSS | und | — | — |
 | feeds.feedburner.com | [F9072](https://preview.nws.broker/api/endpoints/F9072) | RSS | und | — | — |
@@ -154,3 +136,21 @@
 | feeds.megaphone.fm | [F22490](https://preview.nws.broker/api/endpoints/F22490) | RSS | und | — | — |
 | feeds.megaphone.fm | [F22491](https://preview.nws.broker/api/endpoints/F22491) | RSS | und | — | — |
 | feeds.megaphone.fm | [F22492](https://preview.nws.broker/api/endpoints/F22492) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22493](https://preview.nws.broker/api/endpoints/F22493) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22494](https://preview.nws.broker/api/endpoints/F22494) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22495](https://preview.nws.broker/api/endpoints/F22495) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22496](https://preview.nws.broker/api/endpoints/F22496) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22497](https://preview.nws.broker/api/endpoints/F22497) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22498](https://preview.nws.broker/api/endpoints/F22498) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22499](https://preview.nws.broker/api/endpoints/F22499) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22500](https://preview.nws.broker/api/endpoints/F22500) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22501](https://preview.nws.broker/api/endpoints/F22501) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22502](https://preview.nws.broker/api/endpoints/F22502) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22503](https://preview.nws.broker/api/endpoints/F22503) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22504](https://preview.nws.broker/api/endpoints/F22504) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22505](https://preview.nws.broker/api/endpoints/F22505) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22506](https://preview.nws.broker/api/endpoints/F22506) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22507](https://preview.nws.broker/api/endpoints/F22507) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22508](https://preview.nws.broker/api/endpoints/F22508) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22509](https://preview.nws.broker/api/endpoints/F22509) | RSS | und | — | — |
+| feeds.megaphone.fm | [F22510](https://preview.nws.broker/api/endpoints/F22510) | RSS | und | — | — |

@@ -15,6 +15,9 @@
 | In the Dark cosmology and personal-blog feeds | [F7161](https://preview.nws.broker/api/endpoints/F7161) | RSS | en | 2026-11-04 | [Feed](<https://telescoper.blog/feed/>) |
 | In the Dark cosmology and personal-blog feeds | [F7162](https://preview.nws.broker/api/endpoints/F7162) | RSS | und | 2026-11-04 | [Feed](<https://telescoper.blog/comments/feed/>) |
 | In the Dark cosmology and personal-blog feeds | [F7163](https://preview.nws.broker/api/endpoints/F7163) | RSS | und | 2026-11-04 | [Feed](<https://telescoper.blog/about/feed/>) |
+| Nature on Bluesky | [F27064](https://preview.nws.broker/api/endpoints/F27064) | RSS | und | 2026-11-21 | [Feed](<https://bsky.app/profile/did:plc:vrsppvjc5fysqnm2zshiirey/rss>) |
+| Pangeo Discourse | [F27088](https://preview.nws.broker/api/endpoints/F27088) | RSS | und | 2026-11-21 | [Feed](<https://discourse.pangeo.io/latest.rss>) |
+| Pangeo Discourse | [F27089](https://preview.nws.broker/api/endpoints/F27089) | RSS | und | 2026-11-21 | [Feed](<https://discourse.pangeo.io/posts.rss>) |
 | Quanta Magazine | [F7506](https://preview.nws.broker/api/endpoints/F7506) | RSS | en-US | 2026-11-18 | [Feed](<https://www.quantamagazine.org/feed/>) |
 | ScienceAlert general and platform-syndication feeds | [F7122](https://preview.nws.broker/api/endpoints/F7122) | RSS | en-US | 2026-11-04 | [Feed](<https://www.sciencealert.com/feed/gn/>) |
 | ScienceAlert general and platform-syndication feeds | [F7123](https://preview.nws.broker/api/endpoints/F7123) | RSS | en-US | 2026-11-04 | [Feed](<https://www.sciencealert.com/feed/msft/>) |

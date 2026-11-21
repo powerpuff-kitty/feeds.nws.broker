@@ -2,13 +2,13 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/business.commerce.opml)
 
-11 endpoint records.
+12 endpoint records.
 
-## Verified (9)
+## Verified (10)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–9](verified-001.md) · Aruba Free Zone to VnExpress
+- [1–10](verified-001.md) · Aruba Free Zone to VnExpress
 
 ## Needs review (2)
 

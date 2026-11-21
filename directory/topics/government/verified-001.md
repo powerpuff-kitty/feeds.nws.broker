@@ -4,8 +4,10 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| AGAPE’TH on PeerTube | [F27174](https://preview.nws.broker/api/endpoints/F27174) | RSS | und | 2026-11-21 | [Feed](<https://tube.numerique.gouv.fr/feeds/videos.xml?videoChannelId=374>) |
 | American Samoa Government | [F26369](https://preview.nws.broker/api/endpoints/F26369) | RSS | und | 2026-11-19 | [Feed](<https://www.americansamoa.gov/blog-feed.xml>) |
 | Baarle-Hertog municipal publication feeds | [F6347](https://preview.nws.broker/api/endpoints/F6347) | RSS | nl-BE | 2026-11-03 | [Feed](<https://www.baarle-hertog.be/nieuws/rss>) |
+| Belastingdienst on Mastodon | [F27136](https://preview.nws.broker/api/endpoints/F27136) | RSS | und | 2026-11-21 | [Feed](<https://social.overheid.nl/@belastingdienst.rss>) |
 | Belgian Federal Agency for Nuclear Control publication feeds | [F6320](https://preview.nws.broker/api/endpoints/F6320) | RSS | nl | 2026-11-03 | — |
 | Belgian Federal Agency for Nuclear Control publication feeds | [F6334](https://preview.nws.broker/api/endpoints/F6334) | RSS | fr | 2026-11-03 | — |
 | Belgian Federal Agency for Nuclear Control publication feeds | [F6335](https://preview.nws.broker/api/endpoints/F6335) | RSS | de | 2026-11-03 | — |
@@ -17,18 +19,24 @@
 | Belgian FPS BOSA publication feeds | [F6308](https://preview.nws.broker/api/endpoints/F6308) | RSS | fr | 2026-11-03 | [Feed](<https://bosa.belgium.be/fr/content-feed/events/rss.xml>) |
 | Belgian FPS BOSA publication feeds | [F6309](https://preview.nws.broker/api/endpoints/F6309) | RSS | fr | 2026-11-03 | [Feed](<https://bosa.belgium.be/fr/content-feed/trainings/rss.xml>) |
 | British Indian Ocean Territory Administration | [F26197](https://preview.nws.broker/api/endpoints/F26197) | RSS | en-US | 2026-11-19 | [Feed](<https://www.biot.gov.io/news/category/news/feed/>) |
+| Bundesbeauftragter für den Datenschutz und die Informationsfreiheit on Mastodon | [F27138](https://preview.nws.broker/api/endpoints/F27138) | RSS | und | 2026-11-21 | [Feed](<https://social.bund.de/@bfdi.rss>) |
+| Bundesregierung on Mastodon | [F27139](https://preview.nws.broker/api/endpoints/F27139) | RSS | und | 2026-11-21 | [Feed](<https://social.bund.de/@Bundesregierung.rss>) |
 | Cabo Verde Reforma do Estado | [F26446](https://preview.nws.broker/api/endpoints/F26446) | RSS | pt-PT | 2026-11-19 | [Feed](<https://www.reformadoestado.gov.cv/index.php?format=feed&type=rss>) |
 | Centro de Integridade Pública | [F25828](https://preview.nws.broker/api/endpoints/F25828) | RSS | pt-PT | 2026-11-19 | [Feed](<https://www.cipmoz.org/feed/>) |
 | City of Brussels website news | [F6154](https://preview.nws.broker/api/endpoints/F6154) | RSS | en | 2026-11-03 | [Feed](<https://www.brussels.be/rss.xml>) |
 | City of Brussels website news | [F6155](https://preview.nws.broker/api/endpoints/F6155) | RSS | fr | 2026-11-03 | [Feed](<https://www.bruxelles.be/rss.xml>) |
 | City of Brussels website news | [F6171](https://preview.nws.broker/api/endpoints/F6171) | RSS | nl | 2026-11-03 | [Feed](<https://www.brussel.be/rss.xml>) |
+| CNIL — privacy and data protection videos on PeerTube | [F27178](https://preview.nws.broker/api/endpoints/F27178) | RSS | und | 2026-11-21 | [Feed](<https://video.cnil.fr/feeds/videos.xml?videoChannelId=6>) |
 | Collectivité territoriale de Martinique | [F26177](https://preview.nws.broker/api/endpoints/F26177) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.collectivitedemartinique.mq/feed/>) |
+| Commission nationale de l’informatique et des libertés on PeerTube | [F27179](https://preview.nws.broker/api/endpoints/F27179) | RSS | und | 2026-11-21 | [Feed](<https://video.cnil.fr/feeds/videos.xml>) |
 | Cornwall Council | [F25243](https://preview.nws.broker/api/endpoints/F25243) | RSS | und | 2026-11-19 | [Feed](<https://www.cornwall.gov.uk/council-news/rss-feeds/newsfeed/>) |
 | Câmara Municipal de Guimarães | [F25390](https://preview.nws.broker/api/endpoints/F25390) | RSS | und | 2026-11-19 | [Feed](<https://www.cm-guimaraes.pt/pages/rss-feed%2Frss-de-noticias.rss>) |
 | Câmara Municipal de Mafra | [F25388](https://preview.nws.broker/api/endpoints/F25388) | RSS | und | 2026-11-19 | [Feed](<https://www.cm-mafra.pt/pages/321.rss>) |
 | Câmara Municipal de Palmela | [F25389](https://preview.nws.broker/api/endpoints/F25389) | RSS | und | 2026-11-19 | [Feed](<https://www.cm-palmela.pt/pages/feed-rss-noticias-50.rss>) |
+| DINUM on PeerTube | [F27180](https://preview.nws.broker/api/endpoints/F27180) | RSS | und | 2026-11-21 | [Feed](<https://tube.numerique.gouv.fr/feeds/videos.xml>) |
 | Direction de l’enseignement de la Nouvelle-Calédonie | [F26249](https://preview.nws.broker/api/endpoints/F26249) | RSS | fr | 2026-11-19 | [Feed](<https://denc.gouv.nc/rss/actualites>) |
 | El Periòdic d’Andorra — Política | [F26231](https://preview.nws.broker/api/endpoints/F26231) | RSS | ca | 2026-11-19 | [Feed](<https://elperiodic.ad/categories/politica/feed/>) |
+| European Commission on Mastodon | [F27144](https://preview.nws.broker/api/endpoints/F27144) | RSS | und | 2026-11-21 | [Feed](<https://ec.social-network.europa.eu/@EUCommission.rss>) |
 | Financial Administration of the Republic of Slovenia | [F25345](https://preview.nws.broker/api/endpoints/F25345) | RSS | sl-SI | 2026-11-19 | [Feed](<https://www.fu.gov.si/rss/prebivalci/>) |
 | Financial Administration of the Republic of Slovenia | [F25346](https://preview.nws.broker/api/endpoints/F25346) | RSS | sl-SI | 2026-11-19 | [Feed](<https://www.fu.gov.si/rss/podjetja/>) |
 | Financial Administration of the Republic of Slovenia | [F25347](https://preview.nws.broker/api/endpoints/F25347) | RSS | sl-SI | 2026-11-19 | [Feed](<https://www.fu.gov.si/rss/portal_e_davki/>) |
@@ -146,11 +154,3 @@
 | GovInfo | [F4512](https://preview.nws.broker/api/endpoints/F4512) | RSS | en | 2026-11-02 | [Feed](<https://www.govinfo.gov/rss/uscourts-hib.xml>) |
 | GovInfo | [F4513](https://preview.nws.broker/api/endpoints/F4513) | RSS | en | 2026-11-02 | [Feed](<https://www.govinfo.gov/rss/uscourts-hid.xml>) |
 | GovInfo | [F4514](https://preview.nws.broker/api/endpoints/F4514) | RSS | en | 2026-11-02 | [Feed](<https://www.govinfo.gov/rss/uscourts-ianb.xml>) |
-| GovInfo | [F4515](https://preview.nws.broker/api/endpoints/F4515) | RSS | en | 2026-11-02 | [Feed](<https://www.govinfo.gov/rss/uscourts-ilcb.xml>) |
-| GovInfo | [F4516](https://preview.nws.broker/api/endpoints/F4516) | RSS | en | 2026-11-02 | [Feed](<https://www.govinfo.gov/rss/uscourts-ilnb.xml>) |
-| GovInfo | [F4517](https://preview.nws.broker/api/endpoints/F4517) | RSS | en | 2026-11-02 | [Feed](<https://www.govinfo.gov/rss/uscourts-jpml.xml>) |
-| GovInfo | [F4518](https://preview.nws.broker/api/endpoints/F4518) | RSS | en | 2026-11-02 | [Feed](<https://www.govinfo.gov/rss/uscourts-laed.xml>) |
-| GovInfo | [F4519](https://preview.nws.broker/api/endpoints/F4519) | RSS | en | 2026-11-02 | [Feed](<https://www.govinfo.gov/rss/uscourts-lamb.xml>) |
-| GovInfo | [F4520](https://preview.nws.broker/api/endpoints/F4520) | RSS | en | 2026-11-02 | [Feed](<https://www.govinfo.gov/rss/uscourts-meb.xml>) |
-| GovInfo | [F4521](https://preview.nws.broker/api/endpoints/F4521) | RSS | en | 2026-11-02 | [Feed](<https://www.govinfo.gov/rss/uscourts-mied.xml>) |
-| GovInfo | [F4522](https://preview.nws.broker/api/endpoints/F4522) | RSS | en | 2026-11-02 | [Feed](<https://www.govinfo.gov/rss/uscourts-miwd.xml>) |

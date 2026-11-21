@@ -4,6 +4,35 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| podcasts.lemonde.fr | [F2521](https://preview.nws.broker/api/endpoints/F2521) | Atom | und | 2026-11-02 | — |
+| podcasts.lemonde.fr | [F2523](https://preview.nws.broker/api/endpoints/F2523) | Atom | und | 2026-11-02 | — |
+| podster.fm | [F23282](https://preview.nws.broker/api/endpoints/F23282) | RSS | und | 2026-11-19 | — |
+| policemag.com | [F20086](https://preview.nws.broker/api/endpoints/F20086) | RSS | und | 2026-11-19 | — |
+| Political Junkie Goes West Podcast | [F1287](https://preview.nws.broker/api/endpoints/F1287) | RSS | und | 2026-11-02 | — |
+| polktimes.com | [F23284](https://preview.nws.broker/api/endpoints/F23284) | RSS | und | 2026-11-19 | — |
+| pontofinal-macau.com | [F11414](https://preview.nws.broker/api/endpoints/F11414) | RSS | und | 2026-11-19 | — |
+| popsci.com.tr | [F11415](https://preview.nws.broker/api/endpoints/F11415) | RSS | und | 2026-11-19 | — |
+| popspoken.com | [F23286](https://preview.nws.broker/api/endpoints/F23286) | RSS | und | 2026-11-19 | — |
+| popstaronline.com | [F23287](https://preview.nws.broker/api/endpoints/F23287) | RSS | und | 2026-11-19 | — |
+| popula.com | [F20093](https://preview.nws.broker/api/endpoints/F20093) | RSS | und | 2026-11-19 | — |
+| portlandmercury.com | [F23289](https://preview.nws.broker/api/endpoints/F23289) | RSS | und | 2026-11-19 | — |
+| positanonews.it | [F23293](https://preview.nws.broker/api/endpoints/F23293) | RSS | und | 2026-11-19 | — |
+| post.kn | [F20095](https://preview.nws.broker/api/endpoints/F20095) | RSS | und | 2026-11-19 | — |
+| Postgres FM | [F1659](https://preview.nws.broker/api/endpoints/F1659) | RSS | und | 2026-11-01 | — |
+| postnewsgroup.com | [F23294](https://preview.nws.broker/api/endpoints/F23294) | RSS | und | 2026-11-19 | — |
+| ppmgames.co.uk | [F11432](https://preview.nws.broker/api/endpoints/F11432) | RSS | und | 2026-11-19 | — |
+| prachatai.com | [F11433](https://preview.nws.broker/api/endpoints/F11433) | RSS | und | 2026-11-19 | — |
+| pragmatisminpractice.libsyn.com | [F20101](https://preview.nws.broker/api/endpoints/F20101) | RSS | und | 2026-11-19 | — |
+| prava.si | [F23296](https://preview.nws.broker/api/endpoints/F23296) | RSS | und | 2026-11-19 | — |
+| Preach | [F1263](https://preview.nws.broker/api/endpoints/F1263) | RSS | und | 2026-11-02 | — |
+| pressinsiderdaily.com | [F20104](https://preview.nws.broker/api/endpoints/F20104) | RSS | und | 2026-11-19 | — |
+| prod-qt-images.s3.amazonaws.com | [F11447](https://preview.nws.broker/api/endpoints/F11447) | RSS | und | 2026-11-19 | — |
+| prod-qt-images.s3.amazonaws.com | [F11449](https://preview.nws.broker/api/endpoints/F11449) | RSS | und | 2026-11-19 | — |
+| proto.garden | [F20124](https://preview.nws.broker/api/endpoints/F20124) | RSS | und | 2026-11-19 | — |
+| pswonly.libsyn.com | [F20130](https://preview.nws.broker/api/endpoints/F20130) | RSS | und | 2026-11-19 | — |
+| psychichypnotictarot.substack.com | [F20131](https://preview.nws.broker/api/endpoints/F20131) | RSS | und | 2026-11-19 | — |
+| pullandpourcoffee.com | [F11479](https://preview.nws.broker/api/endpoints/F11479) | RSS | und | 2026-11-19 | — |
+| qingccl.github.io | [F11489](https://preview.nws.broker/api/endpoints/F11489) | RSS | und | 2026-11-19 | — |
 | qna.org.qa | [F11491](https://preview.nws.broker/api/endpoints/F11491) | RSS | und | 2026-11-19 | — |
 | qsrweb.com | [F20141](https://preview.nws.broker/api/endpoints/F20141) | RSS | und | 2026-11-19 | — |
 | quchronicle.com | [F23319](https://preview.nws.broker/api/endpoints/F23319) | RSS | und | 2026-11-19 | — |
@@ -125,32 +154,3 @@
 | Release notes from get-rss-feed-url-extension-for-slick-rss | [F1783](https://preview.nws.broker/api/endpoints/F1783) | Atom | und | 2026-11-02 | — |
 | Release notes from grayjay-source-pietsmietde | [F1720](https://preview.nws.broker/api/endpoints/F1720) | Atom | und | 2026-11-02 | — |
 | Release notes from grayjay-source-pietsmietde | [F1788](https://preview.nws.broker/api/endpoints/F1788) | Atom | und | 2026-11-02 | — |
-| Release notes from helix | [F1790](https://preview.nws.broker/api/endpoints/F1790) | Atom | und | 2026-11-02 | — |
-| Release notes from hoarder | [F1794](https://preview.nws.broker/api/endpoints/F1794) | Atom | und | 2026-11-02 | — |
-| Release notes from iceriver-oc | [F1848](https://preview.nws.broker/api/endpoints/F1848) | Atom | und | 2026-11-02 | — |
-| Release notes from immich | [F1803](https://preview.nws.broker/api/endpoints/F1803) | Atom | und | 2026-11-02 | — |
-| Release notes from iOS-Weekly | [F1745](https://preview.nws.broker/api/endpoints/F1745) | Atom | und | 2026-11-02 | — |
-| Release notes from is-odd | [F1802](https://preview.nws.broker/api/endpoints/F1802) | Atom | und | 2026-11-02 | — |
-| Release notes from is-online | [F1856](https://preview.nws.broker/api/endpoints/F1856) | Atom | und | 2026-11-02 | — |
-| Release notes from json | [F1851](https://preview.nws.broker/api/endpoints/F1851) | Atom | und | 2026-11-02 | — |
-| Release notes from karakeep | [F1805](https://preview.nws.broker/api/endpoints/F1805) | Atom | und | 2026-11-02 | — |
-| Release notes from kubernetes | [F1807](https://preview.nws.broker/api/endpoints/F1807) | Atom | und | 2026-11-02 | — |
-| Release notes from library | [F1837](https://preview.nws.broker/api/endpoints/F1837) | Atom | und | 2026-11-02 | — |
-| Release notes from lutris | [F1812](https://preview.nws.broker/api/endpoints/F1812) | Atom | und | 2026-11-02 | — |
-| Release notes from LxgwWenKaiNerdFont | [F1750](https://preview.nws.broker/api/endpoints/F1750) | Atom | und | 2026-11-02 | — |
-| Release notes from Magisk | [F1861](https://preview.nws.broker/api/endpoints/F1861) | Atom | und | 2026-11-02 | — |
-| Release notes from MoeMemosAndroid | [F1832](https://preview.nws.broker/api/endpoints/F1832) | Atom | und | 2026-11-02 | — |
-| Release notes from neovim | [F1834](https://preview.nws.broker/api/endpoints/F1834) | Atom | und | 2026-11-02 | — |
-| Release notes from nitrokey-3-firmware | [F1736](https://preview.nws.broker/api/endpoints/F1736) | Atom | und | 2026-11-02 | — |
-| Release notes from novideo\_srgb | [F1808](https://preview.nws.broker/api/endpoints/F1808) | Atom | und | 2026-11-02 | — |
-| Release notes from paperless-ngx | [F1840](https://preview.nws.broker/api/endpoints/F1840) | Atom | und | 2026-11-02 | — |
-| Release notes from podlet | [F1767](https://preview.nws.broker/api/endpoints/F1767) | Atom | und | 2026-11-02 | — |
-| Release notes from PowerToys | [F1816](https://preview.nws.broker/api/endpoints/F1816) | Atom | und | 2026-11-02 | — |
-| Release notes from privacyguides.org | [F1841](https://preview.nws.broker/api/endpoints/F1841) | Atom | und | 2026-11-02 | — |
-| Release notes from Prusa-Firmware-Buddy | [F1843](https://preview.nws.broker/api/endpoints/F1843) | Atom | und | 2026-11-02 | — |
-| Release notes from pytorch | [F1845](https://preview.nws.broker/api/endpoints/F1845) | Atom | und | 2026-11-02 | — |
-| Release notes from RetroArch | [F1810](https://preview.nws.broker/api/endpoints/F1810) | Atom | und | 2026-11-02 | — |
-| Release notes from Rocket.Chat | [F1741](https://preview.nws.broker/api/endpoints/F1741) | Atom | und | 2026-11-02 | — |
-| Release notes from rss-bridge | [F1738](https://preview.nws.broker/api/endpoints/F1738) | Atom | und | 2026-11-02 | — |
-| Release notes from SmartCookieWeb-Preview | [F1724](https://preview.nws.broker/api/endpoints/F1724) | Atom | und | 2026-11-02 | — |
-| Release notes from stylus | [F1838](https://preview.nws.broker/api/endpoints/F1838) | Atom | und | 2026-11-02 | — |

@@ -2,13 +2,13 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/government.legislation.opml)
 
-72 endpoint records.
+74 endpoint records.
 
-## Verified (68)
+## Verified (70)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–68](verified-001.md) · BOE RSS / open-data API to Veritas Zimbabwe
+- [1–70](verified-001.md) · BOE RSS / open-data API to Veritas Zimbabwe
 
 ## Needs review (4)
 

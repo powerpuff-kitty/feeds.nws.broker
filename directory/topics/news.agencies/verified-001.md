@@ -133,6 +133,7 @@
 | ANTARA Mataram / NTB | [F7425](https://preview.nws.broker/api/endpoints/F7425) | RSS | id | 2026-11-18 | [Feed](<https://mataram.antaranews.com/rss/sepakbola.xml>) |
 | APA | [F25187](https://preview.nws.broker/api/endpoints/F25187) | RSS | az | 2026-11-19 | [Feed](<https://apa.az/rss>) |
 | APFMercosur | [F26633](https://preview.nws.broker/api/endpoints/F26633) | RSS | und | 2026-11-20 | [Feed](<https://www.apfmercosur.com.ar/rss/noticias/>) |
+| Associated Press on Bluesky | [F27058](https://preview.nws.broker/api/endpoints/F27058) | RSS | und | 2026-11-21 | [Feed](<https://bsky.app/profile/did:plc:a67zdrt4nl2tv2qojpngogbq/rss>) |
 | Avesta | [F26676](https://preview.nws.broker/api/endpoints/F26676) | RSS | ru-RU | 2026-11-20 | [Feed](<https://avesta.tj/feed/>) |
 | AZERTAC | [F25186](https://preview.nws.broker/api/endpoints/F25186) | RSS | und | 2026-11-19 | [Feed](<https://azertag.az/rss>) |
 | Baghdad Today | [F26704](https://preview.nws.broker/api/endpoints/F26704) | RSS | ar | 2026-11-20 | [Feed](<https://baghdadtoday.news/rss.xml>) |
@@ -153,4 +154,3 @@
 | Moldpres | [F25303](https://preview.nws.broker/api/endpoints/F25303) | RSS | eng | 2026-11-19 | [Feed](<https://www.moldpres.md/config/rssSinteza.php?lang=eng>) |
 | MONTSAME | [F25866](https://preview.nws.broker/api/endpoints/F25866) | RSS | en | 2026-11-19 | [Feed](<https://montsame.mn/en/rss.xml>) |
 | Newsline Samoa | [F26679](https://preview.nws.broker/api/endpoints/F26679) | RSS | en-US | 2026-11-20 | [Feed](<https://newslinesamoa.com/category/local/feed/>) |
-| Prensa Latina | [F26640](https://preview.nws.broker/api/endpoints/F26640) | RSS | es | 2026-11-20 | [Feed](<https://www.prensa-latina.cu/feed/>) |

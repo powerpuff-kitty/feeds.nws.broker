@@ -4,6 +4,14 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| blog.doaj.org | [F0639](https://preview.nws.broker/api/endpoints/F0639) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/discovery/feed/>) |
+| blog.doaj.org | [F0640](https://preview.nws.broker/api/endpoints/F0640) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/doaj-ambassadors/feed/>) |
+| blog.doaj.org | [F0641](https://preview.nws.broker/api/endpoints/F0641) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/doaj-voices/feed/>) |
+| blog.doaj.org | [F0642](https://preview.nws.broker/api/endpoints/F0642) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/funding/feed/>) |
+| blog.doaj.org | [F0643](https://preview.nws.broker/api/endpoints/F0643) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/governance/feed/>) |
+| blog.doaj.org | [F0644](https://preview.nws.broker/api/endpoints/F0644) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/guest-post/feed/>) |
+| blog.doaj.org | [F0645](https://preview.nws.broker/api/endpoints/F0645) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/letter/feed/>) |
+| blog.doaj.org | [F0646](https://preview.nws.broker/api/endpoints/F0646) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/letter/funding/feed/>) |
 | blog.doaj.org | [F0647](https://preview.nws.broker/api/endpoints/F0647) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/letter/plan-s/feed/>) |
 | blog.doaj.org | [F0648](https://preview.nws.broker/api/endpoints/F0648) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/metadata/feed/>) |
 | blog.doaj.org | [F0649](https://preview.nws.broker/api/endpoints/F0649) | RSS | en-GB | 2026-11-02 | [Feed](<https://blog.doaj.org/category/myth-busting/feed/>) |
@@ -146,11 +154,3 @@
 | Blognone - ข่าวไอที เทคโนโลยี มือถือ เกม ความปลอดภัย โอเพนซอร์ส | [F13360](https://preview.nws.broker/api/endpoints/F13360) | RSS | en | 2026-11-19 | [Feed](<https://www.blognone.com/atom.xml>) |
 | Blogs &#124; Justin Wheeler | [F19760](https://preview.nws.broker/api/endpoints/F19760) | RSS | en-US | 2026-11-19 | [Feed](<https://jwheel.org/rss/blog/index.xml>) |
 | blogs.esa.int | [F0787](https://preview.nws.broker/api/endpoints/F0787) | RSS | und | 2026-11-02 | [Feed](<https://blogs.esa.int/alexander-gerst/2018/12/10/record-breaking-week-in-space/feed/>) |
-| blogs.esa.int | [F0788](https://preview.nws.broker/api/endpoints/F0788) | RSS | und | 2026-11-02 | [Feed](<https://blogs.esa.int/alexander-gerst/2019/02/14/return-to-star-city/feed/>) |
-| blogs.esa.int | [F0789](https://preview.nws.broker/api/endpoints/F0789) | RSS | und | 2026-11-02 | [Feed](<https://blogs.esa.int/alexander-gerst/2020/02/13/preparing-for-the-unknown/feed/>) |
-| blogs.esa.int | [F0790](https://preview.nws.broker/api/endpoints/F0790) | RSS | und | 2026-11-02 | [Feed](<https://blogs.esa.int/alexander-gerst/comments/feed/>) |
-| blogs.esa.int | [F0791](https://preview.nws.broker/api/endpoints/F0791) | RSS | en-US | 2026-11-02 | [Feed](<https://blogs.esa.int/alexander-gerst/feed/>) |
-| blogs.esa.int | [F0801](https://preview.nws.broker/api/endpoints/F0801) | RSS | en-US | 2026-11-02 | [Feed](<https://blogs.esa.int/ariane6/feed/>) |
-| blogs.esa.int | [F0810](https://preview.nws.broker/api/endpoints/F0810) | RSS | und | 2026-11-02 | [Feed](<https://blogs.esa.int/campaignearth/2022/08/03/delving-deep-into-dusty-skies-on-the-askos-aeolus-field-campaign/feed/>) |
-| blogs.esa.int | [F0811](https://preview.nws.broker/api/endpoints/F0811) | RSS | und | 2026-11-02 | [Feed](<https://blogs.esa.int/campaignearth/2025/05/02/esa-ocean-training-course-life-aboard-in-pictures/feed/>) |
-| blogs.esa.int | [F0812](https://preview.nws.broker/api/endpoints/F0812) | RSS | en-US | 2026-11-02 | [Feed](<https://blogs.esa.int/campaignearth/category/esa-ocean-training-course/feed/>) |

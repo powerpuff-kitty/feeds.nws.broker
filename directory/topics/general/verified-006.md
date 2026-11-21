@@ -4,6 +4,14 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Blue Dot | [F24873](https://preview.nws.broker/api/endpoints/F24873) | RSS | en | 2026-11-19 | [Feed](<https://www.mynspr.org/podcast/blue-dot/rss.xml>) |
+| Bluesky native profile RSS / public feed API / Jetstream | [F1068](https://preview.nws.broker/api/endpoints/F1068) | RSS | und | 2026-11-01 | [Feed](<https://bsky.app/profile/did:plc:2eplknku4lzuyagmizxvvcql/rss>) |
+| Bluesky native profile RSS / public feed API / Jetstream | [F1069](https://preview.nws.broker/api/endpoints/F1069) | RSS | und | 2026-11-02 | [Feed](<https://bsky.app/profile/did:plc:2huvjvtixiynd2gm6nalh5yi/rss>) |
+| Bluesky native profile RSS / public feed API / Jetstream | [F1070](https://preview.nws.broker/api/endpoints/F1070) | RSS | und | 2026-11-02 | [Feed](<https://bsky.app/profile/did:plc:3czq6qnzc5sr7t2v6dj56ov6/rss>) |
+| Bluesky native profile RSS / public feed API / Jetstream | [F1071](https://preview.nws.broker/api/endpoints/F1071) | RSS | und | 2026-11-02 | [Feed](<https://bsky.app/profile/did:plc:3ha37ha23knwxrhlic7wbx3s/rss>) |
+| Bluesky native profile RSS / public feed API / Jetstream | [F1072](https://preview.nws.broker/api/endpoints/F1072) | RSS | und | 2026-11-02 | [Feed](<https://bsky.app/profile/did:plc:552qtzacxjitbcxzqokv7ohx/rss>) |
+| Bluesky native profile RSS / public feed API / Jetstream | [F1073](https://preview.nws.broker/api/endpoints/F1073) | RSS | und | 2026-11-02 | [Feed](<https://bsky.app/profile/did:plc:55j63rwy4lpj5rklrq67rx2o/rss>) |
+| Bluesky native profile RSS / public feed API / Jetstream | [F1074](https://preview.nws.broker/api/endpoints/F1074) | RSS | und | 2026-11-02 | [Feed](<https://bsky.app/profile/did:plc:63tiygot2ugpfxc55p272wxk/rss>) |
 | Bluesky native profile RSS / public feed API / Jetstream | [F1075](https://preview.nws.broker/api/endpoints/F1075) | RSS | und | 2026-11-02 | [Feed](<https://bsky.app/profile/did:plc:6iuhycofbisydvbvadlahyf7/rss>) |
 | Bluesky native profile RSS / public feed API / Jetstream | [F1076](https://preview.nws.broker/api/endpoints/F1076) | RSS | und | 2026-11-02 | [Feed](<https://bsky.app/profile/did:plc:6ol7vfhxcbk3ylrlbbioxlav/rss>) |
 | Bluesky native profile RSS / public feed API / Jetstream | [F1077](https://preview.nws.broker/api/endpoints/F1077) | RSS | und | 2026-11-02 | [Feed](<https://bsky.app/profile/did:plc:7exlcsle4mjfhu3wnhcgizz6/rss>) |
@@ -49,6 +57,8 @@
 | Bluesky native profile RSS / public feed API / Jetstream | [F1118](https://preview.nws.broker/api/endpoints/F1118) | RSS | und | 2026-11-02 | [Feed](<https://bsky.app/profile/did:plc:z72i7hdynmk6r22z27h6tvur/rss>) |
 | bmpro.substack.com | [F8160](https://preview.nws.broker/api/endpoints/F8160) | RSS | en | 2026-11-19 | [Feed](<https://bmpro.substack.com/feed>) |
 | Bob Martens | [F18935](https://preview.nws.broker/api/endpoints/F18935) | RSS | en-US | 2026-11-19 | [Feed](<https://bobmartens.net/feed/podcast>) |
+| boids.substack.com | [F18937](https://preview.nws.broker/api/endpoints/F18937) | RSS | en | 2026-11-21 | [Feed](<https://boids.substack.com/feed>) |
+| boilerroom.substack.com | [F18938](https://preview.nws.broker/api/endpoints/F18938) | RSS | en | 2026-11-21 | [Feed](<https://boilerroom.substack.com/feed>) |
 | Boorowa News | [F24468](https://preview.nws.broker/api/endpoints/F24468) | RSS | en-US | 2026-11-19 | [Feed](<https://www.boorowanewsonline.com.au/sitemaps/boorowanewsonline/rss>) |
 | Boost my Business &amp; Life | [F22183](https://preview.nws.broker/api/endpoints/F22183) | RSS | de | 2026-11-19 | [Feed](<https://boost-my-business.podigee.io/feed/mp3>) |
 | Boris Gorelik | [F22795](https://preview.nws.broker/api/endpoints/F22795) | Atom | und | 2026-11-19 | [Feed](<https://gorelik.net/feed.xml>) |
@@ -60,6 +70,7 @@
 | Bota Sot News | [F24470](https://preview.nws.broker/api/endpoints/F24470) | RSS | en-US | 2026-11-19 | [Feed](<https://www.botasot.al/feed/>) |
 | Botanics Stories | [F23867](https://preview.nws.broker/api/endpoints/F23867) | RSS | en-US | 2026-11-19 | [Feed](<https://stories.rbge.org.uk/feed>) |
 | Bothell-Kenmore Reporter | [F24472](https://preview.nws.broker/api/endpoints/F24472) | RSS | en-US | 2026-11-19 | [Feed](<https://www.bothell-reporter.com/feed/>) |
+| bradbowden0.substack.com | [F18939](https://preview.nws.broker/api/endpoints/F18939) | RSS | en | 2026-11-21 | [Feed](<https://bradbowden0.substack.com/feed>) |
 | Bradley Hughes Golf Podcast | [F22186](https://preview.nws.broker/api/endpoints/F22186) | RSS | en-US | 2026-11-19 | [Feed](<https://bradleyhughesgolf.blubrry.net/feed/podcast/>) |
 | Branche &amp; Karriere – PAGE online | [F23176](https://preview.nws.broker/api/endpoints/F23176) | RSS | de-DE | 2026-11-19 | [Feed](<https://page-online.de/branche-karriere/feed>) |
 | Brave New Us: Choosing Human in the Age of Biotechnology | [F25106](https://preview.nws.broker/api/endpoints/F25106) | RSS | en-US | 2026-11-19 | [Feed](<https://www.snstephenson.com/brave-new-us-podcast?format=rss>) |
@@ -67,6 +78,7 @@
 | Breaking News – Breaking News | [F24891](https://preview.nws.broker/api/endpoints/F24891) | RSS | de | 2026-11-19 | [Feed](<https://www.news64.info/feed/>) |
 | breakingdefense.com | [F8196](https://preview.nws.broker/api/endpoints/F8196) | RSS | en-US | 2026-11-19 | [Feed](<https://breakingdefense.com/feed/>) |
 | Breitband | [F21313](https://preview.nws.broker/api/endpoints/F21313) | RSS | de-DE | 2026-11-19 | [Feed](<https://www.deutschlandfunkkultur.de/podcast-breitband-medien-und-digitale-kultur-100.xml>) |
+| brianselzer.substack.com | [F18943](https://preview.nws.broker/api/endpoints/F18943) | RSS | en | 2026-11-21 | [Feed](<https://brianselzer.substack.com/feed>) |
 | Brilliantcrank | [F18945](https://preview.nws.broker/api/endpoints/F18945) | RSS | und | 2026-11-19 | [Feed](<https://brilliantcrank.com/rss>) |
 | brimbanknorthwest.starweekly.com.au | [F8198](https://preview.nws.broker/api/endpoints/F8198) | RSS | en-US | 2026-11-19 | [Feed](<https://brimbanknorthwest.starweekly.com.au/feed/>) |
 | bringmethenews.com | [F8201](https://preview.nws.broker/api/endpoints/F8201) | RSS | en | 2026-11-19 | [Feed](<https://bringmethenews.com/.rss/full/tag/maple-grove>) |
@@ -74,8 +86,10 @@
 | Bryan Ford&#x27;s Home Page | [F18893](https://preview.nws.broker/api/endpoints/F18893) | RSS | en-US | 2026-11-19 | [Feed](<https://bford.info/index.xml>) |
 | Brňan | [F24478](https://preview.nws.broker/api/endpoints/F24478) | RSS | cs | 2026-11-19 | [Feed](<https://www.brnan.cz/feed>) |
 | bsky.app | [F8210](https://preview.nws.broker/api/endpoints/F8210) | RSS | und | 2026-11-19 | [Feed](<https://bsky.app/profile/did:plc:mzlz6exm4jjnohrsmbmroqqo/rss>) |
+| bsky.app | [F8211](https://preview.nws.broker/api/endpoints/F8211) | RSS | und | 2026-11-21 | [Feed](<https://bsky.app/profile/did:plc:zvqcnvbcwkyqb535p35kn6ch/rss>) |
 | BT beartai | [F13258](https://preview.nws.broker/api/endpoints/F13258) | RSS | en-US | 2026-11-19 | [Feed](<https://www.beartai.com/feed>) |
 | Bucketlist.nl – Maak je bucketlist waar. | [F22188](https://preview.nws.broker/api/endpoints/F22188) | RSS | nl-NL | 2026-11-19 | [Feed](<https://bucketlist.nl/feed.xml>) |
+| bullparade.substack.com | [F18949](https://preview.nws.broker/api/endpoints/F18949) | RSS | en | 2026-11-21 | [Feed](<https://bullparade.substack.com/feed>) |
 | BuoneNotizie.it | [F13447](https://preview.nws.broker/api/endpoints/F13447) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.buonenotizie.it/feed/>) |
 | burgenland.ORF.at | [F23670](https://preview.nws.broker/api/endpoints/F23670) | RSS | de | 2026-11-19 | [Feed](<https://rss.orf.at/burgenland.xml>) |
 | BurlingtonToday.com: Local News | [F13451](https://preview.nws.broker/api/endpoints/F13451) | RSS | en-US | 2026-11-19 | [Feed](<https://www.burlingtontoday.com/rss/local-news>) |
@@ -91,6 +105,7 @@
 | Buymusic.ca | [F24867](https://preview.nws.broker/api/endpoints/F24867) | RSS | en-US | 2026-11-19 | [Feed](<https://www.musicbymailcanada.com/blog/?feed=rss2>) |
 | BVL Podcast | [F18955](https://preview.nws.broker/api/endpoints/F18955) | RSS | de | 2026-11-19 | [Feed](<https://bvldigitalpodcast.podigee.io/feed/mp3>) |
 | Byte-Sized History | [F18957](https://preview.nws.broker/api/endpoints/F18957) | RSS | en | 2026-11-19 | [Feed](<https://bytesizedhistory.substack.com/feed>) |
+| bytesizedbiz.substack.com | [F18956](https://preview.nws.broker/api/endpoints/F18956) | RSS | en | 2026-11-21 | [Feed](<https://bytesizedbiz.substack.com/feed>) |
 | CA News Ottawa | [F24500](https://preview.nws.broker/api/endpoints/F24500) | RSS | en-CA | 2026-11-19 | [Feed](<https://www.canewsottawa.ca/feed/>) |
 | cairnsnews.org | [F18959](https://preview.nws.broker/api/endpoints/F18959) | RSS | en-AU | 2026-11-19 | [Feed](<https://cairnsnews.org/feed/>) |
 | Calabria inchieste | [F24494](https://preview.nws.broker/api/endpoints/F24494) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.calabriainchieste.it/feed/>) |
@@ -123,6 +138,7 @@
 | cdjax.com | [F8291](https://preview.nws.broker/api/endpoints/F8291) | RSS | zh-Hans | 2026-11-19 | [Feed](<https://cdjax.com/?feed=rss2>) |
 | cdn.julephosting.de | [F22196](https://preview.nws.broker/api/endpoints/F22196) | RSS | de | 2026-11-19 | [Feed](<https://cdn.julephosting.de/podcasts/230-die-digitale-sprechstunde-von-hamburger-abendblatt-und-asklepios/feed.rss>) |
 | cellar door | [F20927](https://preview.nws.broker/api/endpoints/F20927) | Atom | und | 2026-11-19 | [Feed](<https://tokyohanna.blogspot.com/atom.xml>) |
+| centerforhumanetechnology.substack.com | [F18973](https://preview.nws.broker/api/endpoints/F18973) | RSS | en | 2026-11-21 | [Feed](<https://centerforhumanetechnology.substack.com/feed>) |
 | Centralmaine.com | [F24509](https://preview.nws.broker/api/endpoints/F24509) | RSS | en-US | 2026-11-19 | [Feed](<https://www.centralmaine.com/feed/>) |
 | Centre for Community Journalism | [F21286](https://preview.nws.broker/api/endpoints/F21286) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.communityjournalism.co.uk/feed/>) |
 | CentroPagina – Cronaca e notizie dalle Marche | [F24510](https://preview.nws.broker/api/endpoints/F24510) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.centropagina.it/feed/>) |
@@ -138,19 +154,3 @@
 | Charles P. Martin-Shields | [F18980](https://preview.nws.broker/api/endpoints/F18980) | RSS | en | 2026-11-19 | [Feed](<https://charlesmartinshields.com/feed/>) |
 | cheng.st | [F8325](https://preview.nws.broker/api/endpoints/F8325) | Atom | und | 2026-11-19 | [Feed](<https://cheng.st/atom.xml>) |
 | China Entertainment News &#124; Dao Insights | [F8490](https://preview.nws.broker/api/endpoints/F8490) | RSS | en-US | 2026-11-19 | [Feed](<https://daoinsights.com/tag/industries-entertainment/feed/>) |
-| Chip Huyen | [F9479](https://preview.nws.broker/api/endpoints/F9479) | RSS | und | 2026-11-19 | [Feed](<https://huyenchip.com/feed.xml>) |
-| Chocolate &amp; Zucchini | [F1141](https://preview.nws.broker/api/endpoints/F1141) | RSS | en-US | 2026-11-01 | [Feed](<https://cnz.to/feed/>) |
-| Chris Carlier &#124; Short Songs | [F23756](https://preview.nws.broker/api/endpoints/F23756) | Atom | en | 2026-11-19 | [Feed](<https://shortsongs.ca/atom>) |
-| Christian Courier | [F24517](https://preview.nws.broker/api/endpoints/F24517) | RSS | en-US | 2026-11-19 | [Feed](<https://www.christiancourier.ca/feed/>) |
-| Christopher Grant | [F18974](https://preview.nws.broker/api/endpoints/F18974) | RSS | en | 2026-11-19 | [Feed](<https://cgrant.io/index.xml>) |
-| chriszheng.science | [F8330](https://preview.nws.broker/api/endpoints/F8330) | Atom | und | 2026-11-19 | [Feed](<https://chriszheng.science/atom.xml>) |
-| Church of Christ Sermon Podcasts | [F22232](https://preview.nws.broker/api/endpoints/F22232) | RSS | en-US | 2026-11-19 | [Feed](<https://dentonchurchofchrist.org/podcast/feed.php>) |
-| Chutando a Escada | [F22203](https://preview.nws.broker/api/endpoints/F22203) | RSS | pt-BR | 2026-11-19 | [Feed](<https://chutandoaescada.com.br/feed/podcast>) |
-| CIO Podcast - IT-Strategie und digitale Transformation | [F21430](https://preview.nws.broker/api/endpoints/F21430) | RSS | de | 2026-11-19 | [Feed](<https://www.id-cubic.de/feed/podcast/>) |
-| CircuitBored.Com/COMMUNICATE | [F18989](https://preview.nws.broker/api/endpoints/F18989) | Atom | en-GB | 2026-11-19 | [Feed](<https://circuitbored.com/app.php/feed>) |
-| Citizens’ | [F24523](https://preview.nws.broker/api/endpoints/F24523) | RSS | en-US | 2026-11-19 | [Feed](<https://www.citizensvoicehd.com/feed/>) |
-| citydatum.cn | [F8341](https://preview.nws.broker/api/endpoints/F8341) | RSS | zh-Hans | 2026-11-19 | [Feed](<https://citydatum.cn/feed>) |
-| Civic Innovations | [F18991](https://preview.nws.broker/api/endpoints/F18991) | Atom | en | 2026-11-19 | [Feed](<https://civic.io/feed/atom>) |
-| Ciência e Conservação - DesAbraçando Árvores | [F24562](https://preview.nws.broker/api/endpoints/F24562) | RSS | pt-BR | 2026-11-19 | [Feed](<https://www.desabrace.com.br/feed/podcast/>) |
-| Clarissa&#x27;s Blog | [F18993](https://preview.nws.broker/api/endpoints/F18993) | RSS | en | 2026-11-19 | [Feed](<https://clarissasblog.com/feed/>) |
-| ClassAction.org Newswire | [F21277](https://preview.nws.broker/api/endpoints/F21277) | RSS | en-US | 2026-11-19 | [Feed](<https://www.classaction.org/news/rss>) |

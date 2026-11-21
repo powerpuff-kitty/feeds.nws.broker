@@ -4,24 +4,6 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
-| feeds.feedburner.com | [F19302](https://preview.nws.broker/api/endpoints/F19302) | RSS | und | — | — |
-| feeds.feedburner.com | [F19303](https://preview.nws.broker/api/endpoints/F19303) | RSS | und | — | — |
-| feeds.feedburner.com | [F19304](https://preview.nws.broker/api/endpoints/F19304) | RSS | und | — | — |
-| feeds.feedburner.com | [F19305](https://preview.nws.broker/api/endpoints/F19305) | RSS | und | — | — |
-| feeds.feedburner.com | [F19306](https://preview.nws.broker/api/endpoints/F19306) | RSS | und | — | — |
-| feeds.feedburner.com | [F19307](https://preview.nws.broker/api/endpoints/F19307) | RSS | und | — | — |
-| feeds.feedburner.com | [F19308](https://preview.nws.broker/api/endpoints/F19308) | RSS | und | — | — |
-| feeds.feedburner.com | [F19309](https://preview.nws.broker/api/endpoints/F19309) | RSS | und | — | — |
-| feeds.feedburner.com | [F19310](https://preview.nws.broker/api/endpoints/F19310) | RSS | und | — | — |
-| feeds.feedburner.com | [F19311](https://preview.nws.broker/api/endpoints/F19311) | RSS | und | — | — |
-| feeds.feedburner.com | [F19312](https://preview.nws.broker/api/endpoints/F19312) | RSS | und | — | — |
-| feeds.feedburner.com | [F19313](https://preview.nws.broker/api/endpoints/F19313) | RSS | und | — | — |
-| feeds.feedburner.com | [F19314](https://preview.nws.broker/api/endpoints/F19314) | RSS | und | — | — |
-| feeds.feedburner.com | [F19315](https://preview.nws.broker/api/endpoints/F19315) | RSS | und | — | — |
-| feeds.feedburner.com | [F19316](https://preview.nws.broker/api/endpoints/F19316) | RSS | und | — | — |
-| feeds.feedburner.com | [F19317](https://preview.nws.broker/api/endpoints/F19317) | RSS | und | — | — |
-| feeds.feedburner.com | [F19318](https://preview.nws.broker/api/endpoints/F19318) | RSS | und | — | — |
-| feeds.feedburner.com | [F19319](https://preview.nws.broker/api/endpoints/F19319) | RSS | und | — | — |
 | feeds.feedburner.com | [F19320](https://preview.nws.broker/api/endpoints/F19320) | RSS | und | — | — |
 | feeds.feedburner.com | [F19321](https://preview.nws.broker/api/endpoints/F19321) | RSS | und | — | — |
 | feeds.feedburner.com | [F19322](https://preview.nws.broker/api/endpoints/F19322) | RSS | und | — | — |
@@ -154,3 +136,21 @@
 | feeds.feedburner.com | [F9049](https://preview.nws.broker/api/endpoints/F9049) | RSS | und | — | — |
 | feeds.feedburner.com | [F9050](https://preview.nws.broker/api/endpoints/F9050) | RSS | und | — | — |
 | feeds.feedburner.com | [F9051](https://preview.nws.broker/api/endpoints/F9051) | RSS | und | — | — |
+| feeds.feedburner.com | [F9052](https://preview.nws.broker/api/endpoints/F9052) | RSS | und | — | — |
+| feeds.feedburner.com | [F9053](https://preview.nws.broker/api/endpoints/F9053) | RSS | und | — | — |
+| feeds.feedburner.com | [F9054](https://preview.nws.broker/api/endpoints/F9054) | RSS | und | — | — |
+| feeds.feedburner.com | [F9055](https://preview.nws.broker/api/endpoints/F9055) | RSS | und | — | — |
+| feeds.feedburner.com | [F9056](https://preview.nws.broker/api/endpoints/F9056) | RSS | und | — | — |
+| feeds.feedburner.com | [F9057](https://preview.nws.broker/api/endpoints/F9057) | RSS | und | — | — |
+| feeds.feedburner.com | [F9058](https://preview.nws.broker/api/endpoints/F9058) | RSS | und | — | — |
+| feeds.feedburner.com | [F9059](https://preview.nws.broker/api/endpoints/F9059) | RSS | und | — | — |
+| feeds.feedburner.com | [F9060](https://preview.nws.broker/api/endpoints/F9060) | RSS | und | — | — |
+| feeds.feedburner.com | [F9061](https://preview.nws.broker/api/endpoints/F9061) | RSS | und | — | — |
+| feeds.feedburner.com | [F9062](https://preview.nws.broker/api/endpoints/F9062) | RSS | und | — | — |
+| feeds.feedburner.com | [F9063](https://preview.nws.broker/api/endpoints/F9063) | RSS | und | — | — |
+| feeds.feedburner.com | [F9064](https://preview.nws.broker/api/endpoints/F9064) | RSS | und | — | — |
+| feeds.feedburner.com | [F9065](https://preview.nws.broker/api/endpoints/F9065) | RSS | und | — | — |
+| feeds.feedburner.com | [F9066](https://preview.nws.broker/api/endpoints/F9066) | RSS | und | — | — |
+| feeds.feedburner.com | [F9067](https://preview.nws.broker/api/endpoints/F9067) | RSS | und | — | — |
+| feeds.feedburner.com | [F9068](https://preview.nws.broker/api/endpoints/F9068) | RSS | und | — | — |
+| feeds.feedburner.com | [F9069](https://preview.nws.broker/api/endpoints/F9069) | RSS | und | — | — |

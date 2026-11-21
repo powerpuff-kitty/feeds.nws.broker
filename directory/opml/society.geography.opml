@@ -7,6 +7,7 @@
     <outline type="rss" text="Famine Early Warning Systems Network" title="Famine Early Warning Systems Network" xmlUrl="https://fews.net/fr/taxonomy/term/626/feed" />
     <outline type="rss" text="Instituto Geográfico Militar Ecuador" title="Instituto Geográfico Militar Ecuador" xmlUrl="https://www.geoportaligm.gob.ec/portal/index.php/feed/" />
     <outline type="rss" text="Instituto Nicaragüense de Estudios Territoriales" title="Instituto Nicaragüense de Estudios Territoriales" xmlUrl="https://www.ineter.gob.ni/feed/" />
+    <outline type="rss" text="OpenStreetMap on Mastodon" title="OpenStreetMap on Mastodon" xmlUrl="https://en.osm.town/@openstreetmap.rss" />
     <outline type="rss" text="OpenStreetMap — mapping community blogs" title="OpenStreetMap — mapping community blogs" xmlUrl="https://blogs.openstreetmap.org/rss20.xml" />
     <outline type="rss" text="OpenStreetMap — OpenStreetMap Foundation blog" title="OpenStreetMap — OpenStreetMap Foundation blog" xmlUrl="https://blog.openstreetmap.org/feed/" />
     <outline type="rss" text="OpenStreetMap — OpenStreetMap Foundation blog" title="OpenStreetMap — OpenStreetMap Foundation blog" xmlUrl="https://blog.openstreetmap.org/rsslatest.xml" />

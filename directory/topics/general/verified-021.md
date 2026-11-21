@@ -4,6 +4,34 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Robert&#x27;s Blog | [F20229](https://preview.nws.broker/api/endpoints/F20229) | RSS | en-GB | 2026-11-19 | [Feed](<https://robert.hawdon.net/feed>) |
+| Roberto Lupi | [F23383](https://preview.nws.broker/api/endpoints/F23383) | RSS | en | 2026-11-19 | [Feed](<https://rlupi.com/rss.xml>) |
+| robertsabinbass | [F23385](https://preview.nws.broker/api/endpoints/F23385) | RSS | en | 2026-11-19 | [Feed](<https://robertsabinbass.wordpress.com/feed/>) |
+| Robin Ewing | [F20235](https://preview.nws.broker/api/endpoints/F20235) | RSS | en-US | 2026-11-19 | [Feed](<https://robinewing.com/feed/>) |
+| Robin The Fog | [F23391](https://preview.nws.broker/api/endpoints/F23391) | RSS | en | 2026-11-19 | [Feed](<https://robinthefog.com/feed>) |
+| Roborooter.com | [F23392](https://preview.nws.broker/api/endpoints/F23392) | RSS | en | 2026-11-19 | [Feed](<https://roborooter.com/feed>) |
+| RobotToday - Connecting Minds, Powering Futures | [F20239](https://preview.nws.broker/api/endpoints/F20239) | RSS | en-US | 2026-11-19 | [Feed](<https://robottoday.com/feed.xml>) |
+| Rochester Beacon | [F23395](https://preview.nws.broker/api/endpoints/F23395) | RSS | en-US | 2026-11-19 | [Feed](<https://rochesterbeacon.com/feed/>) |
+| RockySunico.com | [F21664](https://preview.nws.broker/api/endpoints/F21664) | Atom | und | 2026-11-19 | [Feed](<https://www.rockysunico.com/feeds/posts/default>) |
+| rokcso.com | [F11623](https://preview.nws.broker/api/endpoints/F11623) | RSS | en-US | 2026-11-19 | [Feed](<https://rokcso.com/index.xml>) |
+| roleplayingtips.com | [F11624](https://preview.nws.broker/api/endpoints/F11624) | RSS | en-US | 2026-11-19 | [Feed](<https://roleplayingtips.com/feed>) |
+| Rolling Stone Africa | [F11625](https://preview.nws.broker/api/endpoints/F11625) | RSS | en-US | 2026-11-19 | [Feed](<https://rollingstoneafrica.com/feed/>) |
+| Romania TV | [F25061](https://preview.nws.broker/api/endpoints/F25061) | RSS | ro-RO | 2026-11-19 | [Feed](<https://www.romaniatv.net/feed>) |
+| Ronnie&#x27;s Blog | [F23398](https://preview.nws.broker/api/endpoints/F23398) | RSS | en-US | 2026-11-19 | [Feed](<https://ronnie-s.com/feed/>) |
+| RookieOven RSS Feed | [F20250](https://preview.nws.broker/api/endpoints/F20250) | RSS | und | 2026-11-19 | [Feed](<https://rookieoven.com/rss.xml>) |
+| Room 7609 | [F21818](https://preview.nws.broker/api/endpoints/F21818) | RSS | en-US | 2026-11-19 | [Feed](<https://zedstarr.com/feed>) |
+| Roraty dla tych, co zaspali | [F24820](https://preview.nws.broker/api/endpoints/F24820) | RSS | pl | 2026-11-19 | [Feed](<https://www.liturgia.pl/podcast/roraty/feed.xml>) |
+| Rounding Off Infinity | [F20256](https://preview.nws.broker/api/endpoints/F20256) | RSS | en | 2026-11-19 | [Feed](<https://roundingoffinfinity.blog/feed/>) |
+| Rowan Manning | [F23405](https://preview.nws.broker/api/endpoints/F23405) | Atom | en-GB | 2026-11-19 | [Feed](<https://rowanmanning.com/feed.xml>) |
+| roy.wang | [F11631](https://preview.nws.broker/api/endpoints/F11631) | Atom | und | 2026-11-19 | [Feed](<https://roy.wang/feed/>) |
+| Roya Bloom | [F23408](https://preview.nws.broker/api/endpoints/F23408) | RSS | en | 2026-11-19 | [Feed](<https://royabloom.blog/feed/>) |
+| Royal Examiner (11-19-2026) (11-19-2026) | [F20259](https://preview.nws.broker/api/endpoints/F20259) | RSS | en-US | 2026-11-19 | [Feed](<https://royalexaminer.com/feed/>) |
+| rp-online.de | [F11636](https://preview.nws.broker/api/endpoints/F11636) | RSS | de-DE | 2026-11-19 | [Feed](<https://rp-online.de/feed.rss>) |
+| rp-online.de | [F23417](https://preview.nws.broker/api/endpoints/F23417) | RSS | de-DE | 2026-11-19 | [Feed](<https://rp-online.de/sport/eishockey/deg/feed.rss>) |
+| RPM: Jonathan Perry&#x27;s Life in Analog | [F23432](https://preview.nws.broker/api/endpoints/F23432) | RSS | en | 2026-11-19 | [Feed](<https://rpmlifeinanalog.com/feed>) |
+| rrorangeandfriends.de | [F11638](https://preview.nws.broker/api/endpoints/F11638) | RSS | zh-Hans | 2026-11-19 | [Feed](<https://rrorangeandfriends.de/feed.xml>) |
+| RSA Daily News Hub | [F23433](https://preview.nws.broker/api/endpoints/F23433) | RSS | en-US | 2026-11-19 | [Feed](<https://rsasearch.co.za/feed/rss>) |
+| RSS Feed Aktuelle Pressemitteilungen | [F16438](https://preview.nws.broker/api/endpoints/F16438) | RSS | de | 2026-11-19 | [Feed](<https://www.parlament-berlin.de/rss/meldungen>) |
 | RSS Reggae.fr - les news | [F11564](https://preview.nws.broker/api/endpoints/F11564) | RSS | und | 2026-11-19 | [Feed](<https://reggae.fr/dev/rss/news.php>) |
 | RSS StoryEditor | [F13980](https://preview.nws.broker/api/endpoints/F13980) | RSS | und | 2026-11-19 | [Feed](<https://www.dnevnik.ba/rss.xml>) |
 | RSS XML | [F7828](https://preview.nws.broker/api/endpoints/F7828) | RSS | en | 2026-11-19 | [Feed](<https://asian-power.com/rss.xml>) |
@@ -58,6 +86,7 @@
 | SA Hip Hop Mag | [F23691](https://preview.nws.broker/api/endpoints/F23691) | RSS | en-US | 2026-11-19 | [Feed](<https://sahiphopmag.co.za/feed/>) |
 | SAATKORN | [F20471](https://preview.nws.broker/api/endpoints/F20471) | RSS | de | 2026-11-19 | [Feed](<https://saatkornpodcast.podigee.io/feed/mp3>) |
 | Sagar Nangare | [F20476](https://preview.nws.broker/api/endpoints/F20476) | RSS | en-US | 2026-11-19 | [Feed](<https://sagarnangare.com/feed/>) |
+| sakeindustrynews.substack.com | [F11846](https://preview.nws.broker/api/endpoints/F11846) | RSS | en | 2026-11-21 | [Feed](<https://sakeindustrynews.substack.com/feed>) |
 | Salad Days Magazine | [F25072](https://preview.nws.broker/api/endpoints/F25072) | RSS | en-US | 2026-11-19 | [Feed](<https://www.saladdaysmag.com/feed/>) |
 | SalamatNews -Iran Health News Agency | [F8742](https://preview.nws.broker/api/endpoints/F8742) | RSS | en-US | 2026-11-19 | [Feed](<https://en.salamatnews.com/feed/>) |
 | Salford Now | [F25073](https://preview.nws.broker/api/endpoints/F25073) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.salfordnow.co.uk/feed/>) |
@@ -125,32 +154,3 @@
 | servis.idnes.cz | [F11910](https://preview.nws.broker/api/endpoints/F11910) | RSS | cs | 2026-11-19 | [Feed](<https://servis.idnes.cz/rss.aspx?c=zpravodaj>) |
 | Sethellaneous | [F23739](https://preview.nws.broker/api/endpoints/F23739) | RSS | und | 2026-11-19 | [Feed](<https://sethellaneo.us/rss/>) |
 | sfstandard.com | [F23741](https://preview.nws.broker/api/endpoints/F23741) | RSS | en-US | 2026-11-19 | [Feed](<https://sfstandard.com/culture/feed>) |
-| SFWA – The Science Fiction &amp; Fantasy Writers Association | [F25087](https://preview.nws.broker/api/endpoints/F25087) | RSS | en-US | 2026-11-19 | [Feed](<https://www.sfwa.org/feed/>) |
-| Sgt Scholar | [F23747](https://preview.nws.broker/api/endpoints/F23747) | Atom | en | 2026-11-19 | [Feed](<https://sgtscholar.wordpress.com/atom>) |
-| Shane Elizabeth McCrary Miller | [F20551](https://preview.nws.broker/api/endpoints/F20551) | RSS | en | 2026-11-19 | [Feed](<https://shane-one.com/feed/>) |
-| Share State | [F2034](https://preview.nws.broker/api/endpoints/F2034) | RSS | en | 2026-11-01 | [Feed](<https://kufm.drupal.publicbroadcasting.net/podcasts/103678/rss.xml>) |
-| Shareable | [F21686](https://preview.nws.broker/api/endpoints/F21686) | RSS | en-US | 2026-11-19 | [Feed](<https://www.shareable.net/feed/>) |
-| Shasta&#x27;s Fog | [F23750](https://preview.nws.broker/api/endpoints/F23750) | Atom | en | 2026-11-19 | [Feed](<https://shastasfog.wordpress.com/atom>) |
-| Shaun Duke | [F20554](https://preview.nws.broker/api/endpoints/F20554) | RSS | en-US | 2026-11-19 | [Feed](<https://shaunduke.net/feed/>) |
-| Shawn Matthew Crawford | [F21687](https://preview.nws.broker/api/endpoints/F21687) | Atom | und | 2026-11-19 | [Feed](<https://www.shawnmatthewcrawford.com/feeds/all.atom.xml>) |
-| SHEEN Magazine | [F20557](https://preview.nws.broker/api/endpoints/F20557) | RSS | en-US | 2026-11-19 | [Feed](<https://sheenmagazine.com/feed/>) |
-| Shelburne Free Press | [F23751](https://preview.nws.broker/api/endpoints/F23751) | RSS | en-US | 2026-11-19 | [Feed](<https://shelburnefreepress.ca/feed/>) |
-| Sherwood Park News | [F21689](https://preview.nws.broker/api/endpoints/F21689) | Atom | en-US | 2026-11-19 | [Feed](<https://www.sherwoodparknews.com/feed/atom>) |
-| shinekid.com | [F11921](https://preview.nws.broker/api/endpoints/F11921) | RSS | zh-Hans | 2026-11-19 | [Feed](<https://shinekid.com/feed/>) |
-| shkspr.mobi | [F20561](https://preview.nws.broker/api/endpoints/F20561) | Atom | en-GB | 2026-11-19 | [Feed](<https://shkspr.mobi/blog/feed/atom>) |
-| shojiwax.com | [F23755](https://preview.nws.broker/api/endpoints/F23755) | RSS | en-US | 2026-11-19 | [Feed](<https://shojiwax.com/feed/>) |
-| Shoreline Area News | [F25091](https://preview.nws.broker/api/endpoints/F25091) | Atom | und | 2026-11-19 | [Feed](<https://www.shorelineareanews.com/feeds/posts/default>) |
-| Showbiz411 | [F25092](https://preview.nws.broker/api/endpoints/F25092) | RSS | en-US | 2026-11-19 | [Feed](<https://www.showbiz411.com/feed>) |
-| Shreyas Prakash | [F23757](https://preview.nws.broker/api/endpoints/F23757) | RSS | en-US | 2026-11-19 | [Feed](<https://shreyasprakash.com/rss.xml>) |
-| Shrine of Dreams | [F20563](https://preview.nws.broker/api/endpoints/F20563) | RSS | en | 2026-11-19 | [Feed](<https://shrineodreams.wordpress.com/feed/>) |
-| Shunyu Yao | [F18589](https://preview.nws.broker/api/endpoints/F18589) | Atom | und | 2026-11-19 | [Feed](<https://ysymyth.github.io/feed.xml>) |
-| Shutterbean | [F0525](https://preview.nws.broker/api/endpoints/F0525) | RSS | en-US | 2026-11-02 | — |
-| si.bloombergadria.com | [F11932](https://preview.nws.broker/api/endpoints/F11932) | RSS | und | 2026-11-19 | [Feed](<https://si.bloombergadria.com/rss/posel/>) |
-| Sick Veg | [F25094](https://preview.nws.broker/api/endpoints/F25094) | Atom | und | 2026-11-19 | [Feed](<https://www.sickveg.com/atom.xml>) |
-| Sidewalk Skyline Podcast | [F21693](https://preview.nws.broker/api/endpoints/F21693) | RSS | en | 2026-11-19 | [Feed](<https://www.sidewalkskylinepodcast.com/sidewalkskylinepodcast?format=rss>) |
-| Sierra Space | [F17334](https://preview.nws.broker/api/endpoints/F17334) | RSS | en-US | 2026-11-19 | [Feed](<https://www.sierraspace.com/feed/>) |
-| Sierraloaded | [F23759](https://preview.nws.broker/api/endpoints/F23759) | RSS | en-US | 2026-11-19 | [Feed](<https://sierraloaded.sl/feed>) |
-| Signal Akron | [F23760](https://preview.nws.broker/api/endpoints/F23760) | RSS | en-US | 2026-11-19 | [Feed](<https://signalakron.org/feed/>) |
-| Signal Intent | [F20568](https://preview.nws.broker/api/endpoints/F20568) | RSS | en | 2026-11-19 | [Feed](<https://signalintent.net/feed/>) |
-| silive.com | [F17336](https://preview.nws.broker/api/endpoints/F17336) | RSS | en | 2026-11-19 | [Feed](<https://www.silive.com/arc/outboundfeeds/rss/?outputType=xml>) |
-| Silvercity Daily Press | [F17213](https://preview.nws.broker/api/endpoints/F17213) | RSS | en-US | 2026-11-19 | [Feed](<https://www.scdailypress.com/silvercitydailypress/news/feed/>) |

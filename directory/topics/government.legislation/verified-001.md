@@ -50,6 +50,7 @@
 | Deutscher Bundestag | [F25451](https://preview.nws.broker/api/endpoints/F25451) | RSS | de | 2026-11-19 | [Feed](<https://www.bundestag.de/static/appdata/includes/rss/verteidigung.rss>) |
 | Deutscher Bundestag | [F25452](https://preview.nws.broker/api/endpoints/F25452) | RSS | de | 2026-11-19 | [Feed](<https://www.bundestag.de/static/appdata/includes/rss/wirtschaft.rss>) |
 | Deutscher Bundestag | [F25453](https://preview.nws.broker/api/endpoints/F25453) | RSS | de | 2026-11-19 | [Feed](<https://www.bundestag.de/static/appdata/includes/rss/wissenschaftlichedienste.rss>) |
+| Deutscher Bundestag on Mastodon | [F27142](https://preview.nws.broker/api/endpoints/F27142) | RSS | und | 2026-11-21 | [Feed](<https://social.bund.de/@bundestag.rss>) |
 | DroitBelge legal-news publication | [F6444](https://preview.nws.broker/api/endpoints/F6444) | RSS | fr | 2026-11-04 | — |
 | EQUAL Partners legal news | [F6282](https://preview.nws.broker/api/endpoints/F6282) | RSS | fr | 2026-11-03 | [Feed](<https://www.equal-partners.eu/feed.rss>) |
 | EUR-Lex predefined feeds / custom alerts | [F1220](https://preview.nws.broker/api/endpoints/F1220) | RSS | en | 2026-11-01 | [Feed](<https://eur-lex.europa.eu/EN/display-feed.rss?rssId=162>) |
@@ -60,6 +61,7 @@
 | European Data Protection Board | [F3520](https://preview.nws.broker/api/endpoints/F3520) | RSS | en | 2026-11-02 | [Feed](<https://www.edpb.europa.eu/feed/publications_en>) |
 | Government of Jersey official notices | [F26219](https://preview.nws.broker/api/endpoints/F26219) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.gov.je/RSSFeeds/RSSGazette.rss>) |
 | Guernsey Financial Services Commission | [F26216](https://preview.nws.broker/api/endpoints/F26216) | RSS | und | 2026-11-19 | [Feed](<https://www.gfsc.gg/article.xml?tid=56>) |
+| Heute im Bundestag on Mastodon | [F27148](https://preview.nws.broker/api/endpoints/F27148) | RSS | und | 2026-11-21 | [Feed](<https://social.bund.de/@hib_Nachrichten.rss>) |
 | Jubel legal-editorial publication | [F6865](https://preview.nws.broker/api/endpoints/F6865) | RSS | fr-FR | 2026-11-04 | [Feed](<https://www.jubel.be/fr/feed/>) |
 | Kosovo Law Institute | [F26456](https://preview.nws.broker/api/endpoints/F26456) | RSS | sq | 2026-11-19 | [Feed](<https://kli-ks.org/feed/>) |
 | Legislative Herald of Georgia | [F26492](https://preview.nws.broker/api/endpoints/F26492) | RSS | en | 2026-11-19 | [Feed](<https://matsne.gov.ge/en/document/feed>) |

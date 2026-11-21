@@ -4,7 +4,31 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Le Monde RSS | [F4981](https://preview.nws.broker/api/endpoints/F4981) | RSS | fr | 2026-11-02 | [Feed](<https://www.lemonde.fr/tunisie/rss_full.xml>) |
+| Le Monde RSS | [F4982](https://preview.nws.broker/api/endpoints/F4982) | RSS | fr | 2026-11-02 | [Feed](<https://www.lemonde.fr/videos/rss_full.xml>) |
+| Le Pays Tchad | [F25838](https://preview.nws.broker/api/endpoints/F25838) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.lepaystchad.com/feed/>) |
+| LeFaso.net | [F25798](https://preview.nws.broker/api/endpoints/F25798) | RSS | fr | 2026-11-19 | [Feed](<https://lefaso.net/spip.php?page=backend>) |
+| Legit.ng | [F4634](https://preview.nws.broker/api/endpoints/F4634) | RSS | en-NG | 2026-11-02 | [Feed](<https://www.legit.ng/rss/all.rss>) |
+| Lenta.ru : Новости | [F2046](https://preview.nws.broker/api/endpoints/F2046) | RSS | ru | 2026-11-01 | [Feed](<https://lenta.ru/rss>) |
+| Les Jours | [F7553](https://preview.nws.broker/api/endpoints/F7553) | RSS | fr | 2026-11-19 | [Feed](<https://lesjours.fr/rss.xml>) |
+| Les Échos du Congo-Brazzaville | [F25804](https://preview.nws.broker/api/endpoints/F25804) | RSS | fr-FR | 2026-11-19 | [Feed](<https://lesechos-congobrazza.com/?format=feed&type=rss>) |
+| Libertas | [F25355](https://preview.nws.broker/api/endpoints/F25355) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.libertas.sm/feed/>) |
+| Libya Herald | [F26604](https://preview.nws.broker/api/endpoints/F26604) | RSS | en | 2026-11-20 | [Feed](<https://libyaherald.com/rss/government-politics>) |
+| Libya Herald | [F26605](https://preview.nws.broker/api/endpoints/F26605) | RSS | en | 2026-11-20 | [Feed](<https://libyaherald.com/rss/culture-society>) |
+| Libya Update | [F25822](https://preview.nws.broker/api/endpoints/F25822) | RSS | en-US | 2026-11-19 | [Feed](<https://libyaupdate.com/feed/>) |
+| Lie:zeit | [F25274](https://preview.nws.broker/api/endpoints/F25274) | RSS | de-CH | 2026-11-19 | [Feed](<https://www.lie-zeit.li/feed/>) |
+| Lo último en Vanguardia MX | [F2955](https://preview.nws.broker/api/endpoints/F2955) | RSS | es-MX | 2026-11-02 | [Feed](<https://vanguardia.com.mx/rss.xml>) |
+| Loina — Portail de Wallis &amp; Futuna | [F26256](https://preview.nws.broker/api/endpoints/F26256) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.loina.wf/feed/>) |
+| Lombok Fokus | [F7440](https://preview.nws.broker/api/endpoints/F7440) | RSS | id | 2026-11-18 | [Feed](<https://lombokfokus.com/feed/>) |
+| Lombok Journal | [F7439](https://preview.nws.broker/api/endpoints/F7439) | RSS | id | 2026-11-18 | [Feed](<https://lombokjournal.com/feed/>) |
+| LOMBOKita | [F7330](https://preview.nws.broker/api/endpoints/F7330) | RSS | id | 2026-11-18 | [Feed](<https://lombokita.id/feed/>) |
+| Los Tiempos | [F26682](https://preview.nws.broker/api/endpoints/F26682) | RSS | es | 2026-11-20 | [Feed](<https://www.lostiempos.com/rss/portada>) |
+| Love FM Belize | [F26728](https://preview.nws.broker/api/endpoints/F26728) | RSS | en-US | 2026-11-20 | [Feed](<https://lovefm.com/feed/>) |
+| L’Express de Madagascar | [F25824](https://preview.nws.broker/api/endpoints/F25824) | RSS | und | 2026-11-19 | [Feed](<https://www.lexpress.mg/feeds/posts/default?alt=rss>) |
+| L’Infodrome | [F25805](https://preview.nws.broker/api/endpoints/F25805) | RSS | fr | 2026-11-19 | [Feed](<https://www.linfodrome.com/rss>) |
+| L’Observateur de Monaco | [F25293](https://preview.nws.broker/api/endpoints/F25293) | RSS | fr-FR | 2026-11-19 | [Feed](<https://lobservateurdemonaco.com/feed/>) |
 | L’Osservatore Romano | [F25368](https://preview.nws.broker/api/endpoints/F25368) | RSS | it | 2026-11-19 | [Feed](<https://www.osservatoreromano.va/content/or/it.rss.xml>) |
+| L’Unica | [F27110](https://preview.nws.broker/api/endpoints/F27110) | RSS | und | 2026-11-21 | [Feed](<https://www.lunica.email/rss/>) |
 | Made in Vilnius | [F25384](https://preview.nws.broker/api/endpoints/F25384) | RSS | lt-LT | 2026-11-19 | [Feed](<https://madeinvilnius.lt/feed/>) |
 | Magyar Nemzet | [F26707](https://preview.nws.broker/api/endpoints/F26707) | RSS | hu-HU | 2026-11-20 | [Feed](<https://magyarnemzet.hu/publicapi/hu/rss/magyar_nemzet/articles>) |
 | Maldita.es | [F25232](https://preview.nws.broker/api/endpoints/F25232) | RSS | es | 2026-11-19 | [Feed](<https://maldita.es/feed>) |
@@ -14,9 +38,11 @@
 | mango.tc news | [F26189](https://preview.nws.broker/api/endpoints/F26189) | RSS | en-US | 2026-11-19 | [Feed](<https://mango-news.onrender.com/api/rss?lang=en>) |
 | Manx Radio | [F26217](https://preview.nws.broker/api/endpoints/F26217) | RSS | en | 2026-11-19 | [Feed](<https://www.manxradio.com/news/isle-of-man-news/feed.xml>) |
 | Marshall Islands Journal | [F25864](https://preview.nws.broker/api/endpoints/F25864) | RSS | en-AU | 2026-11-19 | [Feed](<https://marshallislandsjournal.com/feed/>) |
+| Matinal Jornalismo | [F27112](https://preview.nws.broker/api/endpoints/F27112) | RSS | und | 2026-11-21 | [Feed](<https://www.matinal.org/rss/>) |
 | Mayotte Hebdo | [F26203](https://preview.nws.broker/api/endpoints/F26203) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.mayottehebdo.com/feed/>) |
 | Mediacités | [F25242](https://preview.nws.broker/api/endpoints/F25242) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.mediacites.fr/feed/>) |
 | Mediapart | [F4998](https://preview.nws.broker/api/endpoints/F4998) | RSS | fr | 2026-11-02 | [Feed](<https://www.mediapart.fr/articles/feed>) |
+| Meduza on Bluesky | [F27062](https://preview.nws.broker/api/endpoints/F27062) | RSS | und | 2026-11-21 | [Feed](<https://bsky.app/profile/did:plc:kpkqu7odzhelr2idxytethe7/rss>) |
 | Meduza.io | [F2069](https://preview.nws.broker/api/endpoints/F2069) | RSS | ru | 2026-11-02 | [Feed](<https://meduza.io/rss/all>) |
 | Mensagem de Lisboa | [F25331](https://preview.nws.broker/api/endpoints/F25331) | RSS | pt-PT | 2026-11-19 | [Feed](<https://amensagem.pt/feed/>) |
 | MercoPress Falkland Islands | [F26170](https://preview.nws.broker/api/endpoints/F26170) | RSS | en | 2026-11-19 | [Feed](<https://en.mercopress.com/rss/falkland-islands>) |
@@ -24,6 +50,7 @@
 | Meydan TV | [F25188](https://preview.nws.broker/api/endpoints/F25188) | RSS | az | 2026-11-19 | [Feed](<https://www.meydan.tv/az/feed/>) |
 | Milan News | [F5002](https://preview.nws.broker/api/endpoints/F5002) | RSS | und | 2026-11-02 | [Feed](<https://www.milannews.it/rss/>) |
 | Mmegi | [F26610](https://preview.nws.broker/api/endpoints/F26610) | RSS | und | 2026-11-20 | [Feed](<https://www.mmegi.bw/rssFeed/1>) |
+| Momento do Porto | [F27114](https://preview.nws.broker/api/endpoints/F27114) | RSS | und | 2026-11-21 | [Feed](<https://www.momentodoporto.pt/rss/>) |
 | Monaco Tribune | [F25294](https://preview.nws.broker/api/endpoints/F25294) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.monaco-tribune.com/categorie/actualites/feed/>) |
 | Monaco Tribune | [F25295](https://preview.nws.broker/api/endpoints/F25295) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.monaco-tribune.com/categorie/choix-de-la-redaction/feed/>) |
 | Monaco Tribune | [F25296](https://preview.nws.broker/api/endpoints/F25296) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.monaco-tribune.com/categorie/entreprise-finance/feed/>) |
@@ -43,6 +70,7 @@
 | Nawaat | [F25840](https://preview.nws.broker/api/endpoints/F25840) | RSS | en-US | 2026-11-19 | [Feed](<https://nawaat.org/feed/>) |
 | Nederweert24 | [F25316](https://preview.nws.broker/api/endpoints/F25316) | RSS | nl-NL | 2026-11-19 | [Feed](<https://www.nederweert24.nl/feed/>) |
 | Nepali Times | [F25870](https://preview.nws.broker/api/endpoints/F25870) | RSS | en | 2026-11-19 | [Feed](<https://nepalitimes.com/feed>) |
+| Neue Zürcher Zeitung on Bluesky | [F27065](https://preview.nws.broker/api/endpoints/F27065) | RSS | und | 2026-11-21 | [Feed](<https://bsky.app/profile/did:plc:mx2psjx4bmhoa4fld24c6gla/rss>) |
 | New York Times developer portal | [F2701](https://preview.nws.broker/api/endpoints/F2701) | RSS | en-US | 2026-11-01 | [Feed](<https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml>) |
 | New York Times developer portal | [F2702](https://preview.nws.broker/api/endpoints/F2702) | RSS | en-US | 2026-11-02 | [Feed](<https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml>) |
 | New York Times developer portal | [F2703](https://preview.nws.broker/api/endpoints/F2703) | RSS | en-US | 2026-11-02 | [Feed](<https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml>) |
@@ -65,6 +93,7 @@
 | Newsline TCI | [F26190](https://preview.nws.broker/api/endpoints/F26190) | RSS | und | 2026-11-19 | [Feed](<https://www.newslinetci.com/blog-feed.xml>) |
 | Newsweek Polska | [F5039](https://preview.nws.broker/api/endpoints/F5039) | RSS | pl | 2026-11-02 | [Feed](<https://www.newsweek.pl/rss.xml>) |
 | Newtral | [F25233](https://preview.nws.broker/api/endpoints/F25233) | RSS | es | 2026-11-19 | [Feed](<https://www.newtral.es/feed/>) |
+| Nieuws uit Castricum | [F27116](https://preview.nws.broker/api/endpoints/F27116) | RSS | und | 2026-11-21 | [Feed](<https://www.nieuwsuitcastricum.nl/rss/>) |
 | Nieuwsblad | [F7549](https://preview.nws.broker/api/endpoints/F7549) | RSS | nl | 2026-11-19 | [Feed](<https://www.nieuwsblad.be/rss>) |
 | Nikkei Asia | [F7570](https://preview.nws.broker/api/endpoints/F7570) | RSS | und | 2026-11-19 | [Feed](<https://asia.nikkei.com/rss/feed/nar>) |
 | NIUS | [F7556](https://preview.nws.broker/api/endpoints/F7556) | RSS | de | 2026-11-19 | [Feed](<https://nius.de/rss>) |
@@ -125,32 +154,3 @@
 | NPR | [F1510](https://preview.nws.broker/api/endpoints/F1510) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/4467349/rss.xml>) |
 | NPR | [F1511](https://preview.nws.broker/api/endpoints/F1511) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/500005/podcast.xml>) |
 | NPR | [F1512](https://preview.nws.broker/api/endpoints/F1512) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510008/podcast.xml>) |
-| NPR | [F1513](https://preview.nws.broker/api/endpoints/F1513) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510019/podcast.xml>) |
-| NPR | [F1514](https://preview.nws.broker/api/endpoints/F1514) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510026/podcast.xml>) |
-| NPR | [F1515](https://preview.nws.broker/api/endpoints/F1515) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510051/podcast.xml>) |
-| NPR | [F1518](https://preview.nws.broker/api/endpoints/F1518) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510200/podcast.xml>) |
-| NPR | [F1519](https://preview.nws.broker/api/endpoints/F1519) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510208/podcast.xml>) |
-| NPR | [F1521](https://preview.nws.broker/api/endpoints/F1521) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510282/podcast.xml>) |
-| NPR | [F1522](https://preview.nws.broker/api/endpoints/F1522) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510289/podcast.xml>) |
-| NPR | [F1523](https://preview.nws.broker/api/endpoints/F1523) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510292/podcast.xml>) |
-| NPR | [F1524](https://preview.nws.broker/api/endpoints/F1524) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510298/podcast.xml>) |
-| NPR | [F1525](https://preview.nws.broker/api/endpoints/F1525) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510299/podcast.xml>) |
-| NPR | [F1526](https://preview.nws.broker/api/endpoints/F1526) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510305/podcast.xml>) |
-| NPR | [F1527](https://preview.nws.broker/api/endpoints/F1527) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510306/podcast.xml>) |
-| NPR | [F1528](https://preview.nws.broker/api/endpoints/F1528) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510307/podcast.xml>) |
-| NPR | [F1529](https://preview.nws.broker/api/endpoints/F1529) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510308/podcast.xml>) |
-| NPR | [F1530](https://preview.nws.broker/api/endpoints/F1530) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510309/podcast.xml>) |
-| NPR | [F1532](https://preview.nws.broker/api/endpoints/F1532) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510311/podcast.xml>) |
-| NPR | [F1533](https://preview.nws.broker/api/endpoints/F1533) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510312/podcast.xml>) |
-| NPR | [F1535](https://preview.nws.broker/api/endpoints/F1535) | RSS | es | 2026-11-02 | [Feed](<https://feeds.npr.org/510315/podcast.xml>) |
-| NPR | [F1536](https://preview.nws.broker/api/endpoints/F1536) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510316/podcast.xml>) |
-| NPR | [F1538](https://preview.nws.broker/api/endpoints/F1538) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510318/podcast.xml>) |
-| NPR | [F1540](https://preview.nws.broker/api/endpoints/F1540) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510324/podcast.xml>) |
-| NPR | [F1541](https://preview.nws.broker/api/endpoints/F1541) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510325/podcast.xml>) |
-| NPR | [F1542](https://preview.nws.broker/api/endpoints/F1542) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510326/podcast.xml>) |
-| NPR | [F1543](https://preview.nws.broker/api/endpoints/F1543) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510333/podcast.xml>) |
-| NPR | [F1544](https://preview.nws.broker/api/endpoints/F1544) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510338/podcast.xml>) |
-| NPR | [F1545](https://preview.nws.broker/api/endpoints/F1545) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510343/podcast.xml>) |
-| NPR | [F1548](https://preview.nws.broker/api/endpoints/F1548) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510354/podcast.xml>) |
-| NPR | [F1550](https://preview.nws.broker/api/endpoints/F1550) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510356/podcast.xml>) |
-| NPR | [F1551](https://preview.nws.broker/api/endpoints/F1551) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510357/podcast.xml>) |

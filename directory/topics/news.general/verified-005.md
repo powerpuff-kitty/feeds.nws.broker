@@ -4,6 +4,26 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Global Voices — Sri Lanka | [F26078](https://preview.nws.broker/api/endpoints/F26078) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/south-asia/sri-lanka/feed/>) |
+| Global Voices — St Eustatius | [F25991](https://preview.nws.broker/api/endpoints/F25991) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/caribbean/st-eustatius/feed/>) |
+| Global Voices — Sudan | [F26121](https://preview.nws.broker/api/endpoints/F26121) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/sudan/feed/>) |
+| Global Voices — Suriname | [F26007](https://preview.nws.broker/api/endpoints/F26007) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/caribbean/suriname/feed/>) |
+| Global Voices — Switzerland | [F26145](https://preview.nws.broker/api/endpoints/F26145) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/western-europe/switzerland/feed/>) |
+| Global Voices — Tahiti | [F26069](https://preview.nws.broker/api/endpoints/F26069) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/oceania/tahiti/feed/>) |
+| Global Voices — Taiwan Roc | [F26028](https://preview.nws.broker/api/endpoints/F26028) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/east-asia/taiwan-roc/feed/>) |
+| Global Voices — Thailand | [F26029](https://preview.nws.broker/api/endpoints/F26029) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/east-asia/thailand/feed/>) |
+| Global Voices — Tibet | [F26030](https://preview.nws.broker/api/endpoints/F26030) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/east-asia/tibet/feed/>) |
+| Global Voices — Timor-Leste | [F26032](https://preview.nws.broker/api/endpoints/F26032) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/east-asia/east-timor/feed/>) |
+| Global Voices — Tonga | [F26070](https://preview.nws.broker/api/endpoints/F26070) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/oceania/tonga/feed/>) |
+| Global Voices — Trinidad and Tobago | [F26008](https://preview.nws.broker/api/endpoints/F26008) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/caribbean/trinidad-tobago/feed/>) |
+| Global Voices — Tunisia | [F26132](https://preview.nws.broker/api/endpoints/F26132) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/middle-east-north-africa/tunisia/feed/>) |
+| Global Voices — Turkmenistan | [F26017](https://preview.nws.broker/api/endpoints/F26017) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/central-asia-caucasus/turkmenistan/feed/>) |
+| Global Voices — Turks and Caicos Islands | [F26009](https://preview.nws.broker/api/endpoints/F26009) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/caribbean/turks-caicos-isl/feed/>) |
+| Global Voices — Tuvalu | [F26071](https://preview.nws.broker/api/endpoints/F26071) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/oceania/tuvalu/feed/>) |
+| Global Voices — Türkiye | [F26133](https://preview.nws.broker/api/endpoints/F26133) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/middle-east-north-africa/turkey/feed/>) |
+| Global Voices — Uganda | [F26122](https://preview.nws.broker/api/endpoints/F26122) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/uganda/feed/>) |
+| Global Voices — Ukraine | [F26052](https://preview.nws.broker/api/endpoints/F26052) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/eastern-central-europe/ukraine/feed/>) |
+| Global Voices — United Kingdom of Great Britain and Northern Ireland | [F26146](https://preview.nws.broker/api/endpoints/F26146) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/western-europe/united-kingdom/feed/>) |
 | Global Voices — United States Virgin Islands | [F26010](https://preview.nws.broker/api/endpoints/F26010) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/caribbean/us-virgin-islands/feed/>) |
 | Global Voices — Uzbekistan | [F26018](https://preview.nws.broker/api/endpoints/F26018) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/central-asia-caucasus/uzbekistan/feed/>) |
 | Global Voices — Venezuela (Bolivarian Republic of) | [F26059](https://preview.nws.broker/api/endpoints/F26059) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/latin-america/venezuela/feed/>) |
@@ -112,6 +132,7 @@
 | Jacobin | [F7555](https://preview.nws.broker/api/endpoints/F7555) | RSS | und | 2026-11-19 | [Feed](<https://jacobin.de/rss.xml>) |
 | jagonews24.com &#124; rss Feed | [F4615](https://preview.nws.broker/api/endpoints/F4615) | RSS | bn | 2026-11-02 | [Feed](<https://www.jagonews24.com/rss/rss.xml>) |
 | JAMnews | [F25245](https://preview.nws.broker/api/endpoints/F25245) | RSS | en-US | 2026-11-19 | [Feed](<https://jam-news.net/feed>) |
+| Japan Fact-Check Center | [F27107](https://preview.nws.broker/api/endpoints/F27107) | RSS | und | 2026-11-21 | [Feed](<https://www.factcheckcenter.jp/rss/>) |
 | Japan Forward | [F7573](https://preview.nws.broker/api/endpoints/F7573) | RSS | en-US | 2026-11-19 | [Feed](<https://japan-forward.com/feed/>) |
 | Japan Wire by Kyodo News | [F7572](https://preview.nws.broker/api/endpoints/F7572) | RSS | en | 2026-11-19 | [Feed](<https://english.kyodonews.net/rss/kyodonews-fzone.xml>) |
 | Jersey Evening Post | [F26220](https://preview.nws.broker/api/endpoints/F26220) | RSS | en-GB | 2026-11-19 | [Feed](<https://jerseyeveningpost.com/feed/>) |
@@ -128,29 +149,8 @@
 | Kiribati Broadcasting and Publications Authority | [F26680](https://preview.nws.broker/api/endpoints/F26680) | RSS | en-US | 2026-11-20 | [Feed](<https://bpa.org.ki/category/news/feed/>) |
 | Kiribati Broadcasting and Publications Authority | [F26681](https://preview.nws.broker/api/endpoints/F26681) | RSS | en-US | 2026-11-20 | [Feed](<https://bpa.org.ki/feed/>) |
 | Kloop | [F25857](https://preview.nws.broker/api/endpoints/F25857) | RSS | ru-RU | 2026-11-19 | [Feed](<https://kloop.kg/feed/>) |
+| Korea Independent News Network | [F27108](https://preview.nws.broker/api/endpoints/F27108) | RSS | und | 2026-11-21 | [Feed](<https://www.kinn.or.kr/rss/>) |
 | Krautreporter | [F25223](https://preview.nws.broker/api/endpoints/F25223) | RSS | und | 2026-11-19 | [Feed](<https://krautreporter.de/feeds.rss>) |
 | Kringvarp Føroya | [F26207](https://preview.nws.broker/api/endpoints/F26207) | RSS | fo | 2026-11-19 | [Feed](<https://kvf.fo/rss/tidindi>) |
 | KT Press | [F25832](https://preview.nws.broker/api/endpoints/F25832) | Atom | en-US | 2026-11-19 | [Feed](<https://www.ktpress.rw/feed/atom/>) |
 | Kun.uz | [F25887](https://preview.nws.broker/api/endpoints/F25887) | RSS | en | 2026-11-19 | [Feed](<https://kun.uz/news/rss?lang=en>) |
-| Kuwait Times | [F26641](https://preview.nws.broker/api/endpoints/F26641) | RSS | und | 2026-11-20 | [Feed](<https://kuwaittimes.com/rssFeed/0>) |
-| Kuwait Times | [F26642](https://preview.nws.broker/api/endpoints/F26642) | RSS | und | 2026-11-20 | [Feed](<https://kuwaittimes.com/rssFeed/1>) |
-| Kuwait Times | [F26643](https://preview.nws.broker/api/endpoints/F26643) | RSS | und | 2026-11-20 | [Feed](<https://kuwaittimes.com/rssFeed/14>) |
-| Külauudised | [F25230](https://preview.nws.broker/api/endpoints/F25230) | RSS | et | 2026-11-19 | [Feed](<https://kylauudis.ee/feed/>) |
-| L&#x27;Obs - A la une | [F5080](https://preview.nws.broker/api/endpoints/F5080) | RSS | fr | 2026-11-02 | [Feed](<https://www.nouvelobs.com/a-la-une/rss.xml>) |
-| La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr | [F4630](https://preview.nws.broker/api/endpoints/F4630) | RSS | fr | 2026-11-02 | [Feed](<https://www.ladepeche.fr/rss.xml>) |
-| LAist | [F7231](https://preview.nws.broker/api/endpoints/F7231) | Atom | und | 2026-11-18 | [Feed](<https://laist.com/index.atom>) |
-| LAist | [F7303](https://preview.nws.broker/api/endpoints/F7303) | Atom | und | 2026-11-18 | [Feed](<https://laist.com/rss-feed.atom>) |
-| Lalibre.be - Les derniers articles | [F7548](https://preview.nws.broker/api/endpoints/F7548) | RSS | fr-BE | 2026-11-19 | [Feed](<https://www.lalibre.be/arc/outboundfeeds/rss/?outputType=xml>) |
-| Landesspiegel | [F25417](https://preview.nws.broker/api/endpoints/F25417) | RSS | de-CH | 2026-11-19 | [Feed](<https://landesspiegel.li/feed/>) |
-| Landesspiegel — Vaduz | [F25418](https://preview.nws.broker/api/endpoints/F25418) | RSS | de-CH | 2026-11-19 | [Feed](<https://landesspiegel.li/category/liechtenstein/vaduz/feed/>) |
-| Laopost | [F26688](https://preview.nws.broker/api/endpoints/F26688) | RSS | en-US | 2026-11-20 | [Feed](<https://laopost.com/feed/>) |
-| LaPresse.ca - Actualités | [F4631](https://preview.nws.broker/api/endpoints/F4631) | RSS | fr-CA | 2026-11-02 | [Feed](<https://www.lapresse.ca/actualites/rss>) |
-| Latest And Breaking Hindi News Headlines, News In Hindi &#124; अमर उजाला हिंदी न्यूज़ &#124; - Amar Ujala | [F3255](https://preview.nws.broker/api/endpoints/F3255) | RSS | hi | 2026-11-02 | [Feed](<https://www.amarujala.com/rss/breaking-news.xml>) |
-| Latvian Public Media — English | [F25286](https://preview.nws.broker/api/endpoints/F25286) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=315>) |
-| Latvian Public Media — English | [F25287](https://preview.nws.broker/api/endpoints/F25287) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=278>) |
-| Latvian Public Media — English | [F25288](https://preview.nws.broker/api/endpoints/F25288) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=22034>) |
-| Latvian Public Media — English | [F25289](https://preview.nws.broker/api/endpoints/F25289) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=21654>) |
-| Latvian Public Media — English | [F25290](https://preview.nws.broker/api/endpoints/F25290) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=315&popular>) |
-| Latvian Public Media — English | [F25291](https://preview.nws.broker/api/endpoints/F25291) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=21648>) |
-| Latvian Public Media — English | [F25509](https://preview.nws.broker/api/endpoints/F25509) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=21647>) |
-| Latvian Public Media — English | [F25510](https://preview.nws.broker/api/endpoints/F25510) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=21646>) |

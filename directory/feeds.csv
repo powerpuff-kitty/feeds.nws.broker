@@ -999,8 +999,8 @@ F0997,S427,blogs.nasa.gov,https://blogs.nasa.gov/artemis/author/jjcawley/feed/,g
 F0998,S427,blogs.nasa.gov,https://blogs.nasa.gov/artemis/author/kahamble/feed/,general,general,,,rss,,needs_review,2026-11-02T12:28:53Z,draft,unknown,unknown,candidate,review_required,false
 F0999,S427,blogs.nasa.gov,https://blogs.nasa.gov/artemis/author/rkraft/feed/,general,general,,,rss,,needs_review,2026-11-02T12:28:53Z,draft,unknown,unknown,candidate,review_required,false
 F1000,S427,blogs.nasa.gov,https://blogs.nasa.gov/artemis/author/tfairley/feed/,general,general,,,rss,,needs_review,2026-11-02T12:34:13Z,draft,unknown,unknown,candidate,review_required,false
-F10000,S3401,medium.com,https://medium.com/feed/prxofficial,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F10001,S3401,medium.com,https://medium.com/feed/t%C3%BCrkiye,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F10000,S3401,medium.com,https://medium.com/feed/prxofficial,general,general,,,rss,rss,verified,2026-11-21T08:49:07Z,draft,unknown,none,candidate,review_required,true
+F10001,S3401,medium.com,https://medium.com/feed/t%C3%BCrkiye,general,general,,,rss,rss,verified,2026-11-21T08:49:08Z,draft,unknown,none,candidate,review_required,true
 F10002,S3401,medium.com,https://medium.com/feed/xandr-tech,general,general,,,rss,rss,verified,2026-11-19T13:21:03Z,draft,unknown,none,candidate,review_required,true
 F10003,S3402,mediumturkiye.com,https://mediumturkiye.com/feed,general,general,,,rss,rss,verified,2026-11-19T13:27:50Z,draft,unknown,none,candidate,review_required,true
 F10004,S3403,medizindoc.de,https://medizindoc.de/feed/,general,general,,,rss,,needs_review,2026-11-19T13:30:20Z,draft,unknown,unknown,candidate,review_required,false
@@ -2532,7 +2532,7 @@ F11390,S3864,podnews.net,https://podnews.net/rss/articles,general,general,,,rss,
 F11391,S3864,podnews.net,https://podnews.net/rss/single/full,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F11392,S3864,podnews.net,https://podnews.net/sitemap/trailers.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F11393,S3865,podravski.hr,https://podravski.hr/feed/,general,general,hr,,rss,rss,verified,2026-11-19T13:07:04Z,draft,unknown,none,candidate,review_required,true
-F11394,S3866,podthenorth.substack.com,https://podthenorth.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F11394,S3866,podthenorth.substack.com,https://podthenorth.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:31Z,draft,unknown,none,candidate,review_required,true
 F11395,S3867,Pogled.ba,https://pogled.ba/feed/,general,general,hr,,rss,rss,verified,2026-11-19T14:02:09Z,draft,unknown,none,candidate,review_required,true
 F11396,S3868,pogled.info,https://pogled.info/rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F11397,S3869,pogowasright.org,https://pogowasright.org/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -3029,7 +3029,7 @@ F11842,S4138,saartehaal.postimees.ee,https://saartehaal.postimees.ee/rss,general
 F11843,S4139,safenews.md,https://safenews.md/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F11844,S4140,saharareporters.com,https://saharareporters.com/rss.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F11845,S4141,sakala.postimees.ee,https://sakala.postimees.ee/rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F11846,S4142,sakeindustrynews.substack.com,https://sakeindustrynews.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F11846,S4142,sakeindustrynews.substack.com,https://sakeindustrynews.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:31Z,draft,unknown,none,candidate,review_required,true
 F11847,S4143,salemreporter.com,https://salemreporter.com/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F11848,S4144,sam.lrv.lt,https://sam.lrv.lt/lt/news/rss/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F11849,S4145,samefolket.se,https://samefolket.se/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -3185,7 +3185,7 @@ F11984,S4245,soha.vn,https://soha.vn/rss/home.rss,general,general,,,rss,,adverti
 F11985,S4246,soka25east.com,https://soka25east.com/feed,general,general,en-US,,rss,rss,verified,2026-11-19T13:07:53Z,draft,unknown,none,candidate,review_required,true
 F11986,S4247,solarmagazine.com,https://solarmagazine.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F11987,S4248,SolarQuarter,https://solarquarter.com/feed/,general,general,en-GB,,rss,rss,verified,2026-11-19T13:50:52Z,draft,unknown,none,candidate,review_required,true
-F11988,S4249,soloist.substack.com,https://soloist.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F11988,S4249,soloist.substack.com,https://soloist.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:32Z,draft,unknown,none,candidate,review_required,true
 F11989,S4250,Somaliska,https://somaliska.com/feed/,general,general,en-GB,,rss,rss,verified,2026-11-19T14:20:54Z,draft,unknown,none,candidate,review_required,true
 F1199,S056,USGS earthquake feeds,https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.atom,environment.hazards,environment.hazards,,,atom,atom,verified,2026-11-02T12:16:49Z,draft,unknown,none,candidate,review_required,true
 F11990,S4251,somospueblo.com,https://somospueblo.com/economia/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -3522,7 +3522,7 @@ F12290,S4459,Food and Environment Reporting Network,https://thefern.org/feed/,ge
 F12291,S4460,thefifthestate.com.au,https://thefifthestate.com.au/category/urbanism/climate-change-news/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F12292,S4461,thefinancialdaily.com,https://thefinancialdaily.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F12293,S4462,thefourthestategh.com,https://thefourthestategh.com/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F12294,S4463,thefusionreport.substack.com,https://thefusionreport.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F12294,S4463,thefusionreport.substack.com,https://thefusionreport.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:32Z,draft,unknown,none,candidate,review_required,true
 F12295,S4464,thegoodnewshub.com,https://thegoodnewshub.com/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F12296,S4465,theguardian.com,http://theguardian.com/world/pakistan/rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F12297,S4466,theguardian.com.au,https://theguardian.com.au/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -3732,7 +3732,7 @@ F12481,S4595,trle5.xyz,https://trle5.xyz/atom.xml,general,general,,,atom,atom,ve
 F12482,S4596,truthout.org,https://truthout.org/topics/mass-surveillance/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F12483,S4596,truthout.org,https://truthout.org/topics/privacy/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F12484,S4597,ttela.libsyn.com,https://ttela.libsyn.com/rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F12485,S4598,ttrpg.substack.com,https://ttrpg.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F12485,S4598,ttrpg.substack.com,https://ttrpg.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:32Z,draft,unknown,none,candidate,review_required,true
 F12486,S4599,TTRPGs on,https://ttrpgs.com/index.xml,general,general,en-GB,,rss,rss,verified,2026-11-19T14:19:40Z,draft,unknown,none,candidate,review_required,true
 F12487,S4600,tumutanzi.com,https://tumutanzi.com/feed,general,general,zh-CN,,rss,rss,verified,2026-11-19T13:21:31Z,draft,unknown,none,candidate,review_required,true
 F12488,S4601,tuoitre.vn,https://tuoitre.vn/rss/khoa-hoc.rss,general,general,vi-VN,,rss,rss,verified,2026-11-19T13:06:57Z,draft,unknown,none,candidate,review_required,true
@@ -3999,7 +3999,7 @@ F12724,S4735,weekend.rambler.ru,https://weekend.rambler.ru/rss/head/?limit=100,g
 F12725,S4736,weekly.tw93.fun,https://weekly.tw93.fun/rss.xml,general,general,,,rss,rss,verified,2026-11-19T13:24:48Z,draft,unknown,none,candidate,review_required,true
 F12726,S4737,weishu.me,https://weishu.me/atom.xml,general,general,,,atom,atom,verified,2026-11-19T13:27:31Z,draft,unknown,none,candidate,review_required,true
 F12727,S4738,weiwuhui.com,http://weiwuhui.com/feed,general,general,zh-CN,,rss,rss,verified,2026-11-19T13:27:52Z,draft,unknown,none,candidate,review_required,false
-F12728,S4739,welcometoloudcity.substack.com,https://welcometoloudcity.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F12728,S4739,welcometoloudcity.substack.com,https://welcometoloudcity.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:33Z,draft,unknown,none,candidate,review_required,true
 F12729,S4740,welltica.dk,https://welltica.dk/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F1273,S494,All: BreakingNews.ie,https://feeds.breakingnews.ie/bntopstories,news.general,news.general,,,rss,rss,verified,2026-11-01T22:46:35.000Z,draft,unknown,none,candidate,review_required,true
 F12730,S4741,wels.net,https://wels.net/dev-daily/feed/pt-dev-daily/?redirect=no,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -10303,95 +10303,95 @@ F18455,S7927,www.yonhapnewstv.co.kr,https://www.yonhapnewstv.co.kr/category/news
 F18456,S7928,www.yorkpress.co.uk,https://www.yorkpress.co.uk/news/rss/,general,general,en-GB,,rss,rss,verified,2026-11-19T13:06:18Z,draft,unknown,none,candidate,review_required,true
 F18457,S7929,www.youm7.com,https://www.youm7.com/rss/SectionRss?SectionID=97,general,general,ar,,rss,rss,verified,2026-11-19T13:28:57Z,draft,unknown,none,candidate,review_required,true
 F18458,S7930,www.yourlocalguardian.co.uk,https://www.yourlocalguardian.co.uk/news/rss/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18459,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC-b3c7kxa5vU-bnmaROgvog,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18459,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC-b3c7kxa5vU-bnmaROgvog,general,general,,,rss,,needs_review,2026-11-21T08:48:32Z,draft,unknown,unknown,candidate,review_required,false
 F1846,S723,Tags from pytorch,https://github.com/pytorch/pytorch/tags.atom,general,general,,,atom,,needs_review,2026-11-02T12:16:40Z,draft,unknown,unknown,candidate,review_required,false
 F18460,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC0SclYU4iiQRihtmDnak-gQ,general,general,,,rss,,needs_review,2026-11-19T13:21:24Z,draft,unknown,unknown,candidate,review_required,false
-F18461,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC0m81bQuthaQZmFbXEY9QSw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18462,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC0yHbz4OxdQFwmVX2BBQqLg,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18463,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC29ju8bIPH5as8OGnQzwJyA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18464,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC2D2CMWXMOVWx7giW1n3LIg,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18465,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC2UXDak6o7rBm23k3Vv5dww,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18466,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC2Zs9v2hL2qZZ7vsAENsg4w,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18467,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC2ggjtuuWvxrHHHiaDH1dlQ,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18468,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC2oCugzU6W8-h95W7eBTUEg,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18469,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC45T0I4p7A3dI0XvhivafZQ,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18461,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC0m81bQuthaQZmFbXEY9QSw,general,general,,,rss,,needs_review,2026-11-21T08:49:06Z,draft,unknown,unknown,candidate,review_required,false
+F18462,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC0yHbz4OxdQFwmVX2BBQqLg,general,general,,,rss,,needs_review,2026-11-21T08:49:07Z,draft,unknown,unknown,candidate,review_required,false
+F18463,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC29ju8bIPH5as8OGnQzwJyA,general,general,,,rss,,needs_review,2026-11-21T08:49:08Z,draft,unknown,unknown,candidate,review_required,false
+F18464,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC2D2CMWXMOVWx7giW1n3LIg,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18465,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC2UXDak6o7rBm23k3Vv5dww,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18466,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC2Zs9v2hL2qZZ7vsAENsg4w,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18467,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC2ggjtuuWvxrHHHiaDH1dlQ,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18468,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC2oCugzU6W8-h95W7eBTUEg,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18469,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC45T0I4p7A3dI0XvhivafZQ,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
 F1847,S724,Recent Commits to rss-parser:master,https://github.com/rbren/rss-parser/commits/master.atom,general,general,,,atom,,needs_review,2026-11-02T12:16:40Z,draft,unknown,unknown,candidate,review_required,false
-F18470,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC6hlQ0x6kPbAGjYkoz53cvA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18471,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC6t1O76G0jYXOAoYCm153dA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18472,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18473,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18474,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC9cn0TuPq4dnbTY-CBsm8XA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18475,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCASM0cgfkJxQ1ICmRilfHLw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18476,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18477,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCB_DbqNN9w30tnyWJSrIwyA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18478,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCC-lyoTfSrcJzA1ab3APAgw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18479,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCESLZhusAkFfsNsApnjF_Cg,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18470,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC6hlQ0x6kPbAGjYkoz53cvA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18471,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC6t1O76G0jYXOAoYCm153dA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18472,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC8butISFwT-Wl7EV0hUK0BQ,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18473,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18474,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC9cn0TuPq4dnbTY-CBsm8XA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18475,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCASM0cgfkJxQ1ICmRilfHLw,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18476,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCAuUUnT6oDeKwE6v1NGQxug,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18477,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCB_DbqNN9w30tnyWJSrIwyA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18478,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCC-lyoTfSrcJzA1ab3APAgw,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18479,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCESLZhusAkFfsNsApnjF_Cg,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
 F1848,S725,Release notes from iceriver-oc,https://github.com/rdugan/iceriver-oc/releases.atom,general,general,,,atom,,needs_review,2026-11-02T12:16:40Z,draft,unknown,unknown,candidate,review_required,false
-F18480,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18481,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCHhYXsLBEVVnbvsq57n1MTQ,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18482,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18483,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18484,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCKARTq-t5SPMzwtft8FWwnA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18485,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCKFB_rVEFEF3l-onQGvGx1A,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18486,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCLKPca3kwwd-B59HNr-_lvA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18487,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCLMPXsvSrhNPN3i9h-u8PYg,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18488,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCLtTf_uKt0Itd0NG7txrwXA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18489,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCMLtBahI5DMrt0NPvDSoIRQ,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18480,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCFbNIlppjAuEX4znoulh0Cw,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18481,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCHhYXsLBEVVnbvsq57n1MTQ,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18482,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCIgnGlGkVRhd4qNFcEwLL4A,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18483,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18484,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCKARTq-t5SPMzwtft8FWwnA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18485,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCKFB_rVEFEF3l-onQGvGx1A,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18486,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCLKPca3kwwd-B59HNr-_lvA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18487,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCLMPXsvSrhNPN3i9h-u8PYg,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18488,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCLtTf_uKt0Itd0NG7txrwXA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18489,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCMLtBahI5DMrt0NPvDSoIRQ,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
 F1849,S726,Tags from iceriver-oc,https://github.com/rdugan/iceriver-oc/tags.atom,general,general,,,atom,,needs_review,2026-11-02T12:16:40Z,draft,unknown,unknown,candidate,review_required,false
-F18490,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCMcoud_ZW7cfxeIugBflSBw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18491,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCN2hSM8fBcvZBa8OOKc24eg,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18492,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18493,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18494,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCPbwhExawYrn9xxI21TFfyw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18495,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18496,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18497,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCRYY7IEbkHLH_ScJCu9eWDQ,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18498,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18499,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCSI7h9hydQ40K5MJHnCrQvw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18490,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCMcoud_ZW7cfxeIugBflSBw,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18491,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCN2hSM8fBcvZBa8OOKc24eg,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18492,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18493,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18494,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCPbwhExawYrn9xxI21TFfyw,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18495,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCPjNBjflYl0-HQtUvOx0Ibw,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18496,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18497,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCRYY7IEbkHLH_ScJCu9eWDQ,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18498,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18499,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCSI7h9hydQ40K5MJHnCrQvw,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
 F1850,S727,Recent Commits to podsnatch:master,https://github.com/robotmlg/podsnatch/commits/master.atom,general,general,,,atom,,needs_review,2026-11-02T12:16:40Z,draft,unknown,unknown,candidate,review_required,false
-F18500,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCUBqu_z5uP0AZhYtuyFZB3g,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18501,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCWrF0oN6unbXrWsTN7RctTw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18502,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCX6OQ3DkcsbYNE6H8uQQuVA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18503,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18504,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18505,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCXl4i9dYBrFOabk0xGmbkRA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18506,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18507,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18508,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCZMli3czZnd1uoc1ShTouQw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18509,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCZgt6AzoyjslHTC9dz0UoTw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18500,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCUBqu_z5uP0AZhYtuyFZB3g,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18501,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCWrF0oN6unbXrWsTN7RctTw,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18502,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCX6OQ3DkcsbYNE6H8uQQuVA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18503,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCXUPKJO5MZQN11PqgIvyuvQ,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18504,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18505,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCXl4i9dYBrFOabk0xGmbkRA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18506,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18507,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18508,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCZMli3czZnd1uoc1ShTouQw,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18509,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCZgt6AzoyjslHTC9dz0UoTw,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
 F1851,S728,Release notes from json,https://github.com/ruby/json/releases.atom,general,general,,,atom,,needs_review,2026-11-02T12:16:40Z,draft,unknown,unknown,candidate,review_required,false
-F18510,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18511,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18512,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCbo-KbSjJDG6JWQ_MTZ_rNA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18513,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCc1qMq2UBJD9cSKbeBwGoZQ,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18514,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCcIXc5mJsHVYTZR1maL5l9w,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18515,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18516,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCdMz6KKEDW_1Qqas-ya7S6w,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18517,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCdp4_l1vPmpN-gDbUwhaRUQ,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18518,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCh_dVD10YuSghle8g6yjePg,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18519,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18510,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18511,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCawZsQWqfGSbCI5yjkdVkTA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18512,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCbo-KbSjJDG6JWQ_MTZ_rNA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18513,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCc1qMq2UBJD9cSKbeBwGoZQ,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18514,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCcIXc5mJsHVYTZR1maL5l9w,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18515,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCcefcZRL2oaA_uBNeo5UOWg,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18516,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCdMz6KKEDW_1Qqas-ya7S6w,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18517,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCdp4_l1vPmpN-gDbUwhaRUQ,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18518,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCh_dVD10YuSghle8g6yjePg,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18519,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
 F1852,S729,Tags from json,https://github.com/ruby/json/tags.atom,general,general,,,atom,,needs_review,2026-11-02T12:16:40Z,draft,unknown,unknown,candidate,review_required,false
-F18520,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCiq1FIgtEK7LRAOB1JXTPig,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18521,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UClWTCPVi-AU9TeCN6FkGARg,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18522,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UClnFtyUEaxQOCd1s5NKYGFA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18523,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCnC8SAZzQiBGYVSKZ_S3y4Q,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18524,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCoOae5nYA7VqaXzerajD0lg,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18525,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCpQBb0fToph3jrDulwz1iUQ,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18526,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCqZQJ4600a9wIfMPbYc60OQ,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18527,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCqcbQf6yw5KzRoDDcZ_wBSw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18528,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18529,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18520,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCiq1FIgtEK7LRAOB1JXTPig,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18521,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UClWTCPVi-AU9TeCN6FkGARg,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18522,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UClnFtyUEaxQOCd1s5NKYGFA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18523,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCnC8SAZzQiBGYVSKZ_S3y4Q,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18524,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCoOae5nYA7VqaXzerajD0lg,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18525,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCpQBb0fToph3jrDulwz1iUQ,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18526,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCqZQJ4600a9wIfMPbYc60OQ,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18527,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCqcbQf6yw5KzRoDDcZ_wBSw,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18528,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18529,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
 F1853,S730,Recent Commits to jquery-rss:master,https://github.com/sdepold/jquery-rss/commits/master.atom,general,general,,,atom,,needs_review,2026-11-02T12:16:40Z,draft,unknown,unknown,candidate,review_required,false
-F18530,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCtYLUTtgS3k1Fg4y5tAhLbw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18531,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCtatfZMf-8EkIwASXM4ts0A,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18532,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCui4jxDaMb53Gdh-AZUTPAg,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18533,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCulFhrW_YCwkq_BP16C82mA,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18534,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCvNxfitQbWkmLuCd44UfrYQ,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18535,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCw2R8kz3aotYtV9utqf0uaw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18536,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCyFqFYfTW2VoIQKylJ04Rtw,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18537,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCye1YedIypHffYb8k6Gp9wg,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18538,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCzB7YGrrxDC_POenf86H3_Q,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18539,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18530,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCtYLUTtgS3k1Fg4y5tAhLbw,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18531,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCtatfZMf-8EkIwASXM4ts0A,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18532,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCui4jxDaMb53Gdh-AZUTPAg,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18533,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCulFhrW_YCwkq_BP16C82mA,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18534,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCvNxfitQbWkmLuCd44UfrYQ,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18535,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCw2R8kz3aotYtV9utqf0uaw,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18536,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCyFqFYfTW2VoIQKylJ04Rtw,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18537,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCye1YedIypHffYb8k6Gp9wg,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18538,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCzB7YGrrxDC_POenf86H3_Q,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F18539,S7931,www.youtube.com,https://www.youtube.com/feeds/videos.xml?channel_id=UCzQUP1qoWDoEbmsQxvdjxgQ,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
 F1854,S731,Release notes from get-rss-feed-url-extension,https://github.com/shevabam/get-rss-feed-url-extension/releases.atom,general,general,,,atom,,needs_review,2026-11-02T12:16:40Z,draft,unknown,unknown,candidate,review_required,false
 F18540,S7932,www.ystadsallehanda.se,https://www.ystadsallehanda.se/feeds/feed.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18541,S7933,www.yukicat.net,https://www.yukicat.net/feed/,general,general,,,rss,,needs_review,2026-11-19T13:22:02Z,draft,unknown,unknown,candidate,review_required,false
@@ -10484,7 +10484,7 @@ F1862,S739,Tags from Magisk,https://github.com/topjohnwu/Magisk/tags.atom,genera
 F18620,S8008,aaronnewcomer.com,https://aaronnewcomer.com/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18621,S8009,aayushsahu.com,https://aayushsahu.com/rss.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18622,S8010,ableandthewolf.com,https://ableandthewolf.com/static/media/feed.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18623,S8011,abparenting.substack.com,https://abparenting.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18623,S8011,abparenting.substack.com,https://abparenting.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:33Z,draft,unknown,none,candidate,review_required,true
 F18624,S8012,Absolute AppSec,https://absoluteappsec.com/rss.xml,general,general,en-US,,rss,rss,verified,2026-11-19T14:00:58Z,draft,unknown,none,candidate,review_required,true
 F18625,S8013,abundance.substack.com,https://abundance.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18626,S8014,abwassertalk.podigee.io,https://abwassertalk.podigee.io/feed/mp3,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -10512,7 +10512,7 @@ F18645,S8027,aiaustralia.libsyn.com,https://aiaustralia.libsyn.com/rss,general,g
 F18646,S8028,Akaash Nanda,https://akaashnanda.com/rss,general,general,,,rss,rss,verified,2026-11-19T14:16:47Z,draft,unknown,none,candidate,review_required,true
 F18647,S8029,akashmilton.com,https://akashmilton.com/feed.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18648,S8030,aknextphase.com,https://aknextphase.com/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18649,S8031,alexanderrusso.substack.com,https://alexanderrusso.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18649,S8031,alexanderrusso.substack.com,https://alexanderrusso.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:34Z,draft,unknown,none,candidate,review_required,true
 F1865,S742,Recent Commits to umami:1aa9689b4f5f7df6c653f152ce70a04f8eab7ebe,https://github.com/umami-software/umami/commits/1aa9689b4f5f7df6c653f152ce70a04f8eab7ebe.atom,general,general,,,atom,,needs_review,2026-11-02T12:16:40Z,draft,unknown,unknown,candidate,review_required,false
 F18650,S8032,allthingsgaming.libsyn.com,https://allthingsgaming.libsyn.com/rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18651,S8033,alongthoselines.libsyn.com,https://alongthoselines.libsyn.com/rss,general,general,,,rss,,needs_review,2026-11-19T14:00:41Z,draft,unknown,unknown,candidate,review_required,false
@@ -10522,7 +10522,7 @@ F18654,S8036,"AI, software, tech, and people. Not in that order. By X",https://a
 F18655,S8037,Le(s) podcast(s) d'AmigaImpact.org,https://amigaimpact.lepodcast.fr/rss,general,general,fr,,rss,rss,verified,2026-11-19T13:49:49Z,draft,unknown,none,candidate,review_required,true
 F18656,S8038,analysysmason.podbean.com,https://analysysmason.podbean.com/feed.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18657,S8039,analyticalmonk.github.io,https://analyticalmonk.github.io/feed.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18658,S8040,anarchosolarpunk.substack.com,https://anarchosolarpunk.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18658,S8040,anarchosolarpunk.substack.com,https://anarchosolarpunk.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:34Z,draft,unknown,none,candidate,review_required,true
 F18659,S8041,anchor.fm,https://anchor.fm/s/10047c3e4/podcast/rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F1866,S743,Recent Commits to umami:48eba0242dee2060c750acaa39b35af34c320753,https://github.com/umami-software/umami/commits/48eba0242dee2060c750acaa39b35af34c320753.atom,general,general,,,atom,,needs_review,2026-11-02T12:16:40Z,draft,unknown,unknown,candidate,review_required,false
 F18660,S8041,anchor.fm,https://anchor.fm/s/10206cf4/podcast/rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -10709,8 +10709,8 @@ F18824,S8051,api.riverside.fm,https://api.riverside.fm/hosting/5RhcYXIE.rss,gene
 F18825,S8051,api.riverside.fm,https://api.riverside.fm/hosting/JTwypfcY.rss,general,general,en,,rss,rss,verified,2026-11-19T14:15:58Z,draft,unknown,none,candidate,review_required,true
 F18826,S8051,api.riverside.fm,https://api.riverside.fm/hosting/iA4hgdZC.rss/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18827,S8051,api.riverside.fm,https://api.riverside.fm/hosting/vsvXuVHq.rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18828,S8052,api.substack.com,https://api.substack.com/feed/podcast/1149824.rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18829,S8052,api.substack.com,https://api.substack.com/feed/podcast/1892408.rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18828,S8052,api.substack.com,https://api.substack.com/feed/podcast/1149824.rss,general,general,fr,,rss,rss,verified,2026-11-21T08:48:35Z,draft,unknown,none,candidate,review_required,true
+F18829,S8052,api.substack.com,https://api.substack.com/feed/podcast/1892408.rss,general,general,en,,rss,rss,verified,2026-11-21T08:49:07Z,draft,unknown,none,candidate,review_required,true
 F1883,S759,gizmodo.com,https://gizmodo.com/tag/science/rss,technology,science.research|technology,en-US,,rss,rss,verified,2026-11-02T00:42:20.000Z,draft,unknown,none,candidate,review_required,true
 F18830,S8052,api.substack.com,https://api.substack.com/feed/podcast/1995075.rss,general,general,en,,rss,rss,verified,2026-11-19T14:17:25Z,draft,unknown,none,candidate,review_required,true
 F18831,S8052,api.substack.com,https://api.substack.com/feed/podcast/2709415.rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -10724,8 +10724,8 @@ F18838,S8056,WDW Fan Zone Show,https://app.talkshoe.com/rss-wdw-fan-zone-show.xm
 F18839,S8057,ar.al,https://ar.al/index.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F1884,S760,Feed at globalnews.ca,https://globalnews.ca/feed/,news.general,news.general,en-US,,rss,rss,verified,2026-11-01T22:46:52.000Z,draft,unknown,none,candidate,review_required,true
 F18840,S8058,aramzs.github.io,https://aramzs.github.io/feed.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18841,S8059,arpanpunyani.substack.com,https://arpanpunyani.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18842,S8060,artistlike.substack.com,https://artistlike.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18841,S8059,arpanpunyani.substack.com,https://arpanpunyani.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:35Z,draft,unknown,none,candidate,review_required,true
+F18842,S8060,artistlike.substack.com,https://artistlike.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:36Z,draft,unknown,none,candidate,review_required,true
 F18843,S8061,artplace,https://artplace.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-19T13:59:52Z,draft,unknown,none,candidate,review_required,true
 F18844,S8062,asebrant.libsyn.com,https://asebrant.libsyn.com/rss,general,general,,,rss,,needs_review,2026-11-19T14:18:07Z,draft,unknown,unknown,candidate,review_required,false
 F18845,S8063,aseq.substack.com,https://aseq.substack.com/feed,general,general,,,rss,,needs_review,2026-11-19T14:15:23Z,draft,unknown,unknown,candidate,review_required,false
@@ -10778,7 +10778,7 @@ F18887,S8089,Being Liberal - Reality Has a Well-known Liberal Bias,https://being
 F18888,S8090,Ben Ramsey,https://ben.ramsey.dev/feeds/blog.rss,general,general,en-US,,rss,rss,verified,2026-11-19T14:00:49Z,draft,unknown,none,candidate,review_required,true
 F18889,S8091,beszeljunkorakrol.hu,https://beszeljunkorakrol.hu/podcast.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F1889,S030,Global Voices,https://globalvoices.org/-/special/covid-19/feed/,news.general,news.general,en-US,,rss,rss,verified,2026-11-02T14:58:58Z,draft,unknown,none,candidate,review_required,true
-F18890,S8092,bethanythebuilder.substack.com,https://bethanythebuilder.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18890,S8092,bethanythebuilder.substack.com,https://bethanythebuilder.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:36Z,draft,unknown,none,candidate,review_required,true
 F18891,S8093,betweenthebrackets.libsyn.com,https://betweenthebrackets.libsyn.com/rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18892,S8094,Beyond the Slide,https://beyondtheslide.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-19T14:17:15Z,draft,unknown,none,candidate,review_required,true
 F18893,S8095,Bryan Ford's Home Page,https://bford.info/index.xml,general,general,en-US,,rss,rss,verified,2026-11-19T14:00:54Z,draft,unknown,none,candidate,review_required,true
@@ -10829,20 +10829,20 @@ F18933,S8135,bluelabyrinths.com,https://bluelabyrinths.com/feed/,general,general
 F18934,S8136,bobdahacker.com,https://bobdahacker.com/feed.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18935,S8137,Bob Martens,https://bobmartens.net/feed/podcast,general,general,en-US,,rss,rss,verified,2026-11-19T14:16:17Z,draft,unknown,none,candidate,review_required,true
 F18936,S8138,bobmschwartz.com,https://bobmschwartz.com/atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18937,S8139,boids.substack.com,https://boids.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18938,S8140,boilerroom.substack.com,https://boilerroom.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18939,S8141,bradbowden0.substack.com,https://bradbowden0.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18937,S8139,boids.substack.com,https://boids.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:36Z,draft,unknown,none,candidate,review_required,true
+F18938,S8140,boilerroom.substack.com,https://boilerroom.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:36Z,draft,unknown,none,candidate,review_required,true
+F18939,S8141,bradbowden0.substack.com,https://bradbowden0.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:37Z,draft,unknown,none,candidate,review_required,true
 F1894,S030,Global Voices,https://globalvoices.org/-/special/olympics/feed/,news.general,news.general,en-US,,rss,rss,verified,2026-11-02T15:00:44Z,draft,unknown,none,candidate,review_required,true
 F18940,S8142,bradfrost.com,https://bradfrost.com/feed/feed.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18941,S8143,brennan.day,https://brennan.day/feed.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18942,S8144,brianschrader.com,https://brianschrader.com/rss.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18943,S8145,brianselzer.substack.com,https://brianselzer.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18943,S8145,brianselzer.substack.com,https://brianselzer.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:37Z,draft,unknown,none,candidate,review_required,true
 F18944,S8146,brief.bismarckanalysis.com,https://brief.bismarckanalysis.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18945,S8147,Brilliantcrank,https://brilliantcrank.com/rss,general,general,,,rss,rss,verified,2026-11-19T13:49:32Z,draft,unknown,none,candidate,review_required,true
 F18946,S8148,brodzinski.com,https://brodzinski.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18947,S8149,brrreadfan.github.io,https://brrreadfan.github.io/feed.xml,general,general,,,rss,,needs_review,2026-11-19T14:16:02Z,draft,unknown,unknown,candidate,review_required,false
 F18948,S8150,Future Trends and Science Fiction,https://brucelanday.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-19T13:59:29Z,draft,unknown,none,candidate,review_required,true
-F18949,S8151,bullparade.substack.com,https://bullparade.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18949,S8151,bullparade.substack.com,https://bullparade.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:38Z,draft,unknown,none,candidate,review_required,true
 F1895,S030,Global Voices,https://globalvoices.org/-/special/runet-echo/feed/,news.general,news.general,en-US,,rss,rss,verified,2026-11-02T15:00:54Z,draft,unknown,none,candidate,review_required,true
 F18950,S8152,bus2bus.podigee.io,https://bus2bus.podigee.io/feed/mp3,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18951,S8153,businessengineer.ai,https://businessengineer.ai/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -10850,7 +10850,7 @@ F18952,S8154,businessjournalism.podomatic.com,https://businessjournalism.podomat
 F18953,S8155,businessof.technology,https://businessof.technology/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18954,S8156,buzzmachine.com,https://buzzmachine.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18955,S8157,BVL Podcast,https://bvldigitalpodcast.podigee.io/feed/mp3,general,general,de,,rss,rss,verified,2026-11-19T14:16:26Z,draft,unknown,none,candidate,review_required,true
-F18956,S8158,bytesizedbiz.substack.com,https://bytesizedbiz.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18956,S8158,bytesizedbiz.substack.com,https://bytesizedbiz.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:38Z,draft,unknown,none,candidate,review_required,true
 F18957,S8159,Byte-Sized History,https://bytesizedhistory.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-19T14:16:45Z,draft,unknown,none,candidate,review_required,true
 F18958,S8160,cachingnw.libsyn.com,https://cachingnw.libsyn.com/rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18959,S8161,cairnsnews.org,https://cairnsnews.org/feed/,general,general,en-AU,,rss,rss,verified,2026-11-19T13:31:10Z,draft,unknown,none,candidate,review_required,true
@@ -10869,7 +10869,7 @@ F1897,S030,Global Voices,https://globalvoices.org/-/topics/arts-culture/feed/,ne
 F18970,S8171,cdn.atp.fm,https://cdn.atp.fm/rss/public?wtvryzdm,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18971,S8172,cdn.julephosting.de,https://cdn.julephosting.de/podcasts/544-krewkast/feed.rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18972,S8173,cennydd.com,https://cennydd.com/writing?format=rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F18973,S8174,centerforhumanetechnology.substack.com,https://centerforhumanetechnology.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F18973,S8174,centerforhumanetechnology.substack.com,https://centerforhumanetechnology.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:39Z,draft,unknown,none,candidate,review_required,true
 F18974,S8175,Christopher Grant,https://cgrant.io/index.xml,general,general,en,,rss,rss,verified,2026-11-19T13:49:41Z,draft,unknown,none,candidate,review_required,true
 F18975,S8176,chadg.substack.com,https://chadg.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F18976,S8177,The Writings of Chad McElligott,https://chadxz.dev/feed.xml,general,general,,,atom,atom,verified,2026-11-19T14:16:01Z,draft,unknown,none,candidate,review_required,true
@@ -11820,8 +11820,8 @@ F19834,S8556,media.rss.com,https://media.rss.com/themortgagemanagerplaybook/feed
 F19835,S8557,media.zencast.fm,https://media.zencast.fm/arrow-podcast/rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F19836,S8558,mediaanddemocracyproject.substack.com,https://mediaanddemocracyproject.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F19837,S8559,mediajunglenews.substack.com,https://mediajunglenews.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F19838,S8560,medium.com,https://medium.com/feed/medium-eng,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F19839,S8560,medium.com,https://medium.com/feed/paypal-engineering,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F19838,S8560,medium.com,https://medium.com/feed/medium-eng,general,general,,,rss,rss,verified,2026-11-21T08:49:10Z,draft,unknown,none,candidate,review_required,true
+F19839,S8560,medium.com,https://medium.com/feed/paypal-engineering,general,general,,,rss,rss,verified,2026-11-21T08:49:11Z,draft,unknown,none,candidate,review_required,true
 F1984,S030,Global Voices,https://globalvoices.org/-/world/sub-saharan-africa/zimbabwe/feed/,news.general,news.general,en-US,,rss,rss,verified,2026-11-02T15:15:57Z,draft,unknown,none,candidate,review_required,true
 F19840,S8561,meetingdelleidee.wordpress.com,https://meetingdelleidee.wordpress.com/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F19841,S8562,metablogue.com,https://metablogue.com/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -13968,7 +13968,7 @@ F21787,S10173,www.xenonique.co.uk,https://www.xenonique.co.uk/blog/feed/,general
 F21788,S10174,www.ximalaya.com,http://www.ximalaya.com/album/34869197.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F21789,S10175,www.xymag.tv,http://www.xymag.tv/feed/podcast/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F2179,S866,podcast.npo.nl,https://podcast.npo.nl/feed/daders.xml,general,general,nl-NL,,rss,rss,verified,2026-11-02T12:41:39Z,draft,unknown,none,candidate,review_required,true
-F21790,S10176,www.youtube.com,https://www.youtube.com/feeds/videos.xml?playlist_id=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F21790,S10176,www.youtube.com,https://www.youtube.com/feeds/videos.xml?playlist_id=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p,general,general,,,rss,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
 F21791,S10177,www.zdnet.com,https://www.zdnet.com/news/rss.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F21792,S10178,Aesthetic Enquiry,https://www.zogue.com/blog/feed,general,general,en-GB,,rss,rss,verified,2026-11-19T13:59:34Z,draft,unknown,none,candidate,review_required,true
 F21793,S10179,www.zylstra.org,https://www.zylstra.org/blog/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -19477,7 +19477,17 @@ F26795,S13325,MIT Events Calendar,https://calendar.mit.edu/calendar.xml,society.
 F26796,S13326,University of British Columbia Events,https://events.ubc.ca/events/feed/,society.events,society.events,en-US,CA,rss,rss,verified,2026-11-21T00:26:31Z,draft,public,none,candidate,review_required,true
 F26797,S13327,National Library of Australia,https://www.library.gov.au/rss.xml,society.events,society.events,en,AU,rss,rss,verified,2026-11-21T00:26:32Z,draft,public,none,candidate,review_required,true
 F26798,S13328,Museums Wellington,https://www.museumswellington.org.nz/feed/,society.events,society.events,en-NZ,NZ,rss,rss,verified,2026-11-21T00:26:32Z,draft,public,none,candidate,review_required,true
+F26799,S13329,Adult Business Consulting,https://adultbusinessconsulting.com/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T00:53:00Z,draft,public,none,candidate,review_required,false
 F2680,S157,Deutsche Welle,https://rss.dw.com/xml/podcast_zeitreise-schriftsteller,news.general,news.general,,,rss,,needs_review,2026-11-02T16:00:11Z,draft,unknown,unknown,candidate,review_required,false
+F26800,S13330,CASZIN,https://caszin.com/en/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T00:52:58Z,draft,public,none,candidate,review_required,false
+F26801,S13330,CASZIN,https://caszin.com/feed/,business,business,de,,rss,rss,verified,2026-11-21T00:53:12Z,draft,public,none,candidate,review_required,false
+F26802,S13331,CREATORMAGAZIN,https://www.creatormagazin.de/feed/,business,business,de,,rss,rss,verified,2026-11-21T00:53:15Z,draft,public,none,candidate,review_required,false
+F26803,S13332,Cute & Dangerous XXX,https://cuteanddangerousxxx.de/feed/,society.events,society.events,de,,rss,rss,verified,2026-11-21T00:53:13Z,draft,public,none,candidate,review_required,false
+F26804,S13333,EROMAG,https://www.eromag.net/rss.xml,society.events,society.events,de-DE,,rss,rss,verified,2026-11-21T00:53:14Z,draft,public,none,candidate,review_required,false
+F26805,S13334,Eros Association,https://eros.org.au/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T00:53:02Z,draft,public,none,candidate,review_required,false
+F26806,S13335,Erotique Magazine,https://erotiquemagazine.com/feed/,society.events,society.events,en,,rss,rss,verified,2026-11-21T00:53:01Z,draft,public,none,candidate,review_required,false
+F26807,S13336,Girl on the Net,https://www.girlonthenet.com/feed/,society.events,society.events,en-US,,rss,rss,verified,2026-11-21T00:53:02Z,draft,public,none,candidate,review_required,false
+F26808,S13337,Sex Work CEO,https://www.sexworkceo.com/blog-feed.xml,business,business,,,rss,rss,verified,2026-11-21T00:53:15Z,draft,public,none,candidate,review_required,false
 F26809,S13338,Museo Franz Mayer,https://franzmayer.org.mx/actividades/feed/,society.events,society.events,es,MX,rss,rss,verified,2026-11-21T00:57:36Z,draft,public,none,candidate,review_required,true
 F2681,S157,Deutsche Welle,https://rss.dw.com/xml/podcast_zeitreise_deutsche-einheit,news.general,news.general,,,rss,,needs_review,2026-11-02T16:00:12Z,draft,unknown,unknown,candidate,review_required,false
 F26810,S13339,Centro Cultural Universitario Tlatelolco,https://tlatelolco.unam.mx/events/feed/,society.events,society.events,es,MX,rss,rss,verified,2026-11-21T00:57:36Z,draft,public,none,candidate,review_required,true
@@ -19499,7 +19509,19 @@ F26824,S13353,Cultural Center of the Philippines,https://culturalcenter.gov.ph/e
 F26825,S13354,National Museum of the Philippines,https://www.nationalmuseum.gov.ph/feed/,society.events,society.events,en-US,PH,rss,rss,verified,2026-11-21T00:57:42Z,draft,public,none,candidate,review_required,true
 F26826,S13355,Thistle Hall Community Venue,https://www.thistlehall.org.nz/rss.xml,society.events,society.events,en,NZ,rss,rss,verified,2026-11-21T00:57:41Z,draft,public,none,candidate,review_required,true
 F26827,S13356,City Gallery Wellington,https://citygallery.org.nz/feed/,society.events,society.events,en-US,NZ,rss,rss,verified,2026-11-21T00:57:41Z,draft,public,none,candidate,review_required,true
+F26828,S13357,AINews,https://ainews.xxx/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T01:16:48Z,draft,public,none,candidate,review_required,false
+F26829,S1434,Adult FYI,https://adultfyi.com/entity/adult-time/feed.xml,business,business,en-US,,rss,rss,verified,2026-11-21T01:16:50Z,draft,public,none,candidate,review_required,false
 F2683,S157,Deutsche Welle,https://rss.dw.com/xml/podcast_zeitreise_nobelpreistraeger,news.general,news.general,,,rss,,needs_review,2026-11-02T16:00:14Z,draft,unknown,unknown,candidate,review_required,false
+F26830,S13358,AdultVisor,https://adultvisor.com/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T01:16:48Z,draft,public,none,candidate,review_required,false
+F26831,S13359,Mike South,https://mikesouth.com/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T01:16:48Z,draft,public,none,candidate,review_required,false
+F26832,S13360,Oh Joy Sex Toy,https://www.ohjoysextoy.com/feed/,society.events,society.events,en-US,,rss,rss,verified,2026-11-21T01:17:20Z,draft,public,none,candidate,review_required,false
+F26833,S13361,PiepTalk,https://pieptalk.podigee.io/feed/mp3,society.events,society.events,de,,rss,rss,verified,2026-11-21T01:17:24Z,draft,public,none,candidate,review_required,false
+F26834,S13362,Romantrique,https://feeds.acast.com/public/shows/romantrique,society.events,society.events,fr,,rss,rss,verified,2026-11-21T01:17:38Z,draft,public,none,candidate,review_required,false
+F26835,S13363,Savage Lovecast,https://savage.love/./lovecast/feed/,society.events,society.events,en-US,,rss,rss,verified,2026-11-21T01:17:22Z,draft,public,none,candidate,review_required,false
+F26836,S13364,Sex Party with Dustin Rybka,https://feeds.buzzsprout.com/1926560.rss,society.events,society.events,en-US,,rss,rss,verified,2026-11-21T01:17:22Z,draft,public,none,candidate,review_required,false
+F26837,S13365,Sex in Berlin,https://feeds.acast.com/public/shows/sex-in-berlin,society.events,society.events,de,,rss,rss,verified,2026-11-21T01:17:41Z,draft,public,none,candidate,review_required,false
+F26838,S13366,Sextras,https://feeds.acast.com/public/shows/sextras,society.events,society.events,en,,rss,rss,verified,2026-11-21T01:17:22Z,draft,public,none,candidate,review_required,false
+F26839,S13367,The Porn News,https://thepornnews.com/rss.xml,business,business,,,rss,rss,verified,2026-11-21T01:16:47Z,draft,public,none,candidate,review_required,false
 F2684,S157,Deutsche Welle,https://rss.dw.com/xml/rss-de-all,news.general,news.general,de,,rss,rss,verified,2026-11-02T13:47:32Z,draft,unknown,none,candidate,review_required,true
 F26840,S13368,Goethe-Institut Nairobi Events,https://www.goethe.de/ins/ke/en/rss/ver.rss,society.events,society.events,en,KE,rss,rss,verified,2026-11-21T01:16:48Z,draft,public,none,candidate,review_required,true
 F26841,S13369,Goethe-Institut Accra Events,https://www.goethe.de/ins/gh/en/rss/ver.rss,society.events,society.events,en,GH,rss,rss,verified,2026-11-21T01:16:51Z,draft,public,none,candidate,review_required,true
@@ -19525,8 +19547,27 @@ F26859,S13387,Fundación Museos de la Ciudad Quito,https://fundacionmuseosquito.
 F2686,S157,Deutsche Welle,https://rss.dw.com/xml/rss-de-cul-buch,news.general,news.general,de,,rss,rss,verified,2026-11-02T13:47:34Z,draft,unknown,none,candidate,review_required,true
 F26860,S13388,Goethe-Institut Colombia Events,https://www.goethe.de/ins/co/es/rss/ver.rss,society.events,society.events,es,CO,rss,rss,verified,2026-11-21T01:18:06Z,draft,public,none,candidate,review_required,true
 F26861,S13389,University of Melbourne Events,https://events.unimelb.edu.au/live/rss/events,society.events,society.events,,AU,rss,rss,verified,2026-11-21T01:19:03Z,draft,public,none,candidate,review_required,true
+F26862,S1434,Adult FYI,https://adultfyi.com/entity/chaturbate/feed.xml,business,business,en-US,,rss,rss,verified,2026-11-21T01:32:18Z,draft,public,none,candidate,review_required,false
+F26863,S1434,Adult FYI,https://adultfyi.com/entity/fansly/feed.xml,business,business,en-US,,rss,rss,verified,2026-11-21T01:32:20Z,draft,public,none,candidate,review_required,false
+F26864,S1434,Adult FYI,https://adultfyi.com/entity/manyvids/feed.xml,business,business,en-US,,rss,rss,verified,2026-11-21T01:32:15Z,draft,public,none,candidate,review_required,false
+F26865,S13390,AudioFun With Ash,https://feeds.acast.com/public/shows/audiofun-with-ash-erotic-stories-erotic-creators-erotic-chat,society.events,society.events,en,,rss,rss,verified,2026-11-21T01:31:31Z,draft,public,none,candidate,review_required,false
+F26866,S13391,Besser als Sex,https://besser-als-sex.podigee.io/feed/mp3,society.events,society.events,de,,rss,rss,verified,2026-11-21T01:31:37Z,draft,public,none,candidate,review_required,false
+F26867,S13392,Best Kept Secret,https://feeds.acast.com/public/shows/best-kept-secret,society.events,society.events,en,,rss,rss,verified,2026-11-21T01:31:29Z,draft,public,none,candidate,review_required,false
+F26868,S13393,EasyToys Erotic Stories,https://feeds.buzzsprout.com/1477702.rss,society.events,society.events,nl,,rss,rss,verified,2026-11-21T01:31:29Z,draft,public,none,candidate,review_required,false
+F26869,S13394,Eronite Podcast,https://eronite.podigee.io/feed/mp3,business,business,de,,rss,rss,verified,2026-11-21T01:31:26Z,draft,public,none,candidate,review_required,false
 F2687,S157,Deutsche Welle,https://rss.dw.com/xml/rss-de-cul-film,news.general,news.general,de,,rss,rss,verified,2026-11-02T13:47:35Z,draft,unknown,none,candidate,review_required,true
+F26870,S13395,HotCast,https://www.spreaker.com/show/3085026/episodes/feed,society.events,society.events,pt,,rss,rss,verified,2026-11-21T01:32:12Z,draft,public,none,candidate,review_required,false
+F26871,S13396,LELO Volonté,https://www.lelo.com/blog/feed/,business.commerce,business.commerce,en-US,,rss,rss,verified,2026-11-21T01:31:36Z,draft,public,none,candidate,review_required,false
+F26872,S13397,Micro Relatos Eroticos,https://www.spreaker.com/show/6184616/episodes/feed,society.events,society.events,es,,rss,rss,verified,2026-11-21T01:32:15Z,draft,public,none,candidate,review_required,false
+F26873,S13398,Muse On The Mic,https://feeds.acast.com/public/shows/muse-on-the-mic,business,business,en,,rss,rss,verified,2026-11-21T01:31:34Z,draft,public,none,candidate,review_required,false
+F26874,S13399,N’importe cul,https://feeds.acast.com/public/shows/nimportecul,society.events,society.events,fr,,rss,rss,verified,2026-11-21T01:31:41Z,draft,public,none,candidate,review_required,false
+F26875,S13400,Sex Confessions,https://feeds.acast.com/public/shows/the-sex-that-changed-my-life,society.events,society.events,en,,rss,rss,verified,2026-11-21T01:31:30Z,draft,public,none,candidate,review_required,false
+F26876,S13337,Sex Work CEO,https://sexworkceo.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T01:32:18Z,draft,public,none,candidate,review_required,false
+F26877,S13401,The Foot Sesh,https://feeds.acast.com/public/shows/the-foot-sesh,society.events,society.events,en,,rss,rss,verified,2026-11-21T01:31:33Z,draft,public,none,candidate,review_required,false
+F26878,S13402,Turned On With Sue And John,https://feeds.acast.com/public/shows/turned-on-with-sue-and-john,society.events,society.events,en,,rss,rss,verified,2026-11-21T01:31:38Z,draft,public,none,candidate,review_required,false
+F26879,S13403,Xposed with Amanda Goff,https://feeds.acast.com/public/shows/xposed-with-samantha-x,business,business,en,,rss,rss,verified,2026-11-21T01:31:27Z,draft,public,none,candidate,review_required,false
 F2688,S157,Deutsche Welle,https://rss.dw.com/xml/rss-de-cul-musik,news.general,news.general,de,,rss,rss,verified,2026-11-02T13:47:36Z,draft,unknown,none,candidate,review_required,true
+F26880,S13404,zhasni,https://feeds.buzzsprout.com/691053.rss,society.events,society.events,cs,,rss,rss,verified,2026-11-21T01:32:16Z,draft,public,none,candidate,review_required,false
 F26881,S13405,University of Waterloo Events,https://uwaterloo.ca/events/events/events.xml,society.events,society.events,en,CA,rss,rss,verified,2026-11-21T01:31:06Z,draft,public,none,candidate,review_required,true
 F26882,S13406,Waterloo Public Library Events,https://calendar.wpl.ca/feeds?data=eyJmZWVkVHlwZSI6InJzcyIsImZpbHRlcnMiOnsibG9jYXRpb24iOlsiYWxsIl0sImFnZXMiOlsiYWxsIl0sInR5cGVzIjpbImFsbCJdLCJ0YWdzIjpbXSwidGVybSI6IiIsImRheXMiOjF9fQ==,society.events,society.events,en-US,CA,rss,rss,verified,2026-11-21T01:31:09Z,draft,public,none,candidate,review_required,true
 F26883,S13407,Pinacoteca de São Paulo,https://pinacoteca.org.br/feed/,society.events,society.events,pt-BR,BR,rss,rss,verified,2026-11-21T01:31:11Z,draft,public,none,candidate,review_required,true
@@ -19543,8 +19584,25 @@ F26892,S13416,Iziko Museums of South Africa Events,https://www.iziko.org.za/even
 F26893,S13417,Objectifs Centre for Photography and Film,https://www.objectifs.com.sg/feed/,society.events,society.events,en-US,SG,rss,rss,verified,2026-11-21T01:32:44Z,draft,public,none,candidate,review_required,true
 F26894,S13418,Barbershop Harmony Australia Events,https://www.barbershop.org.au/dbaction.php?action=rss&dbase=events,society.events,society.events,en-GB,AU,rss,rss,verified,2026-11-21T01:32:17Z,draft,public,none,candidate,review_required,true
 F26895,S13419,Emory University Events,https://www.trumba.com/calendars/emory-events.rss,society.events,society.events,en-US,US,rss,rss,verified,2026-11-21T01:37:23Z,draft,public,none,candidate,review_required,true
+F26896,S13420,Adult SEO,https://adultindustryseo.com/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T03:10:35Z,draft,public,none,candidate,review_required,false
+F26897,S13421,Behind the Squirt,https://officialerinkittens.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T03:10:39Z,draft,public,none,candidate,review_required,false
+F26898,S13422,Dr. Scarlett’s Substack,https://drscarlettjay.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T03:10:41Z,draft,public,none,candidate,review_required,false
+F26899,S13423,ED Magazine,https://exoticdancer.com/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T03:10:32Z,draft,public,none,candidate,review_required,false
 F2690,S157,Deutsche Welle,https://rss.dw.com/xml/rss-de-eco,news.general,news.general,de,,rss,rss,verified,2026-11-02T13:47:38Z,draft,unknown,none,candidate,review_required,true
+F26900,S13424,Kinkypodden,https://feeds.acast.com/public/shows/kinkypodden,society.events,society.events,sv,,rss,rss,verified,2026-11-21T03:10:36Z,draft,public,none,candidate,review_required,false
+F26901,S13425,LAID BARE by Arielle Domb,https://laidbare.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T03:10:37Z,draft,public,none,candidate,review_required,false
+F26902,S13426,Laetitia et Lucile présentent le sexe,https://feeds.acast.com/public/shows/laetitia-et-lucile-presentent-le-sexe,society.events,society.events,fr,,rss,rss,verified,2026-11-21T03:10:31Z,draft,public,none,candidate,review_required,false
+F26903,S13427,Milfology,https://milfology.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T03:10:42Z,draft,public,none,candidate,review_required,false
+F26904,S13428,PULP,https://pulpzine.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T03:10:38Z,draft,public,none,candidate,review_required,false
+F26905,S13429,Please Don’t Write About This,https://gingerzephyr.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T03:10:41Z,draft,public,none,candidate,review_required,false
+F26906,S13430,Pulse Magazine,https://pulsemagazine.ca/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T03:10:35Z,draft,public,none,candidate,review_required,false
+F26907,S13431,Seska Unfiltered,https://seska.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T03:10:35Z,draft,public,none,candidate,review_required,false
+F26908,S13432,Sex Work Policy Newsletter,https://taraburns.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T03:10:40Z,draft,public,none,candidate,review_required,false
+F26909,S13433,"Sincerely, Stella Saxe",https://stellasaxe.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T03:10:42Z,draft,public,none,candidate,review_required,false
 F2691,S157,Deutsche Welle,https://rss.dw.com/xml/rss-de-news,news.general,news.general,de,,rss,rss,verified,2026-11-02T13:47:40Z,draft,unknown,none,candidate,review_required,true
+F26910,S13434,Stripper News,https://strippernews.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T03:10:40Z,draft,public,none,candidate,review_required,false
+F26911,S13435,The Oldest Profession,https://oldprosonline.org/feed/,society.events,society.events,en-US,,rss,rss,verified,2026-11-21T03:10:35Z,draft,public,none,candidate,review_required,false
+F26912,S13436,The Spicy Pod,https://feeds.acast.com/public/shows/the-spicy-pod,society.events,society.events,en,,rss,rss,verified,2026-11-21T03:10:33Z,draft,public,none,candidate,review_required,false
 F26913,S13437,Nordic House Reykjavík Events,https://nordichouse.is/en/feed/,society.events,society.events,en-US,IS,rss,rss,verified,2026-11-21T03:11:05Z,draft,public,none,candidate,review_required,true
 F26914,S13438,Montréal Goethe-Institut Events,https://www.goethe.de/ins/ca/en/rss/mon/ver.rss,society.events,society.events,en-US,CA,rss,rss,verified,2026-11-21T03:09:35Z,draft,public,none,candidate,review_required,true
 F26915,S13439,Goethe-Institut Mexico Events,https://www.goethe.de/ins/mx/es/rss/ver.rss,society.events,society.events,es-CL,MX,rss,rss,verified,2026-11-21T03:09:34Z,draft,public,none,candidate,review_required,true
@@ -19573,8 +19631,26 @@ F26935,S13459,Goethe-Institut Madrid Events,https://www.goethe.de/ins/es/es/rss/
 F26936,S13460,Goethe-Institut Netherlands Events,https://www.goethe.de/ins/nl/nl/rss/ver.rss,society.events,society.events,nl,NL,rss,rss,verified,2026-11-21T03:09:02Z,draft,public,none,candidate,review_required,true
 F26937,S13461,University of St Andrews Events,https://events.st-andrews.ac.uk/events/feed/,society.events,society.events,en-GB,GB,rss,rss,verified,2026-11-21T03:09:37Z,draft,public,none,candidate,review_required,true
 F26938,S13462,Tallinn Kultuurikatel,https://kultuurikatel.ee/feed/,society.events,society.events,et-EE,EE,rss,rss,verified,2026-11-21T03:11:02Z,draft,public,none,candidate,review_required,true
+F26939,S13463,Can I Be Blunt?,https://feeds.acast.com/public/shows/can-i-be-blunt,society.events,society.events,en,,rss,rss,verified,2026-11-21T07:54:34Z,draft,public,none,candidate,review_required,false
 F2694,S157,Deutsche Welle,https://rss.dw.com/xml/rss-de-wissenschaft,news.general,news.general,de,,rss,rss,verified,2026-11-02T13:47:43Z,draft,unknown,none,candidate,review_required,true
+F26940,S13464,DOMMED,https://feed.podbean.com/dommedpodcast/feed.xml,society.events,society.events,en,,rss,rss,verified,2026-11-21T07:53:08Z,draft,public,none,candidate,review_required,false
+F26941,S13465,FILTHY MILFS,https://feeds.acast.com/public/shows/filthy-milfs,society.events,society.events,en,,rss,rss,verified,2026-11-21T07:54:40Z,draft,public,none,candidate,review_required,false
+F26942,S13466,FREAK’N SEE,https://feed.podbean.com/freaknseepodcast/feed.xml,society.events,society.events,en,,rss,rss,verified,2026-11-21T07:53:10Z,draft,public,none,candidate,review_required,false
+F26943,S13467,Hacking//Hustling,https://hackinghustling.org/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T07:53:20Z,draft,public,none,candidate,review_required,false
+F26944,S13468,Harlot Hotline with June Jones,https://feeds.acast.com/public/shows/harlot-hotline,business,business,en,,rss,rss,verified,2026-11-21T07:54:36Z,draft,public,none,candidate,review_required,false
+F26945,S13469,Kink Kloset,https://feeds.buzzsprout.com/731816.rss,society.events,society.events,en-US,,rss,rss,verified,2026-11-21T07:54:44Z,draft,public,none,candidate,review_required,false
+F26946,S13470,Masocast,https://www.masocast.com/feed/podcast/,society.events,society.events,en-US,,rss,rss,verified,2026-11-21T07:53:14Z,draft,public,none,candidate,review_required,false
+F26947,S13471,Of Sex and Soul,https://ofsexandsoul.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T07:54:44Z,draft,public,none,candidate,review_required,false
+F26948,S13472,Pink Kink Podcast,https://pinkkinkpodcast.com/feed/,society.events,society.events,en-US,,rss,rss,verified,2026-11-21T07:53:13Z,draft,public,none,candidate,review_required,false
+F26949,S13473,Pussy Empowered,https://pussyempowered.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T07:54:44Z,draft,public,none,candidate,review_required,false
 F2695,S157,Deutsche Welle,https://rss.dw.com/xmlhd/podcast_auf_ein_wort,news.general,news.general,de,,rss,rss,verified,2026-11-02T13:47:44Z,draft,unknown,none,candidate,review_required,true
+F26950,S13474,The Not Safe for Work Podcast,https://feeds.acast.com/public/shows/not-safe-for-work,society.events,society.events,en,,rss,rss,verified,2026-11-21T07:54:38Z,draft,public,none,candidate,review_required,false
+F26951,S13475,The Red Light Review,https://feeds.acast.com/public/shows/6a00525ddcea0196adb8f317,business,business,en,,rss,rss,verified,2026-11-21T07:53:07Z,draft,public,none,candidate,review_required,false
+F26952,S13476,The Sanctuary of Sin Podcast,https://thesanctuaryofsin.com/blogs/the-sanctuary-of-sin-podcast.atom,society.events,society.events,en,,atom,atom,verified,2026-11-21T07:53:17Z,draft,public,none,candidate,review_required,false
+F26953,S13477,Unmasking Kink,https://feed.podbean.com/UnmaskingKink/feed.xml,society.events,society.events,en,,rss,rss,verified,2026-11-21T07:54:44Z,draft,public,none,candidate,review_required,false
+F26954,S13478,Vanilla with a Side of Kink,https://feeds.buzzsprout.com/2103982.rss,society.events,society.events,en-US,,rss,rss,verified,2026-11-21T07:53:21Z,draft,public,none,candidate,review_required,false
+F26955,S13479,Wet Ink Magazine,https://wetinkmag.com/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T07:53:09Z,draft,public,none,candidate,review_required,false
+F26956,S13480,Why Are People Into That?!,https://feeds.acast.com/public/shows/yapit,society.events,society.events,en,,rss,rss,verified,2026-11-21T07:53:12Z,draft,public,none,candidate,review_required,false
 F26957,S13481,Brisbane City Council Library Events,https://www.trumba.com/calendars/libraries.rss?weeks=1&previousweeks=0,society.events,society.events,en-US,AU,rss,rss,verified,2026-11-21T07:58:09Z,draft,public,none,candidate,review_required,true
 F26958,S13482,Redland City Council Events,https://www.trumba.com/calendars/redland-city-council.rss?weeks=1&previousweeks=0,society.events,society.events,en-US,AU,rss,rss,verified,2026-11-21T07:58:11Z,draft,public,none,candidate,review_required,true
 F26959,S13483,Australian Disability Clearinghouse on Education and Training Events,https://www.adcet.edu.au/rss/events,society.events,society.events,en,AU,rss,rss,verified,2026-11-21T07:56:37Z,draft,public,none,candidate,review_required,true
@@ -19598,8 +19674,28 @@ F26974,S13498,Duke University Events,https://calendar.duke.edu/events.rss,societ
 F26975,S13499,École normale supérieure Announcements,https://www.ens.psl.eu/rss.xml,society.events,society.events,fr,FR,rss,rss,verified,2026-11-21T07:56:11Z,draft,public,none,candidate,review_required,true
 F26976,S13500,Grün Stadt Zürich Events,https://www.stadt-zuerich.ch/content/web/de/aktuell/veranstaltungen/umwelt-und-energie/gruenagenda/jcr:content/mainparsys/teaser.rss,society.events,society.events,de,CH,rss,rss,verified,2026-11-21T07:57:02Z,draft,public,none,candidate,review_required,true
 F26977,S13501,AECID Cultural Agenda,https://www.aecid.es/es/canales-rss/canal-rss-aecid-agenda/-/asset_publisher/BwrnvTEd2qFM/rss,society.events,society.events,,ES,rss,rss,verified,2026-11-21T07:56:34Z,draft,public,none,hold,review_required,false
+F26978,S13502,A Podcast of Smut and Dragons,https://feeds.acast.com/public/shows/aposad,society.events,society.events,en,,rss,rss,verified,2026-11-21T08:03:05Z,draft,public,none,candidate,review_required,false
+F26979,S13503,AURAINTIMA,https://auraintima.substack.com/feed,society.events,society.events,it,,rss,rss,verified,2026-11-21T08:02:02Z,draft,public,none,candidate,review_required,false
 F2698,S900,Don't Hold Back: say it loud!,https://rss.iono.fm/rss/chan/7367,general,general,en,,rss,rss,verified,2026-11-02T00:04:38.000Z,draft,unknown,none,candidate,review_required,true
+F26980,S13504,Conversations With a Dom,https://feeds.buzzsprout.com/1872778.rss,society.events,society.events,en-GB,,rss,rss,verified,2026-11-21T08:02:02Z,draft,public,none,candidate,review_required,false
+F26981,S13505,Deep Thots,https://feed.podbean.com/deepthotspodcastbookings/feed.xml,business,business,en,,rss,rss,verified,2026-11-21T08:01:40Z,draft,public,none,candidate,review_required,false
+F26982,S13506,F. Rey Noel,https://freynoel.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T08:02:02Z,draft,public,none,candidate,review_required,false
+F26983,S13507,Full Cow: Edge Talks Leather and Kink,https://feeds.buzzsprout.com/1956840.rss,society.events,society.events,en-US,,rss,rss,verified,2026-11-21T08:02:05Z,draft,public,none,candidate,review_required,false
+F26984,S13508,Hot Girl Grimoires,https://brinnadesara.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T08:03:03Z,draft,public,none,candidate,review_required,false
+F26985,S13509,Let’s Talk About Sex Work,https://feed.podbean.com/letstalkaboutsexwork/feed.xml,business,business,de,,rss,rss,verified,2026-11-21T08:01:47Z,draft,public,none,candidate,review_required,false
+F26986,S13510,Lipteaze,https://lipteaze.podigee.io/feed/mp3,society.events,society.events,de,,rss,rss,verified,2026-11-21T08:01:48Z,draft,public,none,candidate,review_required,false
+F26987,S13511,Machtfertig’s BDSM Podcast,https://machtfertig.podigee.io/feed/mp3,society.events,society.events,de,,rss,rss,verified,2026-11-21T08:01:49Z,draft,public,none,candidate,review_required,false
+F26988,S13512,Other Words for Whxre,https://feed.podbean.com/otherwordsforwhxre4/feed.xml,business,business,en,,rss,rss,verified,2026-11-21T08:01:49Z,draft,public,none,candidate,review_required,false
+F26989,S13513,Sexe Oral,https://feeds.acast.com/public/shows/sexe-oral,society.events,society.events,fr,,rss,rss,verified,2026-11-21T08:01:53Z,draft,public,none,candidate,review_required,false
 F2699,S901,Mongabay Newscast,https://rss.libsyn.com/shows/87224/destinations/424646.xml,general,general,,,rss,,needs_review,2026-11-02T00:04:38.000Z,draft,unknown,unknown,candidate,review_required,false
+F26990,S13514,So You Want To Try…,https://feeds.acast.com/public/shows/so-you-want-to-try,society.events,society.events,en,,rss,rss,verified,2026-11-21T08:03:03Z,draft,public,none,candidate,review_required,false
+F26991,S13515,T. Vale | Fiction for Adults,https://tvale.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T08:01:59Z,draft,public,none,candidate,review_required,false
+F26992,S13516,The Kinks We Never Talk About,https://feeds.buzzsprout.com/2658149.rss,society.events,society.events,en-US,,rss,rss,verified,2026-11-21T08:01:59Z,draft,public,none,candidate,review_required,false
+F26993,S13517,The Naughty Little Podcast,https://feed.podbean.com/thenaughtylittlepodcast/feed.xml,society.events,society.events,en,,rss,rss,verified,2026-11-21T08:02:02Z,draft,public,none,candidate,review_required,false
+F26994,S13518,The Professional Pervert,https://theprofessionalpervert.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T08:01:41Z,draft,public,none,candidate,review_required,false
+F26995,S13519,Whispher,https://whispher.podigee.io/feed/mp3,society.events,society.events,de,,rss,rss,verified,2026-11-21T08:01:51Z,draft,public,none,candidate,review_required,false
+F26996,S13520,YAS Podcast,https://feed.podbean.com/yaspodcast/feed.xml,business,business,en-US,,rss,rss,verified,2026-11-21T08:01:44Z,draft,public,none,candidate,review_required,false
+F26997,S13521,"YES, WE CUM!",https://yeswecum.podigee.io/feed/mp3,business,business,de,,rss,rss,verified,2026-11-21T08:01:51Z,draft,public,none,candidate,review_required,false
 F26998,S13522,University of Washington Libraries Events,https://www.trumba.com/calendars/sea_lib.rss,society.events,society.events,en-US,US,rss,rss,verified,2026-11-21T08:29:30Z,draft,public,none,candidate,review_required,true
 F26999,S13523,Brisbane City Council 50 Plus Centre Events,https://www.trumba.com/calendars/50-plus-centre.rss?weeks=1&previousweeks=0,society.events,society.events,en-US,AU,rss,rss,verified,2026-11-21T08:33:46Z,draft,public,none,candidate,review_required,true
 F2700,S902,NEWSru.com :: Главные новости,https://rss.newsru.com/top/big/,news.general,news.general,,,rss,,needs_review,2026-11-02T00:04:38.000Z,draft,unknown,unknown,candidate,review_required,false
@@ -19617,37 +19713,327 @@ F2701,S034,New York Times developer portal,https://rss.nytimes.com/services/xml/
 F27010,S13534,Les Champs Libres Events,https://openagenda.com/agendas/253926/events.v2.rss,society.events,society.events,fr,FR,rss,rss,verified,2026-11-21T08:32:18Z,draft,public,none,candidate,review_required,true
 F27011,S13535,Centre Léon Robin Events,https://www.centreleonrobin.fr/index.php?option=com_jevents&task=modlatest.rss&format=feed&type=rss&modid=93,society.events,society.events,fr-FR,FR,rss,rss,verified,2026-11-21T08:32:18Z,draft,public,none,candidate,review_required,true
 F27012,S13536,CCSD Training and Events,https://www.ccsd.cnrs.fr/type_evenement/formation/feed/,society.events,society.events,fr-FR,FR,rss,rss,verified,2026-11-21T08:32:19Z,draft,public,none,candidate,review_required,true
+F27013,S13537,Bothered Stories,https://botheredstories.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T08:33:02Z,draft,public,none,candidate,review_required,false
+F27014,S13538,Colette se Confesse,https://feeds.acast.com/public/shows/histoires-coquines,society.events,society.events,fr,,rss,rss,verified,2026-11-21T08:33:01Z,draft,public,none,candidate,review_required,false
+F27015,S13539,Cult of Max,https://cultofmax.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T08:32:52Z,draft,public,none,candidate,review_required,false
+F27016,S13540,Desire Without Apology,https://skylarreyes.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T08:33:03Z,draft,public,none,candidate,review_required,false
+F27017,S13541,Hard Feelings,https://ashleywhisp.substack.com/feed,society.events,society.events,en-GB,,rss,rss,verified,2026-11-21T08:33:01Z,draft,public,none,candidate,review_required,false
+F27018,S13542,Let Us Survive,https://feeds.acast.com/public/shows/let-us-survive-an-oral-history-of-sex-worker-movements-befor,business,business,en,,rss,rss,verified,2026-11-21T08:32:52Z,draft,public,none,candidate,review_required,false
+F27019,S13543,Lorelei Lee,https://llee13.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T08:33:44Z,draft,public,none,candidate,review_required,false
 F2702,S034,New York Times developer portal,https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml,news.general,environment|general|news.general|science.research|society|society.sports|technology,en-US,,rss,rss,verified,2026-11-02T00:41:38.000Z,draft,unknown,none,candidate,review_required,true
+F27020,S13544,MILF Life Crisis,https://milf-life-crisis.podigee.io/feed/mp3,society.events,society.events,de,,rss,rss,verified,2026-11-21T08:35:05Z,draft,public,none,candidate,review_required,false
+F27021,S13545,Not Safe For Who?,https://nsfw.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T08:33:43Z,draft,public,none,candidate,review_required,false
+F27022,S13546,RAW THIRST,https://magnuswolfe.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T08:33:44Z,draft,public,none,candidate,review_required,false
+F27023,S13547,Sex Æquo,https://feeds.acast.com/public/shows/sex-aequo,society.events,society.events,fr,,rss,rss,verified,2026-11-21T08:35:05Z,draft,public,none,candidate,review_required,false
+F27024,S13548,Shameshifters,https://shameshifters.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T08:33:44Z,draft,public,none,candidate,review_required,false
+F27025,S13549,Simone Francis,https://simonefrancis.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T08:33:03Z,draft,public,none,candidate,review_required,false
+F27026,S13550,Sultry Hotwife Confessions,https://sophielouise.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T08:33:45Z,draft,public,none,candidate,review_required,false
+F27027,S13551,Tel Sensuelle,https://feeds.acast.com/public/shows/tel-sensuelle,society.events,society.events,nl,,rss,rss,verified,2026-11-21T08:32:56Z,draft,public,none,candidate,review_required,false
+F27028,S13552,The Collective,https://eroticacollective.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T08:33:03Z,draft,public,none,candidate,review_required,false
+F27029,S13553,Baise Platine,https://feeds.acast.com/public/shows/baise-platine-le-podcast,society.events,society.events,fr,,rss,rss,verified,2026-11-21T08:45:05Z,draft,public,none,candidate,review_required,false
 F2703,S034,New York Times developer portal,https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml,news.general,environment|general|news.general|science.research|society|society.sports|technology,en-US,,rss,rss,verified,2026-11-02T12:16:54Z,draft,unknown,none,candidate,review_required,true
+F27030,S13554,COYOTE RI,https://coyoteri.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T08:43:40Z,draft,public,none,candidate,review_required,false
+F27031,S13555,G-Punktet,https://feeds.acast.com/public/shows/gpunktet,society.events,society.events,no,,rss,rss,verified,2026-11-21T08:43:34Z,draft,public,none,candidate,review_required,false
+F27032,S13556,I racconti di Lirio,https://lirioerotico.substack.com/feed,society.events,society.events,it,,rss,rss,verified,2026-11-21T08:43:29Z,draft,public,none,candidate,review_required,false
+F27033,S13557,I seng med Gitte og Cecilie,https://feeds.acast.com/public/shows/pornoprogrammet,society.events,society.events,da,,rss,rss,verified,2026-11-21T08:43:35Z,draft,public,none,candidate,review_required,false
+F27034,S13558,Intimate Economies,https://intimateeconomies.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T08:43:38Z,draft,public,none,candidate,review_required,false
+F27035,S13559,Jordi ENP,https://www.ondacero.es/rss/podcast/triton/mount/ATRESMEDIA_JORDI_ENP_AOD_P/origin/fastly,business,business,es-ES,,rss,rss,verified,2026-11-21T08:45:02Z,draft,public,none,candidate,review_required,false
+F27036,S13560,La biblioteca prohibida,https://valentinavinson.substack.com/feed,society.events,society.events,es,,rss,rss,verified,2026-11-21T08:43:28Z,draft,public,none,candidate,review_required,false
+F27037,S13561,Newsletter Lasciva,https://lascivalua.substack.com/feed,society.events,society.events,pt,,rss,rss,verified,2026-11-21T08:43:26Z,draft,public,none,candidate,review_required,false
+F27038,S13562,Newsletter de Barbara Vanzo,https://barbaravanzo.substack.com/feed,society.events,society.events,pt-BR,,rss,rss,verified,2026-11-21T08:43:27Z,draft,public,none,candidate,review_required,false
+F27039,S13563,PRN Media,https://prn-nauti.it/feed/,business,business,it-IT,,rss,rss,verified,2026-11-21T08:45:02Z,draft,public,none,candidate,review_required,false
 F2704,S034,New York Times developer portal,https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml,news.general,environment|general|news.general|science.research|society|society.sports|technology,en-US,,rss,rss,verified,2026-11-02T12:28:38Z,draft,unknown,none,candidate,review_required,true
+F27040,S13564,PRN Podcast,https://www.spreaker.com/show/4666342/episodes/feed,business,business,it,,rss,rss,verified,2026-11-21T08:45:02Z,draft,public,none,candidate,review_required,false
+F27041,S13565,Racconti Erotici,https://raccontierotici.substack.com/feed,society.events,society.events,it,,rss,rss,verified,2026-11-21T08:43:28Z,draft,public,none,candidate,review_required,false
+F27042,S13566,Sexo e a Cidade,https://sexoeacidade.substack.com/feed,society.events,society.events,pt,,rss,rss,verified,2026-11-21T08:43:27Z,draft,public,none,candidate,review_required,false
+F27043,S13567,The Sex/Work & Magic Digest,https://thepasteldomina.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T08:43:40Z,draft,public,none,candidate,review_required,false
+F27044,S13568,¿Cómo le ponemos?,https://feeds.acast.com/public/shows/como-le-ponemos,society.events,society.events,es,,rss,rss,verified,2026-11-21T08:43:30Z,draft,public,none,candidate,review_required,false
+F27045,S13569,A Slut of All Trades,https://itsalisonsparks.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T08:50:16Z,draft,public,none,candidate,review_required,false
+F27046,S13570,Dominant Myths,https://dominantmyths.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T08:49:29Z,draft,public,none,candidate,review_required,false
+F27047,S13571,Justine Jakobs,https://justinejakobs.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T08:50:16Z,draft,public,none,candidate,review_required,false
+F27048,S13572,Porn World,https://noelleperdue.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T08:50:16Z,draft,public,none,candidate,review_required,false
+F27049,S13573,RedTraSex,https://redtrasex.org/feed/,business,business,es,,rss,rss,verified,2026-11-21T08:49:31Z,draft,public,none,candidate,review_required,false
 F2705,S034,New York Times developer portal,https://rss.nytimes.com/services/xml/rss/nyt/Science.xml,news.general,environment|general|news.general|science.research|society|society.sports|technology,en-US,,rss,rss,verified,2026-11-02T12:28:41Z,draft,unknown,none,candidate,review_required,true
+F27050,S13574,Sindicato OTRAS,https://sindicatootras.com/feed/,business,business,es,,rss,rss,verified,2026-11-21T08:49:27Z,draft,public,none,candidate,review_required,false
+F27051,S13575,Thalia Vacha,https://thaliavacha.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T08:49:29Z,draft,public,none,candidate,review_required,false
+F27052,S13576,The Private Life,https://littlemissditzy.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T08:49:29Z,draft,public,none,candidate,review_required,false
+F27053,S13577,Undine’s Substack,https://worshipundine.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T08:50:17Z,draft,public,none,candidate,review_required,false
+F27054,S13578,Unzipped by Cybersocket,https://www.spreaker.com/show/5395113/episodes/feed,business,business,en,,rss,rss,verified,2026-11-21T08:49:31Z,draft,public,none,candidate,review_required,false
+F27055,S13579,404 Media on Bluesky,https://bsky.app/profile/did:plc:vcepp6trx4vpe5ourxso4tjl/rss,technology,technology,,,rss,rss,verified,2026-11-21T08:50:12Z,draft,public,none,candidate,review_required,true
+F27056,S13580,Al Jazeera on Bluesky,https://bsky.app/profile/did:plc:2lofqead276vtc5647ye7sl2/rss,news.general,news.general,,,rss,rss,verified,2026-11-21T08:50:03Z,draft,public,none,candidate,review_required,true
+F27057,S13581,Ars Technica on Bluesky,https://bsky.app/profile/did:plc:wld6fad6xsm4tz4kfkoikun2/rss,technology,technology,,,rss,rss,verified,2026-11-21T08:50:07Z,draft,public,none,candidate,review_required,true
+F27058,S13582,Associated Press on Bluesky,https://bsky.app/profile/did:plc:a67zdrt4nl2tv2qojpngogbq/rss,news.agencies,news.agencies,,,rss,rss,verified,2026-11-21T08:49:50Z,draft,public,none,candidate,review_required,true
+F27059,S13583,Bellingcat on Bluesky,https://bsky.app/profile/did:plc:sb54dpdfefflykmf5bcfvr7t/rss,news.general,news.general,,,rss,rss,verified,2026-11-21T08:50:17Z,draft,public,none,candidate,review_required,true
 F2706,S034,New York Times developer portal,https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml,news.general,environment|general|news.general|science.research|society|society.sports|technology,en-US,,rss,rss,verified,2026-11-02T12:28:39Z,draft,unknown,none,candidate,review_required,true
+F27060,S13584,CORRECTIV on Bluesky,https://bsky.app/profile/did:plc:v5mboqluilyug3mttyhllji6/rss,news.general,news.general,,,rss,rss,verified,2026-11-21T08:50:21Z,draft,public,none,candidate,review_required,true
+F27061,S13585,France 24 on Bluesky,https://bsky.app/profile/did:plc:wkreszch2k4mumsrlkeaflgn/rss,news.general,news.general,,,rss,rss,verified,2026-11-21T08:49:59Z,draft,public,none,candidate,review_required,true
+F27062,S13586,Meduza on Bluesky,https://bsky.app/profile/did:plc:kpkqu7odzhelr2idxytethe7/rss,news.general,news.general,,,rss,rss,verified,2026-11-21T08:50:24Z,draft,public,none,candidate,review_required,true
+F27063,S13587,NPR on Bluesky,https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/rss,news.general,news.general,,,rss,rss,verified,2026-11-21T08:49:54Z,draft,public,none,candidate,review_required,true
+F27064,S13588,Nature on Bluesky,https://bsky.app/profile/did:plc:vrsppvjc5fysqnm2zshiirey/rss,science,science,,,rss,rss,verified,2026-11-21T08:50:19Z,draft,public,none,candidate,review_required,true
+F27065,S13589,Neue Zürcher Zeitung on Bluesky,https://bsky.app/profile/did:plc:mx2psjx4bmhoa4fld24c6gla/rss,news.general,news.general,,,rss,rss,verified,2026-11-21T08:50:26Z,draft,public,none,candidate,review_required,true
+F27066,S13590,PBS News on Bluesky,https://bsky.app/profile/did:plc:dtwphuxvtvimwtra5yh4ujt4/rss,news.general,news.general,,,rss,rss,verified,2026-11-21T08:49:56Z,draft,public,none,candidate,review_required,true
+F27067,S13591,ProPublica on Bluesky,https://bsky.app/profile/did:plc:k4jt6heuiamymgi46yeuxtpt/rss,news.general,news.general,,,rss,rss,verified,2026-11-21T08:50:13Z,draft,public,none,candidate,review_required,true
+F27068,S13592,Rest of World on Bluesky,https://bsky.app/profile/did:plc:hbdc3q6k5lforao5vyuarvsp/rss,technology,technology,,,rss,rss,verified,2026-11-21T08:50:15Z,draft,public,none,candidate,review_required,true
+F27069,S13593,TechCrunch on Bluesky,https://bsky.app/profile/did:plc:vtpyqvwce4x6gpa5dcizqecy/rss,technology,technology,,,rss,rss,verified,2026-11-21T08:50:05Z,draft,public,none,candidate,review_required,true
 F2707,S034,New York Times developer portal,https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml,news.general,environment|general|news.general|science.research|society|society.sports|technology,en-US,,rss,rss,verified,2026-11-02T12:28:43Z,draft,unknown,none,candidate,review_required,true
+F27070,S13594,The Guardian on Bluesky,https://bsky.app/profile/did:plc:vovinwhtulbsx4mwfw26r5ni/rss,news.general,news.general,,,rss,rss,verified,2026-11-21T08:49:58Z,draft,public,none,candidate,review_required,true
+F27071,S13595,The Tyee on Bluesky,https://bsky.app/profile/did:plc:ormie3tjweyhnqckjlzowoxg/rss,news.general,news.general,,,rss,rss,verified,2026-11-21T08:50:23Z,draft,public,none,candidate,review_required,true
+F27072,S13596,The Washington Post on Bluesky,https://bsky.app/profile/did:plc:k5nskatzhyxersjilvtnz4lh/rss,news.general,news.general,,,rss,rss,verified,2026-11-21T08:50:01Z,draft,public,none,candidate,review_required,true
+F27073,S13597,WIRED on Bluesky,https://bsky.app/profile/did:plc:inz4fkbbp7ms3ixufw6xuvdi/rss,technology,technology,,,rss,rss,verified,2026-11-21T08:50:10Z,draft,public,none,candidate,review_required,true
+F27074,S13598,Godot Forum,https://forum.godotengine.org/latest.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:48Z,draft,public,none,candidate,review_required,true
+F27075,S13598,Godot Forum,https://forum.godotengine.org/posts.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:47Z,draft,public,none,candidate,review_required,true
+F27076,S13599,Haskell Discourse,https://discourse.haskell.org/latest.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:52Z,draft,public,none,candidate,review_required,true
+F27077,S13599,Haskell Discourse,https://discourse.haskell.org/posts.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:50Z,draft,public,none,candidate,review_required,true
+F27078,S13600,Hugging Face Forums,https://discuss.huggingface.co/hot.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:54Z,draft,public,none,candidate,review_required,true
+F27079,S13600,Hugging Face Forums,https://discuss.huggingface.co/posts.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:51Z,draft,public,none,candidate,review_required,true
 F2708,S034,New York Times developer portal,https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml,news.general,environment|general|news.general|science.research|society|society.sports|technology,en-US,,rss,rss,verified,2026-11-02T12:33:46Z,draft,unknown,none,candidate,review_required,true
+F27080,S13601,Hugo Forum,https://discourse.gohugo.io/latest.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:47Z,draft,public,none,candidate,review_required,true
+F27081,S13601,Hugo Forum,https://discourse.gohugo.io/posts.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:45Z,draft,public,none,candidate,review_required,true
+F27082,S13602,Linux Containers Forum,https://discuss.linuxcontainers.org/latest.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:46Z,draft,public,none,candidate,review_required,true
+F27083,S13602,Linux Containers Forum,https://discuss.linuxcontainers.org/posts.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:47Z,draft,public,none,candidate,review_required,true
+F27084,S13603,McNeel Forum,https://discourse.mcneel.com/latest.rss,technology,technology,en,,rss,rss,verified,2026-11-21T08:48:49Z,draft,public,none,candidate,review_required,true
+F27085,S13603,McNeel Forum,https://discourse.mcneel.com/posts.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:47Z,draft,public,none,candidate,review_required,true
+F27086,S13604,OpenCV Forum,https://forum.opencv.org/latest.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:51Z,draft,public,none,candidate,review_required,true
+F27087,S13604,OpenCV Forum,https://forum.opencv.org/posts.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:53Z,draft,public,none,candidate,review_required,true
+F27088,S13605,Pangeo Discourse,https://discourse.pangeo.io/latest.rss,science,science,,,rss,rss,verified,2026-11-21T08:48:52Z,draft,public,none,candidate,review_required,true
+F27089,S13605,Pangeo Discourse,https://discourse.pangeo.io/posts.rss,science,science,,,rss,rss,verified,2026-11-21T08:48:50Z,draft,public,none,candidate,review_required,true
 F2709,S034,New York Times developer portal,https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml,news.general,environment|general|news.general|science.research|society|society.sports|technology,en-US,,rss,rss,verified,2026-11-02T12:33:48Z,draft,unknown,none,candidate,review_required,true
+F27090,S3054,internals.rust-lang.org,https://internals.rust-lang.org/latest.rss,general,general,,,rss,rss,verified,2026-11-21T08:48:47Z,draft,unknown,none,candidate,review_required,true
+F27091,S3054,internals.rust-lang.org,https://internals.rust-lang.org/posts.rss,general,general,,,rss,rss,verified,2026-11-21T08:48:44Z,draft,unknown,none,candidate,review_required,true
+F27092,S13606,Rust Users Forum,https://users.rust-lang.org/latest.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:46Z,draft,public,none,candidate,review_required,true
+F27093,S13606,Rust Users Forum,https://users.rust-lang.org/posts.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:43Z,draft,public,none,candidate,review_required,true
+F27094,S13607,24 Morelos,https://www.24morelos.com/rss/,news.general,news.general,,MX,rss,rss,verified,2026-11-21T08:49:03Z,draft,public,none,candidate,review_required,true
+F27095,S13608,Aargauer Politik,https://www.aargauerpolitik.ch/rss/,news.general,news.general,,CH,rss,rss,verified,2026-11-21T08:49:34Z,draft,public,none,candidate,review_required,true
+F27096,S13609,Alwihda Info,https://www.alwihdainfo.com/rss/,news.general,news.general,,TD,rss,rss,verified,2026-11-21T08:48:53Z,draft,public,none,candidate,review_required,true
+F27097,S13610,Consejo Mexicano de Asuntos Internacionales,https://www.consejomexicano.org/rss/,news.general,news.general,,MX,rss,rss,verified,2026-11-21T08:49:31Z,draft,public,none,candidate,review_required,true
+F27098,S13611,DUNIA,https://thedunia.org/rss/,news.general,news.general,,,rss,rss,verified,2026-11-21T08:50:53Z,draft,public,none,candidate,review_required,true
+F27099,S13612,De Brugse Stem,https://www.debrugsestem.com/rss/,news.general,news.general,,BE,rss,rss,verified,2026-11-21T08:50:55Z,draft,public,none,candidate,review_required,true
 F2710,S034,New York Times developer portal,https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml,news.general,environment|general|news.general|science.research|society|society.sports|technology,en-US,,rss,rss,verified,2026-11-02T12:33:49Z,draft,unknown,none,candidate,review_required,true
+F27100,S13613,De Lommelse Gazet,https://www.delommelsegazet.be/rss/,news.general,news.general,,BE,rss,rss,verified,2026-11-21T08:50:54Z,draft,public,none,candidate,review_required,true
+F27101,S13614,De Nieuwe Ster Maastricht,https://www.denieuwestermaastricht.nl/rss/,news.general,news.general,,NL,rss,rss,verified,2026-11-21T08:50:54Z,draft,public,none,candidate,review_required,true
+F27102,S13615,Dublin Inquirer,https://www.dublininquirer.com/latest/rss/,news.general,news.general,,IE,rss,rss,verified,2026-11-21T08:48:39Z,draft,public,none,candidate,review_required,true
+F27103,S13616,El Frente,https://elfrente.com.co/rss/,news.general,news.general,,CO,rss,rss,verified,2026-11-21T08:49:33Z,draft,public,none,candidate,review_required,true
+F27104,S13617,El Tiempo Latino,https://eltiempolatino.com/rss/,news.general,news.general,,US,rss,rss,verified,2026-11-21T08:49:03Z,draft,public,none,candidate,review_required,true
+F27105,S13618,Eurozine,https://www.eurozine.com/rss/,news.general,news.general,en-GB,,rss,rss,verified,2026-11-21T08:49:42Z,draft,public,none,candidate,review_required,true
+F27106,S13619,Gazette Universitaire,https://www.gazetteuniv.com/rss.xml,news.general,news.general,,HT,rss,rss,verified,2026-11-21T08:48:54Z,draft,public,none,candidate,review_required,true
+F27107,S13620,Japan Fact-Check Center,https://www.factcheckcenter.jp/rss/,news.general,news.general,,JP,rss,rss,verified,2026-11-21T08:50:52Z,draft,public,none,candidate,review_required,true
+F27108,S13621,Korea Independent News Network,https://www.kinn.or.kr/rss/,news.general,news.general,,KR,rss,rss,verified,2026-11-21T08:50:54Z,draft,public,none,candidate,review_required,true
+F27109,S13622,La revue européenne des médias et du numérique,https://www.la-rem.eu/rss/,news.general,news.general,,,rss,rss,verified,2026-11-21T08:48:53Z,draft,public,none,candidate,review_required,true
 F2711,S034,New York Times developer portal,https://rss.nytimes.com/services/xml/rss/nyt/World.xml,news.general,environment|general|news.general|science.research|society|society.sports|technology,en-US,,rss,rss,verified,2026-11-02T12:33:50Z,draft,unknown,none,candidate,review_required,true
+F27110,S13623,L’Unica,https://www.lunica.email/rss/,news.general,news.general,,IT,rss,rss,verified,2026-11-21T08:50:55Z,draft,public,none,candidate,review_required,true
+F27111,S13624,ML_Bear Times,https://www.ml-bear-times.com/rss/,technology,technology,,JP,rss,rss,verified,2026-11-21T08:50:53Z,draft,public,none,candidate,review_required,true
+F27112,S13625,Matinal Jornalismo,https://www.matinal.org/rss/,news.general,news.general,,BR,rss,rss,verified,2026-11-21T08:49:32Z,draft,public,none,candidate,review_required,true
+F27113,S13626,Mikroökonomen,https://mikrooekonomen.de/rss/,business.economics,business.economics,de,DE,rss,rss,verified,2026-11-21T08:49:37Z,draft,public,none,candidate,review_required,true
+F27114,S13627,Momento do Porto,https://www.momentodoporto.pt/rss/,news.general,news.general,,PT,rss,rss,verified,2026-11-21T08:49:03Z,draft,public,none,candidate,review_required,true
+F27115,S13628,Morning Tech,https://www.morningtech.it/latest/rss/,technology,technology,,IT,rss,rss,verified,2026-11-21T08:50:55Z,draft,public,none,candidate,review_required,true
+F27116,S13629,Nieuws uit Castricum,https://www.nieuwsuitcastricum.nl/rss/,news.general,news.general,,NL,rss,rss,verified,2026-11-21T08:50:55Z,draft,public,none,candidate,review_required,true
+F27117,S13630,Núcleo Jornalismo,https://nucleo.jor.br/reportagem/rss/,news.general,news.general,,BR,rss,rss,verified,2026-11-21T08:49:05Z,draft,public,none,candidate,review_required,true
+F27118,S13630,Núcleo Jornalismo,https://www.nucleo.jor.br/rss/,news.general,news.general,,BR,rss,rss,verified,2026-11-21T08:51:13Z,draft,public,none,candidate,review_required,true
+F27119,S13631,Opinión 51,https://www.opinion51.com/rss/,news.general,news.general,,MX,rss,rss,verified,2026-11-21T08:49:03Z,draft,public,none,candidate,review_required,true
 F2712,S903,Playbook,https://rss.politico.com/playbook.xml,news.general,news.general,en-US,,rss,rss,verified,2026-11-02T00:04:39.000Z,draft,unknown,none,candidate,review_required,true
+F27120,S13632,Rembobine,https://www.rembobine.info/rss/,news.general,news.general,,FR,rss,rss,verified,2026-11-21T08:49:33Z,draft,public,none,candidate,review_required,true
+F27121,S13633,Sludge,https://readsludge.com/rss/,news.general,news.general,,US,rss,rss,verified,2026-11-21T08:48:52Z,draft,public,none,candidate,review_required,true
+F27122,S13634,Tangle,https://www.readtangle.com/rss/,news.general,news.general,,US,rss,rss,verified,2026-11-21T08:48:50Z,draft,public,none,candidate,review_required,true
+F27123,S13635,The Berkeley Scanner,https://www.berkeleyscanner.com/rss/,news.general,news.general,,US,rss,rss,verified,2026-11-21T08:48:43Z,draft,public,none,candidate,review_required,true
+F27124,S13636,The Edinburgh Minute,https://www.edinburghminute.com/rss/,news.general,news.general,,GB,rss,rss,verified,2026-11-21T08:48:41Z,draft,public,none,candidate,review_required,true
+F27125,S13637,The Raincross Gazette,https://www.raincrossgazette.com/rss/,news.general,news.general,,US,rss,rss,verified,2026-11-21T08:48:51Z,draft,public,none,candidate,review_required,true
+F27126,S7151,www.richmonder.org,https://www.richmonder.org/rss/,general,general,,,rss,rss,verified,2026-11-21T08:48:42Z,draft,unknown,none,candidate,review_required,true
+F27127,S13638,The Urbanist,https://www.theurbanist.org/rss/,news.general,news.general,,US,rss,rss,verified,2026-11-21T08:48:53Z,draft,public,none,candidate,review_required,true
+F27128,S13639,Untapped New York,https://www.untappedcities.com/latest/rss,news.general,news.general,,US,rss,rss,verified,2026-11-21T08:51:14Z,draft,public,none,candidate,review_required,true
+F27129,S13639,Untapped New York,https://www.untappedcities.com/video/rss/,news.general,news.general,,US,rss,rss,verified,2026-11-21T08:48:41Z,draft,public,none,candidate,review_required,true
 F2713,S320,rss.rtbf.be,https://rss.rtbf.be/article/rss/highlight_rtbf_info-belgique.xml,general,general,,,rss,,needs_review,2026-11-01T22:45:21.000Z,draft,unknown,unknown,candidate,review_required,false
+F27130,S13640,Zitamar News,https://www.zitamar.com/rss/,news.general,news.general,,MZ,rss,rss,verified,2026-11-21T08:48:39Z,draft,public,none,candidate,review_required,true
+F27131,S13641,Zürcher Presseverein,https://www.presseverein.ch/rss/,news.general,news.general,,CH,rss,rss,verified,2026-11-21T08:49:31Z,draft,public,none,candidate,review_required,true
+F27132,S13642,디프레임,https://thedeframe.com/rss/,technology,technology,,KR,rss,rss,verified,2026-11-21T08:50:53Z,draft,public,none,candidate,review_required,true
+F27133,S13643,BBC 5 Live on Mastodon,https://social.bbc/@BBC5Live.rss,news.general,news.general,,GB,rss,rss,verified,2026-11-21T08:49:02Z,draft,public,none,candidate,review_required,true
+F27134,S13644,BBC Radio 4 on Mastodon,https://social.bbc/@BBCRadio4.rss,news.general,news.general,,GB,rss,rss,verified,2026-11-21T08:49:01Z,draft,public,none,candidate,review_required,true
+F27135,S13645,BBC Research and Development on Mastodon,https://social.bbc/@BBCRD.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:59Z,draft,public,none,candidate,review_required,true
+F27136,S13646,Belastingdienst on Mastodon,https://social.overheid.nl/@belastingdienst.rss,government,government,,NL,rss,rss,verified,2026-11-21T08:48:56Z,draft,public,none,candidate,review_required,true
+F27137,S13647,Bundesamt für Sicherheit in der Informationstechnik on Mastodon,https://social.bund.de/@bsi.rss,technology.security,technology.security,,DE,rss,rss,verified,2026-11-21T08:48:50Z,draft,public,none,candidate,review_required,true
+F27138,S13648,Bundesbeauftragter für den Datenschutz und die Informationsfreiheit on Mastodon,https://social.bund.de/@bfdi.rss,government,government,,DE,rss,rss,verified,2026-11-21T08:48:52Z,draft,public,none,candidate,review_required,true
+F27139,S13649,Bundesregierung on Mastodon,https://social.bund.de/@Bundesregierung.rss,government,government,,DE,rss,rss,verified,2026-11-21T08:48:53Z,draft,public,none,candidate,review_required,true
 F2714,S320,rss.rtbf.be,https://rss.rtbf.be/article/rss/highlight_rtbf_info-monde.xml,general,general,,,rss,,needs_review,2026-11-02T00:41:11.000Z,draft,unknown,unknown,candidate,review_required,false
+F27140,S13650,Creative Commons on Mastodon,https://mastodon.social/@creativecommons.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:58Z,draft,public,none,candidate,review_required,true
+F27141,S13651,Debian Project on Mastodon,https://fosstodon.org/@debian.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:53Z,draft,public,none,candidate,review_required,true
+F27142,S13652,Deutscher Bundestag on Mastodon,https://social.bund.de/@bundestag.rss,government.legislation,government.legislation,,DE,rss,rss,verified,2026-11-21T08:48:48Z,draft,public,none,candidate,review_required,true
+F27143,S13653,Electronic Frontier Foundation on Mastodon,https://mastodon.social/@eff.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:57Z,draft,public,none,candidate,review_required,true
+F27144,S13654,European Commission on Mastodon,https://ec.social-network.europa.eu/@EUCommission.rss,government,government,,,rss,rss,verified,2026-11-21T08:48:55Z,draft,public,none,candidate,review_required,true
+F27145,S13655,Firefox Nightly on Mastodon,https://mastodon.social/@firefoxnightly.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:53Z,draft,public,none,candidate,review_required,true
+F27146,S13656,Firefox for Web Developers on Mastodon,https://mastodon.social/@firefoxwebdevs.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:54Z,draft,public,none,candidate,review_required,true
+F27147,S13657,GNOME on Mastodon,https://floss.social/@gnome.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:54Z,draft,public,none,candidate,review_required,true
+F27148,S13658,Heute im Bundestag on Mastodon,https://social.bund.de/@hib_Nachrichten.rss,government.legislation,government.legislation,,DE,rss,rss,verified,2026-11-21T08:48:49Z,draft,public,none,candidate,review_required,true
+F27149,S13659,KDE on Mastodon,https://floss.social/@kde.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:53Z,draft,public,none,candidate,review_required,true
 F2715,S320,rss.rtbf.be,https://rss.rtbf.be/article/rss/highlight_rtbf_info.xml?source=internal,general,general,,,rss,,needs_review,2026-11-02T12:29:32Z,draft,unknown,unknown,candidate,review_required,false
+F27150,S13660,KNMI on Mastodon,https://social.overheid.nl/@knmi.rss,environment.weather,environment.weather,,NL,rss,rss,verified,2026-11-21T08:48:58Z,draft,public,none,candidate,review_required,true
+F27151,S13661,LibreOffice on Mastodon,https://fosstodon.org/@libreoffice.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:54Z,draft,public,none,candidate,review_required,true
+F27152,S13662,MDN Web Docs on Mastodon,https://mastodon.social/@mdn.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:55Z,draft,public,none,candidate,review_required,true
+F27153,S13663,Mastodon Overheid Community Management,https://social.overheid.nl/@communitymanager.rss,government,government,,NL,rss,rss,verified,2026-11-21T08:48:55Z,draft,public,none,candidate,review_required,true
+F27154,S13664,Mastodon official account,https://mastodon.social/@Mastodon.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:48Z,draft,public,none,candidate,review_required,true
+F27155,S13665,Mozilla Firefox on Mastodon,https://mastodon.social/@FirefoxOfficial.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:50Z,draft,public,none,candidate,review_required,true
+F27156,S13666,Mozilla Support on Mastodon,https://mastodon.social/@mozilla_support.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:51Z,draft,public,none,candidate,review_required,true
+F27157,S13667,Mozilla on Mastodon,https://mastodon.social/@mozilla.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:49Z,draft,public,none,candidate,review_required,true
+F27158,S13668,OpenStreetMap on Mastodon,https://en.osm.town/@openstreetmap.rss,society.geography,society.geography,,,rss,rss,verified,2026-11-21T08:48:58Z,draft,public,none,candidate,review_required,true
+F27159,S13669,PeerTube project on Mastodon,https://framapiaf.org/@peertube.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:56Z,draft,public,none,candidate,review_required,true
 F2716,S320,rss.rtbf.be,https://rss.rtbf.be/article/rss/highlight_rtbf_sport-cyclisme.xml,general,general,,,rss,,needs_review,2026-11-02T12:29:32Z,draft,unknown,unknown,candidate,review_required,false
+F27160,S13670,SURF on Mastodon,https://social.edu.nl/@SURF.rss,technology,technology,,NL,rss,rss,verified,2026-11-21T08:48:56Z,draft,public,none,candidate,review_required,true
+F27161,S13671,Thunderbird on Mastodon,https://mastodon.online/@thunderbird.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:51Z,draft,public,none,candidate,review_required,true
+F27162,S13672,Wikipedia on Mastodon,https://wikis.world/@wikipedia.rss,technology,technology,,,rss,rss,verified,2026-11-21T08:48:54Z,draft,public,none,candidate,review_required,true
+F27163,S13673,Adevinta Tech Blog,https://medium.com/feed/adevinta-tech-blog,technology,technology,,,rss,rss,verified,2026-11-21T08:49:21Z,draft,public,none,candidate,review_required,true
+F27164,S13674,Expedia Group Technology,https://medium.com/feed/expedia-group-tech,technology,technology,,,rss,rss,verified,2026-11-21T08:49:27Z,draft,public,none,candidate,review_required,true
+F27165,S13675,Google Cloud Community,https://medium.com/feed/google-cloud,technology,technology,,,rss,rss,verified,2026-11-21T08:49:38Z,draft,public,none,candidate,review_required,true
+F27166,S13676,Grab Tech,https://medium.com/feed/grab,technology,technology,,,rss,rss,verified,2026-11-21T08:49:24Z,draft,public,none,candidate,review_required,true
+F27167,S13677,Indeed Engineering,https://medium.com/feed/indeed-engineering,technology,technology,,,rss,rss,verified,2026-11-21T08:49:35Z,draft,public,none,candidate,review_required,true
+F27168,S13678,Netflix TechBlog,https://medium.com/feed/netflix-techblog,technology,technology,,,rss,rss,verified,2026-11-21T08:49:22Z,draft,public,none,candidate,review_required,true
+F27169,S13679,PayPal Technology,https://medium.com/feed/paypal-tech,technology,technology,,,rss,rss,verified,2026-11-21T08:49:36Z,draft,public,none,candidate,review_required,true
 F2717,S320,rss.rtbf.be,https://rss.rtbf.be/article/rss/highlight_rtbf_sport-football.xml,general,general,,,rss,,needs_review,2026-11-02T12:29:32Z,draft,unknown,unknown,candidate,review_required,false
+F27170,S13680,Pinterest Engineering,https://medium.com/feed/pinterest-engineering,technology,technology,,,rss,rss,verified,2026-11-21T08:49:28Z,draft,public,none,candidate,review_required,true
+F27171,S13681,Salesforce Engineering,https://medium.com/feed/salesforce-engineering,technology,technology,,,rss,rss,verified,2026-11-21T08:49:18Z,draft,public,none,candidate,review_required,true
+F27172,S13682,Tech at Instacart,https://medium.com/feed/tech-at-instacart,technology,technology,,,rss,rss,verified,2026-11-21T08:49:40Z,draft,public,none,candidate,review_required,true
+F27173,S13683,The Telegraph Engineering,https://medium.com/feed/the-telegraph-engineering,technology,technology,,GB,rss,rss,verified,2026-11-21T08:49:42Z,draft,public,none,candidate,review_required,true
+F27174,S13684,AGAPE’TH on PeerTube,https://tube.numerique.gouv.fr/feeds/videos.xml?videoChannelId=374,government,government,,FR,rss,rss,verified,2026-11-21T08:50:39Z,draft,public,none,candidate,review_required,true
+F27175,S13685,ANSSI on PeerTube,https://tube.numerique.gouv.fr/feeds/videos.xml?videoChannelId=367,technology.security,technology.security,,FR,rss,rss,verified,2026-11-21T08:50:40Z,draft,public,none,candidate,review_required,true
+F27176,S13686,Blender Studio on PeerTube,https://video.blender.org/feeds/videos.xml?videoChannelId=4570,technology,technology,,,rss,rss,verified,2026-11-21T08:50:53Z,draft,public,none,candidate,review_required,true
+F27177,S13687,Blender on PeerTube,https://video.blender.org/feeds/videos.xml?videoChannelId=4,technology,technology,,,rss,rss,verified,2026-11-21T08:50:52Z,draft,public,none,candidate,review_required,true
+F27178,S13688,CNIL — privacy and data protection videos on PeerTube,https://video.cnil.fr/feeds/videos.xml?videoChannelId=6,government,government,,FR,rss,rss,verified,2026-11-21T08:50:37Z,draft,public,none,candidate,review_required,true
+F27179,S13689,Commission nationale de l’informatique et des libertés on PeerTube,https://video.cnil.fr/feeds/videos.xml,government,government,,FR,rss,rss,verified,2026-11-21T08:50:53Z,draft,public,none,candidate,review_required,true
 F2718,S320,rss.rtbf.be,https://rss.rtbf.be/article/rss/highlight_rtbfculture_culture-homepage.xml,general,general,,,rss,,needs_review,2026-11-02T12:29:32Z,draft,unknown,unknown,candidate,review_required,false
+F27180,S13690,DINUM on PeerTube,https://tube.numerique.gouv.fr/feeds/videos.xml,government,government,,FR,rss,rss,verified,2026-11-21T08:50:53Z,draft,public,none,candidate,review_required,true
+F27181,S13691,Debian PeerTube local videos,https://peertube.debian.social/feeds/videos.xml,technology,technology,,,rss,rss,verified,2026-11-21T08:50:53Z,draft,public,none,candidate,review_required,true
+F27182,S13692,KDE videos on PeerTube,https://tube.kockatoo.org/feeds/videos.xml?videoChannelId=3,technology,technology,,,rss,rss,verified,2026-11-21T08:48:59Z,draft,public,none,candidate,review_required,true
+F27183,S13693,LaSuite by DINUM on PeerTube,https://tube.numerique.gouv.fr/feeds/videos.xml?videoChannelId=457,technology,technology,,FR,rss,rss,verified,2026-11-21T08:50:37Z,draft,public,none,candidate,review_required,true
+F27184,S13694,ChinaTalk,https://www.chinatalk.media/feed,news.general,news.general,en,CN,rss,rss,verified,2026-11-21T08:49:15Z,draft,public,none,candidate,review_required,true
+F27185,S13695,Make WordPress Accessibility,https://make.wordpress.org/accessibility/feed/,technology,technology,en-US,,rss,rss,verified,2026-11-21T08:48:58Z,draft,public,none,candidate,review_required,true
+F27186,S13696,Make WordPress Core,https://make.wordpress.org/core/feed/,technology,technology,en-US,,rss,rss,verified,2026-11-21T08:48:55Z,draft,public,none,candidate,review_required,true
+F27187,S13697,Make WordPress Polyglots,https://make.wordpress.org/polyglots/feed/,technology,technology,en-US,,rss,rss,verified,2026-11-21T08:49:00Z,draft,public,none,candidate,review_required,true
+F27188,S13698,WordPress.org Brasil,https://br.wordpress.org/feed/,technology,technology,pt-BR,,rss,rss,verified,2026-11-21T08:48:57Z,draft,public,none,candidate,review_required,true
+F27189,S13699,WordPress.org Deutschland,https://de.wordpress.org/feed/,technology,technology,de,,rss,rss,verified,2026-11-21T08:48:54Z,draft,public,none,candidate,review_required,true
 F2719,S320,rss.rtbf.be,https://rss.rtbf.be/article/rss/highlight_rtbfinfo_info-accueil.xml,general,general,,,rss,,needs_review,2026-11-02T12:34:45Z,draft,unknown,unknown,candidate,review_required,false
+F27190,S13700,WordPress.org España,https://es.wordpress.org/feed/,technology,technology,es,,rss,rss,verified,2026-11-21T08:48:55Z,draft,public,none,candidate,review_required,true
+F27191,S13701,WordPress.org France,https://fr.wordpress.org/feed/,technology,technology,fr-FR,,rss,rss,verified,2026-11-21T08:48:56Z,draft,public,none,candidate,review_required,true
+F27192,S13702,WordPress.org Italia,https://it.wordpress.org/feed/,technology,technology,it-IT,,rss,rss,verified,2026-11-21T08:48:59Z,draft,public,none,candidate,review_required,true
+F27193,S13703,WordPress.org Nederland,https://nl.wordpress.org/feed/,technology,technology,nl-NL,,rss,rss,verified,2026-11-21T08:48:59Z,draft,public,none,candidate,review_required,true
+F27194,S13704,WordPress.org News,https://wordpress.org/news/feed/,technology,technology,en-US,,rss,rss,verified,2026-11-21T08:48:52Z,draft,public,none,candidate,review_required,true
+F27195,S13704,WordPress.org News,https://wordpress.org/news/feed/podcast,technology,technology,en-US,,rss,rss,verified,2026-11-21T08:48:59Z,draft,public,none,candidate,review_required,true
+F27196,S13705,WordPress.org 日本語,https://ja.wordpress.org/feed/,technology,technology,ja,,rss,rss,verified,2026-11-21T08:48:56Z,draft,public,none,candidate,review_required,true
+F27197,S13706,Maktaba Abu Dhabi Public Library Events,https://library.dctabudhabi.ae/events/rss/feeds?per_page=10,society.events,society.events,,AE,rss,rss,verified,2026-11-21T08:50:11Z,draft,public,none,candidate,review_required,true
+F27198,S13707,Art Galleries Association Singapore Exhibitions,https://agas.org.sg/events/feed/,society.events,society.events,en-US,SG,rss,rss,verified,2026-11-21T08:49:41Z,draft,public,none,candidate,review_required,true
+F27199,S13708,Centro Cultural San Antonio Programmes,https://centrocultural.sanantonio.cl/index.php/itemlist/date?format=feed,society.events,society.events,es-ES,CL,rss,rss,verified,2026-11-21T08:50:14Z,draft,public,none,candidate,review_required,true
 F2720,S320,rss.rtbf.be,https://rss.rtbf.be/article/rss/rtbf_flux.xml,general,general,,,rss,,needs_review,2026-11-02T12:34:45Z,draft,unknown,unknown,candidate,review_required,false
+F27200,S13709,Fundación Cultural de Providencia Programmes,https://culturaprovidencia.cl/feed/,society.events,society.events,es,CL,rss,rss,verified,2026-11-21T08:49:47Z,draft,public,none,hold,review_required,false
+F27201,S13710,Museo de Arte Contemporáneo de Panamá Programmes,https://macpanama.org/feed/,society.events,society.events,es,PA,rss,rss,verified,2026-11-21T08:51:58Z,draft,public,none,candidate,review_required,true
+F27202,S13711,National Gallery of Jamaica Exhibitions,https://nationalgalleryofjamaica.wordpress.com/category/exhibitions/feed/,society.events,society.events,en,JM,rss,rss,verified,2026-11-21T08:51:07Z,draft,public,none,candidate,review_required,true
+F27203,S13712,NGC Bocas Lit Fest Programme,https://www.bocaslitfest.com/feed/,society.events,society.events,en-GB,TT,rss,rss,verified,2026-11-21T08:50:04Z,draft,public,none,candidate,review_required,true
+F27204,S13713,Living Prairie Museum Events,https://www.trumba.com/calendars/city-of-winnipeg-calendar-living-prairie-museum.rss,society.events,society.events,en-US,CA,rss,rss,verified,2026-11-21T08:51:00Z,draft,public,none,candidate,review_required,true
+F27205,S13714,Time of the Writer Festival Programmes,https://tow.ukzn.ac.za/feed/,society.events,society.events,en-ZA,ZA,rss,rss,verified,2026-11-21T08:51:52Z,draft,public,none,candidate,review_required,true
+F27206,S13715,Long Beach Public Library Alamitos Events,https://www.trumba.com/calendars/long-beach-public-library-alamitos.rss,society.events,society.events,en-US,US,rss,rss,verified,2026-11-21T08:51:05Z,draft,public,none,candidate,review_required,true
+F27207,S13716,Museo Nacional de Costa Rica Programmes,https://www.museocostarica.go.cr/feed/,society.events,society.events,es-CR,CR,rss,rss,verified,2026-11-21T08:53:32Z,draft,public,none,candidate,review_required,true
+F27208,S13717,Adult Blog,https://adultblog.io/feed/,society.events,society.events,en-US,,rss,rss,verified,2026-11-21T10:34:08Z,draft,public,none,candidate,review_required,false
+F27209,S13718,Adult Talent List,https://adulttalentlist.com/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T10:33:43Z,draft,public,none,candidate,review_required,false
 F2721,S320,rss.rtbf.be,https://rss.rtbf.be/article/rss/rtbfinfo_homepage.xml,general,general,,,rss,,needs_review,2026-11-02T12:34:45Z,draft,unknown,unknown,candidate,review_required,false
+F27210,S13719,Adultsmart Blog,https://blog.adultsmart.com.au/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T10:33:50Z,draft,public,none,candidate,review_required,false
+F27211,S13720,Contrast & Control,https://media.rss.com/control-contrast/feed.xml,society.events,society.events,en,,rss,rss,verified,2026-11-21T10:34:22Z,draft,public,none,candidate,review_required,false
+F27212,S13721,FanCentro Blog,https://blog.fancentro.com/en/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T10:33:42Z,draft,public,none,candidate,review_required,false
+F27213,S13722,Foxxx Models,https://www.foxxxmodeling.com/blog-feed.xml,business,business,,,rss,rss,verified,2026-11-21T10:33:44Z,draft,public,none,candidate,review_required,false
+F27214,S13723,Freak Talk! Podcast,https://media.rss.com/freak-talk-podcast/feed.xml,society.events,society.events,en,,rss,rss,verified,2026-11-21T10:34:24Z,draft,public,none,candidate,review_required,false
+F27215,S13724,Girlfriends Films News,https://www.girlfriendsfilmsnews.com/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T10:33:50Z,draft,public,none,candidate,review_required,false
+F27216,S13725,IMK with LadyRed,https://media.rss.com/interview-my-kink-with-ladyred/feed.xml,society.events,society.events,en,,rss,rss,verified,2026-11-21T10:34:28Z,draft,public,none,candidate,review_required,false
+F27217,S13726,Liz BlackX,https://www.lizblackx.nl/feed/index.xml,society.events,society.events,en-US,,atom,atom,verified,2026-11-21T10:33:48Z,draft,public,none,candidate,review_required,false
+F27218,S13727,Luke Is Back,https://www.lukeisback.com/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T10:33:47Z,draft,public,none,candidate,review_required,false
+F27219,S13728,Placemarker 4 Perversion,https://media.rss.com/placemarker4perversion/feed.xml,society.events,society.events,en,,rss,rss,verified,2026-11-21T10:34:30Z,draft,public,none,candidate,review_required,false
 F2722,S904,rss.unian.net,https://rss.unian.net/site/news_eng.rss,news.general,news.general,,,rss,rss,verified,2026-11-02T00:04:40.000Z,draft,unknown,none,candidate,review_required,true
+F27220,S13729,Pornagency,https://pornagency.eu/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T10:33:47Z,draft,public,none,candidate,review_required,false
+F27221,S13730,RankAdult,https://rankadult.com/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T10:33:42Z,draft,public,none,candidate,review_required,false
+F27222,S13731,RealClearFetish! Talks RealClearPlay!,https://feeds.acast.com/public/shows/realclearfetish-talks-realclearplay,society.events,society.events,en,,rss,rss,verified,2026-11-21T10:34:16Z,draft,public,none,candidate,review_required,false
+F27223,S13732,Sexopedia – Erovenus,https://media.rss.com/sexopedia-lovenestle/feed.xml,society.events,society.events,en,,rss,rss,verified,2026-11-21T10:34:38Z,draft,public,none,candidate,review_required,false
+F27224,S13733,Slut PhD,https://media.rss.com/slut-phd/feed.xml,business,business,en,,rss,rss,verified,2026-11-21T10:34:33Z,draft,public,none,candidate,review_required,false
+F27225,S13734,Strip Magazine,https://strip-magazine.com/feed/,business,business,en-GB,,rss,rss,verified,2026-11-21T10:33:51Z,draft,public,none,candidate,review_required,false
+F27226,S13735,Sweet Release Agency,https://www.sweetrelease.agency/blog-feed.xml,business,business,,,rss,rss,verified,2026-11-21T10:33:41Z,draft,public,none,candidate,review_required,false
+F27227,S13736,The ED EXPO,https://theedexpo.com/feed/,society.events,society.events,en-US,,rss,rss,verified,2026-11-21T10:33:50Z,draft,public,none,candidate,review_required,false
+F27228,S13737,The Kat Baker Show,https://media.rss.com/thekatbakershow/feed.xml,business,business,en,,rss,rss,verified,2026-11-21T10:34:35Z,draft,public,none,candidate,review_required,false
+F27229,S13738,The Scene Unlocked,https://media.rss.com/the-scene-unlocked/feed.xml,society.events,society.events,en,,rss,rss,verified,2026-11-21T10:34:20Z,draft,public,none,candidate,review_required,false
 F2723,S904,rss.unian.net,https://rss.unian.net/site/news_rus.rss,news.general,news.general,,,rss,rss,verified,2026-11-02T00:42:32.000Z,draft,unknown,none,candidate,review_required,true
+F27230,S13739,The Spicy Hub,https://thespicyhub.com/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T10:33:43Z,draft,public,none,candidate,review_required,false
+F27231,S13740,iWantClips Blog,https://blog.iwantclips.com/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T10:33:41Z,draft,public,none,candidate,review_required,false
+F27232,S13741,Museum of Warsaw Programmes,https://muzeumwarszawy.pl/feed/,society.events,society.events,pl-PL,PL,rss,rss,verified,2026-11-21T10:32:38Z,draft,public,none,candidate,review_required,true
+F27233,S13742,Cultural Centre of Belgrade Programmes,https://www.kcb.org.rs/feed/,society.events,society.events,sr-RS,RS,rss,rss,verified,2026-11-21T10:32:48Z,draft,public,none,candidate,review_required,true
+F27234,S13743,Nafasi Art Space Programmes,https://www.nafasiartspace.org/feed/,society.events,society.events,en-US,TZ,rss,rss,verified,2026-11-21T10:33:18Z,draft,public,none,candidate,review_required,true
+F27235,S13744,Koriyama City Museum of Art Programmes,https://www.city.koriyama.lg.jp/rss/10/site-99.xml,society.events,society.events,ja,JP,rss,rss,verified,2026-11-21T10:34:13Z,draft,public,none,candidate,review_required,true
+F27236,S13745,Miyagi Museum of Art Exhibition Announcements,https://www.pref.miyagi.jp/site/mmoa/info/info.xml,society.events,society.events,ja,JP,rss,rss,verified,2026-11-21T10:38:08Z,draft,public,none,candidate,review_required,true
+F27237,S13746,Christchurch City Libraries Events,https://gateway.bibliocommons.com/v2/libraries/christchurch/rss/events,society.events,society.events,en-CA,NZ,rss,rss,verified,2026-11-21T10:34:53Z,draft,public,none,hold,review_required,false
+F27238,S13747,Vancouver Public Library Events,https://gateway.bibliocommons.com/v2/libraries/vpl/rss/events,society.events,society.events,en-CA,CA,rss,rss,verified,2026-11-21T10:34:55Z,draft,public,none,hold,review_required,false
+F27239,S13748,San Antonio Public Library Events,https://www.trumba.com/calendars/san-antonio-public-library.rss,society.events,society.events,en-US,US,rss,rss,verified,2026-11-21T10:34:55Z,draft,public,none,candidate,review_required,true
 F2724,S905,Russia Insider Daily Headlines,https://russia-insider.com/en/all-content/rss,news.general,news.general,,,rss,,needs_review,2026-11-02T00:04:39.000Z,draft,unknown,unknown,candidate,review_required,false
+F27240,S13749,University of Central Florida Events,https://events.ucf.edu/feed.rss,society.events,society.events,,US,rss,rss,verified,2026-11-21T10:36:05Z,draft,public,none,candidate,review_required,true
+F27241,S13750,50 Plus a Tip,https://feeds.captivate.fm/50plusatip/,business,business,en,,rss,rss,verified,2026-11-21T11:33:44Z,draft,public,none,candidate,review_required,false
+F27242,S13751,Baisers de Garces,https://feeds.acast.com/public/shows/baisers-des-chandelles,society.events,society.events,fr,,rss,rss,verified,2026-11-21T11:34:02Z,draft,public,none,candidate,review_required,false
+F27243,S13752,Basium,https://feeds.acast.com/public/shows/basium,society.events,society.events,fr,,rss,rss,verified,2026-11-21T11:34:04Z,draft,public,none,candidate,review_required,false
+F27244,S13753,Bellaperrix,https://bellaperrix.substack.com/feed,society.events,society.events,es,,rss,rss,verified,2026-11-21T11:35:36Z,draft,public,none,candidate,review_required,false
+F27245,S13754,Benji’s Erotica & ASMR,https://benjis-erotica-asmr.captivate.fm/rssfeed,society.events,society.events,en,,rss,rss,verified,2026-11-21T11:35:37Z,draft,public,none,candidate,review_required,false
+F27246,S13755,Erovenus Lounge,https://media.rss.com/lovenestle-lounge/feed.xml,society.events,society.events,en,,rss,rss,verified,2026-11-21T11:34:32Z,draft,public,none,candidate,review_required,false
+F27247,S13756,Gay Erotica by Liam Williams,https://gay-erotica-by-liam-williams.captivate.fm/rssfeed,society.events,society.events,en,,rss,rss,verified,2026-11-21T11:35:39Z,draft,public,none,candidate,review_required,false
+F27248,S13757,Mistress On The Mic,https://feeds.captivate.fm/mistressonthemic/,business,business,en,,rss,rss,verified,2026-11-21T11:34:26Z,draft,public,none,candidate,review_required,false
+F27249,S13758,Nordic Model Now!,https://nordicmodelnow.org/feed/,business,business,en-GB,,rss,rss,verified,2026-11-21T11:33:57Z,draft,public,none,candidate,review_required,false
 F2725,S906,Saket Narayan,https://saket.me/feed/,technology.software,technology.software,en-US,,rss,rss,verified,2026-11-02T00:04:43.000Z,draft,unknown,none,candidate,review_required,true
+F27250,S13759,Paulihoch2,https://paulihoch2.podigee.io/feed/mp3,society.events,society.events,de,,rss,rss,verified,2026-11-21T11:35:34Z,draft,public,none,candidate,review_required,false
+F27251,S13760,PlapCast,https://media.rss.com/plapcast/feed.xml,society.events,society.events,en,,rss,rss,verified,2026-11-21T11:35:33Z,draft,public,none,candidate,review_required,false
+F27252,S13761,PodGAS,https://feeds.captivate.fm/podgas-fart-podcast/,society.events,society.events,en,,rss,rss,verified,2026-11-21T11:33:52Z,draft,public,none,candidate,review_required,false
+F27253,S13762,Pédagojouie,https://feeds.acast.com/public/shows/pedagojouie,society.events,society.events,fr,,rss,rss,verified,2026-11-21T11:34:05Z,draft,public,none,candidate,review_required,false
+F27254,S13763,SWOP Los Angeles,https://swoplosangeles.org/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T11:33:59Z,draft,public,none,candidate,review_required,false
+F27255,S13764,Storytime with Kayla Jade,https://feeds.acast.com/public/shows/storytime-with-kayla-jade,business,business,en,,rss,rss,verified,2026-11-21T11:34:28Z,draft,public,none,candidate,review_required,false
+F27256,S13765,Strictly Anonymous Confessions,https://www.strictlyanonymouspodcast.com/feed/,society.events,society.events,en-US,,rss,rss,verified,2026-11-21T11:34:28Z,draft,public,none,candidate,review_required,false
+F27257,S13766,Support Ho(s)e,https://sxhxcollective.org/feed/,business,business,en-US,,rss,rss,verified,2026-11-21T11:34:01Z,draft,public,none,candidate,review_required,false
+F27258,S13767,The A to Z of Sex,https://feeds.captivate.fm/the-a-to-z-of-sex/,society.events,society.events,en,,rss,rss,verified,2026-11-21T11:33:48Z,draft,public,none,candidate,review_required,false
+F27259,S13768,Too Stupid to Live,https://media.rss.com/too-stupid-to-live/feed.xml,society.events,society.events,en,,rss,rss,verified,2026-11-21T11:35:35Z,draft,public,none,candidate,review_required,false
 F2726,S907,science.nasa.gov,https://science.nasa.gov/blogs/feed/,general,general,,,rss,,needs_review,2026-11-02T15:58:55Z,draft,unknown,unknown,candidate,review_required,false
+F27260,S13769,India International Centre Programmes,https://iicdelhi.in/rss.xml,society.events,society.events,en,IN,rss,rss,verified,2026-11-21T11:34:48Z,draft,public,none,candidate,review_required,true
+F27261,S13770,Yong’an Arts Centre Events,https://www.yalac.ntpc.gov.tw/xceventsnews/rss?xsmsid=0G278762856907255656,society.events,society.events,zh-TW,TW,rss,rss,verified,2026-11-21T11:38:05Z,draft,public,none,candidate,review_required,true
+F27262,S13771,Singapore Management University Law Academy Events,https://www.trumba.com/calendars/smu_cle.rss,society.events,society.events,en-US,SG,rss,rss,verified,2026-11-21T11:36:10Z,draft,public,none,candidate,review_required,true
+F27263,S13772,University of Oslo Public Events,https://www.uio.no/english/about/news-and-events/events/?vrtx=feed,society.events,society.events,,NO,atom,atom,verified,2026-11-21T11:36:10Z,draft,public,none,candidate,review_required,true
+F27264,S13773,University of Zurich Public Events,https://www.agenda.uzh.ch/rss/agenda_xml.php?d=14&items=25,society.events,society.events,de,CH,rss,rss,verified,2026-11-21T11:34:44Z,draft,public,none,candidate,review_required,true
+F27265,S13774,Con Anima Chamber Choir Public Events,https://www.conanima.org.uk/dbaction.php?action=rss&dbase=events,society.events,society.events,en-GB,GB,rss,rss,verified,2026-11-21T11:37:18Z,draft,public,none,candidate,review_required,true
+F27266,S13775,Edinburgh Science Festival Programmes,https://www.edinburghscience.co.uk/feed/,society.events,society.events,en-GB,GB,rss,rss,verified,2026-11-21T11:37:20Z,draft,public,none,candidate,review_required,true
+F27267,S13776,City of Vancouver Events,https://www.trumba.com/calendars/city-of-vancouver-events.rss,society.events,society.events,en-US,CA,rss,rss,verified,2026-11-21T11:36:12Z,draft,public,none,candidate,review_required,true
+F27268,S13777,University of Chicago Public Events,https://events.uchicago.edu/live/rss/events/max/60,society.events,society.events,en-US,US,rss,rss,verified,2026-11-21T11:38:22Z,draft,public,none,candidate,review_required,true
+F27269,S13778,2Within,https://2within.com/podcast/de/feed/,society.events,society.events,de,,rss,rss,verified,2026-11-21T11:42:16Z,draft,public,none,candidate,review_required,false
 F2727,S907,science.nasa.gov,https://science.nasa.gov/blogs/roman/feed/,general,general,,,rss,,needs_review,2026-11-02T15:58:57Z,draft,unknown,unknown,candidate,review_required,false
+F27270,S13778,2Within,https://2within.com/podcast/en/feed/,society.events,society.events,en,,rss,rss,verified,2026-11-21T11:42:07Z,draft,public,none,candidate,review_required,false
+F27271,S13778,2Within,https://2within.com/podcast/es/feed/,society.events,society.events,es,,rss,rss,verified,2026-11-21T11:42:12Z,draft,public,none,candidate,review_required,false
+F27272,S13778,2Within,https://2within.com/podcast/fr/feed/,society.events,society.events,fr,,rss,rss,verified,2026-11-21T11:42:14Z,draft,public,none,candidate,review_required,false
+F27273,S13778,2Within,https://2within.com/podcast/it/feed/,society.events,society.events,it,,rss,rss,verified,2026-11-21T11:42:10Z,draft,public,none,candidate,review_required,false
+F27274,S13778,2Within,https://2within.com/podcast/ja/feed/,society.events,society.events,ja,,rss,rss,verified,2026-11-21T11:42:19Z,draft,public,none,candidate,review_required,false
+F27275,S13778,2Within,https://2within.com/podcast/pt/feed/,society.events,society.events,pt,,rss,rss,verified,2026-11-21T11:42:28Z,draft,public,none,candidate,review_required,false
+F27276,S13778,2Within,https://2within.com/podcast/ro/feed/,society.events,society.events,ro,,rss,rss,verified,2026-11-21T11:42:31Z,draft,public,none,candidate,review_required,false
+F27277,S13778,2Within,https://2within.com/podcast/ru/feed/,society.events,society.events,ru,,rss,rss,verified,2026-11-21T11:42:26Z,draft,public,none,candidate,review_required,false
+F27278,S13778,2Within,https://2within.com/podcast/uk/feed/,society.events,society.events,uk,,rss,rss,verified,2026-11-21T11:42:21Z,draft,public,none,candidate,review_required,false
+F27279,S13779,Capital Pleasure,https://capitalpleasure.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T11:41:53Z,draft,public,none,candidate,review_required,false
 F2728,S907,science.nasa.gov,https://science.nasa.gov/blogs/solar-cycle-25/feed/,general,general,,,rss,,needs_review,2026-11-02T15:58:59Z,draft,unknown,unknown,candidate,review_required,false
+F27280,S13780,Erika Lust’s Newsletter,https://lustbyerika.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T11:41:53Z,draft,public,none,candidate,review_required,false
+F27281,S13781,Eros Diaries,https://erosdiaries.substack.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T11:42:52Z,draft,public,none,candidate,review_required,false
+F27282,S13782,Field Notes from an Erotic Laborer,https://insmoreau.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T11:41:53Z,draft,public,none,candidate,review_required,false
+F27283,S13783,Kinkez Vous Bien,https://feeds.acast.com/public/shows/kinkezvousbien,society.events,society.events,fr,,rss,rss,verified,2026-11-21T11:42:50Z,draft,public,none,candidate,review_required,false
+F27284,S13784,Letras Ardientes,https://letrasardientes.com/feed/,society.events,society.events,es-AR,,rss,rss,verified,2026-11-21T11:42:05Z,draft,public,none,candidate,review_required,false
+F27285,S13785,Many Such Cases,https://www.sexual-culture.com/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T11:41:53Z,draft,public,none,candidate,review_required,false
+F27286,S13786,PARA ADULT-/-ER@S,https://www.spreaker.com/show/6135023/episodes/feed,society.events,society.events,es,,rss,rss,verified,2026-11-21T11:42:04Z,draft,public,none,candidate,review_required,false
+F27287,S13787,Relatos Calientes By Eros,https://www.spreaker.com/show/6775038/episodes/feed,society.events,society.events,es,,rss,rss,verified,2026-11-21T11:42:03Z,draft,public,none,candidate,review_required,false
+F27288,S13788,Ruan Willow’s Erotic Writings,https://ruanwillowauthor.com/feed/,society.events,society.events,en-US,,rss,rss,verified,2026-11-21T11:42:30Z,draft,public,none,candidate,review_required,false
+F27289,S13789,SEXTORIES,https://www.spreaker.com/show/6447458/episodes/feed,society.events,society.events,es,,rss,rss,verified,2026-11-21T11:42:06Z,draft,public,none,candidate,review_required,false
 F2729,S907,science.nasa.gov,https://science.nasa.gov/blogs/swift/feed/,general,general,,,rss,,needs_review,2026-11-02T15:59:00Z,draft,unknown,unknown,candidate,review_required,false
+F27290,S13790,The Intimacy Inquiry,https://media.rss.com/the-intimacy-inquiry/feed.xml,society.events,society.events,en,,rss,rss,verified,2026-11-21T11:41:55Z,draft,public,none,candidate,review_required,false
+F27291,S13791,The Playboy Reader,https://playboy.substack.com/feed,business,business,en,,rss,rss,verified,2026-11-21T11:41:55Z,draft,public,none,candidate,review_required,false
+F27292,S13792,Whore School with Ms. Harper,https://www.spreaker.com/show/1727400/episodes/feed,society.events,society.events,en,,rss,rss,verified,2026-11-21T11:41:56Z,draft,public,none,candidate,review_required,false
+F27293,S13793,Wild Sex,https://media.rss.com/wild-sex/feed.xml,society.events,society.events,en,,rss,rss,verified,2026-11-21T11:41:57Z,draft,public,none,candidate,review_required,false
 F2730,S907,science.nasa.gov,https://science.nasa.gov/feed/,general,general,,,rss,,needs_review,2026-11-02T15:59:03Z,draft,unknown,unknown,candidate,review_required,false
 F2731,S908,Breaking News on Seeking Alpha,https://seekingalpha.com/market_currents.xml,business.economics,business.economics,,,rss,rss,verified,2026-11-02T00:04:40.000Z,draft,unknown,none,candidate,review_required,true
+F27318,S13818,Choral Connection Events,https://www.choralconnection.org.au/dbaction.php?action=rss&dbase=events,society.events,society.events,en-GB,AU,rss,rss,verified,2026-11-21T11:51:53Z,draft,public,none,candidate,review_required,true
+F27319,S13819,Purdue University Events,https://events.purdue.edu/widget/view?schools=purdue&days=7&num=60&format=rss,society.events,society.events,,US,rss,rss,verified,2026-11-21T11:56:29Z,draft,public,none,candidate,review_required,true
 F2732,S909,Shirtloads of Science,https://shirtloadsofscience.libsyn.com/rss,science.research,science.research,en,,rss,rss,verified,2026-11-02T00:04:43.000Z,draft,unknown,none,candidate,review_required,true
+F27320,S13820,Utrecht University Public Events,https://www.uu.nl/en/events.rss,society.events,society.events,en,NL,rss,rss,verified,2026-11-21T11:53:45Z,draft,public,none,candidate,review_required,true
+F27321,S13821,Tochigi City Museum of Art Programme Announcements,https://www.city.tochigi.lg.jp/rss/10/site-212.xml,society.events,society.events,ja,JP,rss,rss,verified,2026-11-21T11:54:28Z,draft,public,none,candidate,review_required,true
+F27322,S13822,City of Saitama Culture and Arts Announcements,https://www.city.saitama.lg.jp/004/005/news.xml,society.events,society.events,ja,JP,rss,rss,verified,2026-11-21T11:54:32Z,draft,public,none,candidate,review_required,true
+F27323,S13823,Shihsanhang Museum of Archaeology Programme Announcements,https://www.sshm.ntpc.gov.tw/xceventsnews/rss?xsmsid=0G250557655940640091,society.events,society.events,zh-TW,TW,rss,rss,verified,2026-11-21T11:54:31Z,draft,public,none,candidate,review_required,true
+F27324,S13824,Dublin Book Festival Programmes,https://dublinbookfestival.com/feed/,society.events,society.events,en-GB,IE,rss,rss,verified,2026-11-21T11:54:58Z,draft,public,none,candidate,review_required,true
+F27325,S13825,Cúirt International Festival of Literature Programmes,https://www.cuirt.ie/feed/,society.events,society.events,en-GB,IE,rss,rss,verified,2026-11-21T11:55:01Z,draft,public,none,candidate,review_required,true
+F27326,S13826,Guadalajara International Film Festival Programmes,https://ficg.mx/feed/,society.events,society.events,es,MX,rss,rss,verified,2026-11-21T11:55:03Z,draft,public,none,candidate,review_required,true
 F2733,S1303,Shopify developer changelog,https://shopify.dev/changelog/feed.xml,technology.software,technology.software,en-US,,rss,rss,verified,2026-11-02T00:04:44.000Z,draft,unknown,none,candidate,review_required,true
 F2734,S910,AI - SiliconANGLE,https://siliconangle.com/category/ai/feed/,general,general,en-US,,rss,rss,verified,2026-11-02T00:04:44.000Z,draft,unknown,none,candidate,review_required,true
 F2735,S911,A developer's notes,https://sirarsalih.com/atom.xml,general,general,,,atom,atom,verified,2026-11-02T00:04:44.000Z,draft,unknown,none,candidate,review_required,true
@@ -24135,10 +24521,10 @@ F7216,S1435,Erotic Trade Only,https://www.erotictradeonly.com/feed/,business,bus
 F7217,S1436,SIGN! Magazine,https://sign-magazine.com/feed/,business,business,en-US,,rss,rss,verified,2026-11-18T20:08:24Z,draft,public,none,candidate,review_required,false
 F7218,S1437,Woodhull Freedom Foundation,https://www.woodhullfoundation.org/feed/,society,society,,,rss,,needs_review,,draft,unknown,unknown,hold,review_required,false
 F7219,S1438,European Sex Workers Rights Alliance,https://www.eswalliance.org/news.rss,society,society,,,rss,,needs_review,,draft,unknown,unknown,hold,review_required,false
-F7220,S1439,Venus Adult News,https://www.venus-adult-news.com/feed,business,business,,,rss,,needs_review,,draft,unknown,unknown,hold,review_required,false
+F7220,S1439,Venus Adult News,https://www.venus-adult-news.com/feed,business,business,de,,rss,rss,verified,2026-11-21T03:10:04Z,draft,unknown,none,hold,review_required,false
 F7221,S1440,SexTech For Good,https://www.sextechforgood.org/blog-feed.xml,technology,technology,,,rss,rss,verified,2026-11-18T20:08:24Z,draft,public,none,candidate,review_required,false
 F7222,S1441,Sex & Psychology Podcast,https://feeds.redcircle.com/612508ef-d0c1-47f4-878d-391b11a8035d,science.research,science.research,,,rss,,needs_review,2026-11-18T20:08:25Z,draft,unknown,unknown,candidate,review_required,false
-F7223,S1442,Future of Sex Magazine,https://futureofsex.net/feed/,technology,technology,,,rss,,needs_review,,draft,unknown,unknown,hold,review_required,false
+F7223,S1442,Future of Sex Magazine,https://futureofsex.net/feed/,technology,technology,en-US,,rss,rss,verified,2026-11-21T03:10:03Z,draft,unknown,none,hold,review_required,false
 F7224,S1443,SVAKOM Manufacturer Blog,https://www.svakom.com/blogs/svakom.atom,business,business,en,,atom,atom,verified,2026-11-18T20:08:25Z,draft,public,none,candidate,review_required,false
 F7225,S1428,XBIZ,https://www.xbiz.com/rss/features/business.xml,business,business,en-US,,rss,rss,verified,2026-11-18T20:08:34Z,draft,public,none,candidate,review_required,false
 F7226,S1428,XBIZ,https://www.xbiz.com/rss/news/movies-stars.xml,business,business,en-US,,rss,rss,verified,2026-11-18T20:08:36Z,draft,public,none,candidate,review_required,false
@@ -24151,7 +24537,7 @@ F7232,S1446,Free Times,https://www.postandcourier.com/search/?f=rss&t=article&c=
 F7233,S1447,Boobpedia,https://www.boobpedia.com/wiki/api.php?hidebots=1&urlversion=1&days=7&limit=50&action=feedrecentchanges&feedformat=atom&namespace=0,general,general,,,atom,,needs_review,2026-11-18T20:08:24Z,draft,unknown,unknown,candidate,review_required,false
 F7234,S1448,Pineapple Support,https://pineapplesupport.org/feed/,society,society,en-US,,rss,rss,verified,2026-11-18T19:54:42Z,draft,public,none,candidate,review_required,true
 F7235,S1449,SWOP Behind Bars,https://www.swopbehindbars.org/blog-feed.xml,society,society,,,rss,rss,verified,2026-11-18T19:54:41Z,draft,public,none,candidate,review_required,true
-F7236,S1450,Adult Performance Artists Guild,https://apagunion.com/feed/,society,society,,,rss,,needs_review,,draft,unknown,unknown,hold,review_required,false
+F7236,S1450,Adult Performance Artists Guild,https://apagunion.com/feed/,society,society,en-US,,rss,rss,verified,2026-11-21T03:10:05Z,draft,unknown,none,hold,review_required,false
 F7237,S1451,PASS Announcements,https://www.passcertified.org/news?format=rss,society,society,en-US,,rss,rss,verified,2026-11-18T19:54:42Z,draft,public,none,candidate,review_required,true
 F7238,S1452,Red Umbrella Fund,https://www.redumbrellafund.org/feed/,society,society,en-GB,,rss,rss,verified,2026-11-18T19:54:42Z,draft,public,none,candidate,review_required,true
 F7239,S1453,STRASS,https://strass-syndicat.org/feed/,society,society,fr-FR,,rss,rss,verified,2026-11-18T20:15:22Z,draft,public,none,candidate,review_required,true
@@ -25126,7 +25512,7 @@ F8207,S2130,broen-danmark.dk,https://broen-danmark.dk/feed,general,general,,,rss
 F8208,S2131,bruneinewsagency.com,https://bruneinewsagency.com/category/nation/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F8209,S2132,brusselsmorning.com,https://brusselsmorning.com/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F8210,S2133,bsky.app,https://bsky.app/profile/did:plc:mzlz6exm4jjnohrsmbmroqqo/rss,general,general,,,rss,rss,verified,2026-11-19T13:20:46Z,draft,unknown,none,candidate,review_required,true
-F8211,S2133,bsky.app,https://bsky.app/profile/did:plc:zvqcnvbcwkyqb535p35kn6ch/rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F8211,S2133,bsky.app,https://bsky.app/profile/did:plc:zvqcnvbcwkyqb535p35kn6ch/rss,general,general,,,rss,rss,verified,2026-11-21T08:48:28Z,draft,unknown,none,candidate,review_required,true
 F8212,S2134,btvnovinite.bg,https://btvnovinite.bg/lbin/v3/rss.php,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F8213,S2135,buckrail.com,https://buckrail.com/category/news/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F8214,S2136,budapest.hu,https://budapest.hu/hirek/rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -25244,7 +25630,7 @@ F8325,S2238,cheng.st,https://cheng.st/atom.xml,general,general,,,atom,atom,verif
 F8326,S2239,chicago.eater.com,https://chicago.eater.com/rss/index.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F8327,S2240,chicago.suntimes.com,https://chicago.suntimes.com/rss/news/index.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F8328,S2241,chicagoreader.com,https://chicagoreader.com/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F8329,S2242,chinai.substack.com,https://chinai.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F8329,S2242,chinai.substack.com,https://chinai.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:29Z,draft,unknown,none,candidate,review_required,true
 F8330,S2243,chriszheng.science,https://chriszheng.science/atom.xml,general,general,,,atom,atom,verified,2026-11-19T13:26:20Z,draft,unknown,none,candidate,review_required,true
 F8331,S2244,chromeunboxed.com,https://chromeunboxed.com/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F8332,S2245,churchleaders.com,https://churchleaders.com/search/singles/feed/rss2/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -25772,7 +26158,7 @@ F8853,S2670,europeantimes.news,https://europeantimes.news/europe/feed/,general,g
 F8854,S2671,europeanwesternbalkans.com,https://europeanwesternbalkans.com/tag/montenegro/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F8855,S2672,Euro Prospects,https://europrospects.eu/feed/,general,general,en-US,,rss,rss,verified,2026-11-19T13:41:16Z,draft,unknown,none,candidate,review_required,true
 F8856,S2673,EuropskeNoviny.sk,https://europske.noviny.sk/feed/,general,general,sk-SK,,rss,rss,verified,2026-11-19T14:19:03Z,draft,unknown,none,candidate,review_required,true
-F8857,S2674,eurowaves.substack.com,https://eurowaves.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F8857,S2674,eurowaves.substack.com,https://eurowaves.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:29Z,draft,unknown,none,candidate,review_required,true
 F8858,S2675,evan.xin,https://evan.xin/feed,general,general,,,rss,,needs_review,2026-11-19T13:26:24Z,draft,unknown,unknown,candidate,review_required,false
 F8859,S2676,evcentral.com.au,https://evcentral.com.au/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F8860,S2677,every.to,https://every.to/chain-of-thought/feed.xml,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -26211,36 +26597,36 @@ F9292,S2871,gijotina.com,https://gijotina.com/feed/,general,general,,,rss,,adver
 F9293,S2872,github.blog,https://github.blog/ai-and-ml/llms/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F9294,S2872,github.blog,https://github.blog/changelog/feed/,general,general,en-US,,rss,rss,verified,2026-11-19T13:21:40Z,draft,unknown,none,candidate,review_required,true
 F9295,S2872,github.blog,https://github.blog/changelog/label/copilot/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9296,S2873,github.com,https://github.com/Aircoookie/WLED/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9297,S2873,github.com,https://github.com/FreeCAD/FreeCAD/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9298,S2873,github.com,https://github.com/Klipper3d/klipper/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9299,S2873,github.com,https://github.com/Koenkk/zigbee2mqtt/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9300,S2873,github.com,https://github.com/NabuCasa/hass-nabucasa/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9301,S2873,github.com,https://github.com/Ranchero-Software/NetNewsWire/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9302,S2873,github.com,https://github.com/Ultimaker/Cura/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9303,S2873,github.com,https://github.com/anthropics/claude-code/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9304,S2873,github.com,https://github.com/arendst/Tasmota/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9305,S2873,github.com,https://github.com/biomejs/biome/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9306,S2873,github.com,https://github.com/blakeblackshear/frigate/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9307,S2873,github.com,https://github.com/domoticz/domoticz/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9308,S2873,github.com,https://github.com/esphome/esphome/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9309,S2873,github.com,https://github.com/fhem/fhem-mirror/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9310,S2873,github.com,https://github.com/google-gemini/gemini-cli/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9311,S2873,github.com,https://github.com/home-assistant/core/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9312,S2873,github.com,https://github.com/home-assistant/operating-system/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9313,S2873,github.com,https://github.com/ioBroker/ioBroker.js-controller/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9314,S2873,github.com,https://github.com/langchain-ai/langchain/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F9296,S2873,github.com,https://github.com/Aircoookie/WLED/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:48:28Z,draft,unknown,unknown,candidate,review_required,false
+F9297,S2873,github.com,https://github.com/FreeCAD/FreeCAD/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:06Z,draft,unknown,unknown,candidate,review_required,false
+F9298,S2873,github.com,https://github.com/Klipper3d/klipper/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:06Z,draft,unknown,unknown,candidate,review_required,false
+F9299,S2873,github.com,https://github.com/Koenkk/zigbee2mqtt/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:07Z,draft,unknown,unknown,candidate,review_required,false
+F9300,S2873,github.com,https://github.com/NabuCasa/hass-nabucasa/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:08Z,draft,unknown,unknown,candidate,review_required,false
+F9301,S2873,github.com,https://github.com/Ranchero-Software/NetNewsWire/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9302,S2873,github.com,https://github.com/Ultimaker/Cura/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9303,S2873,github.com,https://github.com/anthropics/claude-code/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9304,S2873,github.com,https://github.com/arendst/Tasmota/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9305,S2873,github.com,https://github.com/biomejs/biome/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9306,S2873,github.com,https://github.com/blakeblackshear/frigate/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9307,S2873,github.com,https://github.com/domoticz/domoticz/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9308,S2873,github.com,https://github.com/esphome/esphome/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9309,S2873,github.com,https://github.com/fhem/fhem-mirror/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9310,S2873,github.com,https://github.com/google-gemini/gemini-cli/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9311,S2873,github.com,https://github.com/home-assistant/core/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9312,S2873,github.com,https://github.com/home-assistant/operating-system/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9313,S2873,github.com,https://github.com/ioBroker/ioBroker.js-controller/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9314,S2873,github.com,https://github.com/langchain-ai/langchain/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
 F9315,S2873,github.com,https://github.com/modelcontextprotocol/servers/releases.atom,general,general,,,atom,,needs_review,2026-11-19T13:21:25Z,draft,unknown,unknown,candidate,review_required,false
-F9316,S2873,github.com,https://github.com/modelcontextprotocol/specification/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9317,S2873,github.com,https://github.com/node-red/node-red/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9318,S2873,github.com,https://github.com/openai/codex/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9319,S2873,github.com,https://github.com/openclaw/openclaw/commits/main.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9320,S2873,github.com,https://github.com/openclaw/openclaw/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9321,S2873,github.com,https://github.com/openhab/openhab-distro/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9322,S2873,github.com,https://github.com/oven-sh/bun/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9323,S2873,github.com,https://github.com/prusa3d/PrusaSlicer/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9324,S2873,github.com,https://github.com/zed-industries/zed/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9325,S2873,github.com,https://github.com/zigpy/zigpy/releases.atom,general,general,,,atom,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F9316,S2873,github.com,https://github.com/modelcontextprotocol/specification/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9317,S2873,github.com,https://github.com/node-red/node-red/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9318,S2873,github.com,https://github.com/openai/codex/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9319,S2873,github.com,https://github.com/openclaw/openclaw/commits/main.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9320,S2873,github.com,https://github.com/openclaw/openclaw/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9321,S2873,github.com,https://github.com/openhab/openhab-distro/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9322,S2873,github.com,https://github.com/oven-sh/bun/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9323,S2873,github.com,https://github.com/prusa3d/PrusaSlicer/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9324,S2873,github.com,https://github.com/zed-industries/zed/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
+F9325,S2873,github.com,https://github.com/zigpy/zigpy/releases.atom,general,general,,,atom,,needs_review,2026-11-21T08:49:10Z,draft,unknown,unknown,candidate,review_required,false
 F9326,S2874,gizmodo.com,https://gizmodo.com/tag/microsoft/feed,general,general,en-US,,rss,rss,verified,2026-11-19T13:06:48Z,draft,unknown,none,candidate,review_required,true
 F9327,S2874,gizmodo.com,https://gizmodo.com/earther/climate-change/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F9328,S2874,gizmodo.com,https://gizmodo.com/tag/extreme-weather/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -26289,7 +26675,7 @@ F9370,S2909,grist.org,https://grist.org/climate-energy/climate/feed/,general,gen
 F9371,S2909,grist.org,https://grist.org/climate-energy/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F9372,S2909,grist.org,https://grist.org/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F9373,S2910,grnt.media,https://grnt.media/feed/,general,general,,,rss,,needs_review,2026-11-19T13:41:08Z,draft,unknown,unknown,candidate,review_required,false
-F9374,S2911,grognardia.substack.com,https://grognardia.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F9374,S2911,grognardia.substack.com,https://grognardia.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:30Z,draft,unknown,none,candidate,review_required,true
 F9375,S2912,grokiskis.lt,https://grokiskis.lt/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F9376,S2913,ground.news,https://ground.news/interest/madeira-portugal/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F9377,S2914,groundup.org.za,https://groundup.org.za/sitenews/rss,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -26726,7 +27112,7 @@ F9807,S3238,laodong.vn,https://laodong.vn/rss/home.rss,general,general,,,rss,,ad
 F9808,S3239,laotiantimes.com,https://laotiantimes.com/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F9809,S3240,lapatilla.com,https://lapatilla.com/secciones/nacionales/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F9810,S3241,lapsi.al,https://lapsi.al/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9811,S3242,laramiereporter.substack.com,https://laramiereporter.substack.com/feed,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F9811,S3242,laramiereporter.substack.com,https://laramiereporter.substack.com/feed,general,general,en,,rss,rss,verified,2026-11-21T08:48:31Z,draft,unknown,none,candidate,review_required,true
 F9812,S3243,lareferenceplus.cd,https://lareferenceplus.cd/feed,general,general,,,rss,,needs_review,2026-11-19T14:20:14Z,draft,unknown,unknown,candidate,review_required,false
 F9813,S3244,laregion.cr,https://laregion.cr/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F9814,S3245,larnakaonline.com.cy,https://larnakaonline.com.cy/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
@@ -26914,4 +27300,4 @@ F9995,S3398,medicalxpress.com,https://medicalxpress.com/rss-feed/mental-health-n
 F9996,S3398,medicalxpress.com,https://medicalxpress.com/rss-feed/search/?search=autism,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
 F9997,S3399,medicinasa.com.br,https://medicinasa.com.br/feed/,general,general,pt-BR,,rss,rss,verified,2026-11-19T13:08:15Z,draft,unknown,none,candidate,review_required,true
 F9998,S3400,mediconews.pt,https://mediconews.pt/feed/,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
-F9999,S3401,medium.com,https://medium.com/feed/@beautyon_,general,general,,,rss,,advertised,,draft,unknown,unknown,candidate,review_required,false
+F9999,S3401,medium.com,https://medium.com/feed/@beautyon_,general,general,,,rss,rss,verified,2026-11-21T08:48:31Z,draft,unknown,none,candidate,review_required,true

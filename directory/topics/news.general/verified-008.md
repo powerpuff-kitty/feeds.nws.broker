@@ -4,6 +4,35 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| NPR | [F1513](https://preview.nws.broker/api/endpoints/F1513) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510019/podcast.xml>) |
+| NPR | [F1514](https://preview.nws.broker/api/endpoints/F1514) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510026/podcast.xml>) |
+| NPR | [F1515](https://preview.nws.broker/api/endpoints/F1515) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510051/podcast.xml>) |
+| NPR | [F1518](https://preview.nws.broker/api/endpoints/F1518) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510200/podcast.xml>) |
+| NPR | [F1519](https://preview.nws.broker/api/endpoints/F1519) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510208/podcast.xml>) |
+| NPR | [F1521](https://preview.nws.broker/api/endpoints/F1521) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510282/podcast.xml>) |
+| NPR | [F1522](https://preview.nws.broker/api/endpoints/F1522) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510289/podcast.xml>) |
+| NPR | [F1523](https://preview.nws.broker/api/endpoints/F1523) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510292/podcast.xml>) |
+| NPR | [F1524](https://preview.nws.broker/api/endpoints/F1524) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510298/podcast.xml>) |
+| NPR | [F1525](https://preview.nws.broker/api/endpoints/F1525) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510299/podcast.xml>) |
+| NPR | [F1526](https://preview.nws.broker/api/endpoints/F1526) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510305/podcast.xml>) |
+| NPR | [F1527](https://preview.nws.broker/api/endpoints/F1527) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510306/podcast.xml>) |
+| NPR | [F1528](https://preview.nws.broker/api/endpoints/F1528) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510307/podcast.xml>) |
+| NPR | [F1529](https://preview.nws.broker/api/endpoints/F1529) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510308/podcast.xml>) |
+| NPR | [F1530](https://preview.nws.broker/api/endpoints/F1530) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510309/podcast.xml>) |
+| NPR | [F1532](https://preview.nws.broker/api/endpoints/F1532) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510311/podcast.xml>) |
+| NPR | [F1533](https://preview.nws.broker/api/endpoints/F1533) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510312/podcast.xml>) |
+| NPR | [F1535](https://preview.nws.broker/api/endpoints/F1535) | RSS | es | 2026-11-02 | [Feed](<https://feeds.npr.org/510315/podcast.xml>) |
+| NPR | [F1536](https://preview.nws.broker/api/endpoints/F1536) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510316/podcast.xml>) |
+| NPR | [F1538](https://preview.nws.broker/api/endpoints/F1538) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510318/podcast.xml>) |
+| NPR | [F1540](https://preview.nws.broker/api/endpoints/F1540) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510324/podcast.xml>) |
+| NPR | [F1541](https://preview.nws.broker/api/endpoints/F1541) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510325/podcast.xml>) |
+| NPR | [F1542](https://preview.nws.broker/api/endpoints/F1542) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510326/podcast.xml>) |
+| NPR | [F1543](https://preview.nws.broker/api/endpoints/F1543) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510333/podcast.xml>) |
+| NPR | [F1544](https://preview.nws.broker/api/endpoints/F1544) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510338/podcast.xml>) |
+| NPR | [F1545](https://preview.nws.broker/api/endpoints/F1545) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510343/podcast.xml>) |
+| NPR | [F1548](https://preview.nws.broker/api/endpoints/F1548) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510354/podcast.xml>) |
+| NPR | [F1550](https://preview.nws.broker/api/endpoints/F1550) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510356/podcast.xml>) |
+| NPR | [F1551](https://preview.nws.broker/api/endpoints/F1551) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510357/podcast.xml>) |
 | NPR | [F1552](https://preview.nws.broker/api/endpoints/F1552) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510360/podcast.xml>) |
 | NPR | [F1553](https://preview.nws.broker/api/endpoints/F1553) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.npr.org/510362/podcast.xml>) |
 | NPR | [F1554](https://preview.nws.broker/api/endpoints/F1554) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/510363/podcast.xml>) |
@@ -18,10 +47,14 @@
 | NPR | [F1564](https://preview.nws.broker/api/endpoints/F1564) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/92071316/rss.xml>) |
 | NPR | [F1565](https://preview.nws.broker/api/endpoints/F1565) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/94427042/rss.xml>) |
 | NPR | [F1566](https://preview.nws.broker/api/endpoints/F1566) | RSS | en | 2026-11-02 | [Feed](<https://feeds.npr.org/973275370/rss.xml>) |
+| NPR on Bluesky | [F27063](https://preview.nws.broker/api/endpoints/F27063) | RSS | und | 2026-11-21 | [Feed](<https://bsky.app/profile/did:plc:ln72v57ivz2g46uqf4xxqiuh/rss>) |
 | Népszava | [F26713](https://preview.nws.broker/api/endpoints/F26713) | RSS | hu-HU | 2026-11-20 | [Feed](<https://nepszava.hu/feed>) |
+| Núcleo Jornalismo | [F27117](https://preview.nws.broker/api/endpoints/F27117) | RSS | und | 2026-11-21 | [Feed](<https://nucleo.jor.br/reportagem/rss/>) |
+| Núcleo Jornalismo | [F27118](https://preview.nws.broker/api/endpoints/F27118) | RSS | und | 2026-11-21 | [Feed](<https://www.nucleo.jor.br/rss/>) |
 | O Democrata | [F25817](https://preview.nws.broker/api/endpoints/F25817) | RSS | pt-PT | 2026-11-19 | [Feed](<https://www.odemocratagb.com/?feed=rss2>) |
 | O País | [F26674](https://preview.nws.broker/api/endpoints/F26674) | RSS | pt-PT | 2026-11-20 | [Feed](<https://opais.co.mz/feed/>) |
 | Openpolis | [F25268](https://preview.nws.broker/api/endpoints/F25268) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.openpolis.it/feed/>) |
+| Opinión 51 | [F27119](https://preview.nws.broker/api/endpoints/F27119) | RSS | und | 2026-11-21 | [Feed](<https://www.opinion51.com/rss/>) |
 | Oslobođenje | [F25190](https://preview.nws.broker/api/endpoints/F25190) | RSS | bs-BA | 2026-11-19 | [Feed](<https://www.oslobodjenje.ba/rss/vijesti.xml>) |
 | Oslobođenje | [F25191](https://preview.nws.broker/api/endpoints/F25191) | RSS | bs-BA | 2026-11-19 | [Feed](<https://www.oslobodjenje.ba/rss/dijaspora.xml>) |
 | Oslobođenje | [F25192](https://preview.nws.broker/api/endpoints/F25192) | RSS | bs-BA | 2026-11-19 | [Feed](<https://www.oslobodjenje.ba/rss/zdravlje.xml>) |
@@ -38,6 +71,7 @@
 | Panorama | [F5123](https://preview.nws.broker/api/endpoints/F5123) | RSS | it-IT | 2026-11-02 | [Feed](<https://www.panorama.it/feeds/feed.rss>) |
 | Paris Star | [F5125](https://preview.nws.broker/api/endpoints/F5125) | RSS | en-US | 2026-11-02 | [Feed](<https://www.parisstaronline.com/feed>) |
 | Patroli Post | [F7454](https://preview.nws.broker/api/endpoints/F7454) | RSS | id | 2026-11-18 | [Feed](<https://patrolipost.com/feed/>) |
+| PBS News on Bluesky | [F27066](https://preview.nws.broker/api/endpoints/F27066) | RSS | und | 2026-11-21 | [Feed](<https://bsky.app/profile/did:plc:dtwphuxvtvimwtra5yh4ujt4/rss>) |
 | PerthNow | [F5129](https://preview.nws.broker/api/endpoints/F5129) | RSS | en-AU | 2026-11-02 | [Feed](<https://www.perthnow.com.au/news/feed>) |
 | PhilNews.XYZ | [F5130](https://preview.nws.broker/api/endpoints/F5130) | RSS | und | 2026-11-02 | [Feed](<https://www.philnews.xyz/feeds/posts/default?alt=rss>) |
 | philstar.com - RSS Headlines | [F5131](https://preview.nws.broker/api/endpoints/F5131) | RSS | en | 2026-11-02 | [Feed](<https://www.philstar.com/rss/headlines>) |
@@ -49,6 +83,7 @@
 | PravdaReport | [F5139](https://preview.nws.broker/api/endpoints/F5139) | RSS | en | 2026-11-02 | [Feed](<https://www.pravdareport.com/export.xml>) |
 | Premium Times Nigeria | [F5140](https://preview.nws.broker/api/endpoints/F5140) | RSS | en-GB | 2026-11-02 | [Feed](<https://www.premiumtimesng.com/feed>) |
 | Prizma | [F25311](https://preview.nws.broker/api/endpoints/F25311) | RSS | mk-MK | 2026-11-19 | [Feed](<https://prizma.mk/feed/>) |
+| ProPublica on Bluesky | [F27067](https://preview.nws.broker/api/endpoints/F27067) | RSS | und | 2026-11-21 | [Feed](<https://bsky.app/profile/did:plc:k4jt6heuiamymgi46yeuxtpt/rss>) |
 | ProPublica republishing policy | [F5161](https://preview.nws.broker/api/endpoints/F5161) | RSS | en-US | 2026-11-02 | [Feed](<https://www.propublica.org/feeds/propublica/main>) |
 | Quds News Network | [F26703](https://preview.nws.broker/api/endpoints/F26703) | RSS | ar | 2026-11-20 | [Feed](<https://qudsn.co/rss/category/all>) |
 | Radio Dabanga | [F25834](https://preview.nws.broker/api/endpoints/F25834) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.dabangasudan.org/en/feed>) |
@@ -119,38 +154,3 @@
 | Radio France Internationale | [F5264](https://preview.nws.broker/api/endpoints/F5264) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/afro-club-le-hit-des-platines/podcast>) |
 | Radio France Internationale | [F5265](https://preview.nws.broker/api/endpoints/F5265) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/afrofuturismes/podcast>) |
 | Radio France Internationale | [F5267](https://preview.nws.broker/api/endpoints/F5267) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/alors-on-dit-quoi/podcast>) |
-| Radio France Internationale | [F5268](https://preview.nws.broker/api/endpoints/F5268) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/alter-ego/podcast>) |
-| Radio France Internationale | [F5269](https://preview.nws.broker/api/endpoints/F5269) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/appels-actualit%C3%A9/podcast>) |
-| Radio France Internationale | [F5270](https://preview.nws.broker/api/endpoints/F5270) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/archives-afrique/podcast>) |
-| Radio France Internationale | [F5271](https://preview.nws.broker/api/endpoints/F5271) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/atelier-m%C3%A9dias/podcast>) |
-| Radio France Internationale | [F5272](https://preview.nws.broker/api/endpoints/F5272) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/aujourd-hui-%C3%A9conomie-portrait/podcast>) |
-| Radio France Internationale | [F5273](https://preview.nws.broker/api/endpoints/F5273) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/aujourd-hui-%C3%A9conomie/podcast>) |
-| Radio France Internationale | [F5274](https://preview.nws.broker/api/endpoints/F5274) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/bas-les-pattes/podcast>) |
-| Radio France Internationale | [F5275](https://preview.nws.broker/api/endpoints/F5275) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/basquiat-un-ticket-pour-l-afrique/podcast>) |
-| Radio France Internationale | [F5276](https://preview.nws.broker/api/endpoints/F5276) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/bonnes-pulsations-du-monde/podcast>) |
-| Radio France Internationale | [F5277](https://preview.nws.broker/api/endpoints/F5277) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/c-est-nature/podcast>) |
-| Radio France Internationale | [F5278](https://preview.nws.broker/api/endpoints/F5278) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/can-2024-la-chronique-de-joseph-antoine-bell/podcast>) |
-| Radio France Internationale | [F5279](https://preview.nws.broker/api/endpoints/F5279) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/can-chronique-de-joseph-antoine-bell/podcast>) |
-| Radio France Internationale | [F5280](https://preview.nws.broker/api/endpoints/F5280) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/carnet-de-sant%C3%A9/podcast>) |
-| Radio France Internationale | [F5281](https://preview.nws.broker/api/endpoints/F5281) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/carrefour-du-maghreb/podcast>) |
-| Radio France Internationale | [F5282](https://preview.nws.broker/api/endpoints/F5282) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/carrefour-europe/podcast>) |
-| Radio France Internationale | [F5283](https://preview.nws.broker/api/endpoints/F5283) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/cest-la-vie/podcast>) |
-| Radio France Internationale | [F5284](https://preview.nws.broker/api/endpoints/F5284) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/cest-pas-du-vent/podcast>) |
-| Radio France Internationale | [F5285](https://preview.nws.broker/api/endpoints/F5285) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/changer-d-air/podcast>) |
-| Radio France Internationale | [F5286](https://preview.nws.broker/api/endpoints/F5286) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/chemins-d-%C3%A9criture/podcast>) |
-| Radio France Internationale | [F5287](https://preview.nws.broker/api/endpoints/F5287) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/chronique-m%C3%A9dias/podcast>) |
-| Radio France Internationale | [F5288](https://preview.nws.broker/api/endpoints/F5288) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/chronique-mati%C3%A8res-premi%C3%A8res/podcast>) |
-| Radio France Internationale | [F5289](https://preview.nws.broker/api/endpoints/F5289) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/chronique-transports/podcast>) |
-| Radio France Internationale | [F5290](https://preview.nws.broker/api/endpoints/F5290) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/chroniques-confinement/podcast>) |
-| Radio France Internationale | [F5291](https://preview.nws.broker/api/endpoints/F5291) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/ciel-d-afrique/podcast>) |
-| Radio France Internationale | [F5292](https://preview.nws.broker/api/endpoints/F5292) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/cin%C3%A9astes-d-afrique/podcast>) |
-| Radio France Internationale | [F5293](https://preview.nws.broker/api/endpoints/F5293) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/conseil-sant%C3%A9/podcast>) |
-| Radio France Internationale | [F5294](https://preview.nws.broker/api/endpoints/F5294) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/contes-%C3%A0-%C3%A9couter/podcast>) |
-| Radio France Internationale | [F5295](https://preview.nws.broker/api/endpoints/F5295) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/couleurs-tropicales/podcast>) |
-| Radio France Internationale | [F5296](https://preview.nws.broker/api/endpoints/F5296) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/coulisses-cr%C3%A9ation/podcast>) |
-| Radio France Internationale | [F5297](https://preview.nws.broker/api/endpoints/F5297) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/d%C3%A9bat-africain/podcast>) |
-| Radio France Internationale | [F5298](https://preview.nws.broker/api/endpoints/F5298) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/d%C3%A9bat-jour/podcast>) |
-| Radio France Internationale | [F5299](https://preview.nws.broker/api/endpoints/F5299) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/d%C3%A9cryptage/podcast>) |
-| Radio France Internationale | [F5300](https://preview.nws.broker/api/endpoints/F5300) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/dans-l-intimit%C3%A9-des-dictateurs/podcast>) |
-| Radio France Internationale | [F5301](https://preview.nws.broker/api/endpoints/F5301) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/dans-la-peau/podcast>) |
-| Radio France Internationale | [F5302](https://preview.nws.broker/api/endpoints/F5302) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/des-refrains-pour-l-histoire/podcast>) |

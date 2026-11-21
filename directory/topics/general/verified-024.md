@@ -4,6 +4,36 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| The Beacon | [F23959](https://preview.nws.broker/api/endpoints/F23959) | RSS | en-US | 2026-11-19 | [Feed](<https://thebeaconnews.org/feed/>) |
+| The Beauty Look Book | [F2755](https://preview.nws.broker/api/endpoints/F2755) | RSS | en-US | 2026-11-02 | [Feed](<https://thebeautylookbook.com/feed>) |
+| The Berkeley Artificial Intelligence Research Blog | [F0586](https://preview.nws.broker/api/endpoints/F0586) | RSS | und | 2026-11-01 | [Feed](<https://bair.berkeley.edu/blog/feed.xml>) |
+| The Bloggess | [F2756](https://preview.nws.broker/api/endpoints/F2756) | RSS | en-US | 2026-11-02 | [Feed](<https://thebloggess.com/feed/>) |
+| The Bluegrass Blues Podcast | [F20787](https://preview.nws.broker/api/endpoints/F20787) | RSS | en | 2026-11-19 | [Feed](<https://thebluegrassbluespodcast.com/feed/>) |
+| The Bocas Breeze | [F23964](https://preview.nws.broker/api/endpoints/F23964) | RSS | en-US | 2026-11-19 | [Feed](<https://thebocasbreeze.com/feed/>) |
+| The Breakfast Post | [F23965](https://preview.nws.broker/api/endpoints/F23965) | RSS | en | 2026-11-19 | [Feed](<https://thebreakfastpost.com/feed>) |
+| The Cambodia Daily Khmer | [F13482](https://preview.nws.broker/api/endpoints/F13482) | RSS | en-US | 2026-11-19 | [Feed](<https://www.cambodiadaily.com/feed/>) |
+| The Carbon Curve | [F18964](https://preview.nws.broker/api/endpoints/F18964) | RSS | en | 2026-11-19 | [Feed](<https://carboncurve.substack.com/feed>) |
+| The Catholic Register &#124; RSS Feed | [F13523](https://preview.nws.broker/api/endpoints/F13523) | RSS | und | 2026-11-19 | [Feed](<https://www.catholicregister.org/rss>) |
+| The Charlotte Gazette | [F23969](https://preview.nws.broker/api/endpoints/F23969) | RSS | en-US | 2026-11-19 | [Feed](<https://thecharlottegazette.com/feed>) |
+| The Chester blog | [F23970](https://preview.nws.broker/api/endpoints/F23970) | RSS | en | 2026-11-19 | [Feed](<https://thechesterblog.com/feed/>) |
+| The Common Table | [F20792](https://preview.nws.broker/api/endpoints/F20792) | RSS | en-GB | 2026-11-19 | [Feed](<https://thecommontable.eu/feed/>) |
+| The Computer &amp; Technology Network | [F21302](https://preview.nws.broker/api/endpoints/F21302) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.ctnet.co.uk/feed/>) |
+| The Conversation Weekly | [F1269](https://preview.nws.broker/api/endpoints/F1269) | RSS | en | 2026-11-02 | [Feed](<https://feeds.acast.com/public/shows/60087127b9687759d637bade>) |
+| The Coonamble Times | [F21292](https://preview.nws.broker/api/endpoints/F21292) | RSS | en-AU | 2026-11-19 | [Feed](<https://www.coonambletimes.com.au/feed/>) |
+| The Cougar | [F23975](https://preview.nws.broker/api/endpoints/F23975) | RSS | en-US | 2026-11-19 | [Feed](<https://thedailycougar.com/feed/>) |
+| The Crawfish Boxes | [F13728](https://preview.nws.broker/api/endpoints/F13728) | Atom | en-US | 2026-11-19 | [Feed](<https://www.crawfishboxes.com/rss/index.xml>) |
+| The Cullman Tribune | [F24547](https://preview.nws.broker/api/endpoints/F24547) | RSS | en-US | 2026-11-19 | [Feed](<https://www.cullmantribune.com/feed/>) |
+| The Cyber Show | [F19025](https://preview.nws.broker/api/endpoints/F19025) | RSS | en-GB | 2026-11-19 | [Feed](<https://cybershow.uk/rss/feed.xml>) |
+| The Daily Horn | [F20798](https://preview.nws.broker/api/endpoints/F20798) | RSS | en-US | 2026-11-19 | [Feed](<https://thedailyhorn.com/feed/>) |
+| The Daily Iberian | [F20799](https://preview.nws.broker/api/endpoints/F20799) | RSS | en-US | 2026-11-19 | [Feed](<https://thedailyiberian.com/feed>) |
+| The Daily Plasma | [F23976](https://preview.nws.broker/api/endpoints/F23976) | RSS | en | 2026-11-19 | [Feed](<https://thedailyplasma.blog/feed/>) |
+| The Daily WTF | [F0209](https://preview.nws.broker/api/endpoints/F0209) | RSS | und | 2026-11-02 | — |
+| The Danish Dream | [F23978](https://preview.nws.broker/api/endpoints/F23978) | RSS | en-US | 2026-11-19 | [Feed](<https://thedanishdream.com/feed/>) |
+| The Digital Labyrinth | [F23802](https://preview.nws.broker/api/endpoints/F23802) | RSS | en | 2026-11-19 | [Feed](<https://somerandomstuff1.wordpress.com/feed/>) |
+| The Doglady&#x27;s Den | [F23982](https://preview.nws.broker/api/endpoints/F23982) | RSS | en-CA | 2026-11-19 | [Feed](<https://thedogladysden.com/feed/>) |
+| The Drunken Skeptic | [F23983](https://preview.nws.broker/api/endpoints/F23983) | RSS | en | 2026-11-19 | [Feed](<https://thedrunkenskeptic.wordpress.com/feed/>) |
+| The Eclectic Light Company | [F19085](https://preview.nws.broker/api/endpoints/F19085) | RSS | en | 2026-11-19 | [Feed](<https://eclecticlight.co/feed>) |
+| The ENGAGE Podcast | [F19118](https://preview.nws.broker/api/endpoints/F19118) | RSS | en | 2026-11-19 | [Feed](<https://fast.wistia.com/channels/dk8mqqw1wi/rss>) |
 | The Ethan Hein Blog | [F24599](https://preview.nws.broker/api/endpoints/F24599) | RSS | en-US | 2026-11-19 | [Feed](<https://www.ethanhein.com/wp/feed>) |
 | The Everything Feed - All Packet Pushers Pods | [F19439](https://preview.nws.broker/api/endpoints/F19439) | RSS | en | 2026-11-19 | [Feed](<https://feeds.packetpushers.net/packetpushersfullfeed/>) |
 | The Excellence Review | [F20808](https://preview.nws.broker/api/endpoints/F20808) | RSS | en-US | 2026-11-19 | [Feed](<https://theexcellencereview.com/feed/>) |
@@ -124,33 +154,3 @@
 | The Worcester Observer | [F24307](https://preview.nws.broker/api/endpoints/F24307) | RSS | en-GB | 2026-11-19 | [Feed](<https://worcesterobserver.co.uk/rss-feed/>) |
 | The Writings of Chad McElligott | [F18976](https://preview.nws.broker/api/endpoints/F18976) | Atom | und | 2026-11-19 | [Feed](<https://chadxz.dev/feed.xml>) |
 | The Zimbabwe Mail | [F24055](https://preview.nws.broker/api/endpoints/F24055) | RSS | en-US | 2026-11-19 | [Feed](<https://thezimbabwemail.com/feed/>) |
-| theboar.org | [F23963](https://preview.nws.broker/api/endpoints/F23963) | RSS | en-GB | 2026-11-19 | [Feed](<https://theboar.org/news/feed>) |
-| theconversation.com | [F12263](https://preview.nws.broker/api/endpoints/F12263) | Atom | en-US | 2026-11-19 | [Feed](<https://theconversation.com/topics/gdpr-47073/articles.atom>) |
-| thecurrentga.org | [F12274](https://preview.nws.broker/api/endpoints/F12274) | RSS | en-US | 2026-11-19 | [Feed](<https://thecurrentga.org/feed/>) |
-| thedevilspanties.com | [F20801](https://preview.nws.broker/api/endpoints/F20801) | RSS | en-US | 2026-11-19 | [Feed](<https://thedevilspanties.com/feed>) |
-| thedfirreport.com | [F12277](https://preview.nws.broker/api/endpoints/F12277) | RSS | en-US | 2026-11-19 | [Feed](<https://thedfirreport.com/feed/>) |
-| thediplomat.com | [F12284](https://preview.nws.broker/api/endpoints/F12284) | RSS | en-US | 2026-11-19 | [Feed](<https://thediplomat.com/topics/economy/feed>) |
-| TheGreenTube | [F24210](https://preview.nws.broker/api/endpoints/F24210) | RSS | und | 2026-11-19 | [Feed](<https://videos.thegreenwizard.win/feeds/videos.xml>) |
-| theInspireSpy | [F20823](https://preview.nws.broker/api/endpoints/F20823) | RSS | en-US | 2026-11-19 | [Feed](<https://theinspirespy.com/feed/>) |
-| thelaker.ca | [F24000](https://preview.nws.broker/api/endpoints/F24000) | RSS | en-US | 2026-11-19 | [Feed](<https://thelaker.ca/feed/>) |
-| themagicalbuffet.com | [F24006](https://preview.nws.broker/api/endpoints/F24006) | RSS | en-US | 2026-11-19 | [Feed](<https://themagicalbuffet.com/wordpress/index.php/feed/>) |
-| themorningtelegraph.com | [F20841](https://preview.nws.broker/api/endpoints/F20841) | RSS | en-US | 2026-11-19 | [Feed](<https://themorningtelegraph.com/feed/>) |
-| thenewstack.io | [F12333](https://preview.nws.broker/api/endpoints/F12333) | RSS | en-US | 2026-11-19 | [Feed](<https://thenewstack.io/feed/>) |
-| thenybble.de | [F20853](https://preview.nws.broker/api/endpoints/F20853) | RSS | en-US | 2026-11-19 | [Feed](<https://thenybble.de/index.xml>) |
-| theobjective.com | [F12335](https://preview.nws.broker/api/endpoints/F12335) | RSS | es | 2026-11-19 | [Feed](<https://theobjective.com/etiqueta/personas-sin-hogar/feed/>) |
-| THEPHILBIZNEWS | [F20859](https://preview.nws.broker/api/endpoints/F20859) | RSS | en-US | 2026-11-19 | [Feed](<https://thephilbiznews.com/feed/>) |
-| thepopbreak.com | [F24031](https://preview.nws.broker/api/endpoints/F24031) | RSS | en-US | 2026-11-19 | [Feed](<https://thepopbreak.com/feed/>) |
-| theprogmind.com | [F24034](https://preview.nws.broker/api/endpoints/F24034) | Atom | en | 2026-11-19 | [Feed](<https://theprogmind.com/feed/atom/>) |
-| thesmartcave.com | [F12359](https://preview.nws.broker/api/endpoints/F12359) | RSS | en-US | 2026-11-19 | [Feed](<https://thesmartcave.com/feed/>) |
-| thesun.my | [F12364](https://preview.nws.broker/api/endpoints/F12364) | RSS | en-GB | 2026-11-19 | [Feed](<https://thesun.my/business/local-business/feed/>) |
-| thethaiger.com | [F12376](https://preview.nws.broker/api/endpoints/F12376) | RSS | th | 2026-11-19 | [Feed](<https://thethaiger.com/th/entertainment/feed/>) |
-| theweek.com | [F20884](https://preview.nws.broker/api/endpoints/F20884) | RSS | en | 2026-11-19 | [Feed](<https://theweek.com/feeds.xml>) |
-| Think Different | [F22769](https://preview.nws.broker/api/endpoints/F22769) | Atom | en | 2026-11-19 | [Feed](<https://flowchainsensei.wordpress.com/atom>) |
-| THINK Magazine | [F20896](https://preview.nws.broker/api/endpoints/F20896) | RSS | en-GB | 2026-11-19 | [Feed](<https://thinkmagazine.mt/feed/>) |
-| Thinking about Science with David Hukins | [F20892](https://preview.nws.broker/api/endpoints/F20892) | RSS | en | 2026-11-19 | [Feed](<https://thinking-about-science.com/feed>) |
-| Thinking Complete | [F25151](https://preview.nws.broker/api/endpoints/F25151) | Atom | und | 2026-11-19 | [Feed](<https://www.thinkingcomplete.com/feeds/posts/default>) |
-| Thinking in Systems | [F21453](https://preview.nws.broker/api/endpoints/F21453) | RSS | en | 2026-11-19 | [Feed](<https://www.jelfs.org/blog/feed/>) |
-| ThinkPol | [F20897](https://preview.nws.broker/api/endpoints/F20897) | RSS | und | 2026-11-19 | [Feed](<https://thinkpol.ca/feed/>) |
-| Third Coast Review | [F24056](https://preview.nws.broker/api/endpoints/F24056) | RSS | en-US | 2026-11-19 | [Feed](<https://thirdcoastreview.com/feed>) |
-| This Grandpa Blogs | [F23322](https://preview.nws.broker/api/endpoints/F23322) | RSS | en-US | 2026-11-19 | [Feed](<https://quotes.thisgrandpablogs.com/feed/>) |
-| THIS GRANDPA BLOGS | [F24058](https://preview.nws.broker/api/endpoints/F24058) | RSS | en-US | 2026-11-19 | [Feed](<https://thisgrandpablogs.com/feed/>) |

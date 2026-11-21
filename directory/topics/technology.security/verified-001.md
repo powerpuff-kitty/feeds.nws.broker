@@ -4,6 +4,8 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| ANSSI on PeerTube | [F27175](https://preview.nws.broker/api/endpoints/F27175) | RSS | und | 2026-11-21 | [Feed](<https://tube.numerique.gouv.fr/feeds/videos.xml?videoChannelId=367>) |
+| Bundesamt für Sicherheit in der Informationstechnik on Mastodon | [F27137](https://preview.nws.broker/api/endpoints/F27137) | RSS | und | 2026-11-21 | [Feed](<https://social.bund.de/@bsi.rss>) |
 | CERT-EU public security publications | [F1133](https://preview.nws.broker/api/endpoints/F1133) | RSS | en-GB | 2026-11-01 | [Feed](<https://cert.europa.eu/publications/security-advisories-rss>) |
 | CERT-EU public security publications | [F1134](https://preview.nws.broker/api/endpoints/F1134) | RSS | en-GB | 2026-11-02 | [Feed](<https://cert.europa.eu/publications/threat-intelligence-rss>) |
 | CERT-FR | [F1125](https://preview.nws.broker/api/endpoints/F1125) | RSS | fr-FR | 2026-11-01 | [Feed](<https://cert.cyber.gouv.fr/actualite/feed/>) |

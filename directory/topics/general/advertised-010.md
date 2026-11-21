@@ -4,23 +4,6 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
-| electrek.co | [F8692](https://preview.nws.broker/api/endpoints/F8692) | RSS | und | — | — |
-| electriccarsreport.com | [F8693](https://preview.nws.broker/api/endpoints/F8693) | RSS | und | — | — |
-| eleftherostypos.gr | [F8695](https://preview.nws.broker/api/endpoints/F8695) | RSS | und | — | — |
-| element.io | [F8696](https://preview.nws.broker/api/endpoints/F8696) | RSS | und | — | — |
-| elestimulo.com | [F8697](https://preview.nws.broker/api/endpoints/F8697) | RSS | und | — | — |
-| elheddaftv.com | [F8699](https://preview.nws.broker/api/endpoints/F8699) | RSS | und | — | — |
-| elkement.art | [F22250](https://preview.nws.broker/api/endpoints/F22250) | RSS | und | — | — |
-| elkodaily.com | [F8701](https://preview.nws.broker/api/endpoints/F8701) | RSS | und | — | — |
-| ellibero.cl | [F8702](https://preview.nws.broker/api/endpoints/F8702) | RSS | und | — | — |
-| elmundo.cr | [F8703](https://preview.nws.broker/api/endpoints/F8703) | RSS | und | — | — |
-| elnacional.com.do | [F8704](https://preview.nws.broker/api/endpoints/F8704) | RSS | und | — | — |
-| elnacional.com.do | [F8705](https://preview.nws.broker/api/endpoints/F8705) | RSS | und | — | — |
-| elnuevodiario.com.do | [F8707](https://preview.nws.broker/api/endpoints/F8707) | RSS | und | — | — |
-| elperiodiquito.com | [F8709](https://preview.nws.broker/api/endpoints/F8709) | RSS | und | — | — |
-| elshinta.com | [F8712](https://preview.nws.broker/api/endpoints/F8712) | RSS | und | — | — |
-| elsigloweb.com | [F8713](https://preview.nws.broker/api/endpoints/F8713) | RSS | und | — | — |
-| elsigloweb.com | [F8714](https://preview.nws.broker/api/endpoints/F8714) | RSS | und | — | — |
 | elsigloweb.com | [F8715](https://preview.nws.broker/api/endpoints/F8715) | RSS | und | — | — |
 | elsigloweb.com | [F8716](https://preview.nws.broker/api/endpoints/F8716) | RSS | und | — | — |
 | elsigloweb.com | [F8717](https://preview.nws.broker/api/endpoints/F8717) | RSS | und | — | — |
@@ -153,4 +136,21 @@
 | europeansting.com | [F8852](https://preview.nws.broker/api/endpoints/F8852) | RSS | und | — | — |
 | europeantimes.news | [F8853](https://preview.nws.broker/api/endpoints/F8853) | RSS | und | — | — |
 | europeanwesternbalkans.com | [F8854](https://preview.nws.broker/api/endpoints/F8854) | RSS | und | — | — |
-| eurowaves.substack.com | [F8857](https://preview.nws.broker/api/endpoints/F8857) | RSS | und | — | — |
+| evcentral.com.au | [F8859](https://preview.nws.broker/api/endpoints/F8859) | RSS | und | — | — |
+| everscale.substack.com | [F19107](https://preview.nws.broker/api/endpoints/F19107) | RSS | und | — | — |
+| every.to | [F8860](https://preview.nws.broker/api/endpoints/F8860) | RSS | und | — | — |
+| everydayislikewednesday.blogspot.com | [F22270](https://preview.nws.broker/api/endpoints/F22270) | RSS | und | — | — |
+| evidence-based-science.blogspot.com | [F22271](https://preview.nws.broker/api/endpoints/F22271) | RSS | und | — | — |
+| evrimagaci.org | [F19108](https://preview.nws.broker/api/endpoints/F19108) | RSS | und | — | — |
+| evz.ro | [F8862](https://preview.nws.broker/api/endpoints/F8862) | RSS | und | — | — |
+| ewabs.podbean.com | [F19109](https://preview.nws.broker/api/endpoints/F19109) | RSS | und | — | — |
+| excited-pixels.com | [F19111](https://preview.nws.broker/api/endpoints/F19111) | RSS | und | — | — |
+| expansion.mx | [F8863](https://preview.nws.broker/api/endpoints/F8863) | RSS | und | — | — |
+| export.arxiv.org | [F8864](https://preview.nws.broker/api/endpoints/F8864) | RSS | und | — | — |
+| export.arxiv.org | [F8865](https://preview.nws.broker/api/endpoints/F8865) | RSS | und | — | — |
+| export.arxiv.org | [F8866](https://preview.nws.broker/api/endpoints/F8866) | RSS | und | — | — |
+| export.arxiv.org | [F8868](https://preview.nws.broker/api/endpoints/F8868) | RSS | und | — | — |
+| export.arxiv.org | [F8869](https://preview.nws.broker/api/endpoints/F8869) | RSS | und | — | — |
+| express.24sata.hr | [F8870](https://preview.nws.broker/api/endpoints/F8870) | RSS | und | — | — |
+| exxpress.at | [F8871](https://preview.nws.broker/api/endpoints/F8871) | RSS | und | — | — |
+| ezz.sh | [F19114](https://preview.nws.broker/api/endpoints/F19114) | RSS | und | — | — |

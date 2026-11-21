@@ -4,14 +4,6 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
-| bikebiz.com | [F7980](https://preview.nws.broker/api/endpoints/F7980) | RSS | und | — | — |
-| bikerumor.com | [F7981](https://preview.nws.broker/api/endpoints/F7981) | RSS | und | — | — |
-| bildungsserver.berlin-brandenburg.de | [F7982](https://preview.nws.broker/api/endpoints/F7982) | RSS | und | — | — |
-| bildungstaxi.de | [F22169](https://preview.nws.broker/api/endpoints/F22169) | RSS | und | — | — |
-| biofuels-news.com | [F7987](https://preview.nws.broker/api/endpoints/F7987) | RSS | und | — | — |
-| bitbo.io | [F7993](https://preview.nws.broker/api/endpoints/F7993) | RSS | und | — | — |
-| bitcoin-takeover.com | [F18898](https://preview.nws.broker/api/endpoints/F18898) | RSS | und | — | — |
-| bitcoin.org | [F7995](https://preview.nws.broker/api/endpoints/F7995) | RSS | und | — | — |
 | bitcoin.org | [F7996](https://preview.nws.broker/api/endpoints/F7996) | RSS | und | — | — |
 | bitcoin.org | [F7997](https://preview.nws.broker/api/endpoints/F7997) | RSS | und | — | — |
 | bitcoincore.org | [F8001](https://preview.nws.broker/api/endpoints/F8001) | RSS | und | — | — |
@@ -99,8 +91,6 @@
 | bobdahacker.com | [F18934](https://preview.nws.broker/api/endpoints/F18934) | RSS | und | — | — |
 | bobmschwartz.com | [F18936](https://preview.nws.broker/api/endpoints/F18936) | Atom | und | — | — |
 | boereport.com | [F8164](https://preview.nws.broker/api/endpoints/F8164) | RSS | und | — | — |
-| boids.substack.com | [F18937](https://preview.nws.broker/api/endpoints/F18937) | RSS | und | — | — |
-| boilerroom.substack.com | [F18938](https://preview.nws.broker/api/endpoints/F18938) | RSS | und | — | — |
 | boilingsteam.com | [F8165](https://preview.nws.broker/api/endpoints/F8165) | RSS | und | — | — |
 | bokanews.me | [F8166](https://preview.nws.broker/api/endpoints/F8166) | RSS | und | — | — |
 | bolesblogs.com | [F22180](https://preview.nws.broker/api/endpoints/F22180) | RSS | und | — | — |
@@ -123,7 +113,6 @@
 | boxthislap.org | [F8187](https://preview.nws.broker/api/endpoints/F8187) | RSS | und | — | — |
 | boxthislap.org | [F8189](https://preview.nws.broker/api/endpoints/F8189) | RSS | und | — | — |
 | boxthislap.org | [F8190](https://preview.nws.broker/api/endpoints/F8190) | RSS | und | — | — |
-| bradbowden0.substack.com | [F18939](https://preview.nws.broker/api/endpoints/F18939) | RSS | und | — | — |
 | bradfrost.com | [F18940](https://preview.nws.broker/api/endpoints/F18940) | RSS | und | — | — |
 | bramptonist.com | [F8191](https://preview.nws.broker/api/endpoints/F8191) | RSS | und | — | — |
 | branschaktuellt.se | [F8192](https://preview.nws.broker/api/endpoints/F8192) | RSS | und | — | — |
@@ -131,7 +120,6 @@
 | braveneweurope.com | [F8194](https://preview.nws.broker/api/endpoints/F8194) | RSS | und | — | — |
 | brennan.day | [F18941](https://preview.nws.broker/api/endpoints/F18941) | RSS | und | — | — |
 | brianschrader.com | [F18942](https://preview.nws.broker/api/endpoints/F18942) | RSS | und | — | — |
-| brianselzer.substack.com | [F18943](https://preview.nws.broker/api/endpoints/F18943) | RSS | und | — | — |
 | bridgemi.com | [F8197](https://preview.nws.broker/api/endpoints/F8197) | RSS | und | — | — |
 | brief.bismarckanalysis.com | [F18944](https://preview.nws.broker/api/endpoints/F18944) | RSS | und | — | — |
 | bringmethenews.com | [F8199](https://preview.nws.broker/api/endpoints/F8199) | RSS | und | — | — |
@@ -145,12 +133,24 @@
 | broen-danmark.dk | [F8207](https://preview.nws.broker/api/endpoints/F8207) | RSS | und | — | — |
 | bruneinewsagency.com | [F8208](https://preview.nws.broker/api/endpoints/F8208) | RSS | und | — | — |
 | brusselsmorning.com | [F8209](https://preview.nws.broker/api/endpoints/F8209) | RSS | und | — | — |
-| bsky.app | [F8211](https://preview.nws.broker/api/endpoints/F8211) | RSS | und | — | — |
 | btvnovinite.bg | [F8212](https://preview.nws.broker/api/endpoints/F8212) | RSS | und | — | — |
 | buckrail.com | [F8213](https://preview.nws.broker/api/endpoints/F8213) | RSS | und | — | — |
 | budapest.hu | [F8214](https://preview.nws.broker/api/endpoints/F8214) | RSS | und | — | — |
 | buenosairesherald.com | [F8215](https://preview.nws.broker/api/endpoints/F8215) | RSS | und | — | — |
 | bugunkibris.com | [F8216](https://preview.nws.broker/api/endpoints/F8216) | RSS | und | — | — |
-| bullparade.substack.com | [F18949](https://preview.nws.broker/api/endpoints/F18949) | RSS | und | — | — |
 | burgasnews.com | [F8217](https://preview.nws.broker/api/endpoints/F8217) | RSS | und | — | — |
 | burkina24.com | [F8218](https://preview.nws.broker/api/endpoints/F8218) | RSS | und | — | — |
+| burmese.voanews.com | [F8220](https://preview.nws.broker/api/endpoints/F8220) | RSS | und | — | — |
+| burnafterrunningrpg.com | [F8221](https://preview.nws.broker/api/endpoints/F8221) | RSS | und | — | — |
+| bus2bus.podigee.io | [F18950](https://preview.nws.broker/api/endpoints/F18950) | RSS | und | — | — |
+| business.nikkei.com | [F8223](https://preview.nws.broker/api/endpoints/F8223) | RSS | und | — | — |
+| business.nikkei.com | [F8224](https://preview.nws.broker/api/endpoints/F8224) | RSS | und | — | — |
+| businessam.be | [F8225](https://preview.nws.broker/api/endpoints/F8225) | RSS | und | — | — |
+| businessden.com | [F8227](https://preview.nws.broker/api/endpoints/F8227) | RSS | und | — | — |
+| businessengineer.ai | [F18951](https://preview.nws.broker/api/endpoints/F18951) | RSS | und | — | — |
+| businessinsider.com.pl | [F8228](https://preview.nws.broker/api/endpoints/F8228) | RSS | und | — | — |
+| businessintelligence.mo | [F8229](https://preview.nws.broker/api/endpoints/F8229) | RSS | und | — | — |
+| businessjournalism.podomatic.com | [F18952](https://preview.nws.broker/api/endpoints/F18952) | RSS | und | — | — |
+| businessnews.com.tn | [F8230](https://preview.nws.broker/api/endpoints/F8230) | RSS | und | — | — |
+| businessof.technology | [F18953](https://preview.nws.broker/api/endpoints/F18953) | RSS | und | — | — |
+| buzzmachine.com | [F18954](https://preview.nws.broker/api/endpoints/F18954) | RSS | und | — | — |

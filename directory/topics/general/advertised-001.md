@@ -37,7 +37,6 @@
 | abcnews.al | [F7639](https://preview.nws.broker/api/endpoints/F7639) | RSS | und | — | — |
 | abcop.libsyn.com | [F21846](https://preview.nws.broker/api/endpoints/F21846) | RSS | und | — | — |
 | ableandthewolf.com | [F18622](https://preview.nws.broker/api/endpoints/F18622) | RSS | und | — | — |
-| abparenting.substack.com | [F18623](https://preview.nws.broker/api/endpoints/F18623) | RSS | und | — | — |
 | abundance.substack.com | [F18625](https://preview.nws.broker/api/endpoints/F18625) | RSS | und | — | — |
 | abwassertalk.podigee.io | [F18626](https://preview.nws.broker/api/endpoints/F18626) | RSS | und | — | — |
 | academicwomanamplified.libsyn.com | [F21850](https://preview.nws.broker/api/endpoints/F21850) | RSS | und | — | — |
@@ -122,7 +121,6 @@
 | aktuelt.oslo.kommune.no | [F7719](https://preview.nws.broker/api/endpoints/F7719) | RSS | und | — | — |
 | al3omk.com | [F7720](https://preview.nws.broker/api/endpoints/F7720) | RSS | und | — | — |
 | albertonews.com | [F7721](https://preview.nws.broker/api/endpoints/F7721) | RSS | und | — | — |
-| alexanderrusso.substack.com | [F18649](https://preview.nws.broker/api/endpoints/F18649) | RSS | und | — | — |
 | alfatv.mk | [F7726](https://preview.nws.broker/api/endpoints/F7726) | RSS | und | — | — |
 | algeriemaintenant.dz | [F7727](https://preview.nws.broker/api/endpoints/F7727) | RSS | und | — | — |
 | alhudood.net | [F7728](https://preview.nws.broker/api/endpoints/F7728) | RSS | und | — | — |
@@ -154,3 +152,5 @@
 | amerika21.de | [F7754](https://preview.nws.broker/api/endpoints/F7754) | RSS | und | — | — |
 | amharic.zehabesha.com | [F7757](https://preview.nws.broker/api/endpoints/F7757) | RSS | und | — | — |
 | amigavibes.lepodcast.fr | [F21885](https://preview.nws.broker/api/endpoints/F21885) | RSS | und | — | — |
+| aminata.com | [F7758](https://preview.nws.broker/api/endpoints/F7758) | RSS | und | — | — |
+| amsat-uk.org | [F7759](https://preview.nws.broker/api/endpoints/F7759) | RSS | und | — | — |

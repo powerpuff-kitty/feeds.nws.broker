@@ -4,6 +4,39 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| WordPress feeds | [F3137](https://preview.nws.broker/api/endpoints/F3137) | RSS | en | 2026-11-02 | [Feed](<https://wordpress.com/blog/tag/podcasts/feed/>) |
+| WordPress feeds | [F3138](https://preview.nws.broker/api/endpoints/F3138) | RSS | en | 2026-11-02 | [Feed](<https://wordpress.com/blog/tag/posting/feed/>) |
+| WordPress feeds | [F3139](https://preview.nws.broker/api/endpoints/F3139) | RSS | en | 2026-11-02 | [Feed](<https://wordpress.com/blog/tag/seo/feed/>) |
+| WordPress feeds | [F3140](https://preview.nws.broker/api/endpoints/F3140) | RSS | en | 2026-11-02 | [Feed](<https://wordpress.com/blog/tag/spotify/feed/>) |
+| WordPress feeds | [F3141](https://preview.nws.broker/api/endpoints/F3141) | RSS | en | 2026-11-02 | [Feed](<https://wordpress.com/blog/tag/state-of-the-word/feed/>) |
+| WordPress feeds | [F3142](https://preview.nws.broker/api/endpoints/F3142) | RSS | en | 2026-11-02 | [Feed](<https://wordpress.com/blog/tag/themes/feed/>) |
+| WordPress feeds | [F3143](https://preview.nws.broker/api/endpoints/F3143) | RSS | en | 2026-11-02 | [Feed](<https://wordpress.com/blog/tag/twenty-twenty-one/feed/>) |
+| WordPress feeds | [F3144](https://preview.nws.broker/api/endpoints/F3144) | RSS | en | 2026-11-02 | [Feed](<https://wordpress.com/blog/tag/typepad/feed/>) |
+| WordPress feeds | [F3145](https://preview.nws.broker/api/endpoints/F3145) | RSS | en | 2026-11-02 | [Feed](<https://wordpress.com/blog/tag/videos/feed/>) |
+| WordPress feeds | [F3146](https://preview.nws.broker/api/endpoints/F3146) | RSS | en | 2026-11-02 | [Feed](<https://wordpress.com/blog/tag/website-design/feed/>) |
+| WordPress feeds | [F3147](https://preview.nws.broker/api/endpoints/F3147) | RSS | en | 2026-11-02 | [Feed](<https://wordpress.com/blog/tag/woocommerce/feed/>) |
+| WordPress feeds | [F3148](https://preview.nws.broker/api/endpoints/F3148) | RSS | en | 2026-11-02 | [Feed](<https://wordpress.com/blog/tag/wordpress-com/feed/>) |
+| WordPress feeds | [F3149](https://preview.nws.broker/api/endpoints/F3149) | RSS | en | 2026-11-02 | [Feed](<https://wordpress.com/blog/tag/wordpress/feed/>) |
+| WordPress feeds | [F3150](https://preview.nws.broker/api/endpoints/F3150) | RSS | en | 2026-11-02 | [Feed](<https://wordpress.com/blog/tag/wordpresscom/feed/>) |
+| WordPress feeds | [F3151](https://preview.nws.broker/api/endpoints/F3151) | RSS | de-DE | 2026-11-02 | [Feed](<https://wordpress.com/de/go/feed/>) |
+| WordPress feeds | [F3153](https://preview.nws.broker/api/endpoints/F3153) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/es/blog/2024/03/19/nuevo-lanzamiento-despliegues-de-github/feed/>) |
+| WordPress feeds | [F3154](https://preview.nws.broker/api/endpoints/F3154) | RSS | es | 2026-11-02 | [Feed](<https://wordpress.com/es/blog/author/magdarium/feed/>) |
+| WordPress feeds | [F3155](https://preview.nws.broker/api/endpoints/F3155) | RSS | es | 2026-11-02 | [Feed](<https://wordpress.com/es/blog/category/noticias/feed/>) |
+| WordPress feeds | [F3156](https://preview.nws.broker/api/endpoints/F3156) | RSS | es | 2026-11-02 | [Feed](<https://wordpress.com/es/blog/feed/>) |
+| WordPress feeds | [F3157](https://preview.nws.broker/api/endpoints/F3157) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/fr/blog/2021/09/13/prenez-lhabitude-de-bloguer-grace-aux-rappels-de-votre-application-wordpress/feed/>) |
+| WordPress feeds | [F3158](https://preview.nws.broker/api/endpoints/F3158) | RSS | fr-FR | 2026-11-02 | [Feed](<https://wordpress.com/fr/blog/author/alexgrebenyuk/feed/>) |
+| WordPress feeds | [F3159](https://preview.nws.broker/api/endpoints/F3159) | RSS | fr-FR | 2026-11-02 | [Feed](<https://wordpress.com/fr/blog/author/anamhassancontent/feed/>) |
+| WordPress feeds | [F3160](https://preview.nws.broker/api/endpoints/F3160) | RSS | fr-FR | 2026-11-02 | [Feed](<https://wordpress.com/fr/blog/author/lepagejames/feed/>) |
+| WordPress feeds | [F3161](https://preview.nws.broker/api/endpoints/F3161) | RSS | fr-FR | 2026-11-02 | [Feed](<https://wordpress.com/fr/blog/author/robertbpugh/feed/>) |
+| WordPress feeds | [F3162](https://preview.nws.broker/api/endpoints/F3162) | RSS | fr-FR | 2026-11-02 | [Feed](<https://wordpress.com/fr/blog/author/wpcom/feed/>) |
+| WordPress feeds | [F3163](https://preview.nws.broker/api/endpoints/F3163) | RSS | fr-FR | 2026-11-02 | [Feed](<https://wordpress.com/fr/blog/category/astuces/feed/>) |
+| WordPress feeds | [F3164](https://preview.nws.broker/api/endpoints/F3164) | RSS | fr-FR | 2026-11-02 | [Feed](<https://wordpress.com/fr/blog/category/communaute/feed/>) |
+| WordPress feeds | [F3165](https://preview.nws.broker/api/endpoints/F3165) | RSS | fr-FR | 2026-11-02 | [Feed](<https://wordpress.com/fr/blog/category/developpement/feed/>) |
+| WordPress feeds | [F3166](https://preview.nws.broker/api/endpoints/F3166) | RSS | fr-FR | 2026-11-02 | [Feed](<https://wordpress.com/fr/blog/category/nouveautes/feed/>) |
+| WordPress feeds | [F3167](https://preview.nws.broker/api/endpoints/F3167) | RSS | fr-FR | 2026-11-02 | [Feed](<https://wordpress.com/fr/blog/category/ressources/feed/>) |
+| WordPress feeds | [F3168](https://preview.nws.broker/api/endpoints/F3168) | RSS | fr-FR | 2026-11-02 | [Feed](<https://wordpress.com/fr/blog/feed/>) |
+| WordPress feeds | [F3169](https://preview.nws.broker/api/endpoints/F3169) | RSS | fr-FR | 2026-11-02 | [Feed](<https://wordpress.com/fr/blog/tag/hebergement-gere/feed/>) |
+| WordPress feeds | [F3170](https://preview.nws.broker/api/endpoints/F3170) | RSS | fr-FR | 2026-11-02 | [Feed](<https://wordpress.com/fr/blog/tag/wordpress-com/feed/>) |
 | WordPress feeds | [F3171](https://preview.nws.broker/api/endpoints/F3171) | RSS | fr-FR | 2026-11-02 | [Feed](<https://wordpress.com/fr/go/feed/>) |
 | WordPress feeds | [F3172](https://preview.nws.broker/api/endpoints/F3172) | RSS | ja | 2026-11-02 | [Feed](<https://wordpress.com/ja/blog/author/anamhassancontent/feed/>) |
 | WordPress feeds | [F3173](https://preview.nws.broker/api/endpoints/F3173) | RSS | ja | 2026-11-02 | [Feed](<https://wordpress.com/ja/blog/author/hellopeterschimke/feed/>) |
@@ -121,36 +154,3 @@
 | www.bfmtv.com | [F13303](https://preview.nws.broker/api/endpoints/F13303) | RSS | fr | 2026-11-19 | [Feed](<https://www.bfmtv.com/rss/politique/>) |
 | www.biallo.at | [F13310](https://preview.nws.broker/api/endpoints/F13310) | RSS | de-DE | 2026-11-19 | [Feed](<https://www.biallo.at/rss/rss.alle.php>) |
 | www.bilimkurgukulubu.com | [F13315](https://preview.nws.broker/api/endpoints/F13315) | RSS | tr | 2026-11-19 | [Feed](<https://www.bilimkurgukulubu.com/feed/>) |
-| www.bilimoloji.com | [F13316](https://preview.nws.broker/api/endpoints/F13316) | RSS | tr | 2026-11-19 | [Feed](<https://www.bilimoloji.com/feed/>) |
-| www.bilimup.com | [F13317](https://preview.nws.broker/api/endpoints/F13317) | RSS | tr | 2026-11-19 | [Feed](<https://www.bilimup.com/rss.xml>) |
-| www.billboard.com | [F13318](https://preview.nws.broker/api/endpoints/F13318) | RSS | en-US | 2026-11-19 | [Feed](<https://www.billboard.com/c/music/chart-beat/feed/>) |
-| www.billboard.com | [F24418](https://preview.nws.broker/api/endpoints/F24418) | RSS | en-US | 2026-11-19 | [Feed](<https://www.billboard.com/feed/rss/>) |
-| www.bioeg.de | [F13325](https://preview.nws.broker/api/endpoints/F13325) | RSS | de-DE | 2026-11-19 | [Feed](<https://www.bioeg.de/?type=9819>) |
-| www.birgazete.com | [F13329](https://preview.nws.broker/api/endpoints/F13329) | RSS | tr | 2026-11-19 | [Feed](<https://www.birgazete.com/feed>) |
-| www.birgun.net | [F13330](https://preview.nws.broker/api/endpoints/F13330) | RSS | tr-TR | 2026-11-19 | [Feed](<https://www.birgun.net/rss/home>) |
-| www.bitstudios.at | [F13336](https://preview.nws.broker/api/endpoints/F13336) | RSS | de | 2026-11-19 | [Feed](<https://www.bitstudios.at/feed/>) |
-| www.blic.rs | [F13352](https://preview.nws.broker/api/endpoints/F13352) | RSS | und | 2026-11-19 | [Feed](<https://www.blic.rs/rss/?categoryUuid=23bf4f02-399f-5ae3-a8d7-cfd81e4fc32d>) |
-| www.blikk.hu | [F24422](https://preview.nws.broker/api/endpoints/F24422) | RSS | hu-HU | 2026-11-19 | [Feed](<https://www.blikk.hu/rss-articles.xml>) |
-| www.blocktempo.com | [F13358](https://preview.nws.broker/api/endpoints/F13358) | RSS | zh-TW | 2026-11-19 | [Feed](<https://www.blocktempo.com/feed/>) |
-| www.blogger.com | [F24458](https://preview.nws.broker/api/endpoints/F24458) | Atom | und | 2026-11-19 | [Feed](<https://www.blogger.com/feeds/7164389/posts/default>) |
-| www.bloomberght.com | [F13365](https://preview.nws.broker/api/endpoints/F13365) | RSS | tr | 2026-11-19 | [Feed](<https://www.bloomberght.com/rss>) |
-| www.bmpi.dev | [F13372](https://preview.nws.broker/api/endpoints/F13372) | RSS | zh-CN | 2026-11-19 | [Feed](<https://www.bmpi.dev/index.xml>) |
-| www.bmqy.net | [F13373](https://preview.nws.broker/api/endpoints/F13373) | RSS | und | 2026-11-19 | [Feed](<https://www.bmqy.net/feed.xml>) |
-| www.boston.com | [F13400](https://preview.nws.broker/api/endpoints/F13400) | RSS | en-US | 2026-11-19 | [Feed](<https://www.boston.com/tag/new-england-patriots/feed/>) |
-| www.braunschweiger-zeitung.de | [F13417](https://preview.nws.broker/api/endpoints/F13417) | RSS | de-DE | 2026-11-19 | [Feed](<https://www.braunschweiger-zeitung.de/rss>) |
-| www.bundesregierung.de | [F13445](https://preview.nws.broker/api/endpoints/F13445) | RSS | de | 2026-11-19 | [Feed](<https://www.bundesregierung.de/service/rss/breg-de/1151242/feed.xml>) |
-| www.businessday.co.za | [F24483](https://preview.nws.broker/api/endpoints/F24483) | RSS | en | 2026-11-19 | [Feed](<https://www.businessday.co.za/arc/outboundfeeds/rss/>) |
-| www.buzzfeed.com | [F24492](https://preview.nws.broker/api/endpoints/F24492) | RSS | en | 2026-11-19 | [Feed](<https://www.buzzfeed.com/ukcelebrity.xml>) |
-| www.cafrande.org | [F13479](https://preview.nws.broker/api/endpoints/F13479) | RSS | tr | 2026-11-19 | [Feed](<https://www.cafrande.org/feed/>) |
-| www.camboja.net | [F13483](https://preview.nws.broker/api/endpoints/F13483) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.camboja.net/feed/>) |
-| www.campaigntr.com | [F13489](https://preview.nws.broker/api/endpoints/F13489) | RSS | tr | 2026-11-19 | [Feed](<https://www.campaigntr.com/feed/>) |
-| www.canalrural.com.br | [F13492](https://preview.nws.broker/api/endpoints/F13492) | RSS | pt-BR | 2026-11-19 | [Feed](<https://www.canalrural.com.br/feed/>) |
-| www.canva.dev | [F13496](https://preview.nws.broker/api/endpoints/F13496) | RSS | und | 2026-11-19 | [Feed](<https://www.canva.dev/blog/engineering/feed.xml>) |
-| www.caranddriver.com | [F13504](https://preview.nws.broker/api/endpoints/F13504) | RSS | und | 2026-11-19 | [Feed](<https://www.caranddriver.com/rss/all/>) |
-| www.catholicworldreport.com | [F13524](https://preview.nws.broker/api/endpoints/F13524) | RSS | en-US | 2026-11-19 | [Feed](<https://www.catholicworldreport.com/feed/>) |
-| www.cbc.ca | [F21267](https://preview.nws.broker/api/endpoints/F21267) | RSS | und | 2026-11-19 | [Feed](<https://www.cbc.ca/cmlink/rss-technology>) |
-| www.cbc.ca | [F24507](https://preview.nws.broker/api/endpoints/F24507) | RSS | und | 2026-11-19 | [Feed](<https://www.cbc.ca/webfeed/rss/rss-sports>) |
-| www.cbsnews.com | [F13540](https://preview.nws.broker/api/endpoints/F13540) | RSS | en-US | 2026-11-19 | [Feed](<https://www.cbsnews.com/chicago/latest/rss/politics>) |
-| www.cbssports.com | [F13546](https://preview.nws.broker/api/endpoints/F13546) | RSS | en-US | 2026-11-19 | [Feed](<https://www.cbssports.com/rss/headlines/nba/>) |
-| www.ccgxk.com | [F13550](https://preview.nws.broker/api/endpoints/F13550) | RSS | zh-CN | 2026-11-19 | [Feed](<https://www.ccgxk.com/rss.php>) |
-| www.cdc.gov.tw | [F13553](https://preview.nws.broker/api/endpoints/F13553) | RSS | und | 2026-11-19 | [Feed](<https://www.cdc.gov.tw/RSS/RssXml/VYgwM0EtOqAhCmd0iJrhfg?type=4>) |

@@ -4,6 +4,35 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Release notes from helix | [F1790](https://preview.nws.broker/api/endpoints/F1790) | Atom | und | 2026-11-02 | — |
+| Release notes from hoarder | [F1794](https://preview.nws.broker/api/endpoints/F1794) | Atom | und | 2026-11-02 | — |
+| Release notes from iceriver-oc | [F1848](https://preview.nws.broker/api/endpoints/F1848) | Atom | und | 2026-11-02 | — |
+| Release notes from immich | [F1803](https://preview.nws.broker/api/endpoints/F1803) | Atom | und | 2026-11-02 | — |
+| Release notes from iOS-Weekly | [F1745](https://preview.nws.broker/api/endpoints/F1745) | Atom | und | 2026-11-02 | — |
+| Release notes from is-odd | [F1802](https://preview.nws.broker/api/endpoints/F1802) | Atom | und | 2026-11-02 | — |
+| Release notes from is-online | [F1856](https://preview.nws.broker/api/endpoints/F1856) | Atom | und | 2026-11-02 | — |
+| Release notes from json | [F1851](https://preview.nws.broker/api/endpoints/F1851) | Atom | und | 2026-11-02 | — |
+| Release notes from karakeep | [F1805](https://preview.nws.broker/api/endpoints/F1805) | Atom | und | 2026-11-02 | — |
+| Release notes from kubernetes | [F1807](https://preview.nws.broker/api/endpoints/F1807) | Atom | und | 2026-11-02 | — |
+| Release notes from library | [F1837](https://preview.nws.broker/api/endpoints/F1837) | Atom | und | 2026-11-02 | — |
+| Release notes from lutris | [F1812](https://preview.nws.broker/api/endpoints/F1812) | Atom | und | 2026-11-02 | — |
+| Release notes from LxgwWenKaiNerdFont | [F1750](https://preview.nws.broker/api/endpoints/F1750) | Atom | und | 2026-11-02 | — |
+| Release notes from Magisk | [F1861](https://preview.nws.broker/api/endpoints/F1861) | Atom | und | 2026-11-02 | — |
+| Release notes from MoeMemosAndroid | [F1832](https://preview.nws.broker/api/endpoints/F1832) | Atom | und | 2026-11-02 | — |
+| Release notes from neovim | [F1834](https://preview.nws.broker/api/endpoints/F1834) | Atom | und | 2026-11-02 | — |
+| Release notes from nitrokey-3-firmware | [F1736](https://preview.nws.broker/api/endpoints/F1736) | Atom | und | 2026-11-02 | — |
+| Release notes from novideo\_srgb | [F1808](https://preview.nws.broker/api/endpoints/F1808) | Atom | und | 2026-11-02 | — |
+| Release notes from paperless-ngx | [F1840](https://preview.nws.broker/api/endpoints/F1840) | Atom | und | 2026-11-02 | — |
+| Release notes from podlet | [F1767](https://preview.nws.broker/api/endpoints/F1767) | Atom | und | 2026-11-02 | — |
+| Release notes from PowerToys | [F1816](https://preview.nws.broker/api/endpoints/F1816) | Atom | und | 2026-11-02 | — |
+| Release notes from privacyguides.org | [F1841](https://preview.nws.broker/api/endpoints/F1841) | Atom | und | 2026-11-02 | — |
+| Release notes from Prusa-Firmware-Buddy | [F1843](https://preview.nws.broker/api/endpoints/F1843) | Atom | und | 2026-11-02 | — |
+| Release notes from pytorch | [F1845](https://preview.nws.broker/api/endpoints/F1845) | Atom | und | 2026-11-02 | — |
+| Release notes from RetroArch | [F1810](https://preview.nws.broker/api/endpoints/F1810) | Atom | und | 2026-11-02 | — |
+| Release notes from Rocket.Chat | [F1741](https://preview.nws.broker/api/endpoints/F1741) | Atom | und | 2026-11-02 | — |
+| Release notes from rss-bridge | [F1738](https://preview.nws.broker/api/endpoints/F1738) | Atom | und | 2026-11-02 | — |
+| Release notes from SmartCookieWeb-Preview | [F1724](https://preview.nws.broker/api/endpoints/F1724) | Atom | und | 2026-11-02 | — |
+| Release notes from stylus | [F1838](https://preview.nws.broker/api/endpoints/F1838) | Atom | und | 2026-11-02 | — |
 | Release notes from tensorflow | [F1859](https://preview.nws.broker/api/endpoints/F1859) | Atom | und | 2026-11-02 | — |
 | Release notes from uhd | [F1728](https://preview.nws.broker/api/endpoints/F1728) | Atom | und | 2026-11-02 | — |
 | Release notes from ungoogled-chromium | [F1878](https://preview.nws.broker/api/endpoints/F1878) | Atom | und | 2026-11-02 | — |
@@ -125,32 +154,3 @@
 | soulroadmap.libsyn.com | [F23806](https://preview.nws.broker/api/endpoints/F23806) | RSS | und | 2026-11-19 | — |
 | southcentralreporter.com | [F23809](https://preview.nws.broker/api/endpoints/F23809) | RSS | und | 2026-11-19 | — |
 | southcooknews.com | [F23810](https://preview.nws.broker/api/endpoints/F23810) | RSS | und | 2026-11-19 | — |
-| southdfwnews.com | [F23811](https://preview.nws.broker/api/endpoints/F23811) | RSS | und | 2026-11-19 | — |
-| Southern Remedy | [F1268](https://preview.nws.broker/api/endpoints/F1268) | RSS | und | 2026-11-02 | — |
-| southfloridaagentmagazine.com | [F20617](https://preview.nws.broker/api/endpoints/F20617) | RSS | und | 2026-11-19 | — |
-| southtidewaternews.com | [F23813](https://preview.nws.broker/api/endpoints/F23813) | RSS | und | 2026-11-19 | — |
-| spacecoastdaily.com | [F23815](https://preview.nws.broker/api/endpoints/F23815) | RSS | und | 2026-11-19 | — |
-| spectrumlocalnews.com | [F12026](https://preview.nws.broker/api/endpoints/F12026) | RSS | und | 2026-11-19 | — |
-| spicenews.com.au | [F20623](https://preview.nws.broker/api/endpoints/F20623) | RSS | und | 2026-11-19 | — |
-| splash247.com | [F12036](https://preview.nws.broker/api/endpoints/F12036) | RSS | und | 2026-11-19 | — |
-| sport.aktualne.cz | [F23826](https://preview.nws.broker/api/endpoints/F23826) | RSS | und | 2026-11-19 | — |
-| spotfamilypodcast.libsyn.com | [F23837](https://preview.nws.broker/api/endpoints/F23837) | RSS | und | 2026-11-19 | — |
-| spreaker.com | [F5564](https://preview.nws.broker/api/endpoints/F5564) | RSS | und | 2026-11-02 | — |
-| srf.ch | [F12071](https://preview.nws.broker/api/endpoints/F12071) | RSS | und | 2026-11-19 | — |
-| srta.gov.et | [F12073](https://preview.nws.broker/api/endpoints/F12073) | RSS | und | 2026-11-19 | — |
-| stag2.wired.com | [F23841](https://preview.nws.broker/api/endpoints/F23841) | RSS | und | 2026-11-19 | — |
-| startupestonia.ee | [F12084](https://preview.nws.broker/api/endpoints/F12084) | RSS | und | 2026-11-19 | — |
-| stav.ba | [F12090](https://preview.nws.broker/api/endpoints/F12090) | RSS | und | 2026-11-19 | — |
-| steamboatpilot.com | [F12091](https://preview.nws.broker/api/endpoints/F12091) | RSS | und | 2026-11-19 | — |
-| stephan.sugarmotor.org | [F23853](https://preview.nws.broker/api/endpoints/F23853) | RSS | und | 2026-11-19 | — |
-| studyinglover.com | [F12127](https://preview.nws.broker/api/endpoints/F12127) | RSS | und | 2026-11-19 | — |
-| stupidoptimism.net | [F23874](https://preview.nws.broker/api/endpoints/F23874) | RSS | und | 2026-11-19 | — |
-| suedhessen.news | [F12131](https://preview.nws.broker/api/endpoints/F12131) | RSS | und | 2026-11-19 | — |
-| suenemetz.libsyn.com | [F23876](https://preview.nws.broker/api/endpoints/F23876) | RSS | und | 2026-11-19 | — |
-| suffolkreporter.com | [F23877](https://preview.nws.broker/api/endpoints/F23877) | RSS | und | 2026-11-19 | — |
-| sulkysport.se | [F23879](https://preview.nws.broker/api/endpoints/F23879) | RSS | und | 2026-11-19 | — |
-| summitdaily.com | [F23881](https://preview.nws.broker/api/endpoints/F23881) | RSS | und | 2026-11-19 | — |
-| Sunday Forum | [F1320](https://preview.nws.broker/api/endpoints/F1320) | RSS | und | 2026-11-02 | — |
-| swipeline.co | [F12151](https://preview.nws.broker/api/endpoints/F12151) | RSS | und | 2026-11-19 | — |
-| syncup.libsyn.com | [F20703](https://preview.nws.broker/api/endpoints/F20703) | RSS | und | 2026-11-19 | — |
-| szbz.de | [F23896](https://preview.nws.broker/api/endpoints/F23896) | Atom | und | 2026-11-19 | — |

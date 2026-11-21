@@ -2,15 +2,15 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/business.economics.opml)
 
-403 endpoint records.
+404 endpoint records.
 
-## Verified (352)
+## Verified (353)
 
 The broker successfully parsed the feed at the recorded check.
 
 - [1–150](verified-001.md) · Algemeen Bureau voor de Statistiek Suriname to Statistics Netherlands CBS
 - [151–300](verified-002.md) · Statistics Netherlands CBS to US Federal Reserve Board
-- [301–352](verified-003.md) · US Federal Reserve Board to Ålands landsbygdscentrum
+- [301–353](verified-003.md) · US Federal Reserve Board to Ålands landsbygdscentrum
 
 ## Needs review (44)
 

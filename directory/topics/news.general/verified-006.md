@@ -4,6 +4,29 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Kuwait Times | [F26641](https://preview.nws.broker/api/endpoints/F26641) | RSS | und | 2026-11-20 | [Feed](<https://kuwaittimes.com/rssFeed/0>) |
+| Kuwait Times | [F26642](https://preview.nws.broker/api/endpoints/F26642) | RSS | und | 2026-11-20 | [Feed](<https://kuwaittimes.com/rssFeed/1>) |
+| Kuwait Times | [F26643](https://preview.nws.broker/api/endpoints/F26643) | RSS | und | 2026-11-20 | [Feed](<https://kuwaittimes.com/rssFeed/14>) |
+| Külauudised | [F25230](https://preview.nws.broker/api/endpoints/F25230) | RSS | et | 2026-11-19 | [Feed](<https://kylauudis.ee/feed/>) |
+| L&#x27;Obs - A la une | [F5080](https://preview.nws.broker/api/endpoints/F5080) | RSS | fr | 2026-11-02 | [Feed](<https://www.nouvelobs.com/a-la-une/rss.xml>) |
+| La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr | [F4630](https://preview.nws.broker/api/endpoints/F4630) | RSS | fr | 2026-11-02 | [Feed](<https://www.ladepeche.fr/rss.xml>) |
+| La revue européenne des médias et du numérique | [F27109](https://preview.nws.broker/api/endpoints/F27109) | RSS | und | 2026-11-21 | [Feed](<https://www.la-rem.eu/rss/>) |
+| LAist | [F7231](https://preview.nws.broker/api/endpoints/F7231) | Atom | und | 2026-11-18 | [Feed](<https://laist.com/index.atom>) |
+| LAist | [F7303](https://preview.nws.broker/api/endpoints/F7303) | Atom | und | 2026-11-18 | [Feed](<https://laist.com/rss-feed.atom>) |
+| Lalibre.be - Les derniers articles | [F7548](https://preview.nws.broker/api/endpoints/F7548) | RSS | fr-BE | 2026-11-19 | [Feed](<https://www.lalibre.be/arc/outboundfeeds/rss/?outputType=xml>) |
+| Landesspiegel | [F25417](https://preview.nws.broker/api/endpoints/F25417) | RSS | de-CH | 2026-11-19 | [Feed](<https://landesspiegel.li/feed/>) |
+| Landesspiegel — Vaduz | [F25418](https://preview.nws.broker/api/endpoints/F25418) | RSS | de-CH | 2026-11-19 | [Feed](<https://landesspiegel.li/category/liechtenstein/vaduz/feed/>) |
+| Laopost | [F26688](https://preview.nws.broker/api/endpoints/F26688) | RSS | en-US | 2026-11-20 | [Feed](<https://laopost.com/feed/>) |
+| LaPresse.ca - Actualités | [F4631](https://preview.nws.broker/api/endpoints/F4631) | RSS | fr-CA | 2026-11-02 | [Feed](<https://www.lapresse.ca/actualites/rss>) |
+| Latest And Breaking Hindi News Headlines, News In Hindi &#124; अमर उजाला हिंदी न्यूज़ &#124; - Amar Ujala | [F3255](https://preview.nws.broker/api/endpoints/F3255) | RSS | hi | 2026-11-02 | [Feed](<https://www.amarujala.com/rss/breaking-news.xml>) |
+| Latvian Public Media — English | [F25286](https://preview.nws.broker/api/endpoints/F25286) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=315>) |
+| Latvian Public Media — English | [F25287](https://preview.nws.broker/api/endpoints/F25287) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=278>) |
+| Latvian Public Media — English | [F25288](https://preview.nws.broker/api/endpoints/F25288) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=22034>) |
+| Latvian Public Media — English | [F25289](https://preview.nws.broker/api/endpoints/F25289) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=21654>) |
+| Latvian Public Media — English | [F25290](https://preview.nws.broker/api/endpoints/F25290) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=315&popular>) |
+| Latvian Public Media — English | [F25291](https://preview.nws.broker/api/endpoints/F25291) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=21648>) |
+| Latvian Public Media — English | [F25509](https://preview.nws.broker/api/endpoints/F25509) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=21647>) |
+| Latvian Public Media — English | [F25510](https://preview.nws.broker/api/endpoints/F25510) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=21646>) |
 | Latvian Public Media — English | [F25511](https://preview.nws.broker/api/endpoints/F25511) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=21645>) |
 | Latvian Public Media — English | [F25512](https://preview.nws.broker/api/endpoints/F25512) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=316>) |
 | Latvian Public Media — English | [F25513](https://preview.nws.broker/api/endpoints/F25513) | RSS | en | 2026-11-19 | [Feed](<https://eng.lsm.lv/rss/?lang=en&catid=278&popular>) |
@@ -131,26 +154,3 @@
 | Le Monde RSS | [F4978](https://preview.nws.broker/api/endpoints/F4978) | RSS | fr | 2026-11-02 | [Feed](<https://www.lemonde.fr/tennis/rss_full.xml>) |
 | Le Monde RSS | [F4979](https://preview.nws.broker/api/endpoints/F4979) | RSS | fr | 2026-11-02 | [Feed](<https://www.lemonde.fr/terrains-de-jeux-le-podcast/rss_full.xml>) |
 | Le Monde RSS | [F4980](https://preview.nws.broker/api/endpoints/F4980) | RSS | fr | 2026-11-02 | [Feed](<https://www.lemonde.fr/tribunes/rss_full.xml>) |
-| Le Monde RSS | [F4981](https://preview.nws.broker/api/endpoints/F4981) | RSS | fr | 2026-11-02 | [Feed](<https://www.lemonde.fr/tunisie/rss_full.xml>) |
-| Le Monde RSS | [F4982](https://preview.nws.broker/api/endpoints/F4982) | RSS | fr | 2026-11-02 | [Feed](<https://www.lemonde.fr/videos/rss_full.xml>) |
-| Le Pays Tchad | [F25838](https://preview.nws.broker/api/endpoints/F25838) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.lepaystchad.com/feed/>) |
-| LeFaso.net | [F25798](https://preview.nws.broker/api/endpoints/F25798) | RSS | fr | 2026-11-19 | [Feed](<https://lefaso.net/spip.php?page=backend>) |
-| Legit.ng | [F4634](https://preview.nws.broker/api/endpoints/F4634) | RSS | en-NG | 2026-11-02 | [Feed](<https://www.legit.ng/rss/all.rss>) |
-| Lenta.ru : Новости | [F2046](https://preview.nws.broker/api/endpoints/F2046) | RSS | ru | 2026-11-01 | [Feed](<https://lenta.ru/rss>) |
-| Les Jours | [F7553](https://preview.nws.broker/api/endpoints/F7553) | RSS | fr | 2026-11-19 | [Feed](<https://lesjours.fr/rss.xml>) |
-| Les Échos du Congo-Brazzaville | [F25804](https://preview.nws.broker/api/endpoints/F25804) | RSS | fr-FR | 2026-11-19 | [Feed](<https://lesechos-congobrazza.com/?format=feed&type=rss>) |
-| Libertas | [F25355](https://preview.nws.broker/api/endpoints/F25355) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.libertas.sm/feed/>) |
-| Libya Herald | [F26604](https://preview.nws.broker/api/endpoints/F26604) | RSS | en | 2026-11-20 | [Feed](<https://libyaherald.com/rss/government-politics>) |
-| Libya Herald | [F26605](https://preview.nws.broker/api/endpoints/F26605) | RSS | en | 2026-11-20 | [Feed](<https://libyaherald.com/rss/culture-society>) |
-| Libya Update | [F25822](https://preview.nws.broker/api/endpoints/F25822) | RSS | en-US | 2026-11-19 | [Feed](<https://libyaupdate.com/feed/>) |
-| Lie:zeit | [F25274](https://preview.nws.broker/api/endpoints/F25274) | RSS | de-CH | 2026-11-19 | [Feed](<https://www.lie-zeit.li/feed/>) |
-| Lo último en Vanguardia MX | [F2955](https://preview.nws.broker/api/endpoints/F2955) | RSS | es-MX | 2026-11-02 | [Feed](<https://vanguardia.com.mx/rss.xml>) |
-| Loina — Portail de Wallis &amp; Futuna | [F26256](https://preview.nws.broker/api/endpoints/F26256) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.loina.wf/feed/>) |
-| Lombok Fokus | [F7440](https://preview.nws.broker/api/endpoints/F7440) | RSS | id | 2026-11-18 | [Feed](<https://lombokfokus.com/feed/>) |
-| Lombok Journal | [F7439](https://preview.nws.broker/api/endpoints/F7439) | RSS | id | 2026-11-18 | [Feed](<https://lombokjournal.com/feed/>) |
-| LOMBOKita | [F7330](https://preview.nws.broker/api/endpoints/F7330) | RSS | id | 2026-11-18 | [Feed](<https://lombokita.id/feed/>) |
-| Los Tiempos | [F26682](https://preview.nws.broker/api/endpoints/F26682) | RSS | es | 2026-11-20 | [Feed](<https://www.lostiempos.com/rss/portada>) |
-| Love FM Belize | [F26728](https://preview.nws.broker/api/endpoints/F26728) | RSS | en-US | 2026-11-20 | [Feed](<https://lovefm.com/feed/>) |
-| L’Express de Madagascar | [F25824](https://preview.nws.broker/api/endpoints/F25824) | RSS | und | 2026-11-19 | [Feed](<https://www.lexpress.mg/feeds/posts/default?alt=rss>) |
-| L’Infodrome | [F25805](https://preview.nws.broker/api/endpoints/F25805) | RSS | fr | 2026-11-19 | [Feed](<https://www.linfodrome.com/rss>) |
-| L’Observateur de Monaco | [F25293](https://preview.nws.broker/api/endpoints/F25293) | RSS | fr-FR | 2026-11-19 | [Feed](<https://lobservateurdemonaco.com/feed/>) |

@@ -7,6 +7,7 @@
 | Famine Early Warning Systems Network | [F25795](https://preview.nws.broker/api/endpoints/F25795) | RSS | fr | 2026-11-19 | [Feed](<https://fews.net/fr/taxonomy/term/626/feed>) |
 | Instituto Geográfico Militar Ecuador | [F25914](https://preview.nws.broker/api/endpoints/F25914) | RSS | es-ES | 2026-11-19 | [Feed](<https://www.geoportaligm.gob.ec/portal/index.php/feed/>) |
 | Instituto Nicaragüense de Estudios Territoriales | [F26296](https://preview.nws.broker/api/endpoints/F26296) | RSS | es | 2026-11-19 | [Feed](<https://www.ineter.gob.ni/feed/>) |
+| OpenStreetMap on Mastodon | [F27158](https://preview.nws.broker/api/endpoints/F27158) | RSS | und | 2026-11-21 | [Feed](<https://en.osm.town/@openstreetmap.rss>) |
 | OpenStreetMap — mapping community blogs | [F25783](https://preview.nws.broker/api/endpoints/F25783) | RSS | en | 2026-11-19 | [Feed](<https://blogs.openstreetmap.org/rss20.xml>) |
 | OpenStreetMap — OpenStreetMap Foundation blog | [F25780](https://preview.nws.broker/api/endpoints/F25780) | RSS | en-US | 2026-11-19 | [Feed](<https://blog.openstreetmap.org/feed/>) |
 | OpenStreetMap — OpenStreetMap Foundation blog | [F25781](https://preview.nws.broker/api/endpoints/F25781) | RSS | und | 2026-11-19 | [Feed](<https://blog.openstreetmap.org/rsslatest.xml>) |

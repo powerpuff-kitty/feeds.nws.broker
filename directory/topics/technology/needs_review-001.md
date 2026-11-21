@@ -15,7 +15,6 @@
 | CNET — YouTube feed candidate | [F6057](https://preview.nws.broker/api/endpoints/F6057) | Atom | und | 2026-11-02 | — |
 | Crunch Hype | [F0075](https://preview.nws.broker/api/endpoints/F0075) | RSS | und | 2026-11-02 | — |
 | DroidLime | [F7346](https://preview.nws.broker/api/endpoints/F7346) | RSS | und | 2026-11-18 | — |
-| Future of Sex Magazine | [F7223](https://preview.nws.broker/api/endpoints/F7223) | RSS | und | — | — |
 | Gizmologi | [F7445](https://preview.nws.broker/api/endpoints/F7445) | RSS | und | 2026-11-18 | — |
 | iMore - The #1 iPhone, iPad, and iPod touch blog | [F0078](https://preview.nws.broker/api/endpoints/F0078) | RSS | und | 2026-11-02 | — |
 | JUST™ Creative | [F1295](https://preview.nws.broker/api/endpoints/F1295) | RSS | und | 2026-11-02 | — |

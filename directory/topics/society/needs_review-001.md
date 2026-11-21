@@ -4,7 +4,6 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
-| Adult Performance Artists Guild | [F7236](https://preview.nws.broker/api/endpoints/F7236) | RSS | und | — | — |
 | Atlas Obscura - Latest Articles and Places | [F3261](https://preview.nws.broker/api/endpoints/F3261) | RSS | und | 2026-11-02 | — |
 | Dan Carlin&#x27;s Hardcore History | [F1301](https://preview.nws.broker/api/endpoints/F1301) | RSS | und | 2026-11-02 | — |
 | European Sex Workers Rights Alliance | [F7219](https://preview.nws.broker/api/endpoints/F7219) | RSS | und | — | — |

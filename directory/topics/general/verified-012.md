@@ -4,6 +4,25 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| iGrow News | [F9500](https://preview.nws.broker/api/endpoints/F9500) | RSS | en-US | 2026-11-19 | [Feed](<https://igrownews.com/feed/>) |
+| ii74.com | [F9502](https://preview.nws.broker/api/endpoints/F9502) | RSS | und | 2026-11-19 | [Feed](<https://ii74.com/feed.php>) |
+| IKEA Hackers | [F4591](https://preview.nws.broker/api/endpoints/F4591) | RSS | en-US | 2026-11-02 | [Feed](<https://www.ikeahackers.net/feed>) |
+| Il giornale dello Stretto | [F24709](https://preview.nws.broker/api/endpoints/F24709) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.ilgiornaledellostretto.it/feed/>) |
+| Il Mattino - Home | [F24714](https://preview.nws.broker/api/endpoints/F24714) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.ilmattino.it/rss/home.xml>) |
+| Il Nuovo Diario Messaggero | [F24716](https://preview.nws.broker/api/endpoints/F24716) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.ilnuovodiario.com/feed/>) |
+| Il Reggino | [F24717](https://preview.nws.broker/api/endpoints/F24717) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.ilreggino.it/sitemaps/reggino/rss>) |
+| Il Riformista | [F24719](https://preview.nws.broker/api/endpoints/F24719) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.ilriformista.it/feed/>) |
+| ilketv.com.tr | [F9511](https://preview.nws.broker/api/endpoints/F9511) | RSS | tr | 2026-11-19 | [Feed](<https://ilketv.com.tr/feed/>) |
+| Illustrated Ministry | [F21431](https://preview.nws.broker/api/endpoints/F21431) | RSS | en-US | 2026-11-19 | [Feed](<https://www.illustratedministry.com/feed/>) |
+| ilregionale.it | [F24718](https://preview.nws.broker/api/endpoints/F24718) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.ilregionale.it/feed/>) |
+| iluc.cn | [F9512](https://preview.nws.broker/api/endpoints/F9512) | RSS | und | 2026-11-19 | [Feed](<https://iluc.cn/rss.xml>) |
+| ilvespro.it | [F24720](https://preview.nws.broker/api/endpoints/F24720) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.ilvespro.it/feed/>) |
+| im-mining.com | [F9513](https://preview.nws.broker/api/endpoints/F9513) | RSS | en-GB | 2026-11-19 | [Feed](<https://im-mining.com/feed/>) |
+| Impact News | [F24722](https://preview.nws.broker/api/endpoints/F24722) | RSS | en-ZA | 2026-11-19 | [Feed](<https://www.impactunlimited.co.za/feed/>) |
+| impatrick.blog | [F9517](https://preview.nws.broker/api/endpoints/F9517) | RSS | zh-TW | 2026-11-19 | [Feed](<https://impatrick.blog/feed/>) |
+| In My Own Style | [F2018](https://preview.nws.broker/api/endpoints/F2018) | RSS | en-US | 2026-11-01 | [Feed](<https://inmyownstyle.com/feed>) |
+| IN München – Das Stadtmagazin | [F24723](https://preview.nws.broker/api/endpoints/F24723) | RSS | de | 2026-11-19 | [Feed](<https://www.in-muenchen.de/feed>) |
+| In Old News | [F19708](https://preview.nws.broker/api/endpoints/F19708) | RSS | en | 2026-11-19 | [Feed](<https://inoldnews.substack.com/feed>) |
 | In the Margins with Jenna Flanagan | [F19730](https://preview.nws.broker/api/endpoints/F19730) | RSS | en | 2026-11-19 | [Feed](<https://jflanagan.substack.com/feed>) |
 | In Your Community | [F18398](https://preview.nws.broker/api/endpoints/F18398) | RSS | und | 2026-11-19 | [Feed](<https://www.wtkr.com/news/in-the-community.rss>) |
 | India Daily Tribune | [F23148](https://preview.nws.broker/api/endpoints/F23148) | RSS | en-US | 2026-11-19 | [Feed](<https://onlinenewspaper.co.in/feed/rss>) |
@@ -32,6 +51,8 @@
 | Interior Design | [F4603](https://preview.nws.broker/api/endpoints/F4603) | RSS | en-US | 2026-11-02 | [Feed](<https://www.interiordesign.net/rss/>) |
 | Interior Design Ideas | [F0479](https://preview.nws.broker/api/endpoints/F0479) | RSS | en-US | 2026-11-02 | — |
 | Interlochen Public Radio &#124; News and Classical Music from Northern Michigan | [F15024](https://preview.nws.broker/api/endpoints/F15024) | RSS | en-US | 2026-11-19 | [Feed](<https://www.interlochenpublicradio.org/index.rss>) |
+| internals.rust-lang.org | [F27090](https://preview.nws.broker/api/endpoints/F27090) | RSS | und | 2026-11-21 | [Feed](<https://internals.rust-lang.org/latest.rss>) |
+| internals.rust-lang.org | [F27091](https://preview.nws.broker/api/endpoints/F27091) | RSS | und | 2026-11-21 | [Feed](<https://internals.rust-lang.org/posts.rss>) |
 | International Journalism Festival | [F21454](https://preview.nws.broker/api/endpoints/F21454) | RSS | en-US | 2026-11-19 | [Feed](<https://www.journalismfestival.com/feed/>) |
 | Intervalo de Confiança | [F19712](https://preview.nws.broker/api/endpoints/F19712) | RSS | pt-BR | 2026-11-19 | [Feed](<https://intervalodeconfianca.podomatic.com/rss2.xml>) |
 | Interview Magazine | [F24738](https://preview.nws.broker/api/endpoints/F24738) | RSS | en-US | 2026-11-19 | [Feed](<https://www.interviewmagazine.com/feed>) |
@@ -133,24 +154,3 @@
 | Keeping You posted | [F20096](https://preview.nws.broker/api/endpoints/F20096) | RSS | en-US | 2026-11-19 | [Feed](<https://postonsunday.co.zw/feed/>) |
 | keepplugged.com | [F19763](https://preview.nws.broker/api/endpoints/F19763) | RSS | es | 2026-11-19 | [Feed](<https://keepplugged.com/es/podcast.xml>) |
 | keggin.tech | [F9711](https://preview.nws.broker/api/endpoints/F9711) | RSS | zh-CN | 2026-11-19 | [Feed](<https://keggin.tech/rss.xml>) |
-| Keith J. Grant | [F2030](https://preview.nws.broker/api/endpoints/F2030) | Atom | und | 2026-11-01 | [Feed](<https://keithjgrant.com/posts/index.xml>) |
-| KEKKJ BLOG - 小世界的一瞥 | [F2031](https://preview.nws.broker/api/endpoints/F2031) | Atom | und | 2026-11-01 | [Feed](<https://kekkj123.github.io/RSS_atom.xml>) |
-| Kekulés Gesundheits-Kompass von MDR AKTUELL | [F24844](https://preview.nws.broker/api/endpoints/F24844) | RSS | de | 2026-11-19 | [Feed](<https://www.mdr.de/nachrichten/podcast/kekule-corona/kompass-104.xml>) |
-| kelvinmu.substack.com | [F9712](https://preview.nws.broker/api/endpoints/F9712) | RSS | en | 2026-11-19 | [Feed](<https://kelvinmu.substack.com/feed>) |
-| Kenya News Today | [F21462](https://preview.nws.broker/api/endpoints/F21462) | RSS | en-US | 2026-11-19 | [Feed](<https://www.kenyanewstoday.co.ke/feed/>) |
-| Kernel und Kernobst | [F21772](https://preview.nws.broker/api/endpoints/F21772) | RSS | de-DE | 2026-11-19 | [Feed](<https://www.trommelspeicher.de/podcast.xml>) |
-| kerrynotes.com | [F9715](https://preview.nws.broker/api/endpoints/F9715) | RSS | zh-Hans | 2026-11-19 | [Feed](<https://kerrynotes.com/feed/>) |
-| kesifasya.com | [F9716](https://preview.nws.broker/api/endpoints/F9716) | RSS | tr | 2026-11-19 | [Feed](<https://kesifasya.com/feed/>) |
-| Keskkonnaamet | [F15164](https://preview.nws.broker/api/endpoints/F15164) | RSS | et | 2026-11-19 | [Feed](<https://www.keskkonnaamet.ee/rss-feeds/rss.xml>) |
-| Kevin Farrugia | [F19701](https://preview.nws.broker/api/endpoints/F19701) | RSS | en | 2026-11-19 | [Feed](<https://imkev.dev/feed>) |
-| Kevin Sent | [F23998](https://preview.nws.broker/api/endpoints/F23998) | Atom | en | 2026-11-19 | [Feed](<https://thekevinalexander.com/feed/atom>) |
-| KhabarOnline News Agency | [F8789](https://preview.nws.broker/api/endpoints/F8789) | RSS | en-US | 2026-11-19 | [Feed](<https://english.khabaronline.ir/rss>) |
-| Khmer Breaking News | [F9708](https://preview.nws.broker/api/endpoints/F9708) | RSS | en-US | 2026-11-19 | [Feed](<https://kbn.news/feed>) |
-| khojsamachar.com | [F9731](https://preview.nws.broker/api/endpoints/F9731) | RSS | en-US | 2026-11-19 | [Feed](<https://khojsamachar.com/feed/>) |
-| khybernews.tv | [F9735](https://preview.nws.broker/api/endpoints/F9735) | RSS | en-US | 2026-11-19 | [Feed](<https://khybernews.tv/category/national-news/feed>) |
-| Kira Howe | [F22950](https://preview.nws.broker/api/endpoints/F22950) | Atom | und | 2026-11-19 | [Feed](<https://kirahowe.com/feed.xml>) |
-| Kirkland Reporter | [F24776](https://preview.nws.broker/api/endpoints/F24776) | RSS | en-US | 2026-11-19 | [Feed](<https://www.kirklandreporter.com/feed/>) |
-| kisadalga.net | [F9742](https://preview.nws.broker/api/endpoints/F9742) | RSS | tr-TR | 2026-11-19 | [Feed](<https://kisadalga.net/service/rss.php>) |
-| kiswahili.tuko.co.ke | [F9744](https://preview.nws.broker/api/endpoints/F9744) | RSS | en | 2026-11-19 | [Feed](<https://kiswahili.tuko.co.ke/rss/all.rss>) |
-| Kitchn &#124; Inspiring cooks, nourishing homes | [F5599](https://preview.nws.broker/api/endpoints/F5599) | RSS | en-US | 2026-11-02 | [Feed](<https://www.thekitchn.com/main.rss>) |
-| Kiwi Kids News | [F24777](https://preview.nws.broker/api/endpoints/F24777) | RSS | en-US | 2026-11-19 | [Feed](<https://www.kiwikidsnews.co.nz/feed/>) |

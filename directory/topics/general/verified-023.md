@@ -4,6 +4,36 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Static Sounds Club | [F23850](https://preview.nws.broker/api/endpoints/F23850) | RSS | en | 2026-11-19 | [Feed](<https://staticsoundsclub.com/feed/>) |
+| static.winfuture.de | [F12088](https://preview.nws.broker/api/endpoints/F12088) | RSS | de-DE | 2026-11-19 | [Feed](<https://static.winfuture.de/feeds/special/apple/latest-rss2.0.xml>) |
+| statice.is | [F12089](https://preview.nws.broker/api/endpoints/F12089) | RSS | en-US | 2026-11-19 | [Feed](<https://statice.is/rss/all/>) |
+| steamcommunity.com | [F12100](https://preview.nws.broker/api/endpoints/F12100) | RSS | en-US | 2026-11-19 | [Feed](<https://steamcommunity.com/games/2362300/rss>) |
+| Stefan Milo | [F23666](https://preview.nws.broker/api/endpoints/F23666) | RSS | en-US | 2026-11-19 | [Feed](<https://rss.nebula.app/video/channels/stefanmilo.rss>) |
+| Stefan-Marr.de | [F23852](https://preview.nws.broker/api/endpoints/F23852) | Atom | und | 2026-11-19 | [Feed](<https://stefan-marr.de/feed/index.xml>) |
+| Stefano | [F23973](https://preview.nws.broker/api/endpoints/F23973) | Atom | und | 2026-11-19 | [Feed](<https://thecrowned.org/feeds/all.atom.xml>) |
+| Stephen Travels | [F20653](https://preview.nws.broker/api/endpoints/F20653) | RSS | en | 2026-11-19 | [Feed](<https://stephentravels.com/feed/>) |
+| Steps &amp; Leaps | [F20654](https://preview.nws.broker/api/endpoints/F20654) | RSS | en | 2026-11-19 | [Feed](<https://stepsandleaps.wordpress.com/feed>) |
+| STERN.DE RSS-Feed Sport - die neusten Meldungen zum Thema Sport | [F25124](https://preview.nws.broker/api/endpoints/F25124) | RSS | de-DE | 2026-11-19 | [Feed](<https://www.stern.de/feed/standard/sport/>) |
+| Steve Blank | [F20655](https://preview.nws.broker/api/endpoints/F20655) | RSS | en-US | 2026-11-19 | [Feed](<https://steveblank.com/feed>) |
+| Steve Blank Podcast | [F20656](https://preview.nws.broker/api/endpoints/F20656) | RSS | en | 2026-11-19 | [Feed](<https://steveblankpodcast.substack.com/feed>) |
+| Steve Landey | [F23856](https://preview.nws.broker/api/endpoints/F23856) | Atom | und | 2026-11-19 | [Feed](<https://steveasleep.com/feeds/all.atom.xml>) |
+| Steve Sanderson&#x27;s Blog | [F18922](https://preview.nws.broker/api/endpoints/F18922) | RSS | und | 2026-11-19 | [Feed](<https://blog.stevensanderson.com/feed>) |
+| sti.nasa.gov | [F5568](https://preview.nws.broker/api/endpoints/F5568) | RSS | en-US | 2026-11-18 | [Feed](<https://www.sti.nasa.gov/scan/rss99-01.xml>) |
+| sti.nasa.gov | [F5569](https://preview.nws.broker/api/endpoints/F5569) | RSS | en-US | 2026-11-18 | [Feed](<https://www.sti.nasa.gov/scan/rss99-02.xml>) |
+| sti.nasa.gov | [F7536](https://preview.nws.broker/api/endpoints/F7536) | RSS | en-US | 2026-11-18 | [Feed](<https://sti.nasa.gov/index.xml>) |
+| stiften.dk | [F23860](https://preview.nws.broker/api/endpoints/F23860) | RSS | da-DK | 2026-11-19 | [Feed](<https://stiften.dk/feed/aarhus>) |
+| Stiri din Maramures | [F24185](https://preview.nws.broker/api/endpoints/F24185) | RSS | ro-RO | 2026-11-19 | [Feed](<https://vasiledale.ro/feed/>) |
+| stiridinbanat.ro | [F23864](https://preview.nws.broker/api/endpoints/F23864) | RSS | ro-RO | 2026-11-19 | [Feed](<https://stiridinbanat.ro/feed/>) |
+| STnews | [F20660](https://preview.nws.broker/api/endpoints/F20660) | RSS | en | 2026-11-19 | [Feed](<https://stnews.live/feed/>) |
+| Stochastic Lifestyle | [F25126](https://preview.nws.broker/api/endpoints/F25126) | RSS | en-US | 2026-11-19 | [Feed](<https://www.stochasticlifestyle.com/feed>) |
+| Stocktonia News | [F23866](https://preview.nws.broker/api/endpoints/F23866) | RSS | en-US | 2026-11-19 | [Feed](<https://stocktonia.org/feed/>) |
+| Stopdesign | [F20664](https://preview.nws.broker/api/endpoints/F20664) | Atom | en-US | 2026-11-19 | [Feed](<https://stopdesign.com/atom>) |
+| Store Halfword Byte-Reverse Indexed | [F23859](https://preview.nws.broker/api/endpoints/F23859) | RSS | und | 2026-11-19 | [Feed](<https://sthbrx.github.io/rss.xml>) |
+| Stories by Andrej Karpathy on Medium | [F2061](https://preview.nws.broker/api/endpoints/F2061) | RSS | und | 2026-11-02 | [Feed](<https://medium.com/feed/@karpathy>) |
+| Stortinget: Aktuelt-saker | [F17545](https://preview.nws.broker/api/endpoints/F17545) | RSS | no-NO | 2026-11-19 | [Feed](<https://www.stortinget.no/no/Stottemeny/RSS/Aktuelt-saker/>) |
+| Strandby Elling Avis | [F23869](https://preview.nws.broker/api/endpoints/F23869) | RSS | da-DK | 2026-11-19 | [Feed](<https://strandbyellingavis.dk/feed/>) |
+| Strange Ago | [F23870](https://preview.nws.broker/api/endpoints/F23870) | RSS | en-US | 2026-11-19 | [Feed](<https://strangeago.com/feed/>) |
+| stratechery.com | [F12123](https://preview.nws.broker/api/endpoints/F12123) | RSS | en-US | 2026-11-19 | [Feed](<https://stratechery.com/feed/>) |
 | Strategist, Storyteller, AI Technology Leader &#124; Ari Kamlani | [F21198](https://preview.nws.broker/api/endpoints/F21198) | RSS | en-US | 2026-11-19 | [Feed](<https://www.arikamlani.com/feed>) |
 | Straw V Steel | [F20670](https://preview.nws.broker/api/endpoints/F20670) | RSS | en | 2026-11-19 | [Feed](<https://strawvsteel.com/rss.xml>) |
 | Streams of Consciousness | [F23872](https://preview.nws.broker/api/endpoints/F23872) | RSS | en | 2026-11-19 | [Feed](<https://streamsofconsciousness.blog/feed/>) |
@@ -124,33 +154,3 @@
 | The Artificial Intelligence Podcast | [F0541](https://preview.nws.broker/api/endpoints/F0541) | RSS | en | 2026-11-01 | [Feed](<https://anchor.fm/s/3952c6f8/podcast/rss>) |
 | The Back Bench | [F20783](https://preview.nws.broker/api/endpoints/F20783) | Atom | und | 2026-11-19 | [Feed](<https://thebackbench.blogspot.com/feeds/posts/default>) |
 | The Bajan Reporter | [F24401](https://preview.nws.broker/api/endpoints/F24401) | RSS | en-US | 2026-11-19 | [Feed](<https://www.bajanreporter.com/feed/>) |
-| The Beacon | [F23959](https://preview.nws.broker/api/endpoints/F23959) | RSS | en-US | 2026-11-19 | [Feed](<https://thebeaconnews.org/feed/>) |
-| The Beauty Look Book | [F2755](https://preview.nws.broker/api/endpoints/F2755) | RSS | en-US | 2026-11-02 | [Feed](<https://thebeautylookbook.com/feed>) |
-| The Berkeley Artificial Intelligence Research Blog | [F0586](https://preview.nws.broker/api/endpoints/F0586) | RSS | und | 2026-11-01 | [Feed](<https://bair.berkeley.edu/blog/feed.xml>) |
-| The Bloggess | [F2756](https://preview.nws.broker/api/endpoints/F2756) | RSS | en-US | 2026-11-02 | [Feed](<https://thebloggess.com/feed/>) |
-| The Bluegrass Blues Podcast | [F20787](https://preview.nws.broker/api/endpoints/F20787) | RSS | en | 2026-11-19 | [Feed](<https://thebluegrassbluespodcast.com/feed/>) |
-| The Bocas Breeze | [F23964](https://preview.nws.broker/api/endpoints/F23964) | RSS | en-US | 2026-11-19 | [Feed](<https://thebocasbreeze.com/feed/>) |
-| The Breakfast Post | [F23965](https://preview.nws.broker/api/endpoints/F23965) | RSS | en | 2026-11-19 | [Feed](<https://thebreakfastpost.com/feed>) |
-| The Cambodia Daily Khmer | [F13482](https://preview.nws.broker/api/endpoints/F13482) | RSS | en-US | 2026-11-19 | [Feed](<https://www.cambodiadaily.com/feed/>) |
-| The Carbon Curve | [F18964](https://preview.nws.broker/api/endpoints/F18964) | RSS | en | 2026-11-19 | [Feed](<https://carboncurve.substack.com/feed>) |
-| The Catholic Register &#124; RSS Feed | [F13523](https://preview.nws.broker/api/endpoints/F13523) | RSS | und | 2026-11-19 | [Feed](<https://www.catholicregister.org/rss>) |
-| The Charlotte Gazette | [F23969](https://preview.nws.broker/api/endpoints/F23969) | RSS | en-US | 2026-11-19 | [Feed](<https://thecharlottegazette.com/feed>) |
-| The Chester blog | [F23970](https://preview.nws.broker/api/endpoints/F23970) | RSS | en | 2026-11-19 | [Feed](<https://thechesterblog.com/feed/>) |
-| The Common Table | [F20792](https://preview.nws.broker/api/endpoints/F20792) | RSS | en-GB | 2026-11-19 | [Feed](<https://thecommontable.eu/feed/>) |
-| The Computer &amp; Technology Network | [F21302](https://preview.nws.broker/api/endpoints/F21302) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.ctnet.co.uk/feed/>) |
-| The Conversation Weekly | [F1269](https://preview.nws.broker/api/endpoints/F1269) | RSS | en | 2026-11-02 | [Feed](<https://feeds.acast.com/public/shows/60087127b9687759d637bade>) |
-| The Coonamble Times | [F21292](https://preview.nws.broker/api/endpoints/F21292) | RSS | en-AU | 2026-11-19 | [Feed](<https://www.coonambletimes.com.au/feed/>) |
-| The Cougar | [F23975](https://preview.nws.broker/api/endpoints/F23975) | RSS | en-US | 2026-11-19 | [Feed](<https://thedailycougar.com/feed/>) |
-| The Crawfish Boxes | [F13728](https://preview.nws.broker/api/endpoints/F13728) | Atom | en-US | 2026-11-19 | [Feed](<https://www.crawfishboxes.com/rss/index.xml>) |
-| The Cullman Tribune | [F24547](https://preview.nws.broker/api/endpoints/F24547) | RSS | en-US | 2026-11-19 | [Feed](<https://www.cullmantribune.com/feed/>) |
-| The Cyber Show | [F19025](https://preview.nws.broker/api/endpoints/F19025) | RSS | en-GB | 2026-11-19 | [Feed](<https://cybershow.uk/rss/feed.xml>) |
-| The Daily Horn | [F20798](https://preview.nws.broker/api/endpoints/F20798) | RSS | en-US | 2026-11-19 | [Feed](<https://thedailyhorn.com/feed/>) |
-| The Daily Iberian | [F20799](https://preview.nws.broker/api/endpoints/F20799) | RSS | en-US | 2026-11-19 | [Feed](<https://thedailyiberian.com/feed>) |
-| The Daily Plasma | [F23976](https://preview.nws.broker/api/endpoints/F23976) | RSS | en | 2026-11-19 | [Feed](<https://thedailyplasma.blog/feed/>) |
-| The Daily WTF | [F0209](https://preview.nws.broker/api/endpoints/F0209) | RSS | und | 2026-11-02 | — |
-| The Danish Dream | [F23978](https://preview.nws.broker/api/endpoints/F23978) | RSS | en-US | 2026-11-19 | [Feed](<https://thedanishdream.com/feed/>) |
-| The Digital Labyrinth | [F23802](https://preview.nws.broker/api/endpoints/F23802) | RSS | en | 2026-11-19 | [Feed](<https://somerandomstuff1.wordpress.com/feed/>) |
-| The Doglady&#x27;s Den | [F23982](https://preview.nws.broker/api/endpoints/F23982) | RSS | en-CA | 2026-11-19 | [Feed](<https://thedogladysden.com/feed/>) |
-| The Drunken Skeptic | [F23983](https://preview.nws.broker/api/endpoints/F23983) | RSS | en | 2026-11-19 | [Feed](<https://thedrunkenskeptic.wordpress.com/feed/>) |
-| The Eclectic Light Company | [F19085](https://preview.nws.broker/api/endpoints/F19085) | RSS | en | 2026-11-19 | [Feed](<https://eclecticlight.co/feed>) |
-| The ENGAGE Podcast | [F19118](https://preview.nws.broker/api/endpoints/F19118) | RSS | en | 2026-11-19 | [Feed](<https://fast.wistia.com/channels/dk8mqqw1wi/rss>) |

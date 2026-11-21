@@ -4,6 +4,33 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| podcast.npo.nl | [F2406](https://preview.nws.broker/api/endpoints/F2406) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/plots.xml>) |
+| podcast.npo.nl | [F2407](https://preview.nws.broker/api/endpoints/F2407) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/podium-witteman-podcast.xml>) |
+| podcast.npo.nl | [F2408](https://preview.nws.broker/api/endpoints/F2408) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/poen.xml>) |
+| podcast.npo.nl | [F2409](https://preview.nws.broker/api/endpoints/F2409) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/pointer.xml>) |
+| podcast.npo.nl | [F2410](https://preview.nws.broker/api/endpoints/F2410) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/polititia.xml>) |
+| podcast.npo.nl | [F2411](https://preview.nws.broker/api/endpoints/F2411) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/popbiografie.xml>) |
+| podcast.npo.nl | [F2412](https://preview.nws.broker/api/endpoints/F2412) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/poplegendes-in-de-polder.xml>) |
+| podcast.npo.nl | [F2413](https://preview.nws.broker/api/endpoints/F2413) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/powcast.xml>) |
+| podcast.npo.nl | [F2414](https://preview.nws.broker/api/endpoints/F2414) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/pretpark-veluwe.xml>) |
+| podcast.npo.nl | [F2415](https://preview.nws.broker/api/endpoints/F2415) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/promoveren-met-almere.xml>) |
+| podcast.npo.nl | [F2416](https://preview.nws.broker/api/endpoints/F2416) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/raas-en-de-basketbal.xml>) |
+| podcast.npo.nl | [F2417](https://preview.nws.broker/api/endpoints/F2417) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/radio-cinema.xml>) |
+| podcast.npo.nl | [F2418](https://preview.nws.broker/api/endpoints/F2418) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/radio-eenvandaag.xml>) |
+| podcast.npo.nl | [F2419](https://preview.nws.broker/api/endpoints/F2419) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/radio-pedis.xml>) |
+| podcast.npo.nl | [F2420](https://preview.nws.broker/api/endpoints/F2420) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/radio-voor-de-gewone-man.xml>) |
+| podcast.npo.nl | [F2421](https://preview.nws.broker/api/endpoints/F2421) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/rebel.xml>) |
+| podcast.npo.nl | [F2422](https://preview.nws.broker/api/endpoints/F2422) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/reinbert.xml>) |
+| podcast.npo.nl | [F2423](https://preview.nws.broker/api/endpoints/F2423) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/reporter-podcast.xml>) |
+| podcast.npo.nl | [F2424](https://preview.nws.broker/api/endpoints/F2424) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/revolusi.xml>) |
+| podcast.npo.nl | [F2425](https://preview.nws.broker/api/endpoints/F2425) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/rode-oortjes-radio.xml>) |
+| podcast.npo.nl | [F2426](https://preview.nws.broker/api/endpoints/F2426) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/roes.xml>) |
+| podcast.npo.nl | [F2427](https://preview.nws.broker/api/endpoints/F2427) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/ronnie-op-zoek-naar-een-utopie.xml>) |
+| podcast.npo.nl | [F2428](https://preview.nws.broker/api/endpoints/F2428) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/rouwrituelen.xml>) |
+| podcast.npo.nl | [F2429](https://preview.nws.broker/api/endpoints/F2429) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/sander-en-de-kloof-de-podcast.xml>) |
+| podcast.npo.nl | [F2430](https://preview.nws.broker/api/endpoints/F2430) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/sanders-wandeling.xml>) |
+| podcast.npo.nl | [F2431](https://preview.nws.broker/api/endpoints/F2431) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/schaduwspel.xml>) |
+| podcast.npo.nl | [F2432](https://preview.nws.broker/api/endpoints/F2432) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/schuldig.xml>) |
 | podcast.npo.nl | [F2433](https://preview.nws.broker/api/endpoints/F2433) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/scripts-off-screen.xml>) |
 | podcast.npo.nl | [F2434](https://preview.nws.broker/api/endpoints/F2434) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/searching-for-the-soul.xml>) |
 | podcast.npo.nl | [F2435](https://preview.nws.broker/api/endpoints/F2435) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/senor-sarens.xml>) |
@@ -83,6 +110,7 @@
 | podcasts.vpr.net | [F23277](https://preview.nws.broker/api/endpoints/F23277) | RSS | en | 2026-11-19 | [Feed](<https://podcasts.vpr.net/eye-on-the-night-sky>) |
 | Podnews Daily - podcast industry and podcasting news | [F20083](https://preview.nws.broker/api/endpoints/F20083) | RSS | en-GB | 2026-11-19 | [Feed](<https://podnews.net/rss>) |
 | podravski.hr | [F11393](https://preview.nws.broker/api/endpoints/F11393) | RSS | hr | 2026-11-19 | [Feed](<https://podravski.hr/feed/>) |
+| podthenorth.substack.com | [F11394](https://preview.nws.broker/api/endpoints/F11394) | RSS | en | 2026-11-21 | [Feed](<https://podthenorth.substack.com/feed>) |
 | Pogled.ba | [F11395](https://preview.nws.broker/api/endpoints/F11395) | RSS | hr | 2026-11-19 | [Feed](<https://pogled.ba/feed/>) |
 | Point-Free Videos | [F21620](https://preview.nws.broker/api/endpoints/F21620) | RSS | en-US | 2026-11-19 | [Feed](<https://www.pointfree.co/feed/episodes.xml>) |
 | Pointe-Noire, Site officiel de la Ville | [F25013](https://preview.nws.broker/api/endpoints/F25013) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.pointenoire.cg/feed/>) |
@@ -126,31 +154,3 @@
 | Privacy Guides | [F16572](https://preview.nws.broker/api/endpoints/F16572) | RSS | und | 2026-11-19 | [Feed](<https://www.privacyguides.org/news/rss/>) |
 | Private Opinion | [F21758](https://preview.nws.broker/api/endpoints/F21758) | Atom | und | 2026-11-19 | [Feed](<https://www.thepo.page/atom.xml>) |
 | Private Talk With Alexis Texas | [F7249](https://preview.nws.broker/api/endpoints/F7249) | RSS | en | 2026-11-18 | — |
-| Privie | [F20112](https://preview.nws.broker/api/endpoints/F20112) | RSS | en-US | 2026-11-19 | [Feed](<https://privie.com/feed/>) |
-| prMac | [F20114](https://preview.nws.broker/api/endpoints/F20114) | RSS | en-US | 2026-11-19 | [Feed](<https://prmac.com/feed/>) |
-| Proceedings of Machine Learning Research | [F0185](https://preview.nws.broker/api/endpoints/F0185) | RSS | und | 2026-11-02 | — |
-| Proceedings of the National Academy of Sciences: Proceedings of the National Academy of Sciences: Table of Contents | [F16487](https://preview.nws.broker/api/endpoints/F16487) | RSS | und | 2026-11-19 | [Feed](<https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas>) |
-| Producing The Beatles | [F25027](https://preview.nws.broker/api/endpoints/F25027) | RSS | en-US | 2026-11-19 | [Feed](<https://www.producingthebeatles.com/new-episodes/?format=rss>) |
-| Product Design, Responsive Web Design, UX Design, Belfast Northern Ireland &#124; Jordan Moore | [F2027](https://preview.nws.broker/api/endpoints/F2027) | RSS | und | 2026-11-01 | [Feed](<https://jordanm.co.uk/feed>) |
-| Product Pickle | [F20117](https://preview.nws.broker/api/endpoints/F20117) | Atom | en | 2026-11-19 | [Feed](<https://productpickle.online/atom>) |
-| PROF Richard Wiseman | [F23375](https://preview.nws.broker/api/endpoints/F23375) | RSS | en | 2026-11-19 | [Feed](<https://richardwiseman.wordpress.com/feed/>) |
-| Programmable Mutter | [F21636](https://preview.nws.broker/api/endpoints/F21636) | RSS | en | 2026-11-19 | [Feed](<https://www.programmablemutter.com/feed>) |
-| Project Casting | [F20123](https://preview.nws.broker/api/endpoints/F20123) | RSS | en-US | 2026-11-19 | [Feed](<https://projectcasting.com/feed>) |
-| promodj.com | [F23307](https://preview.nws.broker/api/endpoints/F23307) | RSS | ru | 2026-11-19 | [Feed](<https://promodj.com/bass-ace/podcast.xml>) |
-| Prothom Alo English | [F8740](https://preview.nws.broker/api/endpoints/F8740) | RSS | en-US | 2026-11-19 | [Feed](<https://en.prothomalo.com/feed>) |
-| Proxmox VE 1.x: Installation and configuration | [F9218](https://preview.nws.broker/api/endpoints/F9218) | RSS | en-US | 2026-11-19 | [Feed](<https://forum.proxmox.com/forums/proxmox-ve-news-announcements.12/index.rss>) |
-| prozorski.ba | [F23310](https://preview.nws.broker/api/endpoints/F23310) | RSS | bs-BA | 2026-11-19 | [Feed](<https://prozorski.ba/feed/>) |
-| Psychogeographic Review | [F23312](https://preview.nws.broker/api/endpoints/F23312) | RSS | en-US | 2026-11-19 | [Feed](<https://psychogeographicreview.com/feed>) |
-| PT&#x27;s Coffee - PT&#x27;s Blog | [F11466](https://preview.nws.broker/api/endpoints/F11466) | Atom | en | 2026-11-19 | [Feed](<https://ptscoffee.com/blogs/news.atom>) |
-| publicola.com | [F11468](https://preview.nws.broker/api/endpoints/F11468) | RSS | en-US | 2026-11-19 | [Feed](<https://publicola.com/feed>) |
-| publish.tribuneindia.com | [F11474](https://preview.nws.broker/api/endpoints/F11474) | RSS | en-US | 2026-11-19 | [Feed](<https://publish.tribuneindia.com/newscategory/top-headlines/feed/>) |
-| Puls Biznesu - portal biznesowy | [F16440](https://preview.nws.broker/api/endpoints/F16440) | RSS | und | 2026-11-19 | [Feed](<https://www.pb.pl/rss/najnowsze.xml>) |
-| Pulse Blog | [F20137](https://preview.nws.broker/api/endpoints/F20137) | RSS | en | 2026-11-19 | [Feed](<https://pulse.internetsociety.org/feed>) |
-| Pulse India News | [F23317](https://preview.nws.broker/api/endpoints/F23317) | RSS | en-US | 2026-11-19 | [Feed](<https://pulseindianews.com/feed/>) |
-| Punya Mishra&#x27;s Web | [F20138](https://preview.nws.broker/api/endpoints/F20138) | RSS | en-US | 2026-11-19 | [Feed](<https://punyamishra.com/feed>) |
-| pv magazine Australia | [F16597](https://preview.nws.broker/api/endpoints/F16597) | RSS | en-AU | 2026-11-19 | [Feed](<https://www.pv-magazine-australia.com/feed/>) |
-| pv magazine India | [F16598](https://preview.nws.broker/api/endpoints/F16598) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.pv-magazine-india.com/feed/>) |
-| pv magazine USA | [F16599](https://preview.nws.broker/api/endpoints/F16599) | RSS | en-US | 2026-11-19 | [Feed](<https://www.pv-magazine-usa.com/feed/>) |
-| pxlnv.com | [F11485](https://preview.nws.broker/api/endpoints/F11485) | RSS | en-CA | 2026-11-19 | [Feed](<https://pxlnv.com/feed>) |
-| PyPI newest packages | [F2535](https://preview.nws.broker/api/endpoints/F2535) | RSS | en | 2026-11-02 | [Feed](<https://pypi.org/rss/packages.xml>) |
-| Pyrénées, Tarbes info | [F23913](https://preview.nws.broker/api/endpoints/F23913) | RSS | fr-FR | 2026-11-19 | [Feed](<https://tarbesinfo.fr/feed/>) |

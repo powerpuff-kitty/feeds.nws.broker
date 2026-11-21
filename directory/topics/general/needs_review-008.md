@@ -4,6 +4,35 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| southdfwnews.com | [F23811](https://preview.nws.broker/api/endpoints/F23811) | RSS | und | 2026-11-19 | — |
+| Southern Remedy | [F1268](https://preview.nws.broker/api/endpoints/F1268) | RSS | und | 2026-11-02 | — |
+| southfloridaagentmagazine.com | [F20617](https://preview.nws.broker/api/endpoints/F20617) | RSS | und | 2026-11-19 | — |
+| southtidewaternews.com | [F23813](https://preview.nws.broker/api/endpoints/F23813) | RSS | und | 2026-11-19 | — |
+| spacecoastdaily.com | [F23815](https://preview.nws.broker/api/endpoints/F23815) | RSS | und | 2026-11-19 | — |
+| spectrumlocalnews.com | [F12026](https://preview.nws.broker/api/endpoints/F12026) | RSS | und | 2026-11-19 | — |
+| spicenews.com.au | [F20623](https://preview.nws.broker/api/endpoints/F20623) | RSS | und | 2026-11-19 | — |
+| splash247.com | [F12036](https://preview.nws.broker/api/endpoints/F12036) | RSS | und | 2026-11-19 | — |
+| sport.aktualne.cz | [F23826](https://preview.nws.broker/api/endpoints/F23826) | RSS | und | 2026-11-19 | — |
+| spotfamilypodcast.libsyn.com | [F23837](https://preview.nws.broker/api/endpoints/F23837) | RSS | und | 2026-11-19 | — |
+| spreaker.com | [F5564](https://preview.nws.broker/api/endpoints/F5564) | RSS | und | 2026-11-02 | — |
+| srf.ch | [F12071](https://preview.nws.broker/api/endpoints/F12071) | RSS | und | 2026-11-19 | — |
+| srta.gov.et | [F12073](https://preview.nws.broker/api/endpoints/F12073) | RSS | und | 2026-11-19 | — |
+| stag2.wired.com | [F23841](https://preview.nws.broker/api/endpoints/F23841) | RSS | und | 2026-11-19 | — |
+| startupestonia.ee | [F12084](https://preview.nws.broker/api/endpoints/F12084) | RSS | und | 2026-11-19 | — |
+| stav.ba | [F12090](https://preview.nws.broker/api/endpoints/F12090) | RSS | und | 2026-11-19 | — |
+| steamboatpilot.com | [F12091](https://preview.nws.broker/api/endpoints/F12091) | RSS | und | 2026-11-19 | — |
+| stephan.sugarmotor.org | [F23853](https://preview.nws.broker/api/endpoints/F23853) | RSS | und | 2026-11-19 | — |
+| studyinglover.com | [F12127](https://preview.nws.broker/api/endpoints/F12127) | RSS | und | 2026-11-19 | — |
+| stupidoptimism.net | [F23874](https://preview.nws.broker/api/endpoints/F23874) | RSS | und | 2026-11-19 | — |
+| suedhessen.news | [F12131](https://preview.nws.broker/api/endpoints/F12131) | RSS | und | 2026-11-19 | — |
+| suenemetz.libsyn.com | [F23876](https://preview.nws.broker/api/endpoints/F23876) | RSS | und | 2026-11-19 | — |
+| suffolkreporter.com | [F23877](https://preview.nws.broker/api/endpoints/F23877) | RSS | und | 2026-11-19 | — |
+| sulkysport.se | [F23879](https://preview.nws.broker/api/endpoints/F23879) | RSS | und | 2026-11-19 | — |
+| summitdaily.com | [F23881](https://preview.nws.broker/api/endpoints/F23881) | RSS | und | 2026-11-19 | — |
+| Sunday Forum | [F1320](https://preview.nws.broker/api/endpoints/F1320) | RSS | und | 2026-11-02 | — |
+| swipeline.co | [F12151](https://preview.nws.broker/api/endpoints/F12151) | RSS | und | 2026-11-19 | — |
+| syncup.libsyn.com | [F20703](https://preview.nws.broker/api/endpoints/F20703) | RSS | und | 2026-11-19 | — |
+| szbz.de | [F23896](https://preview.nws.broker/api/endpoints/F23896) | Atom | und | 2026-11-19 | — |
 | t24.com.tr | [F12154](https://preview.nws.broker/api/endpoints/F12154) | RSS | und | 2026-11-19 | — |
 | tagblatt.ch | [F12159](https://preview.nws.broker/api/endpoints/F12159) | RSS | und | 2026-11-19 | — |
 | Tags from anki | [F1753](https://preview.nws.broker/api/endpoints/F1753) | Atom | und | 2026-11-02 | — |
@@ -125,32 +154,3 @@
 | tippfm.com | [F24071](https://preview.nws.broker/api/endpoints/F24071) | RSS | und | 2026-11-19 | — |
 | tiramisu.bearblog.dev | [F24073](https://preview.nws.broker/api/endpoints/F24073) | RSS | und | 2026-11-19 | — |
 | tirol.gv.at | [F24075](https://preview.nws.broker/api/endpoints/F24075) | RSS | und | 2026-11-19 | — |
-| todayfm.com | [F24079](https://preview.nws.broker/api/endpoints/F24079) | RSS | und | 2026-11-19 | — |
-| togoactualite.com | [F12436](https://preview.nws.broker/api/endpoints/F12436) | RSS | und | 2026-11-19 | — |
-| tonite.abante.com.ph | [F12440](https://preview.nws.broker/api/endpoints/F12440) | RSS | und | 2026-11-19 | — |
-| topherchris.com | [F24090](https://preview.nws.broker/api/endpoints/F24090) | RSS | und | 2026-11-19 | — |
-| tportal.hr | [F24093](https://preview.nws.broker/api/endpoints/F24093) | RSS | und | 2026-11-19 | — |
-| tr.al-ain.com | [F12450](https://preview.nws.broker/api/endpoints/F12450) | RSS | und | 2026-11-19 | — |
-| tr.ign.com | [F12452](https://preview.nws.broker/api/endpoints/F12452) | RSS | und | 2026-11-19 | — |
-| tr.investing.com | [F12456](https://preview.nws.broker/api/endpoints/F12456) | RSS | und | 2026-11-19 | — |
-| transitiontech.ca | [F20945](https://preview.nws.broker/api/endpoints/F20945) | RSS | und | 2026-11-19 | — |
-| Trendir | [F5673](https://preview.nws.broker/api/endpoints/F5673) | RSS | und | 2026-11-02 | — |
-| trends.knack.be | [F12466](https://preview.nws.broker/api/endpoints/F12466) | RSS | und | 2026-11-19 | — |
-| trib.com | [F12471](https://preview.nws.broker/api/endpoints/F12471) | RSS | und | 2026-11-19 | — |
-| tribtoday.com | [F20950](https://preview.nws.broker/api/endpoints/F20950) | RSS | und | 2026-11-19 | — |
-| tribunesouthafrica.com | [F12479](https://preview.nws.broker/api/endpoints/F12479) | RSS | und | 2026-11-19 | — |
-| True Talk | [F1316](https://preview.nws.broker/api/endpoints/F1316) | RSS | und | 2026-11-02 | — |
-| trusttimes.com.ng | [F24111](https://preview.nws.broker/api/endpoints/F24111) | RSS | und | 2026-11-19 | — |
-| tsi.lv | [F20966](https://preview.nws.broker/api/endpoints/F20966) | RSS | und | 2026-11-19 | — |
-| tube.tchncs.de | [F24122](https://preview.nws.broker/api/endpoints/F24122) | RSS | und | 2026-11-19 | — |
-| Tuesday Cafe with Sean | [F1307](https://preview.nws.broker/api/endpoints/F1307) | RSS | und | 2026-11-02 | — |
-| tv4.se | [F24134](https://preview.nws.broker/api/endpoints/F24134) | RSS | und | 2026-11-19 | — |
-| twistertipster.wordpress.com | [F24136](https://preview.nws.broker/api/endpoints/F24136) | RSS | und | 2026-11-19 | — |
-| tyr-jour.hkbu.edu.hk | [F20982](https://preview.nws.broker/api/endpoints/F20982) | RSS | und | 2026-11-19 | — |
-| u.osu.edu | [F24142](https://preview.nws.broker/api/endpoints/F24142) | RSS | und | 2026-11-19 | — |
-| ucsdguardian.org | [F24144](https://preview.nws.broker/api/endpoints/F24144) | RSS | und | 2026-11-19 | — |
-| uk.lapresse.it | [F24146](https://preview.nws.broker/api/endpoints/F24146) | RSS | und | 2026-11-19 | — |
-| ukaviation.news | [F12526](https://preview.nws.broker/api/endpoints/F12526) | RSS | und | 2026-11-19 | — |
-| undergroundpress.co.za | [F24149](https://preview.nws.broker/api/endpoints/F24149) | RSS | und | 2026-11-19 | — |
-| underlupen.libsyn.com | [F20993](https://preview.nws.broker/api/endpoints/F20993) | RSS | und | 2026-11-19 | — |
-| unewsonline.com | [F24151](https://preview.nws.broker/api/endpoints/F24151) | RSS | und | 2026-11-19 | — |

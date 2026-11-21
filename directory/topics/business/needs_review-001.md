@@ -27,4 +27,3 @@
 | The Clark Howard Podcast | [F1333](https://preview.nws.broker/api/endpoints/F1333) | RSS | und | 2026-11-02 | — |
 | The Stacking Benjamins Show | [F1341](https://preview.nws.broker/api/endpoints/F1341) | RSS | und | 2026-11-02 | — |
 | Today in Web 3 | [F1656](https://preview.nws.broker/api/endpoints/F1656) | RSS | und | 2026-11-01 | — |
-| Venus Adult News | [F7220](https://preview.nws.broker/api/endpoints/F7220) | RSS | und | — | — |

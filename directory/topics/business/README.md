@@ -2,19 +2,20 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/business.opml)
 
-120 endpoint records.
+201 endpoint records.
 
-## Verified (95)
+## Verified (177)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–95](verified-001.md) · Adult FYI to ZebPay
+- [1–150](verified-001.md) · 50 Plus a Tip to Well Kept Wallet
+- [151–177](verified-002.md) · Wet Ink Magazine to ZebPay
 
-## Needs review (24)
+## Needs review (23)
 
 The record needs follow-up, for example on access, format, or parsing.
 
-- [1–24](needs_review-001.md) · Adult FYI to Venus Adult News
+- [1–23](needs_review-001.md) · Adult FYI to Today in Web 3
 
 ## Unavailable (1)
 

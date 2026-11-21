@@ -4,6 +4,23 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| chinai.substack.com | [F8329](https://preview.nws.broker/api/endpoints/F8329) | RSS | en | 2026-11-21 | [Feed](<https://chinai.substack.com/feed>) |
+| Chip Huyen | [F9479](https://preview.nws.broker/api/endpoints/F9479) | RSS | und | 2026-11-19 | [Feed](<https://huyenchip.com/feed.xml>) |
+| Chocolate &amp; Zucchini | [F1141](https://preview.nws.broker/api/endpoints/F1141) | RSS | en-US | 2026-11-01 | [Feed](<https://cnz.to/feed/>) |
+| Chris Carlier &#124; Short Songs | [F23756](https://preview.nws.broker/api/endpoints/F23756) | Atom | en | 2026-11-19 | [Feed](<https://shortsongs.ca/atom>) |
+| Christian Courier | [F24517](https://preview.nws.broker/api/endpoints/F24517) | RSS | en-US | 2026-11-19 | [Feed](<https://www.christiancourier.ca/feed/>) |
+| Christopher Grant | [F18974](https://preview.nws.broker/api/endpoints/F18974) | RSS | en | 2026-11-19 | [Feed](<https://cgrant.io/index.xml>) |
+| chriszheng.science | [F8330](https://preview.nws.broker/api/endpoints/F8330) | Atom | und | 2026-11-19 | [Feed](<https://chriszheng.science/atom.xml>) |
+| Church of Christ Sermon Podcasts | [F22232](https://preview.nws.broker/api/endpoints/F22232) | RSS | en-US | 2026-11-19 | [Feed](<https://dentonchurchofchrist.org/podcast/feed.php>) |
+| Chutando a Escada | [F22203](https://preview.nws.broker/api/endpoints/F22203) | RSS | pt-BR | 2026-11-19 | [Feed](<https://chutandoaescada.com.br/feed/podcast>) |
+| CIO Podcast - IT-Strategie und digitale Transformation | [F21430](https://preview.nws.broker/api/endpoints/F21430) | RSS | de | 2026-11-19 | [Feed](<https://www.id-cubic.de/feed/podcast/>) |
+| CircuitBored.Com/COMMUNICATE | [F18989](https://preview.nws.broker/api/endpoints/F18989) | Atom | en-GB | 2026-11-19 | [Feed](<https://circuitbored.com/app.php/feed>) |
+| Citizens’ | [F24523](https://preview.nws.broker/api/endpoints/F24523) | RSS | en-US | 2026-11-19 | [Feed](<https://www.citizensvoicehd.com/feed/>) |
+| citydatum.cn | [F8341](https://preview.nws.broker/api/endpoints/F8341) | RSS | zh-Hans | 2026-11-19 | [Feed](<https://citydatum.cn/feed>) |
+| Civic Innovations | [F18991](https://preview.nws.broker/api/endpoints/F18991) | Atom | en | 2026-11-19 | [Feed](<https://civic.io/feed/atom>) |
+| Ciência e Conservação - DesAbraçando Árvores | [F24562](https://preview.nws.broker/api/endpoints/F24562) | RSS | pt-BR | 2026-11-19 | [Feed](<https://www.desabrace.com.br/feed/podcast/>) |
+| Clarissa&#x27;s Blog | [F18993](https://preview.nws.broker/api/endpoints/F18993) | RSS | en | 2026-11-19 | [Feed](<https://clarissasblog.com/feed/>) |
+| ClassAction.org Newswire | [F21277](https://preview.nws.broker/api/endpoints/F21277) | RSS | en-US | 2026-11-19 | [Feed](<https://www.classaction.org/news/rss>) |
 | CLAYCORD.com | [F21278](https://preview.nws.broker/api/endpoints/F21278) | RSS | en-US | 2026-11-19 | [Feed](<https://www.claycord.com/feed/>) |
 | Clean Energy Wire - Journalism for the energy transition | [F13646](https://preview.nws.broker/api/endpoints/F13646) | RSS | en | 2026-11-19 | [Feed](<https://www.cleanenergywire.org/rss.xml>) |
 | climatechampions.podbean.com | [F18994](https://preview.nws.broker/api/endpoints/F18994) | RSS | en | 2026-11-19 | [Feed](<https://climatechampions.podbean.com/feed.xml>) |
@@ -137,20 +154,3 @@
 | Dicas Apple by Micro Import | [F19845](https://preview.nws.broker/api/endpoints/F19845) | RSS | pt-BR | 2026-11-19 | [Feed](<https://microimport.com.br/feed/podcast/>) |
 | DICT I PNG | [F21429](https://preview.nws.broker/api/endpoints/F21429) | RSS | en-US | 2026-11-19 | [Feed](<https://www.ict.gov.pg/feed/>) |
 | Die Gründer | [F19965](https://preview.nws.broker/api/endpoints/F19965) | RSS | de | 2026-11-19 | [Feed](<https://northpro.squarespace.com/gruender-podcast?format=rss>) |
-| Die Profis | [F25033](https://preview.nws.broker/api/endpoints/F25033) | RSS | de | 2026-11-19 | [Feed](<https://www.radioeins.de/archiv/podcast/die_profis.feed.podcast.xml>) |
-| DigiSport | [F13956](https://preview.nws.broker/api/endpoints/F13956) | RSS | und | 2026-11-19 | [Feed](<https://www.digisport.ro/rss>) |
-| Digital Information World | [F21319](https://preview.nws.broker/api/endpoints/F21319) | Atom | und | 2026-11-19 | [Feed](<https://www.digitalinformationworld.com/feeds/posts/default>) |
-| DIGITAL IST BESSER! | [F21041](https://preview.nws.broker/api/endpoints/F21041) | RSS | de | 2026-11-19 | [Feed](<https://virtual7.podigee.io/feed/mp3>) |
-| Digital Journal | [F21320](https://preview.nws.broker/api/endpoints/F21320) | RSS | en-US | 2026-11-19 | [Feed](<https://www.digitaljournal.com/feed>) |
-| Digital Product Talks - Der COBE Podcast | [F18999](https://preview.nws.broker/api/endpoints/F18999) | RSS | de | 2026-11-19 | [Feed](<https://cobe.podigee.io/feed/mp3>) |
-| Digital with Discernment | [F19064](https://preview.nws.broker/api/endpoints/F19064) | RSS | en | 2026-11-19 | [Feed](<https://digitalwithdiscernment.substack.com/feed>) |
-| digital-business-trends.de | [F8572](https://preview.nws.broker/api/endpoints/F8572) | RSS | de | 2026-11-19 | [Feed](<https://digital-business-trends.de/rss>) |
-| Dinner: A Love Story | [F0308](https://preview.nws.broker/api/endpoints/F0308) | RSS | en-US | 2026-11-02 | — |
-| Dir.bg | [F8577](https://preview.nws.broker/api/endpoints/F8577) | RSS | und | 2026-11-19 | [Feed](<https://dir.bg/feeds/rss>) |
-| direktno.hr | [F8578](https://preview.nws.broker/api/endpoints/F8578) | RSS | hr | 2026-11-19 | [Feed](<https://direktno.hr/rss/publish/latest/>) |
-| Disability Rights Watch | [F24568](https://preview.nws.broker/api/endpoints/F24568) | RSS | en-US | 2026-11-19 | [Feed](<https://www.disability-rights-watch.com/feed/>) |
-| Discourse forums | [F2073](https://preview.nws.broker/api/endpoints/F2073) | RSS | en | 2026-11-02 | [Feed](<https://meta.discourse.org/latest.rss>) |
-| Discourse forums | [F2074](https://preview.nws.broker/api/endpoints/F2074) | RSS | und | 2026-11-02 | [Feed](<https://meta.discourse.org/posts.rss>) |
-| Discovery Institute | [F21322](https://preview.nws.broker/api/endpoints/F21322) | RSS | en-US | 2026-11-19 | [Feed](<https://www.discovery.org/feed/podcast>) |
-| Distill | [F1188](https://preview.nws.broker/api/endpoints/F1188) | RSS | en-US | 2026-11-01 | [Feed](<https://distill.pub/rss.xml>) |
-| DIY RPG Productions | [F24318](https://preview.nws.broker/api/endpoints/F24318) | RSS | en | 2026-11-19 | [Feed](<https://wrathofzombie.wordpress.com/feed/>) |

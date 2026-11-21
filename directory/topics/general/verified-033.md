@@ -4,6 +4,40 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| zhul.in | [F18602](https://preview.nws.broker/api/endpoints/F18602) | Atom | zh-CN | 2026-11-19 | [Feed](<https://zhul.in/rss.xml>) |
+| zhurongshuo.com | [F18603](https://preview.nws.broker/api/endpoints/F18603) | RSS | zh-CN | 2026-11-19 | [Feed](<https://zhurongshuo.com/index.xml>) |
+| Zi | [F21823](https://preview.nws.broker/api/endpoints/F21823) | Atom | en | 2026-11-19 | [Feed](<https://ziyzhu.com/feed.xml>) |
+| Ziņas par Latviju un pasauli 24/7 &#124; BB.LV | [F9821](https://preview.nws.broker/api/endpoints/F9821) | RSS | ru | 2026-11-19 | [Feed](<https://lat.bb.lv/rss>) |
+| zwischenzugs | [F21824](https://preview.nws.broker/api/endpoints/F21824) | RSS | en | 2026-11-19 | [Feed](<https://zwischenzugs.wordpress.com/feed/>) |
+| \~talfus-laddus - Blog | [F20713](https://preview.nws.broker/api/endpoints/F20713) | Atom | en | 2026-11-19 | [Feed](<https://talfus-laddus.de/blog/atom.xml>) |
+| ¡Que Onda Magazine! | [F23321](https://preview.nws.broker/api/endpoints/F23321) | RSS | en-US | 2026-11-19 | [Feed](<https://queondamagazine.com/feed/>) |
+| §kuthus | [F20579](https://preview.nws.broker/api/endpoints/F20579) | Atom | en | 2026-11-19 | [Feed](<https://skuth.us/feed>) |
+| Özgür Gazete Kıbrıs | [F11282](https://preview.nws.broker/api/endpoints/F11282) | RSS | tr | 2026-11-19 | [Feed](<https://ozgurgazetekibris.com/feed>) |
+| Ştiri locale de ultima ora, stiri video – Ştiri Gorjeanul.ro | [F24664](https://preview.nws.broker/api/endpoints/F24664) | RSS | ro-RO | 2026-11-19 | [Feed](<https://www.gorjeanul.ro/feed/>) |
+| Știrile ProTV | [F11702](https://preview.nws.broker/api/endpoints/F11702) | RSS | ro-RO | 2026-11-19 | [Feed](<https://rss.stirileprotv.ro/>) |
+| Η Εφημερίδα των Συντακτών | [F14073](https://preview.nws.broker/api/endpoints/F14073) | RSS | el | 2026-11-19 | [Feed](<https://www.efsyn.gr/rss.xml>) |
+| Πολιτική &#124; AlphaNews | [F13032](https://preview.nws.broker/api/endpoints/F13032) | RSS | el | 2026-11-19 | [Feed](<https://www.alphanews.live/category/politics/feed/>) |
+| Πρώτο Θέμα: RSS | [F16585](https://preview.nws.broker/api/endpoints/F16585) | RSS | und | 2026-11-19 | [Feed](<https://www.protothema.gr/rss>) |
+| Агробизнис | [F7692](https://preview.nws.broker/api/endpoints/F7692) | RSS | sr-RS | 2026-11-19 | [Feed](<https://agrobiznis.rs/feed/>) |
+| Вечер | [F12572](https://preview.nws.broker/api/endpoints/F12572) | RSS | mk-MK | 2026-11-19 | [Feed](<https://vecer.mk/rss>) |
+| КультураПОП | [F20084](https://preview.nws.broker/api/endpoints/F20084) | RSS | ru | 2026-11-19 | [Feed](<https://podster.fm/rss.xml?pid=46813>) |
+| Нарвская газета &quot;Город&quot; | [F9359](https://preview.nws.broker/api/endpoints/F9359) | RSS | ru-RU | 2026-11-19 | [Feed](<https://gorod.ee/feed/>) |
+| Новая Газета | [F11174](https://preview.nws.broker/api/endpoints/F11174) | RSS | ru | 2026-11-19 | [Feed](<https://novayagazeta.ru/feed/rss>) |
+| Новости Латвии И Мира 24/7 &#124; BB.LV | [F7940](https://preview.nws.broker/api/endpoints/F7940) | RSS | ru | 2026-11-19 | [Feed](<https://bb.lv/rss>) |
+| Формула 1 на F1News.ru | [F14308](https://preview.nws.broker/api/endpoints/F14308) | RSS | ru | 2026-11-19 | [Feed](<https://www.f1news.ru/export/news.xml>) |
+| Футбол, спорт, спортни новини - Sportal.bg | [F12041](https://preview.nws.broker/api/endpoints/F12041) | RSS | bg | 2026-11-19 | [Feed](<https://sportal.bg/rss>) |
+| جريدة الصباح | [F7838](https://preview.nws.broker/api/endpoints/F7838) | RSS | ar | 2026-11-19 | [Feed](<https://assabah.ma/feed>) |
+| مراكش الاخبارية | [F9961](https://preview.nws.broker/api/endpoints/F9961) | RSS | ar | 2026-11-19 | [Feed](<https://marrakech7.com/feed/>) |
+| وكالة الأنباء العمانية (العمانية) | [F11227](https://preview.nws.broker/api/endpoints/F11227) | RSS | ar | 2026-11-19 | [Feed](<https://omannews.gov.om/rss.ona>) |
+| ନିର୍ବେଦ ଓଡିଶା | [F23099](https://preview.nws.broker/api/endpoints/F23099) | RSS | en-US | 2026-11-19 | [Feed](<https://nirvedaodisha.in/feed/>) |
+| ჯემნიუსი | [F9630](https://preview.nws.broker/api/endpoints/F9630) | RSS | ka-GE | 2026-11-19 | [Feed](<https://jam-news.net/ge/feed>) |
+| የአሜሪካ ድምፅ | [F7756](https://preview.nws.broker/api/endpoints/F7756) | RSS | am | 2026-11-19 | [Feed](<https://amharic.voanews.com/api/>) |
+| ↻RECORD TURNOVER | [F25043](https://preview.nws.broker/api/endpoints/F25043) | Atom | en-GB | 2026-11-19 | [Feed](<https://www.recordturnover.com/atom>) |
+| ➢➢ Shapers of the 80s ➣➣ | [F20553](https://preview.nws.broker/api/endpoints/F20553) | RSS | en-GB | 2026-11-19 | [Feed](<https://shapersofthe80s.com/feed>) |
+| 《信義存愛組》 | [F22746](https://preview.nws.broker/api/endpoints/F22746) | RSS | zh | 2026-11-19 | [Feed](<https://feeds.soundon.fm/podcasts/167e1689-709a-402e-bdeb-be5780f03f13.xml>) |
+| 书远见 | [F1066](https://preview.nws.broker/api/endpoints/F1066) | Atom | en-US | 2026-11-01 | [Feed](<https://bookvision7.com/feed.xml>) |
+| 云心怀鹤 | [F1060](https://preview.nws.broker/api/endpoints/F1060) | RSS | zh-CN | 2026-11-01 | [Feed](<https://bluehe.cn/feed/>) |
+| 交通部觀光署 最新消息 | [F17640](https://preview.nws.broker/api/endpoints/F17640) | RSS | und | 2026-11-19 | [Feed](<https://www.taiwan.net.tw/rss.aspx?sno=0001001>) |
 | 从百草园到三味书屋 | [F6090](https://preview.nws.broker/api/endpoints/F6090) | RSS | en | 2026-11-02 | [Feed](<https://youngforever.tech/index.xml>) |
 | 仲儿的自留地 | [F0754](https://preview.nws.broker/api/endpoints/F0754) | Atom | und | 2026-11-01 | [Feed](<https://blog.lui8.cn/feed.xml>) |
 | 公視新聞網 | [F10986](https://preview.nws.broker/api/endpoints/F10986) | Atom | zh-TW | 2026-11-19 | [Feed](<https://news.pts.org.tw/xml/newsfeed.xml>) |

@@ -4,6 +4,23 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Die Profis | [F25033](https://preview.nws.broker/api/endpoints/F25033) | RSS | de | 2026-11-19 | [Feed](<https://www.radioeins.de/archiv/podcast/die_profis.feed.podcast.xml>) |
+| DigiSport | [F13956](https://preview.nws.broker/api/endpoints/F13956) | RSS | und | 2026-11-19 | [Feed](<https://www.digisport.ro/rss>) |
+| Digital Information World | [F21319](https://preview.nws.broker/api/endpoints/F21319) | Atom | und | 2026-11-19 | [Feed](<https://www.digitalinformationworld.com/feeds/posts/default>) |
+| DIGITAL IST BESSER! | [F21041](https://preview.nws.broker/api/endpoints/F21041) | RSS | de | 2026-11-19 | [Feed](<https://virtual7.podigee.io/feed/mp3>) |
+| Digital Journal | [F21320](https://preview.nws.broker/api/endpoints/F21320) | RSS | en-US | 2026-11-19 | [Feed](<https://www.digitaljournal.com/feed>) |
+| Digital Product Talks - Der COBE Podcast | [F18999](https://preview.nws.broker/api/endpoints/F18999) | RSS | de | 2026-11-19 | [Feed](<https://cobe.podigee.io/feed/mp3>) |
+| Digital with Discernment | [F19064](https://preview.nws.broker/api/endpoints/F19064) | RSS | en | 2026-11-19 | [Feed](<https://digitalwithdiscernment.substack.com/feed>) |
+| digital-business-trends.de | [F8572](https://preview.nws.broker/api/endpoints/F8572) | RSS | de | 2026-11-19 | [Feed](<https://digital-business-trends.de/rss>) |
+| Dinner: A Love Story | [F0308](https://preview.nws.broker/api/endpoints/F0308) | RSS | en-US | 2026-11-02 | — |
+| Dir.bg | [F8577](https://preview.nws.broker/api/endpoints/F8577) | RSS | und | 2026-11-19 | [Feed](<https://dir.bg/feeds/rss>) |
+| direktno.hr | [F8578](https://preview.nws.broker/api/endpoints/F8578) | RSS | hr | 2026-11-19 | [Feed](<https://direktno.hr/rss/publish/latest/>) |
+| Disability Rights Watch | [F24568](https://preview.nws.broker/api/endpoints/F24568) | RSS | en-US | 2026-11-19 | [Feed](<https://www.disability-rights-watch.com/feed/>) |
+| Discourse forums | [F2073](https://preview.nws.broker/api/endpoints/F2073) | RSS | en | 2026-11-02 | [Feed](<https://meta.discourse.org/latest.rss>) |
+| Discourse forums | [F2074](https://preview.nws.broker/api/endpoints/F2074) | RSS | und | 2026-11-02 | [Feed](<https://meta.discourse.org/posts.rss>) |
+| Discovery Institute | [F21322](https://preview.nws.broker/api/endpoints/F21322) | RSS | en-US | 2026-11-19 | [Feed](<https://www.discovery.org/feed/podcast>) |
+| Distill | [F1188](https://preview.nws.broker/api/endpoints/F1188) | RSS | en-US | 2026-11-01 | [Feed](<https://distill.pub/rss.xml>) |
+| DIY RPG Productions | [F24318](https://preview.nws.broker/api/endpoints/F24318) | RSS | en | 2026-11-19 | [Feed](<https://wrathofzombie.wordpress.com/feed/>) |
 | djtoneystone.podomatic.com | [F22240](https://preview.nws.broker/api/endpoints/F22240) | RSS | en-US | 2026-11-19 | [Feed](<https://djtoneystone.podomatic.com/rss2.xml>) |
 | DNews24.ro | [F24414](https://preview.nws.broker/api/endpoints/F24414) | RSS | ro-RO | 2026-11-19 | [Feed](<https://www.bihorjust.ro/feed/>) |
 | Do the Math | [F22243](https://preview.nws.broker/api/endpoints/F22243) | RSS | en-US | 2026-11-19 | [Feed](<https://dothemath.ucsd.edu/feed/>) |
@@ -131,26 +148,9 @@
 | European Commission &#124; Highlighted news | [F8394](https://preview.nws.broker/api/endpoints/F8394) | RSS | en | 2026-11-19 | [Feed](<https://commission.europa.eu/node/29665/rss_en>) |
 | European Union &#124; Press releases | [F8847](https://preview.nws.broker/api/endpoints/F8847) | RSS | en | 2026-11-19 | [Feed](<https://european-union.europa.eu/node/484/rss_en>) |
 | EuropskeNoviny.sk | [F8856](https://preview.nws.broker/api/endpoints/F8856) | RSS | sk-SK | 2026-11-19 | [Feed](<https://europske.noviny.sk/feed/>) |
+| eurowaves.substack.com | [F8857](https://preview.nws.broker/api/endpoints/F8857) | RSS | en | 2026-11-21 | [Feed](<https://eurowaves.substack.com/feed>) |
 | Evan&#x27;s Space | [F4213](https://preview.nws.broker/api/endpoints/F4213) | RSS | zh-Hans | 2026-11-02 | [Feed](<https://www.evan.xin/feed/>) |
 | Every Day Is Like Wednesday | [F24600](https://preview.nws.broker/api/endpoints/F24600) | Atom | und | 2026-11-19 | [Feed](<https://www.everydayislikewednesday.com/atom.xml>) |
 | evrimagaci.org | [F8861](https://preview.nws.broker/api/endpoints/F8861) | RSS | tr | 2026-11-19 | [Feed](<https://evrimagaci.org/rss.xml>) |
 | EVSpecifications | [F14289](https://preview.nws.broker/api/endpoints/F14289) | RSS | en-US | 2026-11-19 | [Feed](<https://www.evspecifications.com/rss>) |
 | Expanding Dialogic Space with Rupert Wegerif | [F20461](https://preview.nws.broker/api/endpoints/F20461) | RSS | en | 2026-11-19 | [Feed](<https://rupertwegerif.substack.com/feed>) |
-| ExPartibus | [F24604](https://preview.nws.broker/api/endpoints/F24604) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.expartibus.it/feed/>) |
-| Exploring Existence | [F20456](https://preview.nws.broker/api/endpoints/F20456) | Atom | en | 2026-11-19 | [Feed](<https://rstraub.com/feed/feed.xml>) |
-| Exposed Magazine | [F24605](https://preview.nws.broker/api/endpoints/F24605) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.exposedmagazine.co.uk/feed/>) |
-| Express Kerala | [F21350](https://preview.nws.broker/api/endpoints/F21350) | RSS | en-US | 2026-11-19 | [Feed](<https://www.expresskerala.com/news/feed>) |
-| Extranet Evolution | [F19113](https://preview.nws.broker/api/endpoints/F19113) | Atom | en-GB | 2026-11-19 | [Feed](<https://extranetevolution.com/feed/atom>) |
-| Eyefootball: Football News | [F14299](https://preview.nws.broker/api/endpoints/F14299) | RSS | und | 2026-11-19 | [Feed](<https://www.eyefootball.com/football_news.xml>) |
-| F1ACTU.COM | [F14302](https://preview.nws.broker/api/endpoints/F14302) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.f1actu.com/feed/>) |
-| Fairy of Disenchantment | [F23986](https://preview.nws.broker/api/endpoints/F23986) | RSS | en | 2026-11-19 | [Feed](<https://thefairyofdisenchantment.wordpress.com/feed/>) |
-| Faith Pest Control North Georgia Podcast | [F22273](https://preview.nws.broker/api/endpoints/F22273) | RSS | en-US | 2026-11-19 | [Feed](<https://faithpestcontrol.com/feed/podcast/>) |
-| Fanatik.ro | [F24608](https://preview.nws.broker/api/endpoints/F24608) | RSS | ro-RO | 2026-11-19 | [Feed](<https://www.fanatik.ro/feed>) |
-| fantastikcanavarlar.com | [F8879](https://preview.nws.broker/api/endpoints/F8879) | RSS | tr | 2026-11-19 | [Feed](<https://fantastikcanavarlar.com/feed/>) |
-| Far Outliers | [F22275](https://preview.nws.broker/api/endpoints/F22275) | Atom | en | 2026-11-19 | [Feed](<https://faroutliers.com/feed/atom>) |
-| farer.org | [F8880](https://preview.nws.broker/api/endpoints/F8880) | RSS | und | 2026-11-19 | [Feed](<https://farer.org/rss/>) |
-| Farmers Weekly | [F14332](https://preview.nws.broker/api/endpoints/F14332) | RSS | en-US | 2026-11-19 | [Feed](<https://www.farmersweekly.co.nz/feed/>) |
-| Fascinating Nouns | [F22276](https://preview.nws.broker/api/endpoints/F22276) | RSS | en-US | 2026-11-19 | [Feed](<https://fascinatingnouns.com/feed/podcast/>) |
-| fashionista.com | [F1247](https://preview.nws.broker/api/endpoints/F1247) | RSS | en | 2026-11-01 | [Feed](<https://fashionista.com/.rss/excerpt/>) |
-| fashionista.com | [F1248](https://preview.nws.broker/api/endpoints/F1248) | RSS | en | 2026-11-02 | — |
-| fatbobman.com | [F8883](https://preview.nws.broker/api/endpoints/F8883) | RSS | zh | 2026-11-19 | [Feed](<https://fatbobman.com/zh/rss.xml>) |

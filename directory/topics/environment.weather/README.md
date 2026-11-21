@@ -2,13 +2,13 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/environment.weather.opml)
 
-77 endpoint records.
+78 endpoint records.
 
-## Verified (51)
+## Verified (52)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–51](verified-001.md) · EUMETNET Meteoalarm to US National Weather Service API
+- [1–52](verified-001.md) · EUMETNET Meteoalarm to US National Weather Service API
 
 ## Needs review (13)
 

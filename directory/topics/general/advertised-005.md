@@ -4,13 +4,6 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
-| assets.wor.jp | [F7858](https://preview.nws.broker/api/endpoints/F7858) | RSS | und | — | — |
-| assets.wor.jp | [F7859](https://preview.nws.broker/api/endpoints/F7859) | RSS | und | — | — |
-| assets.wor.jp | [F7860](https://preview.nws.broker/api/endpoints/F7860) | RSS | und | — | — |
-| assettocorsa.gg | [F7861](https://preview.nws.broker/api/endpoints/F7861) | RSS | und | — | — |
-| assettocorsa.gg | [F7862](https://preview.nws.broker/api/endpoints/F7862) | RSS | und | — | — |
-| associatestimes.com | [F7863](https://preview.nws.broker/api/endpoints/F7863) | RSS | und | — | — |
-| astrobites.org | [F7865](https://preview.nws.broker/api/endpoints/F7865) | RSS | und | — | — |
 | astronomy.com | [F7866](https://preview.nws.broker/api/endpoints/F7866) | RSS | und | — | — |
 | aswaudio.libsyn.com | [F18846](https://preview.nws.broker/api/endpoints/F18846) | RSS | und | — | — |
 | aswvideo.libsyn.com | [F18847](https://preview.nws.broker/api/endpoints/F18847) | RSS | und | — | — |
@@ -146,7 +139,6 @@
 | beszeljunkorakrol.hu | [F18889](https://preview.nws.broker/api/endpoints/F18889) | RSS | und | — | — |
 | beta.dinamani.com | [F7970](https://preview.nws.broker/api/endpoints/F7970) | RSS | und | — | — |
 | betanews.com | [F7971](https://preview.nws.broker/api/endpoints/F7971) | RSS | und | — | — |
-| bethanythebuilder.substack.com | [F18890](https://preview.nws.broker/api/endpoints/F18890) | RSS | und | — | — |
 | beto.cd | [F7972](https://preview.nws.broker/api/endpoints/F7972) | RSS | und | — | — |
 | betriebsrat.libsyn.com | [F22161](https://preview.nws.broker/api/endpoints/F22161) | RSS | und | — | — |
 | betweenthebrackets.libsyn.com | [F18891](https://preview.nws.broker/api/endpoints/F18891) | RSS | und | — | — |
@@ -154,3 +146,11 @@
 | bhutantimes.bt | [F7976](https://preview.nws.broker/api/endpoints/F7976) | RSS | und | — | — |
 | bigconversation.libsyn.com | [F22165](https://preview.nws.broker/api/endpoints/F22165) | RSS | und | — | — |
 | bigfastblog.com | [F18894](https://preview.nws.broker/api/endpoints/F18894) | RSS | und | — | — |
+| bikebiz.com | [F7980](https://preview.nws.broker/api/endpoints/F7980) | RSS | und | — | — |
+| bikerumor.com | [F7981](https://preview.nws.broker/api/endpoints/F7981) | RSS | und | — | — |
+| bildungsserver.berlin-brandenburg.de | [F7982](https://preview.nws.broker/api/endpoints/F7982) | RSS | und | — | — |
+| bildungstaxi.de | [F22169](https://preview.nws.broker/api/endpoints/F22169) | RSS | und | — | — |
+| biofuels-news.com | [F7987](https://preview.nws.broker/api/endpoints/F7987) | RSS | und | — | — |
+| bitbo.io | [F7993](https://preview.nws.broker/api/endpoints/F7993) | RSS | und | — | — |
+| bitcoin-takeover.com | [F18898](https://preview.nws.broker/api/endpoints/F18898) | RSS | und | — | — |
+| bitcoin.org | [F7995](https://preview.nws.broker/api/endpoints/F7995) | RSS | und | — | — |

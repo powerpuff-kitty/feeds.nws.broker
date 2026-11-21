@@ -2,13 +2,13 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/science.opml)
 
-26 endpoint records.
+29 endpoint records.
 
-## Verified (24)
+## Verified (27)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–24](verified-001.md) · Astroblog observing and science publication feeds to Women In Astronomy community publication feeds
+- [1–27](verified-001.md) · Astroblog observing and science publication feeds to Women In Astronomy community publication feeds
 
 ## Needs review (2)
 

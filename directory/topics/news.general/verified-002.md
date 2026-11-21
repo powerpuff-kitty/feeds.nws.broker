@@ -4,6 +4,16 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Comores Infos | [F25819](https://preview.nws.broker/api/endpoints/F25819) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.comoresinfos.net/feed/>) |
+| Consejo Mexicano de Asuntos Internacionales | [F27097](https://preview.nws.broker/api/endpoints/F27097) | RSS | und | 2026-11-21 | [Feed](<https://www.consejomexicano.org/rss/>) |
+| Corbeau News Centrafrique | [F25803](https://preview.nws.broker/api/endpoints/F25803) | RSS | fr-FR | 2026-11-19 | [Feed](<https://corbeaunews-centrafrique.org/feed/>) |
+| Cork Beo | [F25554](https://preview.nws.broker/api/endpoints/F25554) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.corkbeo.ie/rss.xml>) |
+| CORRECTIV on Bluesky | [F27060](https://preview.nws.broker/api/endpoints/F27060) | RSS | und | 2026-11-21 | [Feed](<https://bsky.app/profile/did:plc:v5mboqluilyug3mttyhllji6/rss>) |
+| correctiv.org | [F7554](https://preview.nws.broker/api/endpoints/F7554) | RSS | de | 2026-11-19 | [Feed](<https://correctiv.org/feed/>) |
+| Cridem | [F25826](https://preview.nws.broker/api/endpoints/F25826) | RSS | und | 2026-11-19 | [Feed](<https://cridem.org/rss/actualites.xml>) |
+| Croatian Radiotelevision (HRT) | [F25249](https://preview.nws.broker/api/endpoints/F25249) | RSS | hr | 2026-11-19 | [Feed](<https://feed.hrt.hr/dubrovnik/latest.xml>) |
+| Croatian Radiotelevision (HRT) | [F25250](https://preview.nws.broker/api/endpoints/F25250) | RSS | hr | 2026-11-19 | [Feed](<https://feed.hrt.hr/magazin/znanost-i-tehnologija.xml>) |
+| Crítica | [F26687](https://preview.nws.broker/api/endpoints/F26687) | Atom | en-GB | 2026-11-20 | [Feed](<https://www.critica.com.pa/feed/sucesos>) |
 | Cuestión Pública | [F25908](https://preview.nws.broker/api/endpoints/F25908) | RSS | es | 2026-11-19 | [Feed](<https://cuestionpublica.com/feed/>) |
 | Current PH | [F1149](https://preview.nws.broker/api/endpoints/F1149) | RSS | en-US | 2026-11-01 | [Feed](<https://currentph.com/feed/>) |
 | DaarDaar | [F25194](https://preview.nws.broker/api/endpoints/F25194) | RSS | fr-FR | 2026-11-19 | [Feed](<https://daardaar.be/feed/>) |
@@ -11,6 +21,9 @@
 | Daily Post Nigeria | [F1153](https://preview.nws.broker/api/endpoints/F1153) | RSS | en-US | 2026-11-01 | [Feed](<https://dailypost.ng/feed>) |
 | Daily Sabah | [F26635](https://preview.nws.broker/api/endpoints/F26635) | RSS | en-US | 2026-11-20 | [Feed](<https://www.dailysabah.com/rss/home-page>) |
 | Daily Voice | [F7583](https://preview.nws.broker/api/endpoints/F7583) | RSS | en-ZA | 2026-11-19 | [Feed](<https://dailyvoice.co.za/rss>) |
+| De Brugse Stem | [F27099](https://preview.nws.broker/api/endpoints/F27099) | RSS | und | 2026-11-21 | [Feed](<https://www.debrugsestem.com/rss/>) |
+| De Lommelse Gazet | [F27100](https://preview.nws.broker/api/endpoints/F27100) | RSS | und | 2026-11-21 | [Feed](<https://www.delommelsegazet.be/rss/>) |
+| De Nieuwe Ster Maastricht | [F27101](https://preview.nws.broker/api/endpoints/F27101) | RSS | und | 2026-11-21 | [Feed](<https://www.denieuwestermaastricht.nl/rss/>) |
 | De Standaard - Binnenland | [F7550](https://preview.nws.broker/api/endpoints/F7550) | RSS | nl | 2026-11-19 | [Feed](<https://www.standaard.be/binnenland/rss/>) |
 | De Ware Tijd | [F25938](https://preview.nws.broker/api/endpoints/F25938) | RSS | nl-NL | 2026-11-19 | [Feed](<https://dwtonline.com/feed/>) |
 | Deccan Chronicle - Latest India news &#124; Breaking news &#124; Hyderabad News &#124; World news &#124; Business news &#124; Politics &#124; Technology news | [F3431](https://preview.nws.broker/api/endpoints/F3431) | RSS | en | 2026-11-02 | [Feed](<https://www.deccanchronicle.com/rss_feed/>) |
@@ -83,6 +96,8 @@
 | Discover Montserrat | [F26723](https://preview.nws.broker/api/endpoints/F26723) | RSS | en-US | 2026-11-20 | [Feed](<https://discovermni.com/feed/>) |
 | Divergentes | [F25931](https://preview.nws.broker/api/endpoints/F25931) | RSS | es-CR | 2026-11-19 | [Feed](<https://www.divergentes.com/feed/>) |
 | DM: in het nieuws | [F7543](https://preview.nws.broker/api/endpoints/F7543) | RSS | nl-NL | 2026-11-19 | [Feed](<https://www.demorgen.be/in-het-nieuws/rss.xml>) |
+| Dublin Inquirer | [F27102](https://preview.nws.broker/api/endpoints/F27102) | RSS | und | 2026-11-21 | [Feed](<https://www.dublininquirer.com/latest/rss/>) |
+| DUNIA | [F27098](https://preview.nws.broker/api/endpoints/F27098) | RSS | und | 2026-11-21 | [Feed](<https://thedunia.org/rss/>) |
 | Dynamic Business | [F7574](https://preview.nws.broker/api/endpoints/F7574) | RSS | en-AU | 2026-11-19 | [Feed](<https://dynamicbusiness.com/feed.xml>) |
 | Dziennik.pl Dziennik - dziennik.pl | [F0194](https://preview.nws.broker/api/endpoints/F0194) | Atom | pl | 2026-11-02 | — |
 | Eagle News | [F3444](https://preview.nws.broker/api/endpoints/F3444) | RSS | en-US | 2026-11-02 | [Feed](<https://www.eaglenews.ph/feed/>) |
@@ -91,10 +106,12 @@
 | Egyptian Streets | [F25810](https://preview.nws.broker/api/endpoints/F25810) | RSS | en-US | 2026-11-19 | [Feed](<https://egyptianstreets.com/feed/>) |
 | El Comercio | [F26634](https://preview.nws.broker/api/endpoints/F26634) | RSS | es | 2026-11-20 | [Feed](<https://elcomercio.pe/arc/outboundfeeds/rss/category/peru/?outputType=xml>) |
 | El Financiero | [F3542](https://preview.nws.broker/api/endpoints/F3542) | RSS | es-MX | 2026-11-02 | [Feed](<https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml>) |
+| El Frente | [F27103](https://preview.nws.broker/api/endpoints/F27103) | RSS | und | 2026-11-21 | [Feed](<https://elfrente.com.co/rss/>) |
 | El Informador :: Noticias de Jalisco, México, Deportes &amp; Entretenimiento | [F4598](https://preview.nws.broker/api/endpoints/F4598) | RSS | es | 2026-11-02 | [Feed](<https://www.informador.mx/rss/ultimas-noticias.xml>) |
 | El Nuevo Día | [F26684](https://preview.nws.broker/api/endpoints/F26684) | RSS | es | 2026-11-20 | [Feed](<https://www.elnuevodia.com/arc/outboundfeeds/rss/?outputType=xml>) |
 | El Periòdic d’Andorra | [F25178](https://preview.nws.broker/api/endpoints/F25178) | RSS | ca | 2026-11-19 | [Feed](<https://elperiodic.ad/feed/>) |
 | El Periódico de Monagas Venezuela | [F26196](https://preview.nws.broker/api/endpoints/F26196) | RSS | es | 2026-11-19 | [Feed](<https://elperiodicodemonagas.com.ve/feed/>) |
+| El Tiempo Latino | [F27104](https://preview.nws.broker/api/endpoints/F27104) | RSS | und | 2026-11-21 | [Feed](<https://eltiempolatino.com/rss/>) |
 | El Universo | [F26644](https://preview.nws.broker/api/endpoints/F26644) | RSS | es | 2026-11-20 | [Feed](<https://www.eluniverso.com/arc/outboundfeeds/rss-subsection/comunidad/ecuador?outputType=xml>) |
 | ElDiario.es - ElDiario.es | [F3541](https://preview.nws.broker/api/endpoints/F3541) | RSS | es | 2026-11-02 | [Feed](<https://www.eldiario.es/rss/>) |
 | ElNorte | [F3545](https://preview.nws.broker/api/endpoints/F3545) | RSS | es-MX | 2026-11-02 | [Feed](<https://www.elnorte.com/rss/portada.xml>) |
@@ -105,6 +122,7 @@
 | Eritrea Digest | [F25811](https://preview.nws.broker/api/endpoints/F25811) | RSS | en-US | 2026-11-19 | [Feed](<https://www.eritreadigest.com/feed/>) |
 | España | [F2696](https://preview.nws.broker/api/endpoints/F2696) | Atom | es-ES | 2026-11-02 | [Feed](<https://rss.elconfidencial.com/espana/>) |
 | Euro Weekly News Spain | [F4212](https://preview.nws.broker/api/endpoints/F4212) | RSS | en-GB | 2026-11-02 | [Feed](<https://www.euroweeklynews.com/feed/>) |
+| Eurozine | [F27105](https://preview.nws.broker/api/endpoints/F27105) | RSS | en-GB | 2026-11-21 | [Feed](<https://www.eurozine.com/rss/>) |
 | Evergem municipal news and event feeds | [F6924](https://preview.nws.broker/api/endpoints/F6924) | RSS | und | 2026-11-04 | [Feed](<https://www.evergem.be/Nieuws/rss>) |
 | Evergem municipal news and event feeds | [F6925](https://preview.nws.broker/api/endpoints/F6925) | RSS | und | 2026-11-04 | [Feed](<https://www.evergem.be/Events/rss>) |
 | Evergem municipal news and event feeds | [F6926](https://preview.nws.broker/api/endpoints/F6926) | RSS | und | 2026-11-04 | [Feed](<https://www.evergem.be/nieuws/rss>) |
@@ -136,21 +154,3 @@
 | France 24 | [F4404](https://preview.nws.broker/api/endpoints/F4404) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/africa/rss>) |
 | France 24 | [F4405](https://preview.nws.broker/api/endpoints/F4405) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/americas/rss>) |
 | France 24 | [F4406](https://preview.nws.broker/api/endpoints/F4406) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/asia-pacific/rss>) |
-| France 24 | [F4407](https://preview.nws.broker/api/endpoints/F4407) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/business-tech/rss>) |
-| France 24 | [F4408](https://preview.nws.broker/api/endpoints/F4408) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/culture/rss>) |
-| France 24 | [F4409](https://preview.nws.broker/api/endpoints/F4409) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/environment/rss>) |
-| France 24 | [F4410](https://preview.nws.broker/api/endpoints/F4410) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/europe/rss>) |
-| France 24 | [F4411](https://preview.nws.broker/api/endpoints/F4411) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/france/rss>) |
-| France 24 | [F4412](https://preview.nws.broker/api/endpoints/F4412) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/middle-east/rss>) |
-| France 24 | [F4413](https://preview.nws.broker/api/endpoints/F4413) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/rss>) |
-| France 24 | [F4414](https://preview.nws.broker/api/endpoints/F4414) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/sport/rss>) |
-| France 24 | [F4415](https://preview.nws.broker/api/endpoints/F4415) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/tag/benin/rss>) |
-| France 24 | [F4416](https://preview.nws.broker/api/endpoints/F4416) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/tag/health/rss>) |
-| France 24 | [F4417](https://preview.nws.broker/api/endpoints/F4417) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/tv-shows/eye-africa/podcast>) |
-| France 24 | [F4418](https://preview.nws.broker/api/endpoints/F4418) | RSS | es-419 | 2026-11-02 | [Feed](<https://www.france24.com/es/%C3%A1frica/rss>) |
-| France 24 | [F4419](https://preview.nws.broker/api/endpoints/F4419) | RSS | es-419 | 2026-11-02 | [Feed](<https://www.france24.com/es/am%C3%A9rica-latina/rss>) |
-| France 24 | [F4420](https://preview.nws.broker/api/endpoints/F4420) | RSS | es-419 | 2026-11-02 | [Feed](<https://www.france24.com/es/asia-pac%C3%ADfico/rss>) |
-| France 24 | [F4421](https://preview.nws.broker/api/endpoints/F4421) | RSS | es-419 | 2026-11-02 | [Feed](<https://www.france24.com/es/deportes/rss>) |
-| France 24 | [F4422](https://preview.nws.broker/api/endpoints/F4422) | RSS | es-419 | 2026-11-02 | — |
-| France 24 | [F4423](https://preview.nws.broker/api/endpoints/F4423) | RSS | es-419 | 2026-11-02 | [Feed](<https://www.france24.com/es/econom%C3%ADa/rss>) |
-| France 24 | [F4424](https://preview.nws.broker/api/endpoints/F4424) | RSS | es-419 | 2026-11-02 | [Feed](<https://www.france24.com/es/eeuu-canad%C3%A1/rss>) |

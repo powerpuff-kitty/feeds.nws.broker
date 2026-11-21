@@ -4,9 +4,11 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Aleteia — Catholic Spirituality, Lifestyle, World News, and Culture | [F7724](https://preview.nws.broker/api/endpoints/F7724) | RSS | en-US | 2026-11-19 | [Feed](<https://aleteia.org/feed/>) |
 | Alex McLean | [F23778](https://preview.nws.broker/api/endpoints/F23778) | RSS | en-GB | 2026-11-19 | [Feed](<https://slab.org/feed>) |
 | Alex Reid, Professor of Digital Rhetoric, Media, and Artificial Intelligence | [F20120](https://preview.nws.broker/api/endpoints/F20120) | RSS | en | 2026-11-19 | [Feed](<https://profalexreid.com/feed/>) |
 | Alex&#x27;s Notebook | [F18900](https://preview.nws.broker/api/endpoints/F18900) | Atom | en-US | 2026-11-19 | [Feed](<https://blog.alexseifert.com/feed/atom>) |
+| alexanderrusso.substack.com | [F18649](https://preview.nws.broker/api/endpoints/F18649) | RSS | en | 2026-11-21 | [Feed](<https://alexanderrusso.substack.com/feed>) |
 | Alfonso Muchacho&#x27;s Podcast | [F21876](https://preview.nws.broker/api/endpoints/F21876) | RSS | en-GB | 2026-11-19 | [Feed](<https://alfonsomuchacho.podomatic.com/rss2.xml>) |
 | Algerie &#124; Flux RSS Euronews | [F9229](https://preview.nws.broker/api/endpoints/F9229) | RSS | fr | 2026-11-19 | [Feed](<https://fr.euronews.com/rss?level=tag&name=algerie>) |
 | alice.boxhall.au | [F7729](https://preview.nws.broker/api/endpoints/F7729) | RSS | en | 2026-11-19 | [Feed](<https://alice.boxhall.au/rss.xml>) |
@@ -36,6 +38,7 @@
 | Amherst Indy | [F24365](https://preview.nws.broker/api/endpoints/F24365) | RSS | en-US | 2026-11-19 | [Feed](<https://www.amherstindy.org/feed/>) |
 | An Almost Anonymous Blog | [F19806](https://preview.nws.broker/api/endpoints/F19806) | Atom | en | 2026-11-19 | [Feed](<https://lwgrs.bearblog.dev/feed>) |
 | An Evolving Interpretation | [F20031](https://preview.nws.broker/api/endpoints/F20031) | Atom | und | 2026-11-19 | [Feed](<https://parijatmishra.github.io/feed.xml>) |
+| anarchosolarpunk.substack.com | [F18658](https://preview.nws.broker/api/endpoints/F18658) | RSS | en | 2026-11-21 | [Feed](<https://anarchosolarpunk.substack.com/feed>) |
 | Ancient Health Podcast | [F1328](https://preview.nws.broker/api/endpoints/F1328) | RSS | en | 2026-11-02 | [Feed](<https://feeds.megaphone.fm/ISESL9508136245>) |
 | Andermans Veren | [F23230](https://preview.nws.broker/api/endpoints/F23230) | RSS | nl-NL | 2026-11-19 | [Feed](<https://podcast.npo.nl/feed/andermansveren.xml>) |
 | Andrea Brandt - Die Art zu Leben | [F22065](https://preview.nws.broker/api/endpoints/F22065) | RSS | de | 2026-11-19 | [Feed](<https://andrea-brandt-podcast.podigee.io/feed/mp3>) |
@@ -61,6 +64,8 @@
 | api.riverside.fm | [F22081](https://preview.nws.broker/api/endpoints/F22081) | RSS | en | 2026-11-19 | [Feed](<https://api.riverside.fm/hosting/vYFR2Uov.rss>) |
 | api.sr.se | [F22088](https://preview.nws.broker/api/endpoints/F22088) | RSS | sv | 2026-11-19 | [Feed](<https://api.sr.se/api/rss/pod/itunes/24046>) |
 | api.sr.se | [F7793](https://preview.nws.broker/api/endpoints/F7793) | Atom | sv | 2026-11-19 | [Feed](<https://api.sr.se/api/rss/program/83>) |
+| api.substack.com | [F18828](https://preview.nws.broker/api/endpoints/F18828) | RSS | fr | 2026-11-21 | [Feed](<https://api.substack.com/feed/podcast/1149824.rss>) |
+| api.substack.com | [F18829](https://preview.nws.broker/api/endpoints/F18829) | RSS | en | 2026-11-21 | [Feed](<https://api.substack.com/feed/podcast/1892408.rss>) |
 | api.substack.com | [F18830](https://preview.nws.broker/api/endpoints/F18830) | RSS | en | 2026-11-19 | [Feed](<https://api.substack.com/feed/podcast/1995075.rss>) |
 | api.substack.com | [F22096](https://preview.nws.broker/api/endpoints/F22096) | RSS | en | 2026-11-19 | [Feed](<https://api.substack.com/feed/podcast/585418.rss>) |
 | app.chinaz.com | [F7796](https://preview.nws.broker/api/endpoints/F7796) | RSS | und | 2026-11-19 | [Feed](<https://app.chinaz.com/?app=rss>) |
@@ -78,6 +83,7 @@
 | arkeofili.com | [F7807](https://preview.nws.broker/api/endpoints/F7807) | RSS | tr | 2026-11-19 | [Feed](<https://arkeofili.com/feed/>) |
 | arno-duebel.tv | [F7809](https://preview.nws.broker/api/endpoints/F7809) | RSS | de | 2026-11-19 | [Feed](<https://arno-duebel.tv/feed>) |
 | Arnold Zwicky&#x27;s Blog | [F22109](https://preview.nws.broker/api/endpoints/F22109) | RSS | en-US | 2026-11-19 | [Feed](<https://arnoldzwicky.org/feed>) |
+| arpanpunyani.substack.com | [F18841](https://preview.nws.broker/api/endpoints/F18841) | RSS | en | 2026-11-21 | [Feed](<https://arpanpunyani.substack.com/feed>) |
 | Arst.ee | [F7810](https://preview.nws.broker/api/endpoints/F7810) | RSS | et | 2026-11-19 | [Feed](<https://arst.ee/feed/>) |
 | arstechnica.com | [F7812](https://preview.nws.broker/api/endpoints/F7812) | RSS | und | 2026-11-19 | [Feed](<https://arstechnica.com/civis/forums/macintoshian-achaia.19/index.rss>) |
 | artandjacobdoamerica.podbean.com | [F22110](https://preview.nws.broker/api/endpoints/F22110) | RSS | en | 2026-11-19 | [Feed](<https://artandjacobdoamerica.podbean.com/feed.xml>) |
@@ -88,6 +94,7 @@
 | Articles sur le thème Union européenne (UE) | [F15559](https://preview.nws.broker/api/endpoints/F15559) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.lopinion.fr/theme/union-europeenne-ue.rss>) |
 | artigercek.com | [F7818](https://preview.nws.broker/api/endpoints/F7818) | RSS | tr-TR | 2026-11-19 | [Feed](<https://artigercek.com/service/rss.php>) |
 | Artistic Echoes | [F24379](https://preview.nws.broker/api/endpoints/F24379) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.artisticechoes.co.uk/feed/>) |
+| artistlike.substack.com | [F18842](https://preview.nws.broker/api/endpoints/F18842) | RSS | en | 2026-11-21 | [Feed](<https://artistlike.substack.com/feed>) |
 | artistsforjoy.libsyn.com | [F22112](https://preview.nws.broker/api/endpoints/F22112) | RSS | en | 2026-11-19 | [Feed](<https://artistsforjoy.libsyn.com/rss>) |
 | artplace | [F18843](https://preview.nws.broker/api/endpoints/F18843) | RSS | en | 2026-11-19 | [Feed](<https://artplace.substack.com/feed>) |
 | Arts Axis Florida Podcast | [F1652](https://preview.nws.broker/api/endpoints/F1652) | RSS | en-US | 2026-11-02 | [Feed](<https://feeds.simplecast.com/u0_5aokA>) |
@@ -147,10 +154,3 @@
 | Avvenire RSS Feed - Articoli Principali | [F11653](https://preview.nws.broker/api/endpoints/F11653) | RSS | it-IT | 2026-11-19 | [Feed](<https://rss.draghetti.it/avvenire.xml>) |
 | aws.amazon.com | [F7894](https://preview.nws.broker/api/endpoints/F7894) | RSS | en-US | 2026-11-19 | [Feed](<https://aws.amazon.com/blogs/amazon-ai/feed/>) |
 | axbom | [F18878](https://preview.nws.broker/api/endpoints/F18878) | RSS | und | 2026-11-19 | [Feed](<https://axbom.com/rss>) |
-| Axol&#x27;s Blog | [F20782](https://preview.nws.broker/api/endpoints/F20782) | Atom | en | 2026-11-19 | [Feed](<https://theaxolot.wordpress.com/atom>) |
-| AZoOptics.com - Optics and Photonics News Feed | [F13190](https://preview.nws.broker/api/endpoints/F13190) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.azooptics.com/syndication.axd>) |
-| Aztek&#x27;s Mixtape Podcast | [F23010](https://preview.nws.broker/api/endpoints/F23010) | RSS | en-US | 2026-11-19 | [Feed](<https://muzikdj.podomatic.com/rss2.xml>) |
-| b(l&#124;ookmark)ing | [F24261](https://preview.nws.broker/api/endpoints/F24261) | RSS | en-GB | 2026-11-19 | [Feed](<https://wecoso.org/feed>) |
-| B.P.M. Session Podcast | [F22239](https://preview.nws.broker/api/endpoints/F22239) | RSS | en-US | 2026-11-19 | [Feed](<https://djstrangelove.podomatic.com/rss2.xml>) |
-| b10c.me | [F7900](https://preview.nws.broker/api/endpoints/F7900) | RSS | en-GB | 2026-11-19 | [Feed](<https://b10c.me/feed.xml>) |
-| B12info.com | [F24397](https://preview.nws.broker/api/endpoints/F24397) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.b12info.com/feed/>) |

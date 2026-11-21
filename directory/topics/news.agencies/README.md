@@ -2,14 +2,14 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/news.agencies.opml)
 
-191 endpoint records.
+192 endpoint records.
 
-## Verified (166)
+## Verified (167)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–150](verified-001.md) · Agence Djiboutienne d’Information to Prensa Latina
-- [151–166](verified-002.md) · Rador Press Agency to Yonhap News Agency
+- [1–150](verified-001.md) · Agence Djiboutienne d’Information to Newsline Samoa
+- [151–167](verified-002.md) · Prensa Latina to Yonhap News Agency
 
 ## Needs review (11)
 

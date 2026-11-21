@@ -4,6 +4,24 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| France 24 | [F4407](https://preview.nws.broker/api/endpoints/F4407) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/business-tech/rss>) |
+| France 24 | [F4408](https://preview.nws.broker/api/endpoints/F4408) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/culture/rss>) |
+| France 24 | [F4409](https://preview.nws.broker/api/endpoints/F4409) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/environment/rss>) |
+| France 24 | [F4410](https://preview.nws.broker/api/endpoints/F4410) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/europe/rss>) |
+| France 24 | [F4411](https://preview.nws.broker/api/endpoints/F4411) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/france/rss>) |
+| France 24 | [F4412](https://preview.nws.broker/api/endpoints/F4412) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/middle-east/rss>) |
+| France 24 | [F4413](https://preview.nws.broker/api/endpoints/F4413) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/rss>) |
+| France 24 | [F4414](https://preview.nws.broker/api/endpoints/F4414) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/sport/rss>) |
+| France 24 | [F4415](https://preview.nws.broker/api/endpoints/F4415) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/tag/benin/rss>) |
+| France 24 | [F4416](https://preview.nws.broker/api/endpoints/F4416) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/tag/health/rss>) |
+| France 24 | [F4417](https://preview.nws.broker/api/endpoints/F4417) | RSS | en | 2026-11-02 | [Feed](<https://www.france24.com/en/tv-shows/eye-africa/podcast>) |
+| France 24 | [F4418](https://preview.nws.broker/api/endpoints/F4418) | RSS | es-419 | 2026-11-02 | [Feed](<https://www.france24.com/es/%C3%A1frica/rss>) |
+| France 24 | [F4419](https://preview.nws.broker/api/endpoints/F4419) | RSS | es-419 | 2026-11-02 | [Feed](<https://www.france24.com/es/am%C3%A9rica-latina/rss>) |
+| France 24 | [F4420](https://preview.nws.broker/api/endpoints/F4420) | RSS | es-419 | 2026-11-02 | [Feed](<https://www.france24.com/es/asia-pac%C3%ADfico/rss>) |
+| France 24 | [F4421](https://preview.nws.broker/api/endpoints/F4421) | RSS | es-419 | 2026-11-02 | [Feed](<https://www.france24.com/es/deportes/rss>) |
+| France 24 | [F4422](https://preview.nws.broker/api/endpoints/F4422) | RSS | es-419 | 2026-11-02 | — |
+| France 24 | [F4423](https://preview.nws.broker/api/endpoints/F4423) | RSS | es-419 | 2026-11-02 | [Feed](<https://www.france24.com/es/econom%C3%ADa/rss>) |
+| France 24 | [F4424](https://preview.nws.broker/api/endpoints/F4424) | RSS | es-419 | 2026-11-02 | [Feed](<https://www.france24.com/es/eeuu-canad%C3%A1/rss>) |
 | France 24 | [F4425](https://preview.nws.broker/api/endpoints/F4425) | RSS | es-419 | 2026-11-02 | [Feed](<https://www.france24.com/es/europa/rss>) |
 | France 24 | [F4426](https://preview.nws.broker/api/endpoints/F4426) | RSS | es-419 | 2026-11-02 | [Feed](<https://www.france24.com/es/francia/rss>) |
 | France 24 | [F4427](https://preview.nws.broker/api/endpoints/F4427) | RSS | es-419 | 2026-11-02 | [Feed](<https://www.france24.com/es/medio-ambiente/rss>) |
@@ -27,6 +45,7 @@
 | France 24 | [F4447](https://preview.nws.broker/api/endpoints/F4447) | RSS | fr | 2026-11-02 | [Feed](<https://www.france24.com/fr/sports/rss>) |
 | France 24 | [F4448](https://preview.nws.broker/api/endpoints/F4448) | RSS | fr | 2026-11-02 | [Feed](<https://www.france24.com/fr/tag/cybers%C3%A9curit%C3%A9/rss>) |
 | France 24 | [F4449](https://preview.nws.broker/api/endpoints/F4449) | RSS | fr | 2026-11-02 | [Feed](<https://www.france24.com/fr/tag/entr/rss>) |
+| France 24 on Bluesky | [F27061](https://preview.nws.broker/api/endpoints/F27061) | RSS | und | 2026-11-21 | [Feed](<https://bsky.app/profile/did:plc:wkreszch2k4mumsrlkeaflgn/rss>) |
 | France-Antilles Guadeloupe | [F26724](https://preview.nws.broker/api/endpoints/F26724) | RSS | fr | 2026-11-20 | [Feed](<https://www.guadeloupe.franceantilles.fr/actualite/vielocale/rss.xml>) |
 | France-Antilles Martinique | [F26176](https://preview.nws.broker/api/endpoints/F26176) | RSS | fr | 2026-11-19 | [Feed](<https://www.martinique.franceantilles.fr/actualite/vielocale/rss.xml>) |
 | Franceinfo - Les Titres | [F4450](https://preview.nws.broker/api/endpoints/F4450) | RSS | und | 2026-11-02 | [Feed](<https://www.francetvinfo.fr/titres.rss>) |
@@ -39,6 +58,7 @@
 | GatoEncerrado | [F25939](https://preview.nws.broker/api/endpoints/F25939) | RSS | es | 2026-11-19 | [Feed](<https://gatoencerrado.news/feed/>) |
 | Gazeta.uz | [F25886](https://preview.nws.broker/api/endpoints/F25886) | RSS | und | 2026-11-19 | [Feed](<https://www.gazeta.uz/en/rss/>) |
 | GazetaPrawna.pl - biznes, podatki, prawo, finanse, wiadomości, praca | [F0195](https://preview.nws.broker/api/endpoints/F0195) | Atom | pl | 2026-11-02 | — |
+| Gazette Universitaire | [F27106](https://preview.nws.broker/api/endpoints/F27106) | RSS | und | 2026-11-21 | [Feed](<https://www.gazetteuniv.com/rss.xml>) |
 | Global Voices | [F1885](https://preview.nws.broker/api/endpoints/F1885) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/roundups/feed/>) |
 | Global Voices | [F1886](https://preview.nws.broker/api/endpoints/F1886) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/special/7-billion-actions/feed/>) |
 | Global Voices | [F1887](https://preview.nws.broker/api/endpoints/F1887) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/special/announcements/feed/>) |
@@ -134,23 +154,3 @@
 | Global Voices | [F1978](https://preview.nws.broker/api/endpoints/F1978) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/burundi/feed/>) |
 | Global Voices | [F1979](https://preview.nws.broker/api/endpoints/F1979) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/lesotho/feed/>) |
 | Global Voices | [F1980](https://preview.nws.broker/api/endpoints/F1980) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/mali/feed/>) |
-| Global Voices | [F1981](https://preview.nws.broker/api/endpoints/F1981) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/sao-tome-and-principe/feed/>) |
-| Global Voices | [F1982](https://preview.nws.broker/api/endpoints/F1982) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/tanzania/feed/>) |
-| Global Voices | [F1983](https://preview.nws.broker/api/endpoints/F1983) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/togo/feed/>) |
-| Global Voices | [F1984](https://preview.nws.broker/api/endpoints/F1984) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/zimbabwe/feed/>) |
-| Global Voices | [F1985](https://preview.nws.broker/api/endpoints/F1985) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/austria/feed/>) |
-| Global Voices | [F1986](https://preview.nws.broker/api/endpoints/F1986) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/belgium/feed/>) |
-| Global Voices | [F1987](https://preview.nws.broker/api/endpoints/F1987) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/cyprus/feed/>) |
-| Global Voices | [F1988](https://preview.nws.broker/api/endpoints/F1988) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/denmark/feed/>) |
-| Global Voices | [F1989](https://preview.nws.broker/api/endpoints/F1989) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/france/feed/>) |
-| Global Voices | [F1990](https://preview.nws.broker/api/endpoints/F1990) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/iceland/feed/>) |
-| Global Voices | [F1991](https://preview.nws.broker/api/endpoints/F1991) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/luxembourg/feed/>) |
-| Global Voices | [F1992](https://preview.nws.broker/api/endpoints/F1992) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/malta/feed/>) |
-| Global Voices | [F1993](https://preview.nws.broker/api/endpoints/F1993) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/spain/feed/>) |
-| Global Voices | [F1994](https://preview.nws.broker/api/endpoints/F1994) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/sweden/feed/>) |
-| Global Voices | [F1995](https://preview.nws.broker/api/endpoints/F1995) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/feed/>) |
-| Global Voices — Afghanistan | [F26011](https://preview.nws.broker/api/endpoints/F26011) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/central-asia-caucasus/afghanistan/feed/>) |
-| Global Voices — Albania | [F26034](https://preview.nws.broker/api/endpoints/F26034) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/eastern-central-europe/albania/feed/>) |
-| Global Voices — Algeria | [F26124](https://preview.nws.broker/api/endpoints/F26124) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/middle-east-north-africa/algeria/feed/>) |
-| Global Voices — Angola | [F26079](https://preview.nws.broker/api/endpoints/F26079) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/angola/feed/>) |
-| Global Voices — Anguilla | [F25985](https://preview.nws.broker/api/endpoints/F25985) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/caribbean/anguilla/feed/>) |

@@ -6,10 +6,12 @@
 | --- | --- | --- | --- | --- | --- |
 | 24 Heures au Bénin | [F25800](https://preview.nws.broker/api/endpoints/F25800) | RSS | fr | 2026-11-19 | [Feed](<https://www.24haubenin.info/spip.php?page=backend>) |
 | 24 Horas | [F3207](https://preview.nws.broker/api/endpoints/F3207) | RSS | es | 2026-11-02 | [Feed](<https://www.24-horas.mx/feed/>) |
+| 24 Morelos | [F27094](https://preview.nws.broker/api/endpoints/F27094) | RSS | und | 2026-11-21 | [Feed](<https://www.24morelos.com/rss/>) |
 | 24.hu | [F26708](https://preview.nws.broker/api/endpoints/F26708) | RSS | hu | 2026-11-20 | [Feed](<https://24.hu/feed/>) |
 | 24FO.NEWS | [F26210](https://preview.nws.broker/api/endpoints/F26210) | RSS | da-DK | 2026-11-19 | [Feed](<https://24fo.news/index.php/feed/>) |
 | 24ora | [F25894](https://preview.nws.broker/api/endpoints/F25894) | RSS | en-US | 2026-11-19 | [Feed](<https://24ora.com/feed/>) |
 | 8 Columnas | [F0532](https://preview.nws.broker/api/endpoints/F0532) | RSS | es | 2026-11-01 | [Feed](<https://8columnas.com.mx/feed/>) |
+| Aargauer Politik | [F27095](https://preview.nws.broker/api/endpoints/F27095) | RSS | und | 2026-11-21 | [Feed](<https://www.aargauerpolitik.ch/rss/>) |
 | Abante Tonite | [F2943](https://preview.nws.broker/api/endpoints/F2943) | RSS | en-US | 2026-11-02 | [Feed](<https://tonite.abante.com.ph/feed/>) |
 | ABP Live | [F7569](https://preview.nws.broker/api/endpoints/F7569) | RSS | en-US | 2026-11-19 | [Feed](<https://news.abplive.com/home/feed>) |
 | actu.fr - Toute l&#x27;information nationale, régionale et locale. | [F7552](https://preview.nws.broker/api/endpoints/F7552) | RSS | fr-FR | 2026-11-19 | [Feed](<https://actu.fr/rss.xml>) |
@@ -21,6 +23,7 @@
 | Aktuell - FAZ.NET | [F4255](https://preview.nws.broker/api/endpoints/F4255) | RSS | de-DE | 2026-11-02 | [Feed](<https://www.faz.net/rss/aktuell/>) |
 | Akureyri.net | [F25400](https://preview.nws.broker/api/endpoints/F25400) | RSS | is | 2026-11-19 | [Feed](<https://www.akureyri.net/is/feed>) |
 | Al Jazeera | [F0006](https://preview.nws.broker/api/endpoints/F0006) | RSS | en | 2026-11-01 | [Feed](<https://www.aljazeera.com/xml/rss/all.xml>) |
+| Al Jazeera on Bluesky | [F27056](https://preview.nws.broker/api/endpoints/F27056) | RSS | und | 2026-11-21 | [Feed](<https://bsky.app/profile/did:plc:2lofqead276vtc5647ye7sl2/rss>) |
 | Albanian Center for Quality Journalism (ACQJ) | [F25179](https://preview.nws.broker/api/endpoints/F25179) | RSS | en-US | 2026-11-19 | [Feed](<https://acqj.al/feed/>) |
 | Alberta Views | [F7562](https://preview.nws.broker/api/endpoints/F7562) | RSS | en-US | 2026-11-19 | [Feed](<https://albertaviews.ca/feed/>) |
 | All: BreakingNews.ie | [F1273](https://preview.nws.broker/api/endpoints/F1273) | RSS | und | 2026-11-01 | [Feed](<https://feeds.breakingnews.ie/bntopstories>) |
@@ -28,6 +31,7 @@
 | Alter Echos publication feeds | [F6260](https://preview.nws.broker/api/endpoints/F6260) | RSS | fr-FR | 2026-11-03 | [Feed](<https://www.alterechos.be/feed/>) |
 | Alter Echos publication feeds | [F6261](https://preview.nws.broker/api/endpoints/F6261) | RSS | und | 2026-11-03 | [Feed](<https://www.alterechos.be/comments/feed/>) |
 | Alvinology | [F7483](https://preview.nws.broker/api/endpoints/F7483) | RSS | en-US | 2026-11-18 | [Feed](<https://alvinology.com/feed/>) |
+| Alwihda Info | [F27096](https://preview.nws.broker/api/endpoints/F27096) | RSS | und | 2026-11-21 | [Feed](<https://www.alwihdainfo.com/rss/>) |
 | AmaBhungane Centre for Investigative Journalism | [F7581](https://preview.nws.broker/api/endpoints/F7581) | RSS | en-US | 2026-11-19 | [Feed](<https://amabhungane.org/feed>) |
 | Antigua.news | [F25891](https://preview.nws.broker/api/endpoints/F25891) | RSS | en | 2026-11-19 | [Feed](<https://antigua.news/rss/antigua-and-barbuda.xml>) |
 | Asia 361 | [F7457](https://preview.nws.broker/api/endpoints/F7457) | RSS | en-US | 2026-11-18 | [Feed](<https://asia361.com/feed/>) |
@@ -41,6 +45,7 @@
 | Bali Puspa News | [F7442](https://preview.nws.broker/api/endpoints/F7442) | RSS | id | 2026-11-18 | [Feed](<https://www.balipuspanews.com/feed>) |
 | Bali Tribune | [F7452](https://preview.nws.broker/api/endpoints/F7452) | RSS | id | 2026-11-18 | [Feed](<https://balitribune.co.id/rss.xml?destination=/&_exception_statuscode=404>) |
 | Barbados Today | [F25896](https://preview.nws.broker/api/endpoints/F25896) | RSS | en-US | 2026-11-19 | [Feed](<https://barbadostoday.bb/feed/>) |
+| BBC 5 Live on Mastodon | [F27133](https://preview.nws.broker/api/endpoints/F27133) | RSS | und | 2026-11-21 | [Feed](<https://social.bbc/@BBC5Live.rss>) |
 | BBC feed directory / terms | [F0043](https://preview.nws.broker/api/endpoints/F0043) | RSS | en-GB | 2026-11-01 | — |
 | BBC feed directory / terms | [F0044](https://preview.nws.broker/api/endpoints/F0044) | RSS | en-GB | 2026-11-02 | — |
 | BBC feed directory / terms | [F0045](https://preview.nws.broker/api/endpoints/F0045) | RSS | en-GB | 2026-11-02 | — |
@@ -50,8 +55,10 @@
 | BBC feed directory / terms | [F0049](https://preview.nws.broker/api/endpoints/F0049) | RSS | en-GB | 2026-11-02 | — |
 | BBC feed directory / terms | [F1272](https://preview.nws.broker/api/endpoints/F1272) | RSS | en-GB | 2026-11-02 | [Feed](<https://feeds.bbci.co.uk/sport/football/rss.xml>) |
 | BBC feed directory / terms | [F7584](https://preview.nws.broker/api/endpoints/F7584) | RSS | en-GB | 2026-11-19 | [Feed](<https://feeds.bbci.co.uk/news/topics/cq23pdgvyl7t/rss.xml>) |
+| BBC Radio 4 on Mastodon | [F27134](https://preview.nws.broker/api/endpoints/F27134) | RSS | und | 2026-11-21 | [Feed](<https://social.bbc/@BBCRadio4.rss>) |
 | BD24Live.com | [F3304](https://preview.nws.broker/api/endpoints/F3304) | RSS | en-US | 2026-11-02 | [Feed](<https://www.bd24live.com/feed>) |
 | Belgium | [F7544](https://preview.nws.broker/api/endpoints/F7544) | RSS | en | 2026-11-19 | [Feed](<https://www.ft.com/belgium?format=rss>) |
+| Bellingcat on Bluesky | [F27059](https://preview.nws.broker/api/endpoints/F27059) | RSS | und | 2026-11-21 | [Feed](<https://bsky.app/profile/did:plc:sb54dpdfefflykmf5bcfvr7t/rss>) |
 | Belnovosti | [F25206](https://preview.nws.broker/api/endpoints/F25206) | RSS | ru | 2026-11-19 | [Feed](<https://www.belnovosti.by/all_rss.xml>) |
 | Berita Bali | [F7443](https://preview.nws.broker/api/endpoints/F7443) | RSS | en-IN | 2026-11-18 | [Feed](<https://beritabali.com/rss>) |
 | Bhutan Times | [F26675](https://preview.nws.broker/api/endpoints/F26675) | RSS | en-US | 2026-11-20 | [Feed](<https://bhutantimes.bt/feed/>) |
@@ -143,14 +150,7 @@
 | CBS News | [F7295](https://preview.nws.broker/api/endpoints/F7295) | RSS | und | 2026-11-18 | [Feed](<https://www.cbsnews.com/latest/rss/eye-on-america-full-episodes>) |
 | CBS News | [F7296](https://preview.nws.broker/api/endpoints/F7296) | RSS | und | 2026-11-18 | [Feed](<https://www.cbsnews.com/latest/rss/the-dish-full-episodes>) |
 | Channel 103 Jersey | [F26222](https://preview.nws.broker/api/endpoints/F26222) | RSS | en | 2026-11-19 | [Feed](<https://www.channel103.com/news/jersey/feed.xml>) |
+| ChinaTalk | [F27184](https://preview.nws.broker/api/endpoints/F27184) | RSS | en | 2026-11-21 | [Feed](<https://www.chinatalk.media/feed>) |
 | cnbc.com | [F3412](https://preview.nws.broker/api/endpoints/F3412) | RSS | en-US | 2026-11-02 | [Feed](<https://www.cnbc.com/id/100003114/device/rss/rss.html>) |
 | cnbc.com | [F3413](https://preview.nws.broker/api/endpoints/F3413) | RSS | en-US | 2026-11-02 | [Feed](<https://www.cnbc.com/id/100727362/device/rss/rss.html>) |
 | CNC3 | [F26686](https://preview.nws.broker/api/endpoints/F26686) | RSS | en-US | 2026-11-20 | [Feed](<https://www.cnc3.co.tt/feed/>) |
-| Comores Infos | [F25819](https://preview.nws.broker/api/endpoints/F25819) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.comoresinfos.net/feed/>) |
-| Corbeau News Centrafrique | [F25803](https://preview.nws.broker/api/endpoints/F25803) | RSS | fr-FR | 2026-11-19 | [Feed](<https://corbeaunews-centrafrique.org/feed/>) |
-| Cork Beo | [F25554](https://preview.nws.broker/api/endpoints/F25554) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.corkbeo.ie/rss.xml>) |
-| correctiv.org | [F7554](https://preview.nws.broker/api/endpoints/F7554) | RSS | de | 2026-11-19 | [Feed](<https://correctiv.org/feed/>) |
-| Cridem | [F25826](https://preview.nws.broker/api/endpoints/F25826) | RSS | und | 2026-11-19 | [Feed](<https://cridem.org/rss/actualites.xml>) |
-| Croatian Radiotelevision (HRT) | [F25249](https://preview.nws.broker/api/endpoints/F25249) | RSS | hr | 2026-11-19 | [Feed](<https://feed.hrt.hr/dubrovnik/latest.xml>) |
-| Croatian Radiotelevision (HRT) | [F25250](https://preview.nws.broker/api/endpoints/F25250) | RSS | hr | 2026-11-19 | [Feed](<https://feed.hrt.hr/magazin/znanost-i-tehnologija.xml>) |
-| Crítica | [F26687](https://preview.nws.broker/api/endpoints/F26687) | Atom | en-GB | 2026-11-20 | [Feed](<https://www.critica.com.pa/feed/sucesos>) |

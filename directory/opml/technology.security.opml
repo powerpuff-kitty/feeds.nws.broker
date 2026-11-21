@@ -4,6 +4,8 @@
     <title>nws.broker · Security advisories</title>
   </head>
   <body>
+    <outline type="rss" text="ANSSI on PeerTube" title="ANSSI on PeerTube" xmlUrl="https://tube.numerique.gouv.fr/feeds/videos.xml?videoChannelId=367" />
+    <outline type="rss" text="Bundesamt für Sicherheit in der Informationstechnik on Mastodon" title="Bundesamt für Sicherheit in der Informationstechnik on Mastodon" xmlUrl="https://social.bund.de/@bsi.rss" />
     <outline type="rss" text="CERT-EU public security publications" title="CERT-EU public security publications" xmlUrl="https://cert.europa.eu/publications/security-advisories-rss" />
     <outline type="rss" text="CERT-EU public security publications" title="CERT-EU public security publications" xmlUrl="https://cert.europa.eu/publications/threat-intelligence-rss" />
     <outline type="rss" text="CERT-FR" title="CERT-FR" xmlUrl="https://cert.cyber.gouv.fr/actualite/feed/" />

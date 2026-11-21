@@ -4,6 +4,41 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Radio France Internationale | [F5268](https://preview.nws.broker/api/endpoints/F5268) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/alter-ego/podcast>) |
+| Radio France Internationale | [F5269](https://preview.nws.broker/api/endpoints/F5269) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/appels-actualit%C3%A9/podcast>) |
+| Radio France Internationale | [F5270](https://preview.nws.broker/api/endpoints/F5270) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/archives-afrique/podcast>) |
+| Radio France Internationale | [F5271](https://preview.nws.broker/api/endpoints/F5271) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/atelier-m%C3%A9dias/podcast>) |
+| Radio France Internationale | [F5272](https://preview.nws.broker/api/endpoints/F5272) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/aujourd-hui-%C3%A9conomie-portrait/podcast>) |
+| Radio France Internationale | [F5273](https://preview.nws.broker/api/endpoints/F5273) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/aujourd-hui-%C3%A9conomie/podcast>) |
+| Radio France Internationale | [F5274](https://preview.nws.broker/api/endpoints/F5274) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/bas-les-pattes/podcast>) |
+| Radio France Internationale | [F5275](https://preview.nws.broker/api/endpoints/F5275) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/basquiat-un-ticket-pour-l-afrique/podcast>) |
+| Radio France Internationale | [F5276](https://preview.nws.broker/api/endpoints/F5276) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/bonnes-pulsations-du-monde/podcast>) |
+| Radio France Internationale | [F5277](https://preview.nws.broker/api/endpoints/F5277) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/c-est-nature/podcast>) |
+| Radio France Internationale | [F5278](https://preview.nws.broker/api/endpoints/F5278) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/can-2024-la-chronique-de-joseph-antoine-bell/podcast>) |
+| Radio France Internationale | [F5279](https://preview.nws.broker/api/endpoints/F5279) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/can-chronique-de-joseph-antoine-bell/podcast>) |
+| Radio France Internationale | [F5280](https://preview.nws.broker/api/endpoints/F5280) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/carnet-de-sant%C3%A9/podcast>) |
+| Radio France Internationale | [F5281](https://preview.nws.broker/api/endpoints/F5281) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/carrefour-du-maghreb/podcast>) |
+| Radio France Internationale | [F5282](https://preview.nws.broker/api/endpoints/F5282) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/carrefour-europe/podcast>) |
+| Radio France Internationale | [F5283](https://preview.nws.broker/api/endpoints/F5283) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/cest-la-vie/podcast>) |
+| Radio France Internationale | [F5284](https://preview.nws.broker/api/endpoints/F5284) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/cest-pas-du-vent/podcast>) |
+| Radio France Internationale | [F5285](https://preview.nws.broker/api/endpoints/F5285) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/changer-d-air/podcast>) |
+| Radio France Internationale | [F5286](https://preview.nws.broker/api/endpoints/F5286) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/chemins-d-%C3%A9criture/podcast>) |
+| Radio France Internationale | [F5287](https://preview.nws.broker/api/endpoints/F5287) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/chronique-m%C3%A9dias/podcast>) |
+| Radio France Internationale | [F5288](https://preview.nws.broker/api/endpoints/F5288) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/chronique-mati%C3%A8res-premi%C3%A8res/podcast>) |
+| Radio France Internationale | [F5289](https://preview.nws.broker/api/endpoints/F5289) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/chronique-transports/podcast>) |
+| Radio France Internationale | [F5290](https://preview.nws.broker/api/endpoints/F5290) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/chroniques-confinement/podcast>) |
+| Radio France Internationale | [F5291](https://preview.nws.broker/api/endpoints/F5291) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/ciel-d-afrique/podcast>) |
+| Radio France Internationale | [F5292](https://preview.nws.broker/api/endpoints/F5292) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/cin%C3%A9astes-d-afrique/podcast>) |
+| Radio France Internationale | [F5293](https://preview.nws.broker/api/endpoints/F5293) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/conseil-sant%C3%A9/podcast>) |
+| Radio France Internationale | [F5294](https://preview.nws.broker/api/endpoints/F5294) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/contes-%C3%A0-%C3%A9couter/podcast>) |
+| Radio France Internationale | [F5295](https://preview.nws.broker/api/endpoints/F5295) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/couleurs-tropicales/podcast>) |
+| Radio France Internationale | [F5296](https://preview.nws.broker/api/endpoints/F5296) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/coulisses-cr%C3%A9ation/podcast>) |
+| Radio France Internationale | [F5297](https://preview.nws.broker/api/endpoints/F5297) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/d%C3%A9bat-africain/podcast>) |
+| Radio France Internationale | [F5298](https://preview.nws.broker/api/endpoints/F5298) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/d%C3%A9bat-jour/podcast>) |
+| Radio France Internationale | [F5299](https://preview.nws.broker/api/endpoints/F5299) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/d%C3%A9cryptage/podcast>) |
+| Radio France Internationale | [F5300](https://preview.nws.broker/api/endpoints/F5300) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/dans-l-intimit%C3%A9-des-dictateurs/podcast>) |
+| Radio France Internationale | [F5301](https://preview.nws.broker/api/endpoints/F5301) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/dans-la-peau/podcast>) |
+| Radio France Internationale | [F5302](https://preview.nws.broker/api/endpoints/F5302) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/des-refrains-pour-l-histoire/podcast>) |
 | Radio France Internationale | [F5303](https://preview.nws.broker/api/endpoints/F5303) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/diank%C3%A9/podcast>) |
 | Radio France Internationale | [F5304](https://preview.nws.broker/api/endpoints/F5304) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/en-sol-majeur/podcast>) |
 | Radio France Internationale | [F5305](https://preview.nws.broker/api/endpoints/F5305) | RSS | fr | 2026-11-02 | [Feed](<https://www.rfi.fr/fr/podcasts/enqu%C3%AAtes-africaines/podcast>) |
@@ -74,6 +109,7 @@
 | Radio Tamazuj — South Sudan | [F26157](https://preview.nws.broker/api/endpoints/F26157) | RSS | en-US | 2026-11-19 | [Feed](<https://www.radiotamazuj.org/en/feed>) |
 | Razón Pública | [F25909](https://preview.nws.broker/api/endpoints/F25909) | RSS | es | 2026-11-19 | [Feed](<https://razonpublica.com/feed/>) |
 | Reforma | [F5216](https://preview.nws.broker/api/endpoints/F5216) | RSS | es-MX | 2026-11-02 | [Feed](<https://www.reforma.com/rss/portada.xml>) |
+| Rembobine | [F27120](https://preview.nws.broker/api/endpoints/F27120) | RSS | und | 2026-11-21 | [Feed](<https://www.rembobine.info/rss/>) |
 | Reporter.lu | [F25393](https://preview.nws.broker/api/endpoints/F25393) | RSS | de | 2026-11-19 | [Feed](<https://www.reporter.lu/feed/>) |
 | Repubblica.it &gt; Homepage | [F5221](https://preview.nws.broker/api/endpoints/F5221) | RSS | it-IT | 2026-11-02 | [Feed](<https://www.repubblica.it/rss/homepage/rss2.0.xml>) |
 | Republika Online RSS Feed | [F5222](https://preview.nws.broker/api/endpoints/F5222) | RSS | id | 2026-11-02 | [Feed](<https://www.republika.co.id/rss/>) |
@@ -112,45 +148,9 @@
 | Siena | [F25383](https://preview.nws.broker/api/endpoints/F25383) | RSS | und | 2026-11-19 | [Feed](<https://www.siena.lt/blog-feed.xml>) |
 | Siol.net | [F26709](https://preview.nws.broker/api/endpoints/F26709) | RSS | sl | 2026-11-20 | [Feed](<https://siol.net/feeds/hottest>) |
 | Siol.net | [F26710](https://preview.nws.broker/api/endpoints/F26710) | RSS | sl | 2026-11-20 | [Feed](<https://siol.net/feeds/mostread>) |
+| Sludge | [F27121](https://preview.nws.broker/api/endpoints/F27121) | RSS | und | 2026-11-21 | [Feed](<https://readsludge.com/rss/>) |
 | Solomon Times Online | [F25877](https://preview.nws.broker/api/endpoints/F25877) | RSS | en-US | 2026-11-19 | [Feed](<https://www.solomontimes.com/rss/latest-news.xml>) |
 | South Atlantic Media Services | [F26718](https://preview.nws.broker/api/endpoints/F26718) | RSS | en-GB | 2026-11-20 | [Feed](<https://www.sams.sh/feed/>) |
 | South Sudan News Now | [F26158](https://preview.nws.broker/api/endpoints/F26158) | RSS | en-US | 2026-11-19 | [Feed](<https://ssnewsnow.com/feed/>) |
 | St Lucia Star | [F25928](https://preview.nws.broker/api/endpoints/F25928) | RSS | en-US | 2026-11-19 | [Feed](<https://stluciastar.com/feed/>) |
 | StMaartenNews.com | [F26725](https://preview.nws.broker/api/endpoints/F26725) | RSS | en-US | 2026-11-20 | [Feed](<https://stmaartennews.com/feed/>) |
-| Svalbard Wire | [F26225](https://preview.nws.broker/api/endpoints/F26225) | RSS | en | 2026-11-19 | [Feed](<https://svalbardwire.com/feed.xml>) |
-| Sydney Morning Herald - Latest News | [F5556](https://preview.nws.broker/api/endpoints/F5556) | RSS | en-AU | 2026-11-02 | [Feed](<https://www.smh.com.au/rss/feed.xml>) |
-| Syn.by | [F25201](https://preview.nws.broker/api/endpoints/F25201) | RSS | be-BY | 2026-11-19 | [Feed](<https://syn.by/feed/>) |
-| Syn.by | [F25202](https://preview.nws.broker/api/endpoints/F25202) | RSS | en-US | 2026-11-19 | [Feed](<https://syn.by/en/feed/>) |
-| Syn.by | [F25203](https://preview.nws.broker/api/endpoints/F25203) | RSS | ru-RU | 2026-11-19 | [Feed](<https://syn.by/ru/feed/>) |
-| Syria Direct | [F26673](https://preview.nws.broker/api/endpoints/F26673) | RSS | en-US | 2026-11-20 | [Feed](<https://syriadirect.org/feed/>) |
-| Tagesschau | [F25224](https://preview.nws.broker/api/endpoints/F25224) | RSS | de | 2026-11-19 | [Feed](<https://www.tagesschau.de/index~rss2.xml>) |
-| tagesschau.de - Die Nachrichten der ARD | [F0527](https://preview.nws.broker/api/endpoints/F0527) | RSS | de | 2026-11-02 | — |
-| Tahiti Infos | [F26253](https://preview.nws.broker/api/endpoints/F26253) | Atom | und | 2026-11-19 | [Feed](<https://www.tahiti-infos.com/xml/atom.xml>) |
-| Tahiti Infos | [F26254](https://preview.nws.broker/api/endpoints/F26254) | RSS | fr | 2026-11-19 | [Feed](<https://www.tahiti-infos.com/xml/syndication.rss>) |
-| Talamua Online | [F26677](https://preview.nws.broker/api/endpoints/F26677) | RSS | en-NZ | 2026-11-20 | [Feed](<https://talamua.com/?feed=rss2>) |
-| Tasmanian Times | [F7576](https://preview.nws.broker/api/endpoints/F7576) | RSS | en-AU | 2026-11-19 | [Feed](<https://tasmaniantimes.com/feed/>) |
-| TASS | [F0210](https://preview.nws.broker/api/endpoints/F0210) | RSS | en | 2026-11-02 | — |
-| TechCentral | [F2750](https://preview.nws.broker/api/endpoints/F2750) | RSS | en-US | 2026-11-02 | [Feed](<https://techcentral.co.za/feed>) |
-| Telegrafi | [F25375](https://preview.nws.broker/api/endpoints/F25375) | RSS | en-US | 2026-11-19 | [Feed](<https://telegrafi.com/feeds/feed.rss>) |
-| Television Niue | [F25871](https://preview.nws.broker/api/endpoints/F25871) | RSS | en-US | 2026-11-19 | [Feed](<https://tvniue.com/feed/>) |
-| Texty.org.ua | [F25363](https://preview.nws.broker/api/endpoints/F25363) | RSS | uk | 2026-11-19 | [Feed](<https://texty.org.ua/articles/feed.xml>) |
-| Texty.org.ua | [F25364](https://preview.nws.broker/api/endpoints/F25364) | RSS | uk | 2026-11-19 | [Feed](<https://texty.org.ua/fragments/feed.xml>) |
-| The Age - Latest News | [F5577](https://preview.nws.broker/api/endpoints/F5577) | RSS | en-AU | 2026-11-02 | [Feed](<https://www.theage.com.au/rss/feed.xml>) |
-| The Anguillian | [F25892](https://preview.nws.broker/api/endpoints/F25892) | RSS | en-US | 2026-11-19 | [Feed](<https://theanguillian.com/feed/>) |
-| The Bali Sun | [F7311](https://preview.nws.broker/api/endpoints/F7311) | RSS | en-US | 2026-11-18 | [Feed](<https://thebalisun.com/feed/>) |
-| The Bali Times | [F7312](https://preview.nws.broker/api/endpoints/F7312) | RSS | en-US | 2026-11-18 | [Feed](<https://thebalitimes.com/feed/>) |
-| The Botswana Gazette | [F25801](https://preview.nws.broker/api/endpoints/F25801) | RSS | en | 2026-11-19 | [Feed](<https://www.thegazette.news/feed/>) |
-| The Canberra Times - Local News | [F3335](https://preview.nws.broker/api/endpoints/F3335) | RSS | en-AU | 2026-11-02 | [Feed](<https://www.canberratimes.com.au/rss.xml>) |
-| The Citizen | [F1136](https://preview.nws.broker/api/endpoints/F1136) | RSS | en-ZA | 2026-11-01 | [Feed](<https://citizen.co.za/feed/>) |
-| The Conversation republishing guidance | [F0212](https://preview.nws.broker/api/endpoints/F0212) | Atom | en-US | 2026-11-01 | — |
-| The Conversation republishing guidance | [F0213](https://preview.nws.broker/api/endpoints/F0213) | Atom | en-US | 2026-11-02 | — |
-| The Conversation republishing guidance | [F0214](https://preview.nws.broker/api/endpoints/F0214) | Atom | en-US | 2026-11-02 | — |
-| The Conversation republishing guidance | [F0215](https://preview.nws.broker/api/endpoints/F0215) | Atom | en-US | 2026-11-02 | — |
-| The Conversation republishing guidance | [F0216](https://preview.nws.broker/api/endpoints/F0216) | Atom | en-US | 2026-11-02 | — |
-| The Conversation republishing guidance | [F0217](https://preview.nws.broker/api/endpoints/F0217) | Atom | en-US | 2026-11-02 | — |
-| The Conversation republishing guidance | [F0218](https://preview.nws.broker/api/endpoints/F0218) | Atom | en-US | 2026-11-02 | — |
-| The Conversation republishing guidance | [F0219](https://preview.nws.broker/api/endpoints/F0219) | Atom | en-US | 2026-11-02 | — |
-| The Conversation republishing guidance | [F0220](https://preview.nws.broker/api/endpoints/F0220) | Atom | en-US | 2026-11-02 | — |
-| The Conversation republishing guidance | [F0221](https://preview.nws.broker/api/endpoints/F0221) | Atom | en-US | 2026-11-02 | — |
-| The Conversation republishing guidance | [F0222](https://preview.nws.broker/api/endpoints/F0222) | Atom | en-US | 2026-11-02 | — |
-| The Conversation republishing guidance | [F0223](https://preview.nws.broker/api/endpoints/F0223) | Atom | en-US | 2026-11-02 | — |

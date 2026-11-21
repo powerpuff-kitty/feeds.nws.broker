@@ -4,24 +4,6 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
-| feeds.redcircle.com | [F22614](https://preview.nws.broker/api/endpoints/F22614) | RSS | und | — | — |
-| feeds.redcircle.com | [F22615](https://preview.nws.broker/api/endpoints/F22615) | RSS | und | — | — |
-| feeds.redcircle.com | [F22616](https://preview.nws.broker/api/endpoints/F22616) | RSS | und | — | — |
-| feeds.redcircle.com | [F22617](https://preview.nws.broker/api/endpoints/F22617) | RSS | und | — | — |
-| feeds.rijksoverheid.nl | [F9140](https://preview.nws.broker/api/endpoints/F9140) | RSS | und | — | — |
-| feeds.rssblue.com | [F22618](https://preview.nws.broker/api/endpoints/F22618) | RSS | und | — | — |
-| feeds.rssblue.com | [F22619](https://preview.nws.broker/api/endpoints/F22619) | RSS | und | — | — |
-| feeds.rssblue.com | [F22620](https://preview.nws.broker/api/endpoints/F22620) | RSS | und | — | — |
-| feeds.sbs.com.au | [F9141](https://preview.nws.broker/api/endpoints/F9141) | RSS | und | — | — |
-| feeds.seroundtable.com | [F19467](https://preview.nws.broker/api/endpoints/F19467) | RSS | und | — | — |
-| feeds.services.tv2.dk | [F9142](https://preview.nws.broker/api/endpoints/F9142) | RSS | und | — | — |
-| feeds.simplecast.com | [F19468](https://preview.nws.broker/api/endpoints/F19468) | RSS | und | — | — |
-| feeds.simplecast.com | [F19469](https://preview.nws.broker/api/endpoints/F19469) | RSS | und | — | — |
-| feeds.simplecast.com | [F19470](https://preview.nws.broker/api/endpoints/F19470) | RSS | und | — | — |
-| feeds.simplecast.com | [F19471](https://preview.nws.broker/api/endpoints/F19471) | RSS | und | — | — |
-| feeds.simplecast.com | [F19472](https://preview.nws.broker/api/endpoints/F19472) | RSS | und | — | — |
-| feeds.simplecast.com | [F19473](https://preview.nws.broker/api/endpoints/F19473) | RSS | und | — | — |
-| feeds.simplecast.com | [F19474](https://preview.nws.broker/api/endpoints/F19474) | RSS | und | — | — |
 | feeds.simplecast.com | [F19475](https://preview.nws.broker/api/endpoints/F19475) | RSS | und | — | — |
 | feeds.simplecast.com | [F19476](https://preview.nws.broker/api/endpoints/F19476) | RSS | und | — | — |
 | feeds.simplecast.com | [F19477](https://preview.nws.broker/api/endpoints/F19477) | RSS | und | — | — |
@@ -154,3 +136,21 @@
 | feeds.soundcloud.com | [F22664](https://preview.nws.broker/api/endpoints/F22664) | RSS | und | — | — |
 | feeds.soundcloud.com | [F22665](https://preview.nws.broker/api/endpoints/F22665) | RSS | und | — | — |
 | feeds.soundcloud.com | [F22666](https://preview.nws.broker/api/endpoints/F22666) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22667](https://preview.nws.broker/api/endpoints/F22667) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22668](https://preview.nws.broker/api/endpoints/F22668) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22669](https://preview.nws.broker/api/endpoints/F22669) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22670](https://preview.nws.broker/api/endpoints/F22670) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22671](https://preview.nws.broker/api/endpoints/F22671) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22672](https://preview.nws.broker/api/endpoints/F22672) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22673](https://preview.nws.broker/api/endpoints/F22673) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22674](https://preview.nws.broker/api/endpoints/F22674) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22675](https://preview.nws.broker/api/endpoints/F22675) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22676](https://preview.nws.broker/api/endpoints/F22676) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22677](https://preview.nws.broker/api/endpoints/F22677) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22678](https://preview.nws.broker/api/endpoints/F22678) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22679](https://preview.nws.broker/api/endpoints/F22679) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22680](https://preview.nws.broker/api/endpoints/F22680) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22681](https://preview.nws.broker/api/endpoints/F22681) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22682](https://preview.nws.broker/api/endpoints/F22682) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22683](https://preview.nws.broker/api/endpoints/F22683) | RSS | und | — | — |
+| feeds.soundcloud.com | [F22684](https://preview.nws.broker/api/endpoints/F22684) | RSS | und | — | — |

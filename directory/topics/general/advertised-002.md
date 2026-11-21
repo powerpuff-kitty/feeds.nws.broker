@@ -4,14 +4,11 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
-| aminata.com | [F7758](https://preview.nws.broker/api/endpoints/F7758) | RSS | und | — | — |
-| amsat-uk.org | [F7759](https://preview.nws.broker/api/endpoints/F7759) | RSS | und | — | — |
 | ana.ir | [F7760](https://preview.nws.broker/api/endpoints/F7760) | RSS | und | — | — |
 | analysysmason.podbean.com | [F18656](https://preview.nws.broker/api/endpoints/F18656) | RSS | und | — | — |
 | analyticalmonk.github.io | [F18657](https://preview.nws.broker/api/endpoints/F18657) | RSS | und | — | — |
 | analytics.podtrac.com | [F7761](https://preview.nws.broker/api/endpoints/F7761) | RSS | und | — | — |
 | anarchaeopteryx.bearblog.dev | [F21886](https://preview.nws.broker/api/endpoints/F21886) | RSS | und | — | — |
-| anarchosolarpunk.substack.com | [F18658](https://preview.nws.broker/api/endpoints/F18658) | RSS | und | — | — |
 | ancestralknowledge.libsyn.com | [F21887](https://preview.nws.broker/api/endpoints/F21887) | RSS | und | — | — |
 | anchor.fm | [F18659](https://preview.nws.broker/api/endpoints/F18659) | RSS | und | — | — |
 | anchor.fm | [F18660](https://preview.nws.broker/api/endpoints/F18660) | RSS | und | — | — |
@@ -154,3 +151,6 @@
 | anchor.fm | [F18798](https://preview.nws.broker/api/endpoints/F18798) | RSS | und | — | — |
 | anchor.fm | [F18799](https://preview.nws.broker/api/endpoints/F18799) | RSS | und | — | — |
 | anchor.fm | [F18800](https://preview.nws.broker/api/endpoints/F18800) | RSS | und | — | — |
+| anchor.fm | [F18801](https://preview.nws.broker/api/endpoints/F18801) | RSS | und | — | — |
+| anchor.fm | [F18802](https://preview.nws.broker/api/endpoints/F18802) | RSS | und | — | — |
+| anchor.fm | [F18803](https://preview.nws.broker/api/endpoints/F18803) | RSS | und | — | — |

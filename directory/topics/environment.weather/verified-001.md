@@ -14,6 +14,7 @@
 | Instituto Português do Mar e da Atmosfera | [F26305](https://preview.nws.broker/api/endpoints/F26305) | RSS | pt-PT | 2026-11-19 | [Feed](<https://www.ipma.pt/opencms/resources.www/rss/comunicados.xml>) |
 | Japan Meteorological Agency | [F26264](https://preview.nws.broker/api/endpoints/F26264) | Atom | und | 2026-11-19 | [Feed](<https://www.data.jma.go.jp/developer/xml/feed/regular.xml>) |
 | Japan Meteorological Agency | [F26265](https://preview.nws.broker/api/endpoints/F26265) | Atom | und | 2026-11-19 | [Feed](<https://www.data.jma.go.jp/developer/xml/feed/extra.xml>) |
+| KNMI on Mastodon | [F27150](https://preview.nws.broker/api/endpoints/F27150) | RSS | und | 2026-11-21 | [Feed](<https://social.overheid.nl/@knmi.rss>) |
 | Macao Meteorological and Geophysical Bureau | [F26490](https://preview.nws.broker/api/endpoints/F26490) | RSS | und | 2026-11-19 | [Feed](<https://rss.smg.gov.mo/e_WForecast_rss.xml>) |
 | Macao Meteorological and Geophysical Bureau | [F26491](https://preview.nws.broker/api/endpoints/F26491) | RSS | und | 2026-11-19 | [Feed](<https://rss.smg.gov.mo/e_WSignal_rss.xml>) |
 | Met Office — DataPoint service notifications | [F25468](https://preview.nws.broker/api/endpoints/F25468) | RSS | en | 2026-11-19 | [Feed](<https://www.metoffice.gov.uk/feed/syndication/datapoint-notifications-rss.xml>) |

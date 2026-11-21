@@ -4,6 +4,35 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| meetthescientist.libsyn.com | [F22984](https://preview.nws.broker/api/endpoints/F22984) | RSS | und | 2026-11-19 | — |
+| mengke.me | [F10011](https://preview.nws.broker/api/endpoints/F10011) | RSS | und | 2026-11-19 | — |
+| metalearn.libsyn.com | [F19842](https://preview.nws.broker/api/endpoints/F19842) | RSS | und | 2026-11-19 | — |
+| metalstorm.net | [F10017](https://preview.nws.broker/api/endpoints/F10017) | RSS | und | 2026-11-19 | — |
+| michellebosch.libsyn.com | [F22986](https://preview.nws.broker/api/endpoints/F22986) | RSS | und | 2026-11-19 | — |
+| milestogo.libsyn.com | [F19848](https://preview.nws.broker/api/endpoints/F19848) | RSS | und | 2026-11-19 | — |
+| misionesonline.net | [F10050](https://preview.nws.broker/api/endpoints/F10050) | RSS | und | 2026-11-19 | — |
+| mizik.o-k-i.net | [F22991](https://preview.nws.broker/api/endpoints/F22991) | RSS | und | 2026-11-19 | — |
+| mmmusic.show | [F22993](https://preview.nws.broker/api/endpoints/F22993) | RSS | und | 2026-11-19 | — |
+| mndaily.com | [F10064](https://preview.nws.broker/api/endpoints/F10064) | RSS | und | 2026-11-19 | — |
+| mobidictum.com | [F10065](https://preview.nws.broker/api/endpoints/F10065) | RSS | und | 2026-11-19 | — |
+| Mongabay Newscast | [F1323](https://preview.nws.broker/api/endpoints/F1323) | RSS | und | 2026-11-02 | — |
+| Mongabay Newscast | [F2087](https://preview.nws.broker/api/endpoints/F2087) | RSS | und | 2026-11-02 | — |
+| Mongabay Newscast | [F2699](https://preview.nws.broker/api/endpoints/F2699) | RSS | und | 2026-11-02 | — |
+| montrealgazette.com | [F10089](https://preview.nws.broker/api/endpoints/F10089) | RSS | und | 2026-11-19 | — |
+| morsecodist.io | [F19862](https://preview.nws.broker/api/endpoints/F19862) | RSS | und | 2026-11-19 | — |
+| movietvtechgeeks.com | [F10105](https://preview.nws.broker/api/endpoints/F10105) | RSS | und | 2026-11-19 | — |
+| mronetwork.libsyn.com | [F19865](https://preview.nws.broker/api/endpoints/F19865) | RSS | und | 2026-11-19 | — |
+| mundodelosmicrobios.libsyn.com | [F22996](https://preview.nws.broker/api/endpoints/F22996) | RSS | und | 2026-11-19 | — |
+| music.behindthesch3m3s.com | [F23000](https://preview.nws.broker/api/endpoints/F23000) | RSS | und | 2026-11-19 | — |
+| musicexport.at | [F19867](https://preview.nws.broker/api/endpoints/F19867) | RSS | und | 2026-11-19 | — |
+| muyun.work | [F10123](https://preview.nws.broker/api/endpoints/F10123) | RSS | und | 2026-11-19 | — |
+| myana.libsyn.com | [F23012](https://preview.nws.broker/api/endpoints/F23012) | RSS | und | 2026-11-19 | — |
+| myreadinglife.com | [F23015](https://preview.nws.broker/api/endpoints/F23015) | RSS | und | 2026-11-19 | — |
+| myvirgo.co.za | [F19876](https://preview.nws.broker/api/endpoints/F19876) | RSS | und | 2026-11-19 | — |
+| nanaimonewsnow.com | [F23020](https://preview.nws.broker/api/endpoints/F23020) | RSS | und | 2026-11-19 | — |
+| nasa.tumblr.com | [F23021](https://preview.nws.broker/api/endpoints/F23021) | RSS | und | 2026-11-19 | — |
+| naswsocialworktalks.libsyn.com | [F23024](https://preview.nws.broker/api/endpoints/F23024) | RSS | und | 2026-11-19 | — |
+| nationalinterest.org | [F10173](https://preview.nws.broker/api/endpoints/F10173) | RSS | und | 2026-11-19 | — |
 | nationalparkstraveler.libsyn.com | [F23026](https://preview.nws.broker/api/endpoints/F23026) | RSS | und | 2026-11-19 | — |
 | navarrepress.com | [F23028](https://preview.nws.broker/api/endpoints/F23028) | RSS | und | 2026-11-19 | — |
 | ncrnoticias.com | [F10187](https://preview.nws.broker/api/endpoints/F10187) | RSS | und | 2026-11-19 | — |
@@ -125,32 +154,3 @@
 | podcasts.lemonde.fr | [F2515](https://preview.nws.broker/api/endpoints/F2515) | Atom | und | 2026-11-02 | — |
 | podcasts.lemonde.fr | [F2517](https://preview.nws.broker/api/endpoints/F2517) | Atom | und | 2026-11-02 | — |
 | podcasts.lemonde.fr | [F2519](https://preview.nws.broker/api/endpoints/F2519) | Atom | und | 2026-11-02 | — |
-| podcasts.lemonde.fr | [F2521](https://preview.nws.broker/api/endpoints/F2521) | Atom | und | 2026-11-02 | — |
-| podcasts.lemonde.fr | [F2523](https://preview.nws.broker/api/endpoints/F2523) | Atom | und | 2026-11-02 | — |
-| podster.fm | [F23282](https://preview.nws.broker/api/endpoints/F23282) | RSS | und | 2026-11-19 | — |
-| policemag.com | [F20086](https://preview.nws.broker/api/endpoints/F20086) | RSS | und | 2026-11-19 | — |
-| Political Junkie Goes West Podcast | [F1287](https://preview.nws.broker/api/endpoints/F1287) | RSS | und | 2026-11-02 | — |
-| polktimes.com | [F23284](https://preview.nws.broker/api/endpoints/F23284) | RSS | und | 2026-11-19 | — |
-| pontofinal-macau.com | [F11414](https://preview.nws.broker/api/endpoints/F11414) | RSS | und | 2026-11-19 | — |
-| popsci.com.tr | [F11415](https://preview.nws.broker/api/endpoints/F11415) | RSS | und | 2026-11-19 | — |
-| popspoken.com | [F23286](https://preview.nws.broker/api/endpoints/F23286) | RSS | und | 2026-11-19 | — |
-| popstaronline.com | [F23287](https://preview.nws.broker/api/endpoints/F23287) | RSS | und | 2026-11-19 | — |
-| popula.com | [F20093](https://preview.nws.broker/api/endpoints/F20093) | RSS | und | 2026-11-19 | — |
-| portlandmercury.com | [F23289](https://preview.nws.broker/api/endpoints/F23289) | RSS | und | 2026-11-19 | — |
-| positanonews.it | [F23293](https://preview.nws.broker/api/endpoints/F23293) | RSS | und | 2026-11-19 | — |
-| post.kn | [F20095](https://preview.nws.broker/api/endpoints/F20095) | RSS | und | 2026-11-19 | — |
-| Postgres FM | [F1659](https://preview.nws.broker/api/endpoints/F1659) | RSS | und | 2026-11-01 | — |
-| postnewsgroup.com | [F23294](https://preview.nws.broker/api/endpoints/F23294) | RSS | und | 2026-11-19 | — |
-| ppmgames.co.uk | [F11432](https://preview.nws.broker/api/endpoints/F11432) | RSS | und | 2026-11-19 | — |
-| prachatai.com | [F11433](https://preview.nws.broker/api/endpoints/F11433) | RSS | und | 2026-11-19 | — |
-| pragmatisminpractice.libsyn.com | [F20101](https://preview.nws.broker/api/endpoints/F20101) | RSS | und | 2026-11-19 | — |
-| prava.si | [F23296](https://preview.nws.broker/api/endpoints/F23296) | RSS | und | 2026-11-19 | — |
-| Preach | [F1263](https://preview.nws.broker/api/endpoints/F1263) | RSS | und | 2026-11-02 | — |
-| pressinsiderdaily.com | [F20104](https://preview.nws.broker/api/endpoints/F20104) | RSS | und | 2026-11-19 | — |
-| prod-qt-images.s3.amazonaws.com | [F11447](https://preview.nws.broker/api/endpoints/F11447) | RSS | und | 2026-11-19 | — |
-| prod-qt-images.s3.amazonaws.com | [F11449](https://preview.nws.broker/api/endpoints/F11449) | RSS | und | 2026-11-19 | — |
-| proto.garden | [F20124](https://preview.nws.broker/api/endpoints/F20124) | RSS | und | 2026-11-19 | — |
-| pswonly.libsyn.com | [F20130](https://preview.nws.broker/api/endpoints/F20130) | RSS | und | 2026-11-19 | — |
-| psychichypnotictarot.substack.com | [F20131](https://preview.nws.broker/api/endpoints/F20131) | RSS | und | 2026-11-19 | — |
-| pullandpourcoffee.com | [F11479](https://preview.nws.broker/api/endpoints/F11479) | RSS | und | 2026-11-19 | — |
-| qingccl.github.io | [F11489](https://preview.nws.broker/api/endpoints/F11489) | RSS | und | 2026-11-19 | — |

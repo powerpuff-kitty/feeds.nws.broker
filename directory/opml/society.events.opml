@@ -25,6 +25,7 @@
     <outline type="rss" text="ANMTV" title="ANMTV" xmlUrl="https://anmtv.com.br/feed/" />
     <outline type="rss" text="ArchDaily Global" title="ArchDaily Global" xmlUrl="https://www.archdaily.com/.xml" />
     <outline type="rss" text="Architectural Digest" title="Architectural Digest" xmlUrl="https://www.architecturaldigest.com/feed/rss" />
+    <outline type="rss" text="Art Galleries Association Singapore Exhibitions" title="Art Galleries Association Singapore Exhibitions" xmlUrl="https://agas.org.sg/events/feed/" />
     <outline type="rss" text="Art Museum of Estonia" title="Art Museum of Estonia" xmlUrl="https://kunstimuuseum.ekm.ee/feed/" />
     <outline type="rss" text="ARTnews" title="ARTnews" xmlUrl="https://www.artnews.com/feed/rss/" />
     <outline type="rss" text="Artscape Theatre Centre" title="Artscape Theatre Centre" xmlUrl="https://www.artscape.co.za/events/feed/" />
@@ -60,23 +61,30 @@
     <outline type="rss" text="Centre for Contemporary Art, Lagos" title="Centre for Contemporary Art, Lagos" xmlUrl="https://ccalagos.org/feed/" />
     <outline type="rss" text="Centre Léon Robin Events" title="Centre Léon Robin Events" xmlUrl="https://www.centreleonrobin.fr/index.php?option=com_jevents&amp;task=modlatest.rss&amp;format=feed&amp;type=rss&amp;modid=93" />
     <outline type="rss" text="Centro Cultural La Moneda" title="Centro Cultural La Moneda" xmlUrl="https://www.cclm.cl/feed/" />
+    <outline type="rss" text="Centro Cultural San Antonio Programmes" title="Centro Cultural San Antonio Programmes" xmlUrl="https://centrocultural.sanantonio.cl/index.php/itemlist/date?format=feed" />
     <outline type="rss" text="Centro Cultural Universitario Tlatelolco" title="Centro Cultural Universitario Tlatelolco" xmlUrl="https://tlatelolco.unam.mx/events/feed/" />
     <outline type="rss" text="Centro Nacional de las Artes Delia Zapata Olivella" title="Centro Nacional de las Artes Delia Zapata Olivella" xmlUrl="https://www.eneldelia.gov.co/events/feed/" />
+    <outline type="rss" text="Choral Connection Events" title="Choral Connection Events" xmlUrl="https://www.choralconnection.org.au/dbaction.php?action=rss&amp;dbase=events" />
     <outline type="rss" text="Christmas Island Archives" title="Christmas Island Archives" xmlUrl="https://christmasislandarchives.com/feed/" />
     <outline type="rss" text="Cinéma Galeries" title="Cinéma Galeries" xmlUrl="https://galeries.be/fr/feed/" />
     <outline type="rss" text="Cinéma Palace" title="Cinéma Palace" xmlUrl="https://www.cinema-palace.be/feed/" />
     <outline type="rss" text="City Gallery Wellington" title="City Gallery Wellington" xmlUrl="https://citygallery.org.nz/feed/" />
     <outline type="rss" text="City of Asylum Pittsburgh Events" title="City of Asylum Pittsburgh Events" xmlUrl="https://cityofasylum.org/programs/feed/" />
+    <outline type="rss" text="City of Saitama Culture and Arts Announcements" title="City of Saitama Culture and Arts Announcements" xmlUrl="https://www.city.saitama.lg.jp/004/005/news.xml" />
+    <outline type="rss" text="City of Vancouver Events" title="City of Vancouver Events" xmlUrl="https://www.trumba.com/calendars/city-of-vancouver-events.rss" />
     <outline type="rss" text="Cocos Blue Charters" title="Cocos Blue Charters" xmlUrl="https://cocosblue.com.au/feed/" />
     <outline type="rss" text="Cocos Castaway destination notes" title="Cocos Castaway destination notes" xmlUrl="https://cocoscastaway.com/feed/" />
     <outline type="rss" text="Colossal" title="Colossal" xmlUrl="https://www.thisiscolossal.com/feed/" />
     <outline type="rss" text="Comedy Ket" title="Comedy Ket" xmlUrl="https://www.comedyket.be/agenda/feed/" />
     <outline type="rss" text="ComingSoon.net – Movie Trailers, TV &amp; Streaming News, and More" title="ComingSoon.net – Movie Trailers, TV &amp; Streaming News, and More" xmlUrl="https://www.comingsoon.net/feed" />
     <outline type="rss" text="Complejo Teatral de Buenos Aires" title="Complejo Teatral de Buenos Aires" xmlUrl="https://complejoteatral.gob.ar/feed/" />
+    <outline type="rss" text="Con Anima Chamber Choir Public Events" title="Con Anima Chamber Choir Public Events" xmlUrl="https://www.conanima.org.uk/dbaction.php?action=rss&amp;dbase=events" />
     <outline type="rss" text="Constant" title="Constant" xmlUrl="https://constantvzw.org/site/spip.php?page=backend" />
     <outline type="rss" text="Creative Bloq" title="Creative Bloq" xmlUrl="https://www.creativebloq.com/feeds.xml" />
     <outline type="rss" text="Creative Boom" title="Creative Boom" xmlUrl="https://www.creativeboom.com/feed/" />
+    <outline type="rss" text="Cultural Centre of Belgrade Programmes" title="Cultural Centre of Belgrade Programmes" xmlUrl="https://www.kcb.org.rs/feed/" />
     <outline type="rss" text="Cyprus Events" title="Cyprus Events" xmlUrl="https://www.cyprusevents.net/erss" />
+    <outline type="rss" text="Cúirt International Festival of Literature Programmes" title="Cúirt International Festival of Literature Programmes" xmlUrl="https://www.cuirt.ie/feed/" />
     <outline type="rss" text="DE51GN" title="DE51GN" xmlUrl="https://de51gn.substack.com/feed" />
     <outline type="rss" text="Deadline" title="Deadline" xmlUrl="https://deadline.com/feed/" />
     <outline type="rss" text="Design You Trust" title="Design You Trust" xmlUrl="https://designyoutrust.com/feed/" />
@@ -91,8 +99,10 @@
     <outline type="rss" text="dezeen.com" title="dezeen.com" xmlUrl="https://www.dezeen.com/interiors/feed/" />
     <outline type="rss" text="Digitalcity.brussels" title="Digitalcity.brussels" xmlUrl="https://digitalcity.brussels/fr/rss.xml" />
     <outline type="rss" text="Discover Dominica" title="Discover Dominica" xmlUrl="https://discoverdominica.com/feed/" />
+    <outline type="rss" text="Dublin Book Festival Programmes" title="Dublin Book Festival Programmes" xmlUrl="https://dublinbookfestival.com/feed/" />
     <outline type="rss" text="Duke University Events" title="Duke University Events" xmlUrl="https://calendar.duke.edu/events.rss" />
     <outline type="rss" text="Durban International Film Festival" title="Durban International Film Festival" xmlUrl="https://ccadiff.ukzn.ac.za/feed/" />
+    <outline type="rss" text="Edinburgh Science Festival Programmes" title="Edinburgh Science Festival Programmes" xmlUrl="https://www.edinburghscience.co.uk/feed/" />
     <outline type="rss" text="Emory University Events" title="Emory University Events" xmlUrl="https://www.trumba.com/calendars/emory-events.rss" />
     <outline type="rss" text="Escale du Nord – Centre culturel d’Anderlecht" title="Escale du Nord – Centre culturel d’Anderlecht" xmlUrl="https://escaledunord.brussels/events/feed/" />
     <outline type="rss" text="Eurogamer.net Latest Articles Feed" title="Eurogamer.net Latest Articles Feed" xmlUrl="https://www.eurogamer.net/?format=rss" />
@@ -140,6 +150,7 @@
     <outline type="rss" text="Groupe Spéléologique de Charleroi public agenda feed" title="Groupe Spéléologique de Charleroi public agenda feed" xmlUrl="https://www.gsc-asbl.be/index.php?option=com_jevents&amp;task=modlatest.rss&amp;format=feed&amp;lang=fr-FR&amp;type=rss&amp;modid=116" />
     <outline type="rss" text="Grün Stadt Zürich Events" title="Grün Stadt Zürich Events" xmlUrl="https://www.stadt-zuerich.ch/content/web/de/aktuell/veranstaltungen/umwelt-und-energie/gruenagenda/jcr:content/mainparsys/teaser.rss" />
     <outline type="rss" text="GSARA Bruxelles" title="GSARA Bruxelles" xmlUrl="https://bruxelles.gsara.be/feed/" />
+    <outline type="rss" text="Guadalajara International Film Festival Programmes" title="Guadalajara International Film Festival Programmes" xmlUrl="https://ficg.mx/feed/" />
     <outline type="rss" text="Helsinki City Museum" title="Helsinki City Museum" xmlUrl="https://www.helsinginkaupunginmuseo.fi/feed/" />
     <outline type="rss" text="Hong Kong Public Libraries Events" title="Hong Kong Public Libraries Events" xmlUrl="https://www.hkpl.gov.hk/en/highlights/rss.xml" />
     <outline type="rss" text="Hong Kong University of Science and Technology Events" title="Hong Kong University of Science and Technology Events" xmlUrl="https://calendar.hkust.edu.hk/rss.xml" />
@@ -149,6 +160,7 @@
     <outline type="rss" text="Identity Designed" title="Identity Designed" xmlUrl="https://identitydesigned.com/feed/" />
     <outline type="rss" text="IGNANT" title="IGNANT" xmlUrl="https://www.ignant.com/feed/" />
     <outline type="rss" text="Imperial College London Events" title="Imperial College London Events" xmlUrl="https://www.imperial.ac.uk/events/feed/" />
+    <outline type="rss" text="India International Centre Programmes" title="India International Centre Programmes" xmlUrl="https://iicdelhi.in/rss.xml" />
     <outline type="rss" text="Indie Games Plus" title="Indie Games Plus" xmlUrl="https://indiegamesplus.com/feed" />
     <outline type="rss" text="IndieWire" title="IndieWire" xmlUrl="https://www.indiewire.com/feed" />
     <outline type="rss" text="Instituto Moreira Salles" title="Instituto Moreira Salles" xmlUrl="https://ims.com.br/feed/" />
@@ -166,6 +178,7 @@
     <outline type="rss" text="Kinodvor Ljubljana" title="Kinodvor Ljubljana" xmlUrl="https://www.kinodvor.org/feed/" />
     <outline type="rss" text="Kirkus Reviews" title="Kirkus Reviews" xmlUrl="https://www.kirkusreviews.com/feeds/rss/" />
     <outline type="rss" text="Kobe University Events" title="Kobe University Events" xmlUrl="https://www.kobe-u.ac.jp/ja/news/events/rss.xml" />
+    <outline type="rss" text="Koriyama City Museum of Art Programmes" title="Koriyama City Museum of Art Programmes" xmlUrl="https://www.city.koriyama.lg.jp/rss/10/site-99.xml" />
     <outline type="rss" text="Kotaku" title="Kotaku" xmlUrl="https://kotaku.com/rss" />
     <outline type="rss" text="Kringvarp Føroya" title="Kringvarp Føroya" xmlUrl="https://kvf.fo/rss/mentan" />
     <outline type="rss" text="Kyoto City KYOCERA Museum of Art" title="Kyoto City KYOCERA Museum of Art" xmlUrl="https://kyotocity-kyocera.museum/feed/" />
@@ -183,34 +196,44 @@
     <outline type="rss" text="Les Lundis d’Hortense" title="Les Lundis d’Hortense" xmlUrl="https://www.leslundisdhortense.be/feed/" />
     <outline type="rss" text="Library of Congress — blogs" title="Library of Congress — blogs" xmlUrl="https://blogs.loc.gov/feed/" />
     <outline type="rss" text="Light Stalking" title="Light Stalking" xmlUrl="https://www.lightstalking.com/feed/" />
+    <outline type="rss" text="Living Prairie Museum Events" title="Living Prairie Museum Events" xmlUrl="https://www.trumba.com/calendars/city-of-winnipeg-calendar-living-prairie-museum.rss" />
     <outline type="rss" text="LivingMuseum Liechtenstein" title="LivingMuseum Liechtenstein" xmlUrl="https://livingmuseum.li/feed/" />
     <outline type="rss" text="Logo Design Love" title="Logo Design Love" xmlUrl="https://www.logodesignlove.com/feed" />
+    <outline type="rss" text="Long Beach Public Library Alamitos Events" title="Long Beach Public Library Alamitos Events" xmlUrl="https://www.trumba.com/calendars/long-beach-public-library-alamitos.rss" />
     <outline type="rss" text="L’Archiduc" title="L’Archiduc" xmlUrl="https://archiduc.com/feed/" />
     <outline type="rss" text="MAC Lima" title="MAC Lima" xmlUrl="https://maclima.pe/feed/" />
     <outline type="rss" text="Maison des Arts de Schaerbeek" title="Maison des Arts de Schaerbeek" xmlUrl="https://lamaisondesarts.be/feed/" />
     <outline type="rss" text="Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup" title="Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup" xmlUrl="https://www.makeupandbeautyblog.com/feed/" />
+    <outline type="rss" text="Maktaba Abu Dhabi Public Library Events" title="Maktaba Abu Dhabi Public Library Events" xmlUrl="https://library.dctabudhabi.ae/events/rss/feeds?per_page=10" />
     <outline type="rss" text="Market Theatre Johannesburg" title="Market Theatre Johannesburg" xmlUrl="https://markettheatre.co.za/feed/" />
     <outline type="rss" text="MAXXI Rome" title="MAXXI Rome" xmlUrl="https://www.maxxi.art/feed/" />
     <outline type="rss" text="Midway Island" title="Midway Island" xmlUrl="https://www.midwayisland.com/feed/" />
     <outline type="rss" text="Millenium Documentary Film Festival" title="Millenium Documentary Film Festival" xmlUrl="https://www.festivalmillenium.org/feed/" />
     <outline type="rss" text="MIT Events Calendar" title="MIT Events Calendar" xmlUrl="https://calendar.mit.edu/calendar.xml" />
     <outline type="rss" text="Mix Brussels" title="Mix Brussels" xmlUrl="https://mix.brussels/events/feed/" />
+    <outline type="rss" text="Miyagi Museum of Art Exhibition Announcements" title="Miyagi Museum of Art Exhibition Announcements" xmlUrl="https://www.pref.miyagi.jp/site/mmoa/info/info.xml" />
     <outline type="rss" text="Montréal Goethe-Institut Events" title="Montréal Goethe-Institut Events" xmlUrl="https://www.goethe.de/ins/ca/en/rss/mon/ver.rss" />
     <outline type="rss" text="Moravian Gallery in Brno" title="Moravian Gallery in Brno" xmlUrl="https://moravska-galerie.cz/feed/" />
     <outline type="rss" text="MUSE Museo delle Scienze" title="MUSE Museo delle Scienze" xmlUrl="https://www.muse.it/feed/" />
+    <outline type="rss" text="Museo de Arte Contemporáneo de Panamá Programmes" title="Museo de Arte Contemporáneo de Panamá Programmes" xmlUrl="https://macpanama.org/feed/" />
     <outline type="rss" text="Museo de Arte Contemporáneo Universidad de Chile" title="Museo de Arte Contemporáneo Universidad de Chile" xmlUrl="https://mac.uchile.cl/feed/" />
     <outline type="rss" text="Museo Franz Mayer" title="Museo Franz Mayer" xmlUrl="https://franzmayer.org.mx/actividades/feed/" />
     <outline type="rss" text="Museo Moderno – Buenos Aires" title="Museo Moderno – Buenos Aires" xmlUrl="https://museomoderno.org/agenda/feed/" />
+    <outline type="rss" text="Museo Nacional de Costa Rica Programmes" title="Museo Nacional de Costa Rica Programmes" xmlUrl="https://www.museocostarica.go.cr/feed/" />
     <outline type="rss" text="Museu de Arte Moderna do Rio de Janeiro" title="Museu de Arte Moderna do Rio de Janeiro" xmlUrl="https://mam.rio/feed/" />
     <outline type="rss" text="Museu do Neo-Realismo" title="Museu do Neo-Realismo" xmlUrl="https://www.museudoneorealismo.pt/pages/rss-feed%2Frss-de-eventos.rss" />
+    <outline type="rss" text="Museum of Warsaw Programmes" title="Museum of Warsaw Programmes" xmlUrl="https://muzeumwarszawy.pl/feed/" />
     <outline type="rss" text="Museums Wellington" title="Museums Wellington" xmlUrl="https://www.museumswellington.org.nz/feed/" />
     <outline type="rss" text="Music Business Worldwide" title="Music Business Worldwide" xmlUrl="https://www.musicbusinessworldwide.com/feed/" />
     <outline type="rss" text="Musée de la Médecine de Bruxelles" title="Musée de la Médecine de Bruxelles" xmlUrl="https://www.museemedecine.be/feed/" />
     <outline type="rss" text="Muziekpublique" title="Muziekpublique" xmlUrl="https://muziekpublique.be/concerts/feed/" />
+    <outline type="rss" text="Nafasi Art Space Programmes" title="Nafasi Art Space Programmes" xmlUrl="https://www.nafasiartspace.org/feed/" />
+    <outline type="rss" text="National Gallery of Jamaica Exhibitions" title="National Gallery of Jamaica Exhibitions" xmlUrl="https://nationalgalleryofjamaica.wordpress.com/category/exhibitions/feed/" />
     <outline type="rss" text="National Library of Australia" title="National Library of Australia" xmlUrl="https://www.library.gov.au/rss.xml" />
     <outline type="rss" text="National Museum of the Philippines" title="National Museum of the Philippines" xmlUrl="https://www.nationalmuseum.gov.ph/feed/" />
     <outline type="rss" text="National Museums of Kenya" title="National Museums of Kenya" xmlUrl="https://museums.or.ke/feed/" />
     <outline type="rss" text="NewInBooks" title="NewInBooks" xmlUrl="https://www.newinbooks.com/feed/" />
+    <outline type="rss" text="NGC Bocas Lit Fest Programme" title="NGC Bocas Lit Fest Programme" xmlUrl="https://www.bocaslitfest.com/feed/" />
     <outline type="rss" text="Nordic House Reykjavík Events" title="Nordic House Reykjavík Events" xmlUrl="https://nordichouse.is/en/feed/" />
     <outline type="rss" text="Norfolk Island Tourism" title="Norfolk Island Tourism" xmlUrl="https://www.norfolkisland.com.au/feed/" />
     <outline type="rss" text="Northern Marianas Humanities Council" title="Northern Marianas Humanities Council" xmlUrl="https://www.nmhcouncil.org/feed/" />
@@ -223,6 +246,7 @@
     <outline type="rss" text="Polygon.com" title="Polygon.com" xmlUrl="https://www.polygon.com/rss/index.xml" />
     <outline type="rss" text="Press Club Brussels Europe" title="Press Club Brussels Europe" xmlUrl="https://www.pressclub.be/events/feed/" />
     <outline type="rss" text="PRINT" title="PRINT" xmlUrl="https://www.printmag.com/feed/" />
+    <outline type="rss" text="Purdue University Events" title="Purdue University Events" xmlUrl="https://events.purdue.edu/widget/view?schools=purdue&amp;days=7&amp;num=60&amp;format=rss" />
     <outline type="rss" text="Ramen Para Dos" title="Ramen Para Dos" xmlUrl="https://ramenparados.com/feed/" />
     <outline type="rss" text="Redland City Council Events" title="Redland City Council Events" xmlUrl="https://www.trumba.com/calendars/redland-city-council.rss?weeks=1&amp;previousweeks=0" />
     <outline type="rss" text="Repair Together" title="Repair Together" xmlUrl="https://repairtogether.be/feed/" />
@@ -237,8 +261,11 @@
     <outline type="rss" text="RTL Infos" title="RTL Infos" xmlUrl="https://infos.rtl.lu/rss/feed/headlines.rss" />
     <outline type="rss" text="RTL Infos" title="RTL Infos" xmlUrl="https://infos.rtl.lu/sport/international.rss" />
     <outline type="rss" text="Salihara Arts Center" title="Salihara Arts Center" xmlUrl="https://salihara.org/feed/" />
+    <outline type="rss" text="San Antonio Public Library Events" title="San Antonio Public Library Events" xmlUrl="https://www.trumba.com/calendars/san-antonio-public-library.rss" />
     <outline type="rss" text="SCAPE Public Art" title="SCAPE Public Art" xmlUrl="https://www.scapepublicart.org.nz/feed/" />
+    <outline type="rss" text="Shihsanhang Museum of Archaeology Programme Announcements" title="Shihsanhang Museum of Archaeology Programme Announcements" xmlUrl="https://www.sshm.ntpc.gov.tw/xceventsnews/rss?xsmsid=0G250557655940640091" />
     <outline type="rss" text="Singapore Management University Events" title="Singapore Management University Events" xmlUrl="https://www.trumba.com/calendars/smu_nextweb_main.rss" />
+    <outline type="rss" text="Singapore Management University Law Academy Events" title="Singapore Management University Law Academy Events" xmlUrl="https://www.trumba.com/calendars/smu_cle.rss" />
     <outline type="rss" text="Slanted" title="Slanted" xmlUrl="https://www.slanted.de/feed/" />
     <outline type="rss" text="Spiral Tokyo" title="Spiral Tokyo" xmlUrl="https://www.spiral.co.jp/sitemap.rss" />
     <outline type="rss" text="Stacked Homes" title="Stacked Homes" xmlUrl="https://stackedhomes.com/feed/" />
@@ -256,6 +283,8 @@
     <outline type="rss" text="The Theatre Centre Toronto" title="The Theatre Centre Toronto" xmlUrl="https://theatrecentre.org/feed/" />
     <outline type="rss" text="Thistle Hall Community Venue" title="Thistle Hall Community Venue" xmlUrl="https://www.thistlehall.org.nz/rss.xml" />
     <outline type="rss" text="Théâtre de la Parole" title="Théâtre de la Parole" xmlUrl="https://www.theatredelaparole.be/feed/" />
+    <outline type="rss" text="Time of the Writer Festival Programmes" title="Time of the Writer Festival Programmes" xmlUrl="https://tow.ukzn.ac.za/feed/" />
+    <outline type="rss" text="Tochigi City Museum of Art Programme Announcements" title="Tochigi City Museum of Art Programme Announcements" xmlUrl="https://www.city.tochigi.lg.jp/rss/10/site-212.xml" />
     <outline type="rss" text="Tokyo National Museum" title="Tokyo National Museum" xmlUrl="https://www.tnm.jp/modules/r_exhibition/index.php?controller=ctg_feed&amp;cid=1&amp;lang=ja" />
     <outline type="rss" text="Toronto International Festival of Authors" title="Toronto International Festival of Authors" xmlUrl="https://festivalofauthors.ca/feed/" />
     <outline type="rss" text="TVLine - All TV. No Interference. TV News &amp; Spoilers by TVLine" title="TVLine - All TV. No Interference. TV News &amp; Spoilers by TVLine" xmlUrl="https://tvline.com/feed/" />
@@ -265,14 +294,19 @@
     <outline type="rss" text="Unity Bookshop" title="Unity Bookshop" xmlUrl="https://www.unitybookshop.be/events?format=rss" />
     <outline type="rss" text="Universidad Nacional de Ingeniería Cultural Events" title="Universidad Nacional de Ingeniería Cultural Events" xmlUrl="https://portal.uni.edu.pe/index.php/rss?format=feed&amp;type=rss" />
     <outline type="rss" text="University of British Columbia Events" title="University of British Columbia Events" xmlUrl="https://events.ubc.ca/events/feed/" />
+    <outline type="rss" text="University of Central Florida Events" title="University of Central Florida Events" xmlUrl="https://events.ucf.edu/feed.rss" />
+    <outline type="rss" text="University of Chicago Public Events" title="University of Chicago Public Events" xmlUrl="https://events.uchicago.edu/live/rss/events/max/60" />
     <outline type="rss" text="University of Eastern Finland Events" title="University of Eastern Finland Events" xmlUrl="https://www.uef.fi/en/upcoming_events/rss.xml" />
     <outline type="rss" text="University of Melbourne Events" title="University of Melbourne Events" xmlUrl="https://events.unimelb.edu.au/live/rss/events" />
     <outline type="rss" text="University of Nottingham Science Events" title="University of Nottingham Science Events" xmlUrl="https://www.nottingham.ac.uk/science/news-events/events.aspx?Listing2_SyndicationType=1" />
+    <outline type="rss" text="University of Oslo Public Events" title="University of Oslo Public Events" xmlUrl="https://www.uio.no/english/about/news-and-events/events/?vrtx=feed" />
     <outline type="rss" text="University of St Andrews Events" title="University of St Andrews Events" xmlUrl="https://events.st-andrews.ac.uk/events/feed/" />
     <outline type="rss" text="University of Tübingen Events" title="University of Tübingen Events" xmlUrl="https://uni-tuebingen.de/universitaet/campusleben/veranstaltungen/veranstaltungskalender/feed.xml" />
     <outline type="rss" text="University of Washington Libraries Events" title="University of Washington Libraries Events" xmlUrl="https://www.trumba.com/calendars/sea_lib.rss" />
     <outline type="rss" text="University of Waterloo Events" title="University of Waterloo Events" xmlUrl="https://uwaterloo.ca/events/events/events.xml" />
+    <outline type="rss" text="University of Zurich Public Events" title="University of Zurich Public Events" xmlUrl="https://www.agenda.uzh.ch/rss/agenda_xml.php?d=14&amp;items=25" />
     <outline type="rss" text="UTAS Al Rustaq" title="UTAS Al Rustaq" xmlUrl="https://www.utas.edu.om/rustaq/Events/Events-Details/rss/3368" />
+    <outline type="rss" text="Utrecht University Public Events" title="Utrecht University Public Events" xmlUrl="https://www.uu.nl/en/events.rss" />
     <outline type="rss" text="Variety" title="Variety" xmlUrl="https://variety.com/feed/" />
     <outline type="rss" text="Vienna University Library Events" title="Vienna University Library Events" xmlUrl="https://bibliothek.univie.ac.at/events/rss.xml" />
     <outline type="rss" text="Wallpaper" title="Wallpaper" xmlUrl="https://www.wallpaper.com/feeds.xml" />
@@ -281,6 +315,7 @@
     <outline type="rss" text="WIPO — intellectual property news" title="WIPO — intellectual property news" xmlUrl="https://www.wipo.int/rss/index.xml?col=meetings" />
     <outline type="rss" text="Wokeread" title="Wokeread" xmlUrl="https://wokeread.home.blog/feed/" />
     <outline type="rss" text="Wolubilis" title="Wolubilis" xmlUrl="https://www.wolubilis.be/feed/" />
+    <outline type="rss" text="Yong’an Arts Centre Events" title="Yong’an Arts Centre Events" xmlUrl="https://www.yalac.ntpc.gov.tw/xceventsnews/rss?xsmsid=0G278762856907255656" />
     <outline type="rss" text="Zeitz Museum of Contemporary Art Africa" title="Zeitz Museum of Contemporary Art Africa" xmlUrl="https://zeitzmocaa.museum/feed/" />
     <outline type="rss" text="Ålands Sjöfartsmuseum" title="Ålands Sjöfartsmuseum" xmlUrl="https://sjofartsmuseum.ax/en/feed/" />
     <outline type="rss" text="École normale supérieure Announcements" title="École normale supérieure Announcements" xmlUrl="https://www.ens.psl.eu/rss.xml" />

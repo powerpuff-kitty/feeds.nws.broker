@@ -4,6 +4,7 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| US Federal Reserve Board | [F4340](https://preview.nws.broker/api/endpoints/F4340) | RSS | und | 2026-11-02 | [Feed](<https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.SD.xml>) |
 | US Federal Reserve Board | [F4341](https://preview.nws.broker/api/endpoints/F4341) | RSS | und | 2026-11-02 | [Feed](<https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.SF.xml>) |
 | US Federal Reserve Board | [F4342](https://preview.nws.broker/api/endpoints/F4342) | RSS | und | 2026-11-02 | [Feed](<https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.SI.xml>) |
 | US Federal Reserve Board | [F4343](https://preview.nws.broker/api/endpoints/F4343) | RSS | und | 2026-11-02 | [Feed](<https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.SL.xml>) |

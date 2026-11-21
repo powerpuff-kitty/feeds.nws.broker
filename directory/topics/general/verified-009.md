@@ -4,6 +4,24 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| ExPartibus | [F24604](https://preview.nws.broker/api/endpoints/F24604) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.expartibus.it/feed/>) |
+| Exploring Existence | [F20456](https://preview.nws.broker/api/endpoints/F20456) | Atom | en | 2026-11-19 | [Feed](<https://rstraub.com/feed/feed.xml>) |
+| Exposed Magazine | [F24605](https://preview.nws.broker/api/endpoints/F24605) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.exposedmagazine.co.uk/feed/>) |
+| Express Kerala | [F21350](https://preview.nws.broker/api/endpoints/F21350) | RSS | en-US | 2026-11-19 | [Feed](<https://www.expresskerala.com/news/feed>) |
+| Extranet Evolution | [F19113](https://preview.nws.broker/api/endpoints/F19113) | Atom | en-GB | 2026-11-19 | [Feed](<https://extranetevolution.com/feed/atom>) |
+| Eyefootball: Football News | [F14299](https://preview.nws.broker/api/endpoints/F14299) | RSS | und | 2026-11-19 | [Feed](<https://www.eyefootball.com/football_news.xml>) |
+| F1ACTU.COM | [F14302](https://preview.nws.broker/api/endpoints/F14302) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.f1actu.com/feed/>) |
+| Fairy of Disenchantment | [F23986](https://preview.nws.broker/api/endpoints/F23986) | RSS | en | 2026-11-19 | [Feed](<https://thefairyofdisenchantment.wordpress.com/feed/>) |
+| Faith Pest Control North Georgia Podcast | [F22273](https://preview.nws.broker/api/endpoints/F22273) | RSS | en-US | 2026-11-19 | [Feed](<https://faithpestcontrol.com/feed/podcast/>) |
+| Fanatik.ro | [F24608](https://preview.nws.broker/api/endpoints/F24608) | RSS | ro-RO | 2026-11-19 | [Feed](<https://www.fanatik.ro/feed>) |
+| fantastikcanavarlar.com | [F8879](https://preview.nws.broker/api/endpoints/F8879) | RSS | tr | 2026-11-19 | [Feed](<https://fantastikcanavarlar.com/feed/>) |
+| Far Outliers | [F22275](https://preview.nws.broker/api/endpoints/F22275) | Atom | en | 2026-11-19 | [Feed](<https://faroutliers.com/feed/atom>) |
+| farer.org | [F8880](https://preview.nws.broker/api/endpoints/F8880) | RSS | und | 2026-11-19 | [Feed](<https://farer.org/rss/>) |
+| Farmers Weekly | [F14332](https://preview.nws.broker/api/endpoints/F14332) | RSS | en-US | 2026-11-19 | [Feed](<https://www.farmersweekly.co.nz/feed/>) |
+| Fascinating Nouns | [F22276](https://preview.nws.broker/api/endpoints/F22276) | RSS | en-US | 2026-11-19 | [Feed](<https://fascinatingnouns.com/feed/podcast/>) |
+| fashionista.com | [F1247](https://preview.nws.broker/api/endpoints/F1247) | RSS | en | 2026-11-01 | [Feed](<https://fashionista.com/.rss/excerpt/>) |
+| fashionista.com | [F1248](https://preview.nws.broker/api/endpoints/F1248) | RSS | en | 2026-11-02 | — |
+| fatbobman.com | [F8883](https://preview.nws.broker/api/endpoints/F8883) | RSS | zh | 2026-11-19 | [Feed](<https://fatbobman.com/zh/rss.xml>) |
 | Fea´s naive Welt | [F22278](https://preview.nws.broker/api/endpoints/F22278) | RSS | de | 2026-11-19 | [Feed](<https://feasnaivewelt.podigee.io/feed/mp3>) |
 | Federal Baseball | [F14354](https://preview.nws.broker/api/endpoints/F14354) | Atom | en-US | 2026-11-19 | [Feed](<https://www.federalbaseball.com/rss/index.xml>) |
 | Federal Way Mirror | [F24610](https://preview.nws.broker/api/endpoints/F24610) | RSS | en-US | 2026-11-19 | [Feed](<https://www.federalwaymirror.com/feed/>) |
@@ -136,21 +154,3 @@
 | feeds.nos.nl | [F1416](https://preview.nws.broker/api/endpoints/F1416) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nosnieuwskoningshuis>) |
 | feeds.nos.nl | [F1417](https://preview.nws.broker/api/endpoints/F1417) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nosnieuwsopmerkelijk>) |
 | feeds.nos.nl | [F1418](https://preview.nws.broker/api/endpoints/F1418) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nosnieuwspolitiek>) |
-| feeds.nos.nl | [F1419](https://preview.nws.broker/api/endpoints/F1419) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nosnieuwstech>) |
-| feeds.nos.nl | [F1420](https://preview.nws.broker/api/endpoints/F1420) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nosnieuwsvideo>) |
-| feeds.nos.nl | [F1421](https://preview.nws.broker/api/endpoints/F1421) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nosop3>) |
-| feeds.nos.nl | [F1422](https://preview.nws.broker/api/endpoints/F1422) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossportalgemeen>) |
-| feeds.nos.nl | [F1423](https://preview.nws.broker/api/endpoints/F1423) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossportformule1>) |
-| feeds.nos.nl | [F1424](https://preview.nws.broker/api/endpoints/F1424) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossportformule1video>) |
-| feeds.nos.nl | [F1425](https://preview.nws.broker/api/endpoints/F1425) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossportschaatsen>) |
-| feeds.nos.nl | [F1426](https://preview.nws.broker/api/endpoints/F1426) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossportschaatsenvideo>) |
-| feeds.nos.nl | [F1427](https://preview.nws.broker/api/endpoints/F1427) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossporttennis>) |
-| feeds.nos.nl | [F1428](https://preview.nws.broker/api/endpoints/F1428) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossporttennisvideo>) |
-| feeds.nos.nl | [F1429](https://preview.nws.broker/api/endpoints/F1429) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossportvoetbalvideo>) |
-| feeds.nos.nl | [F1430](https://preview.nws.broker/api/endpoints/F1430) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossportwielrennen>) |
-| feeds.nos.nl | [F1431](https://preview.nws.broker/api/endpoints/F1431) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nossportwielrennenvideo>) |
-| feeds.nos.nl | [F1432](https://preview.nws.broker/api/endpoints/F1432) | RSS | nl | 2026-11-02 | [Feed](<https://feeds.nos.nl/nosvoetbal>) |
-| feeds.npr.org | [F9127](https://preview.nws.broker/api/endpoints/F9127) | RSS | en | 2026-11-19 | [Feed](<https://feeds.npr.org/1082539802/rss.xml>) |
-| feeds.osce.org | [F0150](https://preview.nws.broker/api/endpoints/F0150) | RSS | en | 2026-11-02 | — |
-| feeds.osce.org | [F0151](https://preview.nws.broker/api/endpoints/F0151) | RSS | en | 2026-11-02 | — |
-| feeds.osce.org | [F0152](https://preview.nws.broker/api/endpoints/F0152) | RSS | en | 2026-11-02 | — |

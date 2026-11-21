@@ -4,6 +4,7 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Prensa Latina | [F26640](https://preview.nws.broker/api/endpoints/F26640) | RSS | es | 2026-11-20 | [Feed](<https://www.prensa-latina.cu/feed/>) |
 | Rador Press Agency | [F25332](https://preview.nws.broker/api/endpoints/F25332) | RSS | ro-RO | 2026-11-19 | [Feed](<https://www.rador.ro/feed/>) |
 | State News Agency of Turkmenistan | [F25883](https://preview.nws.broker/api/endpoints/F25883) | RSS | und | 2026-11-19 | [Feed](<https://turkmenistan.gov.tm/rss.xml>) |
 | STP-Press | [F25837](https://preview.nws.broker/api/endpoints/F25837) | RSS | pt-PT | 2026-11-19 | [Feed](<https://www.stp-press.st/feed/>) |

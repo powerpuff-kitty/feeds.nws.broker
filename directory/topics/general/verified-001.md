@@ -93,6 +93,7 @@
 | ABNewswire | [F21163](https://preview.nws.broker/api/endpoints/F21163) | RSS | en-US | 2026-11-19 | [Feed](<https://www.abnewswire.com/pressreleases/feed>) |
 | About on Milan Cvitkovic | [F19847](https://preview.nws.broker/api/endpoints/F19847) | RSS | en-US | 2026-11-19 | [Feed](<https://milan.cvitkovic.net/index.xml>) |
 | Above The Norm News | [F21165](https://preview.nws.broker/api/endpoints/F21165) | RSS | en | 2026-11-19 | [Feed](<https://www.abovethenormnews.com/feed/>) |
+| abparenting.substack.com | [F18623](https://preview.nws.broker/api/endpoints/F18623) | RSS | en | 2026-11-21 | [Feed](<https://abparenting.substack.com/feed>) |
 | absatzwebdesign.de | [F7641](https://preview.nws.broker/api/endpoints/F7641) | RSS | de | 2026-11-19 | [Feed](<https://absatzwebdesign.de/feed/>) |
 | Absicherung Braucht Vertrauen - Dein Versicherungspodcast von ABV&#124;MAKLER | [F21849](https://preview.nws.broker/api/endpoints/F21849) | RSS | de | 2026-11-19 | [Feed](<https://abv-makler.podigee.io/feed/mp3>) |
 | Absolute AppSec | [F18624](https://preview.nws.broker/api/endpoints/F18624) | RSS | en-US | 2026-11-19 | [Feed](<https://absoluteappsec.com/rss.xml>) |
@@ -153,4 +154,3 @@
 | ALASKA HIGHWAY NEWS | [F17721](https://preview.nws.broker/api/endpoints/F17721) | RSS | und | 2026-11-19 | [Feed](<https://www.thealaskahighwaynews.com/blog-feed.xml>) |
 | Alcademics | [F21874](https://preview.nws.broker/api/endpoints/F21874) | RSS | en-US | 2026-11-19 | [Feed](<https://alcademics.com/feed/>) |
 | alchemergy.podbean.com | [F21875](https://preview.nws.broker/api/endpoints/F21875) | RSS | en | 2026-11-19 | [Feed](<https://alchemergy.podbean.com/feed.xml>) |
-| Aleteia — Catholic Spirituality, Lifestyle, World News, and Culture | [F7724](https://preview.nws.broker/api/endpoints/F7724) | RSS | en-US | 2026-11-19 | [Feed](<https://aleteia.org/feed/>) |

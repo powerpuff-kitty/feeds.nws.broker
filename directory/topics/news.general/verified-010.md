@@ -4,6 +4,45 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Svalbard Wire | [F26225](https://preview.nws.broker/api/endpoints/F26225) | RSS | en | 2026-11-19 | [Feed](<https://svalbardwire.com/feed.xml>) |
+| Sydney Morning Herald - Latest News | [F5556](https://preview.nws.broker/api/endpoints/F5556) | RSS | en-AU | 2026-11-02 | [Feed](<https://www.smh.com.au/rss/feed.xml>) |
+| Syn.by | [F25201](https://preview.nws.broker/api/endpoints/F25201) | RSS | be-BY | 2026-11-19 | [Feed](<https://syn.by/feed/>) |
+| Syn.by | [F25202](https://preview.nws.broker/api/endpoints/F25202) | RSS | en-US | 2026-11-19 | [Feed](<https://syn.by/en/feed/>) |
+| Syn.by | [F25203](https://preview.nws.broker/api/endpoints/F25203) | RSS | ru-RU | 2026-11-19 | [Feed](<https://syn.by/ru/feed/>) |
+| Syria Direct | [F26673](https://preview.nws.broker/api/endpoints/F26673) | RSS | en-US | 2026-11-20 | [Feed](<https://syriadirect.org/feed/>) |
+| Tagesschau | [F25224](https://preview.nws.broker/api/endpoints/F25224) | RSS | de | 2026-11-19 | [Feed](<https://www.tagesschau.de/index~rss2.xml>) |
+| tagesschau.de - Die Nachrichten der ARD | [F0527](https://preview.nws.broker/api/endpoints/F0527) | RSS | de | 2026-11-02 | — |
+| Tahiti Infos | [F26253](https://preview.nws.broker/api/endpoints/F26253) | Atom | und | 2026-11-19 | [Feed](<https://www.tahiti-infos.com/xml/atom.xml>) |
+| Tahiti Infos | [F26254](https://preview.nws.broker/api/endpoints/F26254) | RSS | fr | 2026-11-19 | [Feed](<https://www.tahiti-infos.com/xml/syndication.rss>) |
+| Talamua Online | [F26677](https://preview.nws.broker/api/endpoints/F26677) | RSS | en-NZ | 2026-11-20 | [Feed](<https://talamua.com/?feed=rss2>) |
+| Tangle | [F27122](https://preview.nws.broker/api/endpoints/F27122) | RSS | und | 2026-11-21 | [Feed](<https://www.readtangle.com/rss/>) |
+| Tasmanian Times | [F7576](https://preview.nws.broker/api/endpoints/F7576) | RSS | en-AU | 2026-11-19 | [Feed](<https://tasmaniantimes.com/feed/>) |
+| TASS | [F0210](https://preview.nws.broker/api/endpoints/F0210) | RSS | en | 2026-11-02 | — |
+| TechCentral | [F2750](https://preview.nws.broker/api/endpoints/F2750) | RSS | en-US | 2026-11-02 | [Feed](<https://techcentral.co.za/feed>) |
+| Telegrafi | [F25375](https://preview.nws.broker/api/endpoints/F25375) | RSS | en-US | 2026-11-19 | [Feed](<https://telegrafi.com/feeds/feed.rss>) |
+| Television Niue | [F25871](https://preview.nws.broker/api/endpoints/F25871) | RSS | en-US | 2026-11-19 | [Feed](<https://tvniue.com/feed/>) |
+| Texty.org.ua | [F25363](https://preview.nws.broker/api/endpoints/F25363) | RSS | uk | 2026-11-19 | [Feed](<https://texty.org.ua/articles/feed.xml>) |
+| Texty.org.ua | [F25364](https://preview.nws.broker/api/endpoints/F25364) | RSS | uk | 2026-11-19 | [Feed](<https://texty.org.ua/fragments/feed.xml>) |
+| The Age - Latest News | [F5577](https://preview.nws.broker/api/endpoints/F5577) | RSS | en-AU | 2026-11-02 | [Feed](<https://www.theage.com.au/rss/feed.xml>) |
+| The Anguillian | [F25892](https://preview.nws.broker/api/endpoints/F25892) | RSS | en-US | 2026-11-19 | [Feed](<https://theanguillian.com/feed/>) |
+| The Bali Sun | [F7311](https://preview.nws.broker/api/endpoints/F7311) | RSS | en-US | 2026-11-18 | [Feed](<https://thebalisun.com/feed/>) |
+| The Bali Times | [F7312](https://preview.nws.broker/api/endpoints/F7312) | RSS | en-US | 2026-11-18 | [Feed](<https://thebalitimes.com/feed/>) |
+| The Berkeley Scanner | [F27123](https://preview.nws.broker/api/endpoints/F27123) | RSS | und | 2026-11-21 | [Feed](<https://www.berkeleyscanner.com/rss/>) |
+| The Botswana Gazette | [F25801](https://preview.nws.broker/api/endpoints/F25801) | RSS | en | 2026-11-19 | [Feed](<https://www.thegazette.news/feed/>) |
+| The Canberra Times - Local News | [F3335](https://preview.nws.broker/api/endpoints/F3335) | RSS | en-AU | 2026-11-02 | [Feed](<https://www.canberratimes.com.au/rss.xml>) |
+| The Citizen | [F1136](https://preview.nws.broker/api/endpoints/F1136) | RSS | en-ZA | 2026-11-01 | [Feed](<https://citizen.co.za/feed/>) |
+| The Conversation republishing guidance | [F0212](https://preview.nws.broker/api/endpoints/F0212) | Atom | en-US | 2026-11-01 | — |
+| The Conversation republishing guidance | [F0213](https://preview.nws.broker/api/endpoints/F0213) | Atom | en-US | 2026-11-02 | — |
+| The Conversation republishing guidance | [F0214](https://preview.nws.broker/api/endpoints/F0214) | Atom | en-US | 2026-11-02 | — |
+| The Conversation republishing guidance | [F0215](https://preview.nws.broker/api/endpoints/F0215) | Atom | en-US | 2026-11-02 | — |
+| The Conversation republishing guidance | [F0216](https://preview.nws.broker/api/endpoints/F0216) | Atom | en-US | 2026-11-02 | — |
+| The Conversation republishing guidance | [F0217](https://preview.nws.broker/api/endpoints/F0217) | Atom | en-US | 2026-11-02 | — |
+| The Conversation republishing guidance | [F0218](https://preview.nws.broker/api/endpoints/F0218) | Atom | en-US | 2026-11-02 | — |
+| The Conversation republishing guidance | [F0219](https://preview.nws.broker/api/endpoints/F0219) | Atom | en-US | 2026-11-02 | — |
+| The Conversation republishing guidance | [F0220](https://preview.nws.broker/api/endpoints/F0220) | Atom | en-US | 2026-11-02 | — |
+| The Conversation republishing guidance | [F0221](https://preview.nws.broker/api/endpoints/F0221) | Atom | en-US | 2026-11-02 | — |
+| The Conversation republishing guidance | [F0222](https://preview.nws.broker/api/endpoints/F0222) | Atom | en-US | 2026-11-02 | — |
+| The Conversation republishing guidance | [F0223](https://preview.nws.broker/api/endpoints/F0223) | Atom | en-US | 2026-11-02 | — |
 | The Conversation republishing guidance | [F0224](https://preview.nws.broker/api/endpoints/F0224) | Atom | en-US | 2026-11-02 | — |
 | The Conversation republishing guidance | [F0225](https://preview.nws.broker/api/endpoints/F0225) | Atom | en-US | 2026-11-02 | — |
 | The Conversation republishing guidance | [F0226](https://preview.nws.broker/api/endpoints/F0226) | Atom | en-US | 2026-11-02 | — |
@@ -115,42 +154,3 @@
 | The Conversation republishing guidance | [F2801](https://preview.nws.broker/api/endpoints/F2801) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/ca/education/articles.atom>) |
 | The Conversation republishing guidance | [F2802](https://preview.nws.broker/api/endpoints/F2802) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/ca/environment/articles.atom>) |
 | The Conversation republishing guidance | [F2803](https://preview.nws.broker/api/endpoints/F2803) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/ca/health/articles.atom>) |
-| The Conversation republishing guidance | [F2804](https://preview.nws.broker/api/endpoints/F2804) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/ca/politics/articles.atom>) |
-| The Conversation republishing guidance | [F2805](https://preview.nws.broker/api/endpoints/F2805) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/ca/technology/articles.atom>) |
-| The Conversation republishing guidance | [F2806](https://preview.nws.broker/api/endpoints/F2806) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/catalan/art-humanitats/articles.atom>) |
-| The Conversation republishing guidance | [F2807](https://preview.nws.broker/api/endpoints/F2807) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/catalan/articles.atom>) |
-| The Conversation republishing guidance | [F2808](https://preview.nws.broker/api/endpoints/F2808) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/catalan/benestar-digital-i-menors/articles.atom>) |
-| The Conversation republishing guidance | [F2809](https://preview.nws.broker/api/endpoints/F2809) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/catalan/ciencia-tecnologia/articles.atom>) |
-| The Conversation republishing guidance | [F2810](https://preview.nws.broker/api/endpoints/F2810) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/catalan/economia/articles.atom>) |
-| The Conversation republishing guidance | [F2811](https://preview.nws.broker/api/endpoints/F2811) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/catalan/educacio/articles.atom>) |
-| The Conversation republishing guidance | [F2812](https://preview.nws.broker/api/endpoints/F2812) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/catalan/home-page.atom>) |
-| The Conversation republishing guidance | [F2813](https://preview.nws.broker/api/endpoints/F2813) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/catalan/medi-ambient/articles.atom>) |
-| The Conversation republishing guidance | [F2814](https://preview.nws.broker/api/endpoints/F2814) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/catalan/politica-societat/articles.atom>) |
-| The Conversation republishing guidance | [F2815](https://preview.nws.broker/api/endpoints/F2815) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/catalan/salut/articles.atom>) |
-| The Conversation republishing guidance | [F2816](https://preview.nws.broker/api/endpoints/F2816) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/columns/blog-26.atom>) |
-| The Conversation republishing guidance | [F2817](https://preview.nws.broker/api/endpoints/F2817) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/columns/blog-561.atom>) |
-| The Conversation republishing guidance | [F2818](https://preview.nws.broker/api/endpoints/F2818) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/columns/blog-567.atom>) |
-| The Conversation republishing guidance | [F2819](https://preview.nws.broker/api/endpoints/F2819) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/columns/uk-blog-486.atom>) |
-| The Conversation republishing guidance | [F2820](https://preview.nws.broker/api/endpoints/F2820) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/columns/view-from-the-hill-34.atom>) |
-| The Conversation republishing guidance | [F2821](https://preview.nws.broker/api/endpoints/F2821) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/es/arte-humanidades/articles.atom>) |
-| The Conversation republishing guidance | [F2822](https://preview.nws.broker/api/endpoints/F2822) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/es/articles.atom>) |
-| The Conversation republishing guidance | [F2823](https://preview.nws.broker/api/endpoints/F2823) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/es/bienestar-digital-y-menores/articles.atom>) |
-| The Conversation republishing guidance | [F2824](https://preview.nws.broker/api/endpoints/F2824) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/es/ciencia/articles.atom>) |
-| The Conversation republishing guidance | [F2825](https://preview.nws.broker/api/endpoints/F2825) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/es/covid-19/articles.atom>) |
-| The Conversation republishing guidance | [F2827](https://preview.nws.broker/api/endpoints/F2827) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/es/economia/articles.atom>) |
-| The Conversation republishing guidance | [F2828](https://preview.nws.broker/api/endpoints/F2828) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/es/educacion/articles.atom>) |
-| The Conversation republishing guidance | [F2829](https://preview.nws.broker/api/endpoints/F2829) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/es/eventos/articles.atom>) |
-| The Conversation republishing guidance | [F2830](https://preview.nws.broker/api/endpoints/F2830) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/es/junior/articles.atom>) |
-| The Conversation republishing guidance | [F2831](https://preview.nws.broker/api/endpoints/F2831) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/es/medicina/articles.atom>) |
-| The Conversation republishing guidance | [F2832](https://preview.nws.broker/api/endpoints/F2832) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/es/medioambiente/articles.atom>) |
-| The Conversation republishing guidance | [F2833](https://preview.nws.broker/api/endpoints/F2833) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/es/sociedad/articles.atom>) |
-| The Conversation republishing guidance | [F2834](https://preview.nws.broker/api/endpoints/F2834) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/europe/home-page.atom>) |
-| The Conversation republishing guidance | [F2835](https://preview.nws.broker/api/endpoints/F2835) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/fr/articles.atom>) |
-| The Conversation republishing guidance | [F2836](https://preview.nws.broker/api/endpoints/F2836) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/fr/arts/articles.atom>) |
-| The Conversation republishing guidance | [F2837](https://preview.nws.broker/api/endpoints/F2837) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/fr/covid-19/articles.atom>) |
-| The Conversation republishing guidance | [F2838](https://preview.nws.broker/api/endpoints/F2838) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/fr/economie/articles.atom>) |
-| The Conversation republishing guidance | [F2839](https://preview.nws.broker/api/endpoints/F2839) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/fr/education/articles.atom>) |
-| The Conversation republishing guidance | [F2840](https://preview.nws.broker/api/endpoints/F2840) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/fr/environnement/articles.atom>) |
-| The Conversation republishing guidance | [F2841](https://preview.nws.broker/api/endpoints/F2841) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/fr/histoire/articles.atom>) |
-| The Conversation republishing guidance | [F2842](https://preview.nws.broker/api/endpoints/F2842) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/fr/international/articles.atom>) |
-| The Conversation republishing guidance | [F2843](https://preview.nws.broker/api/endpoints/F2843) | Atom | en-US | 2026-11-02 | [Feed](<https://theconversation.com/fr/mondes-francophones/articles.atom>) |

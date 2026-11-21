@@ -4,61 +4,6 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
-| raha.geenius.ee | [F11528](https://preview.nws.broker/api/endpoints/F11528) | RSS | und | — | — |
-| railwaynews.net | [F20163](https://preview.nws.broker/api/endpoints/F20163) | RSS | und | — | — |
-| rainews.it | [F23344](https://preview.nws.broker/api/endpoints/F23344) | RSS | und | — | — |
-| rajiv.com | [F20165](https://preview.nws.broker/api/endpoints/F20165) | RSS | und | — | — |
-| randyapuzzo.com | [F20171](https://preview.nws.broker/api/endpoints/F20171) | RSS | und | — | — |
-| raport.ba | [F11534](https://preview.nws.broker/api/endpoints/F11534) | RSS | und | — | — |
-| rappler.com | [F11535](https://preview.nws.broker/api/endpoints/F11535) | RSS | und | — | — |
-| rapunchline.fr | [F11536](https://preview.nws.broker/api/endpoints/F11536) | RSS | und | — | — |
-| ratfactor.com | [F11537](https://preview.nws.broker/api/endpoints/F11537) | RSS | und | — | — |
-| raulnegron.me | [F20173](https://preview.nws.broker/api/endpoints/F20173) | RSS | und | — | — |
-| rave.cz | [F20174](https://preview.nws.broker/api/endpoints/F20174) | RSS | und | — | — |
-| raw.githubusercontent.com | [F11539](https://preview.nws.broker/api/endpoints/F11539) | RSS | und | — | — |
-| raw.githubusercontent.com | [F11540](https://preview.nws.broker/api/endpoints/F11540) | RSS | und | — | — |
-| rawicz24.pl | [F23349](https://preview.nws.broker/api/endpoints/F23349) | RSS | und | — | — |
-| rbucks.com | [F20175](https://preview.nws.broker/api/endpoints/F20175) | RSS | und | — | — |
-| rccnoticias.com.do | [F11543](https://preview.nws.broker/api/endpoints/F11543) | RSS | und | — | — |
-| readingrecluse.bearblog.dev | [F20176](https://preview.nws.broker/api/endpoints/F20176) | RSS | und | — | — |
-| readprimenews.com | [F20177](https://preview.nws.broker/api/endpoints/F20177) | RSS | und | — | — |
-| realityjournal.org | [F20179](https://preview.nws.broker/api/endpoints/F20179) | RSS | und | — | — |
-| realphysics.blogspot.com | [F20181](https://preview.nws.broker/api/endpoints/F20181) | RSS | und | — | — |
-| realrwanda.rw | [F11547](https://preview.nws.broker/api/endpoints/F11547) | RSS | und | — | — |
-| reason.com | [F11548](https://preview.nws.broker/api/endpoints/F11548) | RSS | und | — | — |
-| reason.com | [F11549](https://preview.nws.broker/api/endpoints/F11549) | RSS | und | — | — |
-| reason.com | [F11550](https://preview.nws.broker/api/endpoints/F11550) | RSS | und | — | — |
-| reason.com | [F11551](https://preview.nws.broker/api/endpoints/F11551) | RSS | und | — | — |
-| reason.com | [F11552](https://preview.nws.broker/api/endpoints/F11552) | RSS | und | — | — |
-| reason.com | [F11553](https://preview.nws.broker/api/endpoints/F11553) | RSS | und | — | — |
-| reason.com | [F11555](https://preview.nws.broker/api/endpoints/F11555) | RSS | und | — | — |
-| reasonstobecheerful.world | [F11556](https://preview.nws.broker/api/endpoints/F11556) | RSS | und | — | — |
-| rebero.rw | [F11557](https://preview.nws.broker/api/endpoints/F11557) | RSS | und | — | — |
-| recorder.ro | [F11558](https://preview.nws.broker/api/endpoints/F11558) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F2551](https://preview.nws.broker/api/endpoints/F2551) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F2552](https://preview.nws.broker/api/endpoints/F2552) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F2553](https://preview.nws.broker/api/endpoints/F2553) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F2554](https://preview.nws.broker/api/endpoints/F2554) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F2555](https://preview.nws.broker/api/endpoints/F2555) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F2556](https://preview.nws.broker/api/endpoints/F2556) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5173](https://preview.nws.broker/api/endpoints/F5173) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5174](https://preview.nws.broker/api/endpoints/F5174) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5175](https://preview.nws.broker/api/endpoints/F5175) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5176](https://preview.nws.broker/api/endpoints/F5176) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5177](https://preview.nws.broker/api/endpoints/F5177) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5178](https://preview.nws.broker/api/endpoints/F5178) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5179](https://preview.nws.broker/api/endpoints/F5179) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5180](https://preview.nws.broker/api/endpoints/F5180) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5181](https://preview.nws.broker/api/endpoints/F5181) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5182](https://preview.nws.broker/api/endpoints/F5182) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5183](https://preview.nws.broker/api/endpoints/F5183) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5184](https://preview.nws.broker/api/endpoints/F5184) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5185](https://preview.nws.broker/api/endpoints/F5185) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5186](https://preview.nws.broker/api/endpoints/F5186) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5187](https://preview.nws.broker/api/endpoints/F5187) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5188](https://preview.nws.broker/api/endpoints/F5188) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5189](https://preview.nws.broker/api/endpoints/F5189) | RSS | und | — | — |
-| Reddit RSS and public API transition / commercial access guidance | [F5190](https://preview.nws.broker/api/endpoints/F5190) | RSS | und | — | — |
 | Reddit RSS and public API transition / commercial access guidance | [F5191](https://preview.nws.broker/api/endpoints/F5191) | RSS | und | — | — |
 | Reddit RSS and public API transition / commercial access guidance | [F5192](https://preview.nws.broker/api/endpoints/F5192) | RSS | und | — | — |
 | Reddit RSS and public API transition / commercial access guidance | [F5193](https://preview.nws.broker/api/endpoints/F5193) | RSS | und | — | — |
@@ -154,3 +99,58 @@
 | rk.md | [F23381](https://preview.nws.broker/api/endpoints/F23381) | Atom | und | — | — |
 | rlk-reflections.com | [F20225](https://preview.nws.broker/api/endpoints/F20225) | RSS | und | — | — |
 | rm.id | [F11610](https://preview.nws.broker/api/endpoints/F11610) | RSS | und | — | — |
+| rm.id | [F11611](https://preview.nws.broker/api/endpoints/F11611) | RSS | und | — | — |
+| rm.id | [F11612](https://preview.nws.broker/api/endpoints/F11612) | RSS | und | — | — |
+| rm.id | [F11613](https://preview.nws.broker/api/endpoints/F11613) | RSS | und | — | — |
+| rmcsport.bfmtv.com | [F11616](https://preview.nws.broker/api/endpoints/F11616) | RSS | und | — | — |
+| roanoke.com | [F11618](https://preview.nws.broker/api/endpoints/F11618) | RSS | und | — | — |
+| robeco.substack.com | [F20228](https://preview.nws.broker/api/endpoints/F20228) | RSS | und | — | — |
+| robertbreen.com | [F20230](https://preview.nws.broker/api/endpoints/F20230) | RSS | und | — | — |
+| robertskidelsky.com | [F20233](https://preview.nws.broker/api/endpoints/F20233) | RSS | und | — | — |
+| robhinchcliffe.co.uk | [F20234](https://preview.nws.broker/api/endpoints/F20234) | RSS | und | — | — |
+| robinhoodradioondemand.com | [F23389](https://preview.nws.broker/api/endpoints/F23389) | RSS | und | — | — |
+| robinhoodradioondemand.com | [F23390](https://preview.nws.broker/api/endpoints/F23390) | RSS | und | — | — |
+| robinmonks.com | [F20236](https://preview.nws.broker/api/endpoints/F20236) | RSS | und | — | — |
+| robintegg.com | [F20237](https://preview.nws.broker/api/endpoints/F20237) | RSS | und | — | — |
+| robjcameron.com | [F20238](https://preview.nws.broker/api/endpoints/F20238) | RSS | und | — | — |
+| robpostonblog.wordpress.com | [F20241](https://preview.nws.broker/api/endpoints/F20241) | RSS | und | — | — |
+| robservatory.com | [F20242](https://preview.nws.broker/api/endpoints/F20242) | Atom | und | — | — |
+| rochansinha.com | [F23394](https://preview.nws.broker/api/endpoints/F23394) | RSS | und | — | — |
+| rocknfool.net | [F11619](https://preview.nws.broker/api/endpoints/F11619) | RSS | und | — | — |
+| rockylinux.org | [F11621](https://preview.nws.broker/api/endpoints/F11621) | RSS | und | — | — |
+| rockynews.com.au | [F20243](https://preview.nws.broker/api/endpoints/F20243) | RSS | und | — | — |
+| rodneybrooks.com | [F20244](https://preview.nws.broker/api/endpoints/F20244) | RSS | und | — | — |
+| rogerwong.me | [F20245](https://preview.nws.broker/api/endpoints/F20245) | RSS | und | — | — |
+| rohan.almeida.in | [F20246](https://preview.nws.broker/api/endpoints/F20246) | RSS | und | — | — |
+| rohanrajiv.blog | [F20247](https://preview.nws.broker/api/endpoints/F20247) | RSS | und | — | — |
+| roheline.postimees.ee | [F11622](https://preview.nws.broker/api/endpoints/F11622) | RSS | und | — | — |
+| rohlik.net | [F20248](https://preview.nws.broker/api/endpoints/F20248) | RSS | und | — | — |
+| romegeorgia.org | [F11626](https://preview.nws.broker/api/endpoints/F11626) | RSS | und | — | — |
+| rootprivileges.net | [F23399](https://preview.nws.broker/api/endpoints/F23399) | RSS | und | — | — |
+| rosecoveredglasses.wordpress.com | [F20251](https://preview.nws.broker/api/endpoints/F20251) | RSS | und | — | — |
+| roselawgroupreporter.com | [F20252](https://preview.nws.broker/api/endpoints/F20252) | RSS | und | — | — |
+| rosipov.com | [F20253](https://preview.nws.broker/api/endpoints/F20253) | RSS | und | — | — |
+| rosng.ru | [F11628](https://preview.nws.broker/api/endpoints/F11628) | RSS | und | — | — |
+| rothbrothers.blogspot.com | [F23403](https://preview.nws.broker/api/endpoints/F23403) | RSS | und | — | — |
+| rotroz.substack.com | [F20254](https://preview.nws.broker/api/endpoints/F20254) | RSS | und | — | — |
+| rottenindenmark.org | [F20255](https://preview.nws.broker/api/endpoints/F20255) | RSS | und | — | — |
+| roughdraftatlanta.com | [F11629](https://preview.nws.broker/api/endpoints/F11629) | RSS | und | — | — |
+| roughnbootz.com | [F23404](https://preview.nws.broker/api/endpoints/F23404) | RSS | und | — | — |
+| roundup-inc.co.jp | [F20257](https://preview.nws.broker/api/endpoints/F20257) | RSS | und | — | — |
+| rowlandekemezie.com | [F23406](https://preview.nws.broker/api/endpoints/F23406) | RSS | und | — | — |
+| royalbluemersey.sbnation.com | [F11632](https://preview.nws.broker/api/endpoints/F11632) | RSS | und | — | — |
+| royalcentral.co.uk | [F20258](https://preview.nws.broker/api/endpoints/F20258) | RSS | und | — | — |
+| royalcoffee.com | [F11633](https://preview.nws.broker/api/endpoints/F11633) | RSS | und | — | — |
+| roysreport.com | [F23409](https://preview.nws.broker/api/endpoints/F23409) | RSS | und | — | — |
+| rozrywka.dorzeczy.pl | [F11634](https://preview.nws.broker/api/endpoints/F11634) | RSS | und | — | — |
+| rozrywka.o2.pl | [F11635](https://preview.nws.broker/api/endpoints/F11635) | RSS | und | — | — |
+| rp-online.de | [F23411](https://preview.nws.broker/api/endpoints/F23411) | RSS | und | — | — |
+| rp-online.de | [F23412](https://preview.nws.broker/api/endpoints/F23412) | RSS | und | — | — |
+| rp-online.de | [F23413](https://preview.nws.broker/api/endpoints/F23413) | RSS | und | — | — |
+| rp-online.de | [F23414](https://preview.nws.broker/api/endpoints/F23414) | RSS | und | — | — |
+| rp-online.de | [F23415](https://preview.nws.broker/api/endpoints/F23415) | RSS | und | — | — |
+| rp-online.de | [F23416](https://preview.nws.broker/api/endpoints/F23416) | RSS | und | — | — |
+| rp-online.de | [F23418](https://preview.nws.broker/api/endpoints/F23418) | RSS | und | — | — |
+| rp-online.de | [F23419](https://preview.nws.broker/api/endpoints/F23419) | RSS | und | — | — |
+| rp-online.de | [F23420](https://preview.nws.broker/api/endpoints/F23420) | RSS | und | — | — |
+| rp-online.de | [F23421](https://preview.nws.broker/api/endpoints/F23421) | RSS | und | — | — |

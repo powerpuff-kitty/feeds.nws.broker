@@ -4,23 +4,6 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
-| deepstateua.com | [F8511](https://preview.nws.broker/api/endpoints/F8511) | RSS | und | — | — |
-| deeptechgermany.podcaster.de | [F19053](https://preview.nws.broker/api/endpoints/F19053) | RSS | und | — | — |
-| defence-blog.com | [F8514](https://preview.nws.broker/api/endpoints/F8514) | RSS | und | — | — |
-| defence-industry.eu | [F8515](https://preview.nws.broker/api/endpoints/F8515) | RSS | und | — | — |
-| defence24.pl | [F8516](https://preview.nws.broker/api/endpoints/F8516) | RSS | und | — | — |
-| defencereviewasia.com | [F8517](https://preview.nws.broker/api/endpoints/F8517) | RSS | und | — | — |
-| defendernetwork.com | [F8518](https://preview.nws.broker/api/endpoints/F8518) | RSS | und | — | — |
-| defense-update.com | [F8520](https://preview.nws.broker/api/endpoints/F8520) | RSS | und | — | — |
-| defenseindepth.libsyn.com | [F19054](https://preview.nws.broker/api/endpoints/F19054) | RSS | und | — | — |
-| defensescoop.com | [F8521](https://preview.nws.broker/api/endpoints/F8521) | RSS | und | — | — |
-| defmin.fi | [F8522](https://preview.nws.broker/api/endpoints/F8522) | RSS | und | — | — |
-| deister-echo.de | [F8523](https://preview.nws.broker/api/endpoints/F8523) | RSS | und | — | — |
-| delfino.cr | [F8524](https://preview.nws.broker/api/endpoints/F8524) | RSS | und | — | — |
-| deliciousspizzarecipes.blogspot.in | [F8525](https://preview.nws.broker/api/endpoints/F8525) | RSS | und | — | — |
-| delta.chat | [F8526](https://preview.nws.broker/api/endpoints/F8526) | RSS | und | — | — |
-| denik.to | [F8527](https://preview.nws.broker/api/endpoints/F8527) | RSS | und | — | — |
-| dennikn.sk | [F8532](https://preview.nws.broker/api/endpoints/F8532) | RSS | und | — | — |
 | dennikn.sk | [F8533](https://preview.nws.broker/api/endpoints/F8533) | RSS | und | — | — |
 | dennikn.sk | [F8534](https://preview.nws.broker/api/endpoints/F8534) | RSS | und | — | — |
 | dennikn.sk | [F8535](https://preview.nws.broker/api/endpoints/F8535) | RSS | und | — | — |
@@ -154,3 +137,20 @@
 | eldala.kz | [F8686](https://preview.nws.broker/api/endpoints/F8686) | RSS | und | — | — |
 | eldia.com.do | [F8689](https://preview.nws.broker/api/endpoints/F8689) | RSS | und | — | — |
 | electrek.co | [F8691](https://preview.nws.broker/api/endpoints/F8691) | RSS | und | — | — |
+| electrek.co | [F8692](https://preview.nws.broker/api/endpoints/F8692) | RSS | und | — | — |
+| electriccarsreport.com | [F8693](https://preview.nws.broker/api/endpoints/F8693) | RSS | und | — | — |
+| eleftherostypos.gr | [F8695](https://preview.nws.broker/api/endpoints/F8695) | RSS | und | — | — |
+| element.io | [F8696](https://preview.nws.broker/api/endpoints/F8696) | RSS | und | — | — |
+| elestimulo.com | [F8697](https://preview.nws.broker/api/endpoints/F8697) | RSS | und | — | — |
+| elheddaftv.com | [F8699](https://preview.nws.broker/api/endpoints/F8699) | RSS | und | — | — |
+| elkement.art | [F22250](https://preview.nws.broker/api/endpoints/F22250) | RSS | und | — | — |
+| elkodaily.com | [F8701](https://preview.nws.broker/api/endpoints/F8701) | RSS | und | — | — |
+| ellibero.cl | [F8702](https://preview.nws.broker/api/endpoints/F8702) | RSS | und | — | — |
+| elmundo.cr | [F8703](https://preview.nws.broker/api/endpoints/F8703) | RSS | und | — | — |
+| elnacional.com.do | [F8704](https://preview.nws.broker/api/endpoints/F8704) | RSS | und | — | — |
+| elnacional.com.do | [F8705](https://preview.nws.broker/api/endpoints/F8705) | RSS | und | — | — |
+| elnuevodiario.com.do | [F8707](https://preview.nws.broker/api/endpoints/F8707) | RSS | und | — | — |
+| elperiodiquito.com | [F8709](https://preview.nws.broker/api/endpoints/F8709) | RSS | und | — | — |
+| elshinta.com | [F8712](https://preview.nws.broker/api/endpoints/F8712) | RSS | und | — | — |
+| elsigloweb.com | [F8713](https://preview.nws.broker/api/endpoints/F8713) | RSS | und | — | — |
+| elsigloweb.com | [F8714](https://preview.nws.broker/api/endpoints/F8714) | RSS | und | — | — |

@@ -133,6 +133,7 @@
     <outline type="rss" text="ANTARA Mataram / NTB" title="ANTARA Mataram / NTB" xmlUrl="https://mataram.antaranews.com/rss/sepakbola.xml" />
     <outline type="rss" text="APA" title="APA" xmlUrl="https://apa.az/rss" />
     <outline type="rss" text="APFMercosur" title="APFMercosur" xmlUrl="https://www.apfmercosur.com.ar/rss/noticias/" />
+    <outline type="rss" text="Associated Press on Bluesky" title="Associated Press on Bluesky" xmlUrl="https://bsky.app/profile/did:plc:a67zdrt4nl2tv2qojpngogbq/rss" />
     <outline type="rss" text="Avesta" title="Avesta" xmlUrl="https://avesta.tj/feed/" />
     <outline type="rss" text="AZERTAC" title="AZERTAC" xmlUrl="https://azertag.az/rss" />
     <outline type="rss" text="Baghdad Today" title="Baghdad Today" xmlUrl="https://baghdadtoday.news/rss.xml" />

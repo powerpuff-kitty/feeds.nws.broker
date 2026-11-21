@@ -4,9 +4,6 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
-| anchor.fm | [F22027](https://preview.nws.broker/api/endpoints/F22027) | RSS | und | — | — |
-| anchor.fm | [F22028](https://preview.nws.broker/api/endpoints/F22028) | RSS | und | — | — |
-| anchor.fm | [F22029](https://preview.nws.broker/api/endpoints/F22029) | RSS | und | — | — |
 | anchor.fm | [F22030](https://preview.nws.broker/api/endpoints/F22030) | RSS | und | — | — |
 | anchor.fm | [F22031](https://preview.nws.broker/api/endpoints/F22031) | RSS | und | — | — |
 | anchor.fm | [F22032](https://preview.nws.broker/api/endpoints/F22032) | RSS | und | — | — |
@@ -84,8 +81,6 @@
 | api.sr.se | [F7790](https://preview.nws.broker/api/endpoints/F7790) | RSS | und | — | — |
 | api.sr.se | [F7791](https://preview.nws.broker/api/endpoints/F7791) | RSS | und | — | — |
 | api.sr.se | [F7792](https://preview.nws.broker/api/endpoints/F7792) | RSS | und | — | — |
-| api.substack.com | [F18828](https://preview.nws.broker/api/endpoints/F18828) | RSS | und | — | — |
-| api.substack.com | [F18829](https://preview.nws.broker/api/endpoints/F18829) | RSS | und | — | — |
 | api.substack.com | [F18831](https://preview.nws.broker/api/endpoints/F18831) | RSS | und | — | — |
 | api.substack.com | [F18832](https://preview.nws.broker/api/endpoints/F18832) | RSS | und | — | — |
 | api.substack.com | [F18833](https://preview.nws.broker/api/endpoints/F18833) | RSS | und | — | — |
@@ -117,14 +112,12 @@
 | arcjunkies.libsyn.com | [F22107](https://preview.nws.broker/api/endpoints/F22107) | RSS | und | — | — |
 | arize.com | [F7806](https://preview.nws.broker/api/endpoints/F7806) | RSS | und | — | — |
 | armando.info | [F7808](https://preview.nws.broker/api/endpoints/F7808) | RSS | und | — | — |
-| arpanpunyani.substack.com | [F18841](https://preview.nws.broker/api/endpoints/F18841) | RSS | und | — | — |
 | arstechnica.com | [F7811](https://preview.nws.broker/api/endpoints/F7811) | RSS | und | — | — |
 | arstechnica.com | [F7813](https://preview.nws.broker/api/endpoints/F7813) | RSS | und | — | — |
 | arstechnica.com | [F7814](https://preview.nws.broker/api/endpoints/F7814) | RSS | und | — | — |
 | arstechnica.com | [F7815](https://preview.nws.broker/api/endpoints/F7815) | RSS | und | — | — |
 | arstechnica.com | [F7816](https://preview.nws.broker/api/endpoints/F7816) | RSS | und | — | — |
 | artedradio.libsyn.com | [F22111](https://preview.nws.broker/api/endpoints/F22111) | RSS | und | — | — |
-| artistlike.substack.com | [F18842](https://preview.nws.broker/api/endpoints/F18842) | RSS | und | — | — |
 | arushatimes.co.tz | [F7819](https://preview.nws.broker/api/endpoints/F7819) | RSS | und | — | — |
 | arxiv.org | [F7822](https://preview.nws.broker/api/endpoints/F7822) | RSS | und | — | — |
 | ases.org | [F7824](https://preview.nws.broker/api/endpoints/F7824) | RSS | und | — | — |
@@ -154,3 +147,10 @@
 | assets.wor.jp | [F7855](https://preview.nws.broker/api/endpoints/F7855) | RSS | und | — | — |
 | assets.wor.jp | [F7856](https://preview.nws.broker/api/endpoints/F7856) | RSS | und | — | — |
 | assets.wor.jp | [F7857](https://preview.nws.broker/api/endpoints/F7857) | RSS | und | — | — |
+| assets.wor.jp | [F7858](https://preview.nws.broker/api/endpoints/F7858) | RSS | und | — | — |
+| assets.wor.jp | [F7859](https://preview.nws.broker/api/endpoints/F7859) | RSS | und | — | — |
+| assets.wor.jp | [F7860](https://preview.nws.broker/api/endpoints/F7860) | RSS | und | — | — |
+| assettocorsa.gg | [F7861](https://preview.nws.broker/api/endpoints/F7861) | RSS | und | — | — |
+| assettocorsa.gg | [F7862](https://preview.nws.broker/api/endpoints/F7862) | RSS | und | — | — |
+| associatestimes.com | [F7863](https://preview.nws.broker/api/endpoints/F7863) | RSS | und | — | — |
+| astrobites.org | [F7865](https://preview.nws.broker/api/endpoints/F7865) | RSS | und | — | — |

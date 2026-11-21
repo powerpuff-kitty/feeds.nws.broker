@@ -4,9 +4,6 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
-| anchor.fm | [F18801](https://preview.nws.broker/api/endpoints/F18801) | RSS | und | — | — |
-| anchor.fm | [F18802](https://preview.nws.broker/api/endpoints/F18802) | RSS | und | — | — |
-| anchor.fm | [F18803](https://preview.nws.broker/api/endpoints/F18803) | RSS | und | — | — |
 | anchor.fm | [F18804](https://preview.nws.broker/api/endpoints/F18804) | RSS | und | — | — |
 | anchor.fm | [F18805](https://preview.nws.broker/api/endpoints/F18805) | RSS | und | — | — |
 | anchor.fm | [F18806](https://preview.nws.broker/api/endpoints/F18806) | RSS | und | — | — |
@@ -154,3 +151,6 @@
 | anchor.fm | [F22024](https://preview.nws.broker/api/endpoints/F22024) | RSS | und | — | — |
 | anchor.fm | [F22025](https://preview.nws.broker/api/endpoints/F22025) | RSS | und | — | — |
 | anchor.fm | [F22026](https://preview.nws.broker/api/endpoints/F22026) | RSS | und | — | — |
+| anchor.fm | [F22027](https://preview.nws.broker/api/endpoints/F22027) | RSS | und | — | — |
+| anchor.fm | [F22028](https://preview.nws.broker/api/endpoints/F22028) | RSS | und | — | — |
+| anchor.fm | [F22029](https://preview.nws.broker/api/endpoints/F22029) | RSS | und | — | — |

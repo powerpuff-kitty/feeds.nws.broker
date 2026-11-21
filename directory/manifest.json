@@ -1,33 +1,33 @@
 {
-  "catalogue_import": "7b8da4bd9c2388dd59798b533a509de05b08d78c764e32a9aba5e875498667a3",
-  "endpoint_count": 26916,
-  "opml_count": 9394,
+  "catalogue_import": "21523f8eeb6460e39c99e678d306b36c4129c1bce442f7621d962d5ca9798ba8",
+  "endpoint_count": 27302,
+  "opml_count": 9602,
   "source": "https://preview.nws.broker/api",
   "status_counts": {
-    "advertised": 12715,
-    "needs_review": 3750,
+    "advertised": 12574,
+    "needs_review": 3857,
     "unavailable": 687,
-    "verified": 9764
+    "verified": 10184
   },
   "topics": {
     "business": {
-      "endpoint_count": 120,
+      "endpoint_count": 201,
       "opml_count": 60,
       "status_counts": {
         "advertised": 0,
-        "needs_review": 24,
+        "needs_review": 23,
         "unavailable": 1,
-        "verified": 95
+        "verified": 177
       }
     },
     "business.commerce": {
-      "endpoint_count": 11,
+      "endpoint_count": 12,
       "opml_count": 9,
       "status_counts": {
         "advertised": 0,
         "needs_review": 2,
         "unavailable": 0,
-        "verified": 9
+        "verified": 10
       }
     },
     "business.companies": {
@@ -41,13 +41,13 @@
       }
     },
     "business.economics": {
-      "endpoint_count": 403,
-      "opml_count": 347,
+      "endpoint_count": 404,
+      "opml_count": 348,
       "status_counts": {
         "advertised": 0,
         "needs_review": 44,
         "unavailable": 7,
-        "verified": 352
+        "verified": 353
       }
     },
     "business.jobs": {
@@ -101,33 +101,33 @@
       }
     },
     "environment.weather": {
-      "endpoint_count": 77,
-      "opml_count": 51,
+      "endpoint_count": 78,
+      "opml_count": 52,
       "status_counts": {
         "advertised": 0,
         "needs_review": 13,
         "unavailable": 13,
-        "verified": 51
+        "verified": 52
       }
     },
     "general": {
-      "endpoint_count": 19797,
-      "opml_count": 4754,
+      "endpoint_count": 19800,
+      "opml_count": 4788,
       "status_counts": {
-        "advertised": 12713,
-        "needs_review": 1845,
+        "advertised": 12572,
+        "needs_review": 1955,
         "unavailable": 401,
-        "verified": 4838
+        "verified": 4872
       }
     },
     "government": {
-      "endpoint_count": 899,
-      "opml_count": 289,
+      "endpoint_count": 908,
+      "opml_count": 298,
       "status_counts": {
         "advertised": 0,
         "needs_review": 602,
         "unavailable": 5,
-        "verified": 292
+        "verified": 301
       }
     },
     "government.funding": {
@@ -141,13 +141,13 @@
       }
     },
     "government.legislation": {
-      "endpoint_count": 72,
-      "opml_count": 63,
+      "endpoint_count": 74,
+      "opml_count": 65,
       "status_counts": {
         "advertised": 0,
         "needs_review": 4,
         "unavailable": 0,
-        "verified": 68
+        "verified": 70
       }
     },
     "government.open_data": {
@@ -221,23 +221,23 @@
       }
     },
     "news.agencies": {
-      "endpoint_count": 191,
-      "opml_count": 166,
+      "endpoint_count": 192,
+      "opml_count": 167,
       "status_counts": {
         "advertised": 0,
         "needs_review": 11,
         "unavailable": 14,
-        "verified": 166
+        "verified": 167
       }
     },
     "news.general": {
-      "endpoint_count": 2440,
-      "opml_count": 1593,
+      "endpoint_count": 2489,
+      "opml_count": 1642,
       "status_counts": {
         "advertised": 1,
         "needs_review": 571,
         "unavailable": 133,
-        "verified": 1735
+        "verified": 1784
       }
     },
     "news.press_releases": {
@@ -251,13 +251,13 @@
       }
     },
     "science": {
-      "endpoint_count": 26,
-      "opml_count": 24,
+      "endpoint_count": 29,
+      "opml_count": 27,
       "status_counts": {
         "advertised": 0,
         "needs_review": 2,
         "unavailable": 0,
-        "verified": 24
+        "verified": 27
       }
     },
     "science.patents": {
@@ -295,29 +295,29 @@
       "opml_count": 34,
       "status_counts": {
         "advertised": 0,
-        "needs_review": 10,
+        "needs_review": 9,
         "unavailable": 0,
-        "verified": 45
+        "verified": 46
       }
     },
     "society.events": {
-      "endpoint_count": 327,
-      "opml_count": 280,
+      "endpoint_count": 489,
+      "opml_count": 315,
       "status_counts": {
         "advertised": 0,
         "needs_review": 33,
         "unavailable": 0,
-        "verified": 294
+        "verified": 456
       }
     },
     "society.geography": {
-      "endpoint_count": 23,
-      "opml_count": 15,
+      "endpoint_count": 24,
+      "opml_count": 16,
       "status_counts": {
         "advertised": 1,
         "needs_review": 7,
         "unavailable": 0,
-        "verified": 15
+        "verified": 16
       }
     },
     "society.humanitarian": {
@@ -351,23 +351,23 @@
       }
     },
     "technology": {
-      "endpoint_count": 190,
-      "opml_count": 80,
+      "endpoint_count": 260,
+      "opml_count": 150,
       "status_counts": {
         "advertised": 0,
-        "needs_review": 100,
+        "needs_review": 99,
         "unavailable": 0,
-        "verified": 90
+        "verified": 161
       }
     },
     "technology.security": {
-      "endpoint_count": 39,
-      "opml_count": 20,
+      "endpoint_count": 41,
+      "opml_count": 22,
       "status_counts": {
         "advertised": 0,
         "needs_review": 10,
         "unavailable": 1,
-        "verified": 28
+        "verified": 30
       }
     },
     "technology.software": {

@@ -4,6 +4,24 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Giornalistitalia | [F24650](https://preview.nws.broker/api/endpoints/F24650) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.giornalistitalia.it/feed/>) |
+| github.blog | [F1702](https://preview.nws.broker/api/endpoints/F1702) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/ai-and-ml/github-copilot/feed/>) |
+| github.blog | [F1703](https://preview.nws.broker/api/endpoints/F1703) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/author/bk2204/feed/>) |
+| github.blog | [F1704](https://preview.nws.broker/api/endpoints/F1704) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/author/deborahdigges/feed/>) |
+| github.blog | [F1705](https://preview.nws.broker/api/endpoints/F1705) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/author/janmaartena11y-2-2/feed/>) |
+| github.blog | [F1706](https://preview.nws.broker/api/endpoints/F1706) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/author/naguevara/feed/>) |
+| github.blog | [F1707](https://preview.nws.broker/api/endpoints/F1707) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/developer-skills/programming-languages-and-frameworks/feed/>) |
+| github.blog | [F1708](https://preview.nws.broker/api/endpoints/F1708) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/engineering/architecture-optimization/feed/>) |
+| github.blog | [F1709](https://preview.nws.broker/api/endpoints/F1709) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/engineering/engineering-principles/feed/>) |
+| github.blog | [F1710](https://preview.nws.broker/api/endpoints/F1710) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/engineering/feed/>) |
+| github.blog | [F1711](https://preview.nws.broker/api/endpoints/F1711) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/engineering/infrastructure/feed/>) |
+| github.blog | [F1712](https://preview.nws.broker/api/endpoints/F1712) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/engineering/user-experience/feed/>) |
+| github.blog | [F1713](https://preview.nws.broker/api/endpoints/F1713) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/enterprise-software/ci-cd/feed/>) |
+| github.blog | [F1714](https://preview.nws.broker/api/endpoints/F1714) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/enterprise-software/devops/feed/>) |
+| github.blog | [F1715](https://preview.nws.broker/api/endpoints/F1715) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/enterprise-software/devsecops/feed/>) |
+| github.blog | [F1716](https://preview.nws.broker/api/endpoints/F1716) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/feed/>) |
+| github.blog | [F1717](https://preview.nws.broker/api/endpoints/F1717) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/news-insights/feed/>) |
+| github.blog | [F1718](https://preview.nws.broker/api/endpoints/F1718) | RSS | en-US | 2026-11-02 | [Feed](<https://github.blog/security/web-application-security/feed/>) |
 | github.blog | [F9294](https://preview.nws.broker/api/endpoints/F9294) | RSS | en-US | 2026-11-19 | [Feed](<https://github.blog/changelog/feed/>) |
 | gizmodo.com | [F9326](https://preview.nws.broker/api/endpoints/F9326) | RSS | en-US | 2026-11-19 | [Feed](<https://gizmodo.com/tag/microsoft/feed>) |
 | Glas sjevera – Radio 105 | [F23330](https://preview.nws.broker/api/endpoints/F23330) | RSS | hr | 2026-11-19 | [Feed](<https://radio105.hr/feed/>) |
@@ -38,6 +56,7 @@
 | greenline-to-go.blogspot.com | [F9367](https://preview.nws.broker/api/endpoints/F9367) | RSS | und | 2026-11-19 | [Feed](<https://greenline-to-go.blogspot.com/feeds/posts/default?alt=rss>) |
 | Grenfell Record | [F24670](https://preview.nws.broker/api/endpoints/F24670) | RSS | en-US | 2026-11-19 | [Feed](<https://www.grenfellrecord.com.au/sitemaps/grenfellrecord/rss>) |
 | gript.ie | [F9369](https://preview.nws.broker/api/endpoints/F9369) | RSS | en-US | 2026-11-19 | [Feed](<https://gript.ie/feed/>) |
+| grognardia.substack.com | [F9374](https://preview.nws.broker/api/endpoints/F9374) | RSS | en | 2026-11-21 | [Feed](<https://grognardia.substack.com/feed>) |
 | groundup.org.za | [F9378](https://preview.nws.broker/api/endpoints/F9378) | RSS | en-US | 2026-11-19 | [Feed](<https://groundup.org.za/sitenews/rss/>) |
 | gsaonaging.podbean.com | [F22798](https://preview.nws.broker/api/endpoints/F22798) | RSS | en | 2026-11-19 | [Feed](<https://gsaonaging.podbean.com/feed.xml>) |
 | GTA Weekly | [F24671](https://preview.nws.broker/api/endpoints/F24671) | RSS | en-US | 2026-11-19 | [Feed](<https://www.gtaweekly.ca/feed/>) |
@@ -135,22 +154,3 @@
 | Identifying the micro behind the macro | [F23386](https://preview.nws.broker/api/endpoints/F23386) | RSS | en-US | 2026-11-19 | [Feed](<https://robertthanlon.com/feed/>) |
 | IEET’s Substack | [F19693](https://preview.nws.broker/api/endpoints/F19693) | RSS | en | 2026-11-19 | [Feed](<https://ieet.substack.com/feed>) |
 | ifun.de | [F14912](https://preview.nws.broker/api/endpoints/F14912) | RSS | de | 2026-11-19 | [Feed](<https://www.ifun.de/feed/>) |
-| iGrow News | [F9500](https://preview.nws.broker/api/endpoints/F9500) | RSS | en-US | 2026-11-19 | [Feed](<https://igrownews.com/feed/>) |
-| ii74.com | [F9502](https://preview.nws.broker/api/endpoints/F9502) | RSS | und | 2026-11-19 | [Feed](<https://ii74.com/feed.php>) |
-| IKEA Hackers | [F4591](https://preview.nws.broker/api/endpoints/F4591) | RSS | en-US | 2026-11-02 | [Feed](<https://www.ikeahackers.net/feed>) |
-| Il giornale dello Stretto | [F24709](https://preview.nws.broker/api/endpoints/F24709) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.ilgiornaledellostretto.it/feed/>) |
-| Il Mattino - Home | [F24714](https://preview.nws.broker/api/endpoints/F24714) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.ilmattino.it/rss/home.xml>) |
-| Il Nuovo Diario Messaggero | [F24716](https://preview.nws.broker/api/endpoints/F24716) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.ilnuovodiario.com/feed/>) |
-| Il Reggino | [F24717](https://preview.nws.broker/api/endpoints/F24717) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.ilreggino.it/sitemaps/reggino/rss>) |
-| Il Riformista | [F24719](https://preview.nws.broker/api/endpoints/F24719) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.ilriformista.it/feed/>) |
-| ilketv.com.tr | [F9511](https://preview.nws.broker/api/endpoints/F9511) | RSS | tr | 2026-11-19 | [Feed](<https://ilketv.com.tr/feed/>) |
-| Illustrated Ministry | [F21431](https://preview.nws.broker/api/endpoints/F21431) | RSS | en-US | 2026-11-19 | [Feed](<https://www.illustratedministry.com/feed/>) |
-| ilregionale.it | [F24718](https://preview.nws.broker/api/endpoints/F24718) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.ilregionale.it/feed/>) |
-| iluc.cn | [F9512](https://preview.nws.broker/api/endpoints/F9512) | RSS | und | 2026-11-19 | [Feed](<https://iluc.cn/rss.xml>) |
-| ilvespro.it | [F24720](https://preview.nws.broker/api/endpoints/F24720) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.ilvespro.it/feed/>) |
-| im-mining.com | [F9513](https://preview.nws.broker/api/endpoints/F9513) | RSS | en-GB | 2026-11-19 | [Feed](<https://im-mining.com/feed/>) |
-| Impact News | [F24722](https://preview.nws.broker/api/endpoints/F24722) | RSS | en-ZA | 2026-11-19 | [Feed](<https://www.impactunlimited.co.za/feed/>) |
-| impatrick.blog | [F9517](https://preview.nws.broker/api/endpoints/F9517) | RSS | zh-TW | 2026-11-19 | [Feed](<https://impatrick.blog/feed/>) |
-| In My Own Style | [F2018](https://preview.nws.broker/api/endpoints/F2018) | RSS | en-US | 2026-11-01 | [Feed](<https://inmyownstyle.com/feed>) |
-| IN München – Das Stadtmagazin | [F24723](https://preview.nws.broker/api/endpoints/F24723) | RSS | de | 2026-11-19 | [Feed](<https://www.in-muenchen.de/feed>) |
-| In Old News | [F19708](https://preview.nws.broker/api/endpoints/F19708) | RSS | en | 2026-11-19 | [Feed](<https://inoldnews.substack.com/feed>) |

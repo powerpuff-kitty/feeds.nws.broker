@@ -4,6 +4,26 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Global Voices | [F1981](https://preview.nws.broker/api/endpoints/F1981) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/sao-tome-and-principe/feed/>) |
+| Global Voices | [F1982](https://preview.nws.broker/api/endpoints/F1982) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/tanzania/feed/>) |
+| Global Voices | [F1983](https://preview.nws.broker/api/endpoints/F1983) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/togo/feed/>) |
+| Global Voices | [F1984](https://preview.nws.broker/api/endpoints/F1984) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/zimbabwe/feed/>) |
+| Global Voices | [F1985](https://preview.nws.broker/api/endpoints/F1985) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/austria/feed/>) |
+| Global Voices | [F1986](https://preview.nws.broker/api/endpoints/F1986) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/belgium/feed/>) |
+| Global Voices | [F1987](https://preview.nws.broker/api/endpoints/F1987) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/cyprus/feed/>) |
+| Global Voices | [F1988](https://preview.nws.broker/api/endpoints/F1988) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/denmark/feed/>) |
+| Global Voices | [F1989](https://preview.nws.broker/api/endpoints/F1989) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/france/feed/>) |
+| Global Voices | [F1990](https://preview.nws.broker/api/endpoints/F1990) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/iceland/feed/>) |
+| Global Voices | [F1991](https://preview.nws.broker/api/endpoints/F1991) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/luxembourg/feed/>) |
+| Global Voices | [F1992](https://preview.nws.broker/api/endpoints/F1992) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/malta/feed/>) |
+| Global Voices | [F1993](https://preview.nws.broker/api/endpoints/F1993) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/spain/feed/>) |
+| Global Voices | [F1994](https://preview.nws.broker/api/endpoints/F1994) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/-/world/western-europe/sweden/feed/>) |
+| Global Voices | [F1995](https://preview.nws.broker/api/endpoints/F1995) | RSS | en-US | 2026-11-02 | [Feed](<https://globalvoices.org/feed/>) |
+| Global Voices — Afghanistan | [F26011](https://preview.nws.broker/api/endpoints/F26011) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/central-asia-caucasus/afghanistan/feed/>) |
+| Global Voices — Albania | [F26034](https://preview.nws.broker/api/endpoints/F26034) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/eastern-central-europe/albania/feed/>) |
+| Global Voices — Algeria | [F26124](https://preview.nws.broker/api/endpoints/F26124) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/middle-east-north-africa/algeria/feed/>) |
+| Global Voices — Angola | [F26079](https://preview.nws.broker/api/endpoints/F26079) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/angola/feed/>) |
+| Global Voices — Anguilla | [F25985](https://preview.nws.broker/api/endpoints/F25985) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/caribbean/anguilla/feed/>) |
 | Global Voices — Antigua and Barbuda | [F25986](https://preview.nws.broker/api/endpoints/F25986) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/caribbean/antigua-and-barbuda/feed/>) |
 | Global Voices — Armenia | [F26012](https://preview.nws.broker/api/endpoints/F26012) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/central-asia-caucasus/armenia/feed/>) |
 | Global Voices — Aruba | [F25987](https://preview.nws.broker/api/endpoints/F25987) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/caribbean/aruba/feed/>) |
@@ -134,23 +154,3 @@
 | Global Voices — Somaliland | [F26031](https://preview.nws.broker/api/endpoints/F26031) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/somaliland/feed/>) |
 | Global Voices — South Africa | [F26119](https://preview.nws.broker/api/endpoints/F26119) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/south-africa/feed/>) |
 | Global Voices — South Sudan | [F26120](https://preview.nws.broker/api/endpoints/F26120) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/south-sudan/feed/>) |
-| Global Voices — Sri Lanka | [F26078](https://preview.nws.broker/api/endpoints/F26078) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/south-asia/sri-lanka/feed/>) |
-| Global Voices — St Eustatius | [F25991](https://preview.nws.broker/api/endpoints/F25991) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/caribbean/st-eustatius/feed/>) |
-| Global Voices — Sudan | [F26121](https://preview.nws.broker/api/endpoints/F26121) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/sudan/feed/>) |
-| Global Voices — Suriname | [F26007](https://preview.nws.broker/api/endpoints/F26007) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/caribbean/suriname/feed/>) |
-| Global Voices — Switzerland | [F26145](https://preview.nws.broker/api/endpoints/F26145) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/western-europe/switzerland/feed/>) |
-| Global Voices — Tahiti | [F26069](https://preview.nws.broker/api/endpoints/F26069) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/oceania/tahiti/feed/>) |
-| Global Voices — Taiwan Roc | [F26028](https://preview.nws.broker/api/endpoints/F26028) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/east-asia/taiwan-roc/feed/>) |
-| Global Voices — Thailand | [F26029](https://preview.nws.broker/api/endpoints/F26029) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/east-asia/thailand/feed/>) |
-| Global Voices — Tibet | [F26030](https://preview.nws.broker/api/endpoints/F26030) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/east-asia/tibet/feed/>) |
-| Global Voices — Timor-Leste | [F26032](https://preview.nws.broker/api/endpoints/F26032) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/east-asia/east-timor/feed/>) |
-| Global Voices — Tonga | [F26070](https://preview.nws.broker/api/endpoints/F26070) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/oceania/tonga/feed/>) |
-| Global Voices — Trinidad and Tobago | [F26008](https://preview.nws.broker/api/endpoints/F26008) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/caribbean/trinidad-tobago/feed/>) |
-| Global Voices — Tunisia | [F26132](https://preview.nws.broker/api/endpoints/F26132) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/middle-east-north-africa/tunisia/feed/>) |
-| Global Voices — Turkmenistan | [F26017](https://preview.nws.broker/api/endpoints/F26017) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/central-asia-caucasus/turkmenistan/feed/>) |
-| Global Voices — Turks and Caicos Islands | [F26009](https://preview.nws.broker/api/endpoints/F26009) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/caribbean/turks-caicos-isl/feed/>) |
-| Global Voices — Tuvalu | [F26071](https://preview.nws.broker/api/endpoints/F26071) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/oceania/tuvalu/feed/>) |
-| Global Voices — Türkiye | [F26133](https://preview.nws.broker/api/endpoints/F26133) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/middle-east-north-africa/turkey/feed/>) |
-| Global Voices — Uganda | [F26122](https://preview.nws.broker/api/endpoints/F26122) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/sub-saharan-africa/uganda/feed/>) |
-| Global Voices — Ukraine | [F26052](https://preview.nws.broker/api/endpoints/F26052) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/eastern-central-europe/ukraine/feed/>) |
-| Global Voices — United Kingdom of Great Britain and Northern Ireland | [F26146](https://preview.nws.broker/api/endpoints/F26146) | RSS | en-US | 2026-11-19 | [Feed](<https://globalvoices.org/-/world/western-europe/united-kingdom/feed/>) |

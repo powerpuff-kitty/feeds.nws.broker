@@ -4,6 +4,7 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Statistics Netherlands CBS | [F3354](https://preview.nws.broker/api/endpoints/F3354) | RSS | en-GB | 2026-11-02 | [Feed](<https://www.cbs.nl/en-gb/rss-feeds/internationale-handel>) |
 | Statistics Netherlands CBS | [F3355](https://preview.nws.broker/api/endpoints/F3355) | RSS | en-GB | 2026-11-02 | [Feed](<https://www.cbs.nl/en-gb/rss-feeds/landbouw>) |
 | Statistics Netherlands CBS | [F3356](https://preview.nws.broker/api/endpoints/F3356) | RSS | en-GB | 2026-11-02 | [Feed](<https://www.cbs.nl/en-gb/rss-feeds/maatschappij>) |
 | Statistics Netherlands CBS | [F3357](https://preview.nws.broker/api/endpoints/F3357) | RSS | en-GB | 2026-11-02 | [Feed](<https://www.cbs.nl/en-gb/rss-feeds/macro-economie>) |
@@ -153,4 +154,3 @@
 | US Federal Reserve Board | [F4337](https://preview.nws.broker/api/endpoints/F4337) | RSS | und | 2026-11-02 | [Feed](<https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.MA.xml>) |
 | US Federal Reserve Board | [F4338](https://preview.nws.broker/api/endpoints/F4338) | RSS | und | 2026-11-02 | [Feed](<https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.MX.xml>) |
 | US Federal Reserve Board | [F4339](https://preview.nws.broker/api/endpoints/F4339) | RSS | und | 2026-11-02 | [Feed](<https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.NO.xml>) |
-| US Federal Reserve Board | [F4340](https://preview.nws.broker/api/endpoints/F4340) | RSS | und | 2026-11-02 | [Feed](<https://www.federalreserve.gov/feeds/data/H10_H10_RXI_N.B.SD.xml>) |

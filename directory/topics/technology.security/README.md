@@ -2,13 +2,13 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/technology.security.opml)
 
-39 endpoint records.
+41 endpoint records.
 
-## Verified (28)
+## Verified (30)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–28](verified-001.md) · CERT-EU public security publications to The Hacker News
+- [1–30](verified-001.md) · ANSSI on PeerTube to The Hacker News
 
 ## Needs review (10)
 

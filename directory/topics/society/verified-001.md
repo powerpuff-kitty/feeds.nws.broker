@@ -5,6 +5,7 @@
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
 | 30 for 30 Podcasts | [F1325](https://preview.nws.broker/api/endpoints/F1325) | RSS | en | 2026-11-02 | [Feed](<https://feeds.megaphone.fm/ESP5765452710>) |
+| Adult Performance Artists Guild | [F7236](https://preview.nws.broker/api/endpoints/F7236) | RSS | en-US | 2026-11-21 | — |
 | Adventure.com | [F0015](https://preview.nws.broker/api/endpoints/F0015) | RSS | en-US | 2026-11-02 | — |
 | Alkas.lt | [F25387](https://preview.nws.broker/api/endpoints/F25387) | RSS | lt-LT | 2026-11-19 | [Feed](<https://alkas.lt/feed/>) |
 | APAC | [F7240](https://preview.nws.broker/api/endpoints/F7240) | RSS | en-US | 2026-11-18 | — |

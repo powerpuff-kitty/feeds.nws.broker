@@ -2,24 +2,24 @@
 
 [All categories](../../../README.md) · [Download OPML](../../opml/news.general.opml)
 
-2,440 endpoint records.
+2,489 endpoint records.
 
-## Verified (1,735)
+## Verified (1,784)
 
 The broker successfully parsed the feed at the recorded check.
 
-- [1–150](verified-001.md) · 24 Heures au Bénin to Crítica
-- [151–300](verified-002.md) · Cuestión Pública to France 24
-- [301–450](verified-003.md) · France 24 to Global Voices — Anguilla
-- [451–600](verified-004.md) · Global Voices — Antigua and Barbuda to Global Voices — United Kingdom of Great Britain and Northern Ireland
-- [601–750](verified-005.md) · Global Voices — United States Virgin Islands to Latvian Public Media — English
-- [751–900](verified-006.md) · Latvian Public Media — English to L’Observateur de Monaco
-- [901–1,050](verified-007.md) · L’Osservatore Romano to NPR
+- [1–150](verified-001.md) · 24 Heures au Bénin to CNC3
+- [151–300](verified-002.md) · Comores Infos to France 24
+- [301–450](verified-003.md) · France 24 to Global Voices
+- [451–600](verified-004.md) · Global Voices to Global Voices — South Sudan
+- [601–750](verified-005.md) · Global Voices — Sri Lanka to Kun.uz
+- [751–900](verified-006.md) · Kuwait Times to Le Monde RSS
+- [901–1,050](verified-007.md) · Le Monde RSS to NPR
 - [1,051–1,200](verified-008.md) · NPR to Radio France Internationale
-- [1,201–1,350](verified-009.md) · Radio France Internationale to The Conversation republishing guidance
-- [1,351–1,500](verified-010.md) · The Conversation republishing guidance to The Conversation republishing guidance
-- [1,501–1,650](verified-011.md) · The Conversation republishing guidance to Vooremaa
-- [1,651–1,735](verified-012.md) · VOX Gibraltar to 日経ビジネスPLUS 最新記事
+- [1,201–1,350](verified-009.md) · Radio France Internationale to StMaartenNews.com
+- [1,351–1,500](verified-010.md) · Svalbard Wire to The Conversation republishing guidance
+- [1,501–1,650](verified-011.md) · The Conversation republishing guidance to The Smart Local
+- [1,651–1,784](verified-012.md) · The South African to 日経ビジネスPLUS 最新記事
 
 ## Advertised (1)
 

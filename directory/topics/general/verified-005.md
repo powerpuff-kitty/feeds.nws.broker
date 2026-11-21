@@ -4,6 +4,14 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| blogs.esa.int | [F0788](https://preview.nws.broker/api/endpoints/F0788) | RSS | und | 2026-11-02 | [Feed](<https://blogs.esa.int/alexander-gerst/2019/02/14/return-to-star-city/feed/>) |
+| blogs.esa.int | [F0789](https://preview.nws.broker/api/endpoints/F0789) | RSS | und | 2026-11-02 | [Feed](<https://blogs.esa.int/alexander-gerst/2020/02/13/preparing-for-the-unknown/feed/>) |
+| blogs.esa.int | [F0790](https://preview.nws.broker/api/endpoints/F0790) | RSS | und | 2026-11-02 | [Feed](<https://blogs.esa.int/alexander-gerst/comments/feed/>) |
+| blogs.esa.int | [F0791](https://preview.nws.broker/api/endpoints/F0791) | RSS | en-US | 2026-11-02 | [Feed](<https://blogs.esa.int/alexander-gerst/feed/>) |
+| blogs.esa.int | [F0801](https://preview.nws.broker/api/endpoints/F0801) | RSS | en-US | 2026-11-02 | [Feed](<https://blogs.esa.int/ariane6/feed/>) |
+| blogs.esa.int | [F0810](https://preview.nws.broker/api/endpoints/F0810) | RSS | und | 2026-11-02 | [Feed](<https://blogs.esa.int/campaignearth/2022/08/03/delving-deep-into-dusty-skies-on-the-askos-aeolus-field-campaign/feed/>) |
+| blogs.esa.int | [F0811](https://preview.nws.broker/api/endpoints/F0811) | RSS | und | 2026-11-02 | [Feed](<https://blogs.esa.int/campaignearth/2025/05/02/esa-ocean-training-course-life-aboard-in-pictures/feed/>) |
+| blogs.esa.int | [F0812](https://preview.nws.broker/api/endpoints/F0812) | RSS | en-US | 2026-11-02 | [Feed](<https://blogs.esa.int/campaignearth/category/esa-ocean-training-course/feed/>) |
 | blogs.esa.int | [F0813](https://preview.nws.broker/api/endpoints/F0813) | RSS | und | 2026-11-02 | [Feed](<https://blogs.esa.int/campaignearth/comments/feed/>) |
 | blogs.esa.int | [F0814](https://preview.nws.broker/api/endpoints/F0814) | RSS | en-US | 2026-11-02 | [Feed](<https://blogs.esa.int/campaignearth/feed/>) |
 | blogs.esa.int | [F0815](https://preview.nws.broker/api/endpoints/F0815) | RSS | en-US | 2026-11-02 | [Feed](<https://blogs.esa.int/campaignearth/tag/alert/feed/>) |
@@ -146,11 +154,3 @@
 | blogs.esa.int | [F0986](https://preview.nws.broker/api/endpoints/F0986) | RSS | und | 2026-11-02 | [Feed](<https://blogs.esa.int/to-mars-and-back/comments/feed/>) |
 | blogs.esa.int | [F0987](https://preview.nws.broker/api/endpoints/F0987) | RSS | en-US | 2026-11-02 | [Feed](<https://blogs.esa.int/to-mars-and-back/feed/>) |
 | blogs.windows.com | [F8157](https://preview.nws.broker/api/endpoints/F8157) | RSS | en-US | 2026-11-19 | [Feed](<https://blogs.windows.com/feed/>) |
-| Blue Dot | [F24873](https://preview.nws.broker/api/endpoints/F24873) | RSS | en | 2026-11-19 | [Feed](<https://www.mynspr.org/podcast/blue-dot/rss.xml>) |
-| Bluesky native profile RSS / public feed API / Jetstream | [F1068](https://preview.nws.broker/api/endpoints/F1068) | RSS | und | 2026-11-01 | [Feed](<https://bsky.app/profile/did:plc:2eplknku4lzuyagmizxvvcql/rss>) |
-| Bluesky native profile RSS / public feed API / Jetstream | [F1069](https://preview.nws.broker/api/endpoints/F1069) | RSS | und | 2026-11-02 | [Feed](<https://bsky.app/profile/did:plc:2huvjvtixiynd2gm6nalh5yi/rss>) |
-| Bluesky native profile RSS / public feed API / Jetstream | [F1070](https://preview.nws.broker/api/endpoints/F1070) | RSS | und | 2026-11-02 | [Feed](<https://bsky.app/profile/did:plc:3czq6qnzc5sr7t2v6dj56ov6/rss>) |
-| Bluesky native profile RSS / public feed API / Jetstream | [F1071](https://preview.nws.broker/api/endpoints/F1071) | RSS | und | 2026-11-02 | [Feed](<https://bsky.app/profile/did:plc:3ha37ha23knwxrhlic7wbx3s/rss>) |
-| Bluesky native profile RSS / public feed API / Jetstream | [F1072](https://preview.nws.broker/api/endpoints/F1072) | RSS | und | 2026-11-02 | [Feed](<https://bsky.app/profile/did:plc:552qtzacxjitbcxzqokv7ohx/rss>) |
-| Bluesky native profile RSS / public feed API / Jetstream | [F1073](https://preview.nws.broker/api/endpoints/F1073) | RSS | und | 2026-11-02 | [Feed](<https://bsky.app/profile/did:plc:55j63rwy4lpj5rklrq67rx2o/rss>) |
-| Bluesky native profile RSS / public feed API / Jetstream | [F1074](https://preview.nws.broker/api/endpoints/F1074) | RSS | und | 2026-11-02 | [Feed](<https://bsky.app/profile/did:plc:63tiygot2ugpfxc55p272wxk/rss>) |

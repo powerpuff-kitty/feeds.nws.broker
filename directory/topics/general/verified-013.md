@@ -4,6 +4,27 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Keith J. Grant | [F2030](https://preview.nws.broker/api/endpoints/F2030) | Atom | und | 2026-11-01 | [Feed](<https://keithjgrant.com/posts/index.xml>) |
+| KEKKJ BLOG - 小世界的一瞥 | [F2031](https://preview.nws.broker/api/endpoints/F2031) | Atom | und | 2026-11-01 | [Feed](<https://kekkj123.github.io/RSS_atom.xml>) |
+| Kekulés Gesundheits-Kompass von MDR AKTUELL | [F24844](https://preview.nws.broker/api/endpoints/F24844) | RSS | de | 2026-11-19 | [Feed](<https://www.mdr.de/nachrichten/podcast/kekule-corona/kompass-104.xml>) |
+| kelvinmu.substack.com | [F9712](https://preview.nws.broker/api/endpoints/F9712) | RSS | en | 2026-11-19 | [Feed](<https://kelvinmu.substack.com/feed>) |
+| Kenya News Today | [F21462](https://preview.nws.broker/api/endpoints/F21462) | RSS | en-US | 2026-11-19 | [Feed](<https://www.kenyanewstoday.co.ke/feed/>) |
+| Kernel und Kernobst | [F21772](https://preview.nws.broker/api/endpoints/F21772) | RSS | de-DE | 2026-11-19 | [Feed](<https://www.trommelspeicher.de/podcast.xml>) |
+| kerrynotes.com | [F9715](https://preview.nws.broker/api/endpoints/F9715) | RSS | zh-Hans | 2026-11-19 | [Feed](<https://kerrynotes.com/feed/>) |
+| kesifasya.com | [F9716](https://preview.nws.broker/api/endpoints/F9716) | RSS | tr | 2026-11-19 | [Feed](<https://kesifasya.com/feed/>) |
+| Keskkonnaamet | [F15164](https://preview.nws.broker/api/endpoints/F15164) | RSS | et | 2026-11-19 | [Feed](<https://www.keskkonnaamet.ee/rss-feeds/rss.xml>) |
+| Kevin Farrugia | [F19701](https://preview.nws.broker/api/endpoints/F19701) | RSS | en | 2026-11-19 | [Feed](<https://imkev.dev/feed>) |
+| Kevin Sent | [F23998](https://preview.nws.broker/api/endpoints/F23998) | Atom | en | 2026-11-19 | [Feed](<https://thekevinalexander.com/feed/atom>) |
+| KhabarOnline News Agency | [F8789](https://preview.nws.broker/api/endpoints/F8789) | RSS | en-US | 2026-11-19 | [Feed](<https://english.khabaronline.ir/rss>) |
+| Khmer Breaking News | [F9708](https://preview.nws.broker/api/endpoints/F9708) | RSS | en-US | 2026-11-19 | [Feed](<https://kbn.news/feed>) |
+| khojsamachar.com | [F9731](https://preview.nws.broker/api/endpoints/F9731) | RSS | en-US | 2026-11-19 | [Feed](<https://khojsamachar.com/feed/>) |
+| khybernews.tv | [F9735](https://preview.nws.broker/api/endpoints/F9735) | RSS | en-US | 2026-11-19 | [Feed](<https://khybernews.tv/category/national-news/feed>) |
+| Kira Howe | [F22950](https://preview.nws.broker/api/endpoints/F22950) | Atom | und | 2026-11-19 | [Feed](<https://kirahowe.com/feed.xml>) |
+| Kirkland Reporter | [F24776](https://preview.nws.broker/api/endpoints/F24776) | RSS | en-US | 2026-11-19 | [Feed](<https://www.kirklandreporter.com/feed/>) |
+| kisadalga.net | [F9742](https://preview.nws.broker/api/endpoints/F9742) | RSS | tr-TR | 2026-11-19 | [Feed](<https://kisadalga.net/service/rss.php>) |
+| kiswahili.tuko.co.ke | [F9744](https://preview.nws.broker/api/endpoints/F9744) | RSS | en | 2026-11-19 | [Feed](<https://kiswahili.tuko.co.ke/rss/all.rss>) |
+| Kitchn &#124; Inspiring cooks, nourishing homes | [F5599](https://preview.nws.broker/api/endpoints/F5599) | RSS | en-US | 2026-11-02 | [Feed](<https://www.thekitchn.com/main.rss>) |
+| Kiwi Kids News | [F24777](https://preview.nws.broker/api/endpoints/F24777) | RSS | en-US | 2026-11-19 | [Feed](<https://www.kiwikidsnews.co.nz/feed/>) |
 | kliimaministeerium.ee | [F9747](https://preview.nws.broker/api/endpoints/F9747) | RSS | et | 2026-11-19 | [Feed](<https://kliimaministeerium.ee/rss-feeds/rss.xml>) |
 | kmuw.org | [F4625](https://preview.nws.broker/api/endpoints/F4625) | RSS | en | 2026-11-02 | [Feed](<https://www.kmuw.org/podcast/hindsight/rss.xml>) |
 | kmuw.org | [F4626](https://preview.nws.broker/api/endpoints/F4626) | RSS | en | 2026-11-02 | [Feed](<https://www.kmuw.org/podcast/next-up/rss.xml>) |
@@ -55,6 +76,7 @@
 | lanotiziaweb.it | [F24797](https://preview.nws.broker/api/endpoints/F24797) | RSS | it-IT | 2026-11-19 | [Feed](<https://www.lanotiziaweb.it/feed/>) |
 | Lanterne Rouge | [F9806](https://preview.nws.broker/api/endpoints/F9806) | RSS | en-US | 2026-11-19 | [Feed](<https://lanternerouge.com/feed/>) |
 | Laois Today | [F24798](https://preview.nws.broker/api/endpoints/F24798) | RSS | en-GB | 2026-11-19 | [Feed](<https://www.laoistoday.ie/feed/>) |
+| laramiereporter.substack.com | [F9811](https://preview.nws.broker/api/endpoints/F9811) | RSS | en | 2026-11-21 | [Feed](<https://laramiereporter.substack.com/feed>) |
 | Larry Salibra | [F19777](https://preview.nws.broker/api/endpoints/F19777) | RSS | und | 2026-11-19 | [Feed](<https://larrysalibra.com/rss>) |
 | Lars Corneliussen | [F20641](https://preview.nws.broker/api/endpoints/F20641) | RSS | en | 2026-11-19 | [Feed](<https://startbigthinksmall.wordpress.com/feed/>) |
 | Las Vegas Sun Stories | [F9820](https://preview.nws.broker/api/endpoints/F9820) | RSS | en-US | 2026-11-19 | [Feed](<https://lasvegassun.com/feeds/headlines/>) |
@@ -132,25 +154,3 @@
 | LondonNews247 - Breaking News! | [F24824](https://preview.nws.broker/api/endpoints/F24824) | Atom | und | 2026-11-19 | [Feed](<https://www.londonnews247.com/feeds/posts/default>) |
 | Lone Star Outdoor Show | [F22963](https://preview.nws.broker/api/endpoints/F22963) | RSS | en-US | 2026-11-19 | [Feed](<https://lonestaroutdoorshow.com/feed/podcast/>) |
 | Long Luo&#x27;s Life Notes | [F4989](https://preview.nws.broker/api/endpoints/F4989) | Atom | und | 2026-11-02 | [Feed](<https://www.longluo.me/atom.xml>) |
-| Long Walls | [F19799](https://preview.nws.broker/api/endpoints/F19799) | RSS | en | 2026-11-19 | [Feed](<https://longwalls.substack.com/feed>) |
-| Longreads | [F22964](https://preview.nws.broker/api/endpoints/F22964) | RSS | en-US | 2026-11-19 | [Feed](<https://longreads.com/feed/>) |
-| Longview News-Journal | [F19904](https://preview.nws.broker/api/endpoints/F19904) | RSS | en-US | 2026-11-19 | [Feed](<https://news-journal.com/feed>) |
-| Loreto Secondary School | [F24825](https://preview.nws.broker/api/endpoints/F24825) | RSS | en-US | 2026-11-19 | [Feed](<https://www.loretobalbriggan.ie/feed/>) |
-| lorexxar.cn | [F9891](https://preview.nws.broker/api/endpoints/F9891) | Atom | und | 2026-11-19 | [Feed](<https://lorexxar.cn/atom.xml>) |
-| loudwire.com | [F9893](https://preview.nws.broker/api/endpoints/F9893) | RSS | en-US | 2026-11-19 | [Feed](<https://loudwire.com/category/metal/feed/>) |
-| Louis-Philippe Véronneau | [F24194](https://preview.nws.broker/api/endpoints/F24194) | Atom | und | 2026-11-19 | [Feed](<https://veronneau.org/feeds/atom.xml>) |
-| Louisiana First News | [F21501](https://preview.nws.broker/api/endpoints/F21501) | RSS | en-US | 2026-11-19 | [Feed](<https://www.louisianafirstnews.com/feed/>) |
-| Love and Lemons | [F0482](https://preview.nws.broker/api/endpoints/F0482) | RSS | en-US | 2026-11-02 | — |
-| Love and Olive Oil | [F4991](https://preview.nws.broker/api/endpoints/F4991) | RSS | en-US | 2026-11-02 | [Feed](<https://www.loveandoliveoil.com/feed>) |
-| lr-aloe-vera.blogspot.com | [F9900](https://preview.nws.broker/api/endpoints/F9900) | RSS | und | 2026-11-19 | [Feed](<https://lr-aloe-vera.blogspot.com/rss.xml>) |
-| LSM | [F11833](https://preview.nws.broker/api/endpoints/F11833) | RSS | ru | 2026-11-19 | [Feed](<https://rus.lsm.lv/rss>) |
-| lucifer.ren | [F9901](https://preview.nws.broker/api/endpoints/F9901) | Atom | und | 2026-11-19 | [Feed](<https://lucifer.ren/blog/atom.xml>) |
-| LuCom Médias | [F24828](https://preview.nws.broker/api/endpoints/F24828) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.lucommedias.cd/feed/>) |
-| lukefan.com | [F9902](https://preview.nws.broker/api/endpoints/F9902) | RSS | zh-Hans | 2026-11-19 | — |
-| luolei.org | [F9904](https://preview.nws.broker/api/endpoints/F9904) | RSS | zh-CN | 2026-11-19 | — |
-| lutaonan.com | [F9905](https://preview.nws.broker/api/endpoints/F9905) | RSS | und | 2026-11-19 | [Feed](<https://lutaonan.com/rss.xml>) |
-| LYFtv.com | [F24829](https://preview.nws.broker/api/endpoints/F24829) | Atom | und | 2026-11-19 | [Feed](<https://www.lyftv.com/feeds/posts/default>) |
-| LäkemedelsVärlden | [F15321](https://preview.nws.broker/api/endpoints/F15321) | RSS | sv-SE | 2026-11-19 | [Feed](<https://www.lakemedelsvarlden.se/feed/>) |
-| Lõunaeestlane | [F9895](https://preview.nws.broker/api/endpoints/F9895) | Atom | et | 2026-11-19 | [Feed](<https://lounaeestlane.ee/feed/atom/>) |
-| M. Douglas Wray | [F24831](https://preview.nws.broker/api/endpoints/F24831) | RSS | en-US | 2026-11-19 | [Feed](<https://www.macwebguru.com/feed/>) |
-| Mac Geek Gab — Apple Tips, Tricks, and Troubleshooting | [F21502](https://preview.nws.broker/api/endpoints/F21502) | RSS | en-US | 2026-11-19 | [Feed](<https://www.macgeekgab.com/feed/podcast/>) |

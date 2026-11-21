@@ -4,6 +4,38 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Urban Hafner | [F21008](https://preview.nws.broker/api/endpoints/F21008) | RSS | en | 2026-11-19 | [Feed](<https://urbanhafner.com/feed/>) |
+| Urban Hollywood 411 | [F24163](https://preview.nws.broker/api/endpoints/F24163) | RSS | en-US | 2026-11-19 | [Feed](<https://urbanhollywood411.com/feed/>) |
+| Urban Lifestyle | [F24165](https://preview.nws.broker/api/endpoints/F24165) | RSS | en-US | 2026-11-19 | [Feed](<https://urbanlifestylesa.co.za/feed/>) |
+| Urdu Addresses by Khalifatul Masih | [F22766](https://preview.nws.broker/api/endpoints/F22766) | RSS | en-US | 2026-11-19 | [Feed](<https://files.alislam.cloud/podcast/addresses-ur.rss>) |
+| US Updates | [F21016](https://preview.nws.broker/api/endpoints/F21016) | RSS | en-US | 2026-11-19 | [Feed](<https://usupdates.org/feed/>) |
+| USA NEWS | [F21012](https://preview.nws.broker/api/endpoints/F21012) | RSS | en-US | 2026-11-19 | [Feed](<https://usa-news.biz/feed/>) |
+| USAFacts &#124; Nonpartisan Government Data | [F24167](https://preview.nws.broker/api/endpoints/F24167) | RSS | en | 2026-11-19 | [Feed](<https://usafacts.org/rss/>) |
+| usatodaycom.com | [F24168](https://preview.nws.broker/api/endpoints/F24168) | RSS | en-US | 2026-11-19 | [Feed](<https://usatodaycom.com/feed/>) |
+| usbeketrica.com | [F12551](https://preview.nws.broker/api/endpoints/F12551) | RSS | und | 2026-11-19 | [Feed](<https://usbeketrica.com/fr/rss>) |
+| User Generated Education | [F24169](https://preview.nws.broker/api/endpoints/F24169) | RSS | en | 2026-11-19 | [Feed](<https://usergeneratededucation.wordpress.com/feed/>) |
+| USGS Publications Warehouse | [F2534](https://preview.nws.broker/api/endpoints/F2534) | RSS | en-US | 2026-11-02 | [Feed](<https://pubs.usgs.gov/pubs-services/publication/rss/>) |
+| usgs.gov | [F5740](https://preview.nws.broker/api/endpoints/F5740) | RSS | en | 2026-11-02 | [Feed](<https://www.usgs.gov/news/149246/feed>) |
+| usgs.gov | [F5741](https://preview.nws.broker/api/endpoints/F5741) | RSS | en | 2026-11-02 | [Feed](<https://www.usgs.gov/news/149247/feed>) |
+| usgs.gov | [F5742](https://preview.nws.broker/api/endpoints/F5742) | RSS | en | 2026-11-02 | [Feed](<https://www.usgs.gov/news/149248/feed>) |
+| usgs.gov | [F5743](https://preview.nws.broker/api/endpoints/F5743) | RSS | en | 2026-11-02 | [Feed](<https://www.usgs.gov/news/all/feed>) |
+| usgs.gov | [F5747](https://preview.nws.broker/api/endpoints/F5747) | RSS | en | 2026-11-02 | [Feed](<https://www.usgs.gov/podcasts/audio/141798/feed.xml>) |
+| usgs.gov | [F5748](https://preview.nws.broker/api/endpoints/F5748) | RSS | en | 2026-11-02 | [Feed](<https://www.usgs.gov/podcasts/audio/141799/feed.xml>) |
+| utzers PeerTube | [F24123](https://preview.nws.broker/api/endpoints/F24123) | RSS | und | 2026-11-19 | [Feed](<https://tube.utzer.de/feeds/videos.xml?isLive=true>) |
+| uwillno.com | [F12556](https://preview.nws.broker/api/endpoints/F12556) | RSS | und | 2026-11-19 | [Feed](<https://uwillno.com/rss.xml>) |
+| Uzalendo News | [F24175](https://preview.nws.broker/api/endpoints/F24175) | RSS | en | 2026-11-19 | [Feed](<https://uzalendonews.co.ke/feed/>) |
+| v5.chriskrycho.com | [F21019](https://preview.nws.broker/api/endpoints/F21019) | Atom | und | 2026-11-19 | [Feed](<https://v5.chriskrycho.com/journal/feed.xml>) |
+| Valdosta Daily Times | [F24181](https://preview.nws.broker/api/endpoints/F24181) | RSS | en-US | 2026-11-19 | [Feed](<https://valdostadailytimes.com/feed>) |
+| Valhalla Research Blog | [F21022](https://preview.nws.broker/api/endpoints/F21022) | RSS | und | 2026-11-19 | [Feed](<https://valhallaresearch.net/rss.xml>) |
+| Valley News | [F19875](https://preview.nws.broker/api/endpoints/F19875) | RSS | en-US | 2026-11-19 | [Feed](<https://myvalleynews.com/feed/>) |
+| Valodu kursi 🌍 Tulkošanas pakalpojumi | [F24182](https://preview.nws.broker/api/endpoints/F24182) | RSS | lv | 2026-11-19 | [Feed](<https://valodukursi.com/feed/>) |
+| valtioneuvosto.fi | [F12560](https://preview.nws.broker/api/endpoints/F12560) | RSS | und | 2026-11-19 | [Feed](<https://valtioneuvosto.fi/staattiset-feedit/-/asset_publisher/Kh4WBNNjLkT0/rss>) |
+| Value Creator | [F21252](https://preview.nws.broker/api/endpoints/F21252) | RSS | en-US | 2026-11-19 | [Feed](<https://www.brianvellmure.com/feed/>) |
+| variety.com | [F12565](https://preview.nws.broker/api/endpoints/F12565) | RSS | en-US | 2026-11-19 | [Feed](<https://variety.com/c/global/feed/>) |
+| VBR | [F21023](https://preview.nws.broker/api/endpoints/F21023) | RSS | en-US | 2026-11-19 | [Feed](<https://valleybusinessreport.com/feed/>) |
+| vc.ru | [F12571](https://preview.nws.broker/api/endpoints/F12571) | RSS | ru-RU | 2026-11-19 | [Feed](<https://vc.ru/rss>) |
+| Velo | [F12577](https://preview.nws.broker/api/endpoints/F12577) | RSS | en-US | 2026-11-19 | [Feed](<https://velo.outsideonline.com/feed/>) |
+| Venezuela archivos - El Diario Venezuela - elDiario.com | [F8690](https://preview.nws.broker/api/endpoints/F8690) | RSS | es | 2026-11-19 | [Feed](<https://eldiario.com/categoria/venezuela/feed/>) |
 | vercel.com | [F12585](https://preview.nws.broker/api/endpoints/F12585) | Atom | und | 2026-11-19 | [Feed](<https://vercel.com/atom>) |
 | Veroniiiica | [F24193](https://preview.nws.broker/api/endpoints/F24193) | Atom | en-US | 2026-11-19 | [Feed](<https://veroniiiica.com/atom>) |
 | Versatileer | [F24195](https://preview.nws.broker/api/endpoints/F24195) | RSS | en-US | 2026-11-19 | [Feed](<https://versatileer.com/feed/>) |
@@ -82,6 +114,7 @@
 | weiwuhui.com | [F12727](https://preview.nws.broker/api/endpoints/F12727) | RSS | zh-CN | 2026-11-19 | — |
 | Welcome - The Times Examiner | [F24070](https://preview.nws.broker/api/endpoints/F24070) | RSS | en-GB | 2026-11-19 | [Feed](<https://timesexaminer.com/?format=feed&type=rss>) |
 | Welcome to UpTown Press NG | [F24162](https://preview.nws.broker/api/endpoints/F24162) | RSS | en-GB | 2026-11-19 | [Feed](<https://uptownpress.com.ng/feed/>) |
+| welcometoloudcity.substack.com | [F12728](https://preview.nws.broker/api/endpoints/F12728) | RSS | en | 2026-11-21 | [Feed](<https://welcometoloudcity.substack.com/feed>) |
 | werd.io | [F21099](https://preview.nws.broker/api/endpoints/F21099) | RSS | und | 2026-11-19 | [Feed](<https://werd.io/rss>) |
 | Wesley Goatley | [F21100](https://preview.nws.broker/api/endpoints/F21100) | RSS | en | 2026-11-19 | [Feed](<https://wesleygoatley.substack.com/feed>) |
 | westweekever.com | [F24270](https://preview.nws.broker/api/endpoints/F24270) | RSS | en-US | 2026-11-19 | [Feed](<https://westweekever.com/feed/>) |
@@ -121,36 +154,3 @@
 | wocai.de | [F12768](https://preview.nws.broker/api/endpoints/F12768) | RSS | zh | 2026-11-19 | [Feed](<https://wocai.de/index.xml/>) |
 | Wolfnewss | [F24301](https://preview.nws.broker/api/endpoints/F24301) | RSS | en-US | 2026-11-19 | [Feed](<https://wolfnewss.com/feed/>) |
 | Women In Archaeology | [F24303](https://preview.nws.broker/api/endpoints/F24303) | RSS | en-US | 2026-11-19 | [Feed](<https://womeninarchaeology.com/feed/podcast/>) |
-| Wonderful Engineering | [F21131](https://preview.nws.broker/api/endpoints/F21131) | RSS | en-US | 2026-11-19 | [Feed](<https://wonderfulengineering.com/feed/>) |
-| WonderHowTo | [F6029](https://preview.nws.broker/api/endpoints/F6029) | RSS | en-US | 2026-11-02 | [Feed](<https://www.wonderhowto.com/rss.xml>) |
-| Woodburn Independent | [F24306](https://preview.nws.broker/api/endpoints/F24306) | RSS | en-US | 2026-11-19 | [Feed](<https://woodburnindependent.com/feed>) |
-| WOODTV.com | [F18366](https://preview.nws.broker/api/endpoints/F18366) | RSS | en-US | 2026-11-19 | [Feed](<https://www.woodtv.com/feed/>) |
-| wordhistories.net | [F24309](https://preview.nws.broker/api/endpoints/F24309) | RSS | en-GB | 2026-11-19 | [Feed](<https://wordhistories.net/feed/>) |
-| WordPress feeds | [F2992](https://preview.nws.broker/api/endpoints/F2992) | RSS | und | 2026-11-01 | [Feed](<https://wordpress.com/blog/2011/03/09/jetpack-boost/feed/>) |
-| WordPress feeds | [F2993](https://preview.nws.broker/api/endpoints/F2993) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2011/11/15/easier-invitations/feed/>) |
-| WordPress feeds | [F2994](https://preview.nws.broker/api/endpoints/F2994) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2012/11/27/nablopomo-roundup/feed/>) |
-| WordPress feeds | [F2995](https://preview.nws.broker/api/endpoints/F2995) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2013/06/17/beautiful-makeover/feed/>) |
-| WordPress feeds | [F2996](https://preview.nws.broker/api/endpoints/F2996) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2020/07/17/referral-program/feed/>) |
-| WordPress feeds | [F2997](https://preview.nws.broker/api/endpoints/F2997) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2020/11/30/run-wwwp5k-2020/feed/>) |
-| WordPress feeds | [F2998](https://preview.nws.broker/api/endpoints/F2998) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2020/12/03/international-day-of-disabled-persons/feed/>) |
-| WordPress feeds | [F2999](https://preview.nws.broker/api/endpoints/F2999) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2022/03/08/the-future-of-plugin-themes-and-services-purchases-on-wordpress-com/feed/>) |
-| WordPress feeds | [F3000](https://preview.nws.broker/api/endpoints/F3000) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2022/04/05/introducing-wordpress-pro-one-plan-infinite-possibilities/feed/>) |
-| WordPress feeds | [F3001](https://preview.nws.broker/api/endpoints/F3001) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2022/04/05/say-hello-to-wordprompts/feed/>) |
-| WordPress feeds | [F3002](https://preview.nws.broker/api/endpoints/F3002) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2022/04/20/videopress-take-3/feed/>) |
-| WordPress feeds | [F3003](https://preview.nws.broker/api/endpoints/F3003) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2022/04/29/wordpress-com-favorites-the-pelikans-perch/feed/>) |
-| WordPress feeds | [F3004](https://preview.nws.broker/api/endpoints/F3004) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2022/05/04/new-free-seo-course/feed/>) |
-| WordPress feeds | [F3005](https://preview.nws.broker/api/endpoints/F3005) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2022/05/19/your-website-looks-great-so-should-your-emails/feed/>) |
-| WordPress feeds | [F3006](https://preview.nws.broker/api/endpoints/F3006) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2022/05/25/introducing-wordpress-starter-make-your-mark/feed/>) |
-| WordPress feeds | [F3007](https://preview.nws.broker/api/endpoints/F3007) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2022/06/08/take-bookings-set-up-subscriptions-and-automate-your-store-with-new-premium-plugins/feed/>) |
-| WordPress feeds | [F3008](https://preview.nws.broker/api/endpoints/F3008) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2022/06/28/access-your-professional-email-inbox-directly-from-wordpress-com/feed/>) |
-| WordPress feeds | [F3009](https://preview.nws.broker/api/endpoints/F3009) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2022/07/05/share-wordpress-com-blog-posts-to-telegram-with-wordpressdotcom-bot/feed/>) |
-| WordPress feeds | [F3010](https://preview.nws.broker/api/endpoints/F3010) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2022/07/12/yoast-seo-premium-wordpress-com/feed/>) |
-| WordPress feeds | [F3011](https://preview.nws.broker/api/endpoints/F3011) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2023/01/05/hot-off-the-press-new-wordpress-com-themes-for-january-2023/feed/>) |
-| WordPress feeds | [F3012](https://preview.nws.broker/api/endpoints/F3012) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2023/04/17/transform-your-wordpress-com-skills-with-these-popular-webinars/feed/>) |
-| WordPress feeds | [F3013](https://preview.nws.broker/api/endpoints/F3013) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2023/04/20/whats-new-on-wordpress-com-focus-mode-promotion-from-your-pocket-and-risk-free-redesigns/feed/>) |
-| WordPress feeds | [F3014](https://preview.nws.broker/api/endpoints/F3014) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2023/07/07/customer-headers-wordpress/feed/>) |
-| WordPress feeds | [F3015](https://preview.nws.broker/api/endpoints/F3015) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2023/07/11/footnotes-details-block-writing-flow/feed/>) |
-| WordPress feeds | [F3016](https://preview.nws.broker/api/endpoints/F3016) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2023/07/13/global-edge-cache/feed/>) |
-| WordPress feeds | [F3017](https://preview.nws.broker/api/endpoints/F3017) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2023/07/21/new-wordpress-themes-july-2023/feed/>) |
-| WordPress feeds | [F3018](https://preview.nws.broker/api/endpoints/F3018) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2023/07/25/new-free-course-newsletters-101/feed/>) |
-| WordPress feeds | [F3019](https://preview.nws.broker/api/endpoints/F3019) | RSS | und | 2026-11-02 | [Feed](<https://wordpress.com/blog/2023/07/27/new-wordpresscom-themes-july-2/feed/>) |

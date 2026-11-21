@@ -14,6 +14,7 @@
     <outline type="rss" text="Instituto Português do Mar e da Atmosfera" title="Instituto Português do Mar e da Atmosfera" xmlUrl="https://www.ipma.pt/opencms/resources.www/rss/comunicados.xml" />
     <outline type="rss" text="Japan Meteorological Agency" title="Japan Meteorological Agency" xmlUrl="https://www.data.jma.go.jp/developer/xml/feed/regular.xml" />
     <outline type="rss" text="Japan Meteorological Agency" title="Japan Meteorological Agency" xmlUrl="https://www.data.jma.go.jp/developer/xml/feed/extra.xml" />
+    <outline type="rss" text="KNMI on Mastodon" title="KNMI on Mastodon" xmlUrl="https://social.overheid.nl/@knmi.rss" />
     <outline type="rss" text="Macao Meteorological and Geophysical Bureau" title="Macao Meteorological and Geophysical Bureau" xmlUrl="https://rss.smg.gov.mo/e_WForecast_rss.xml" />
     <outline type="rss" text="Macao Meteorological and Geophysical Bureau" title="Macao Meteorological and Geophysical Bureau" xmlUrl="https://rss.smg.gov.mo/e_WSignal_rss.xml" />
     <outline type="rss" text="Met Office — DataPoint service notifications" title="Met Office — DataPoint service notifications" xmlUrl="https://www.metoffice.gov.uk/feed/syndication/datapoint-notifications-rss.xml" />

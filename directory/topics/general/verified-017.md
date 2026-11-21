@@ -4,6 +4,33 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Page it to the Limit | [F21601](https://preview.nws.broker/api/endpoints/F21601) | RSS | en-US | 2026-11-19 | [Feed](<https://www.pageittothelimit.com/episode/index.xml>) |
+| Pak Gazette | [F20028](https://preview.nws.broker/api/endpoints/F20028) | RSS | en-US | 2026-11-19 | [Feed](<https://pakgazette.com/feed/>) |
+| Pakistan Times | [F21602](https://preview.nws.broker/api/endpoints/F21602) | RSS | en-US | 2026-11-19 | [Feed](<https://www.pakistantimes.com/feed/>) |
+| pakobserver.net | [F11288](https://preview.nws.broker/api/endpoints/F11288) | RSS | en-US | 2026-11-19 | [Feed](<https://pakobserver.net/international/feed>) |
+| Palawan Daily News | [F23179](https://preview.nws.broker/api/endpoints/F23179) | RSS | en-US | 2026-11-19 | [Feed](<https://palawandailynews.com/feed/>) |
+| Pan African Review | [F11291](https://preview.nws.broker/api/endpoints/F11291) | RSS | en-US | 2026-11-19 | [Feed](<https://panafricanreview.com/feed/>) |
+| PanAsiaBiz | [F20030](https://preview.nws.broker/api/endpoints/F20030) | RSS | en-US | 2026-11-19 | [Feed](<https://panasiabiz.com/feed/>) |
+| Panorama | [F11295](https://preview.nws.broker/api/endpoints/F11295) | RSS | en-US | 2026-11-19 | [Feed](<https://panorama.rw/feed/>) |
+| PanoramaKutna.pl – Wiadomości Kutno z ostatniej chwili, portal informacyjny Kutno | [F23180](https://preview.nws.broker/api/endpoints/F23180) | RSS | pl-PL | 2026-11-19 | [Feed](<https://panoramakutna.pl/feed/>) |
+| pap-mediaroom.pl | [F11298](https://preview.nws.broker/api/endpoints/F11298) | RSS | pl | 2026-11-19 | [Feed](<https://pap-mediaroom.pl/kategoria/polityka-i-spo%C5%82eczenstwo/rss.xml>) |
+| Paper Trail | [F2532](https://preview.nws.broker/api/endpoints/F2532) | RSS | en | 2026-11-02 | [Feed](<https://publicfeeds.net/f/16890/feed-rss.xml>) |
+| PaperGeek | [F24989](https://preview.nws.broker/api/endpoints/F24989) | RSS | fr-FR | 2026-11-19 | [Feed](<https://www.papergeek.fr/feed>) |
+| Paris Star | [F21605](https://preview.nws.broker/api/endpoints/F21605) | Atom | en-US | 2026-11-19 | [Feed](<https://www.parisstaronline.com/feed/atom>) |
+| Parkes Champion-Post | [F24990](https://preview.nws.broker/api/endpoints/F24990) | RSS | en-US | 2026-11-19 | [Feed](<https://www.parkeschampionpost.com.au/sitemaps/parkeschampionpost/rss>) |
+| Parle Mag | [F23181](https://preview.nws.broker/api/endpoints/F23181) | RSS | en-US | 2026-11-19 | [Feed](<https://parlemag.com/feed/>) |
+| Partener TV | [F23183](https://preview.nws.broker/api/endpoints/F23183) | RSS | ro-RO | 2026-11-19 | [Feed](<https://partenertv.ro/feed/>) |
+| partner-feeds.20min.ch | [F11304](https://preview.nws.broker/api/endpoints/F11304) | RSS | fr-CH | 2026-11-19 | [Feed](<https://partner-feeds.20min.ch/rss/20minutes>) |
+| partner-feeds.publishing.tamedia.ch | [F11322](https://preview.nws.broker/api/endpoints/F11322) | RSS | fr | 2026-11-19 | [Feed](<https://partner-feeds.publishing.tamedia.ch/rss/24heures/sport>) |
+| patys.dev | [F20036](https://preview.nws.broker/api/endpoints/F20036) | RSS | und | 2026-11-19 | [Feed](<https://patys.dev/rss>) |
+| paugram.com | [F11338](https://preview.nws.broker/api/endpoints/F11338) | RSS | zh-CN | 2026-11-19 | [Feed](<https://paugram.com/feed>) |
+| paulwatchesfootball.wordpress.com | [F23186](https://preview.nws.broker/api/endpoints/F23186) | RSS | en-GB | 2026-11-19 | [Feed](<https://paulwatchesfootball.wordpress.com/feed/>) |
+| Peace and Climate Change Archives - Peace News Network | [F11340](https://preview.nws.broker/api/endpoints/F11340) | RSS | en-US | 2026-11-19 | [Feed](<https://peacenews.com/category/peace-and-climate-change/feed/>) |
+| Peachtree Hoops | [F16446](https://preview.nws.broker/api/endpoints/F16446) | Atom | en-US | 2026-11-19 | [Feed](<https://www.peachtreehoops.com/rss/current.xml>) |
+| Peak News | [F23192](https://preview.nws.broker/api/endpoints/F23192) | RSS | en-US | 2026-11-19 | [Feed](<https://peaknews.com.ng/feed/>) |
+| PeerTube TeDomum | [F24209](https://preview.nws.broker/api/endpoints/F24209) | RSS | und | 2026-11-19 | [Feed](<https://video.tedomum.net/feeds/videos.xml?isLive=true>) |
+| peertube.be | [F23194](https://preview.nws.broker/api/endpoints/F23194) | RSS | und | 2026-11-19 | [Feed](<https://peertube.be/feeds/videos.xml>) |
+| PeerTube.wtf | [F23198](https://preview.nws.broker/api/endpoints/F23198) | RSS | und | 2026-11-19 | [Feed](<https://peertube.wtf/feeds/videos.xml>) |
 | PennsylvAsia | [F24992](https://preview.nws.broker/api/endpoints/F24992) | Atom | und | 2026-11-19 | [Feed](<https://www.pennsylvasia.com/feeds/posts/default>) |
 | Penny Arcade | [F5127](https://preview.nws.broker/api/endpoints/F5127) | RSS | en-US | 2026-11-02 | [Feed](<https://www.penny-arcade.com/feed>) |
 | PEP UNLIMITED LLC | [F23205](https://preview.nws.broker/api/endpoints/F23205) | RSS | en-US | 2026-11-19 | [Feed](<https://pepunlimited.com/feed/>) |
@@ -127,30 +154,3 @@
 | podcast.npo.nl | [F2245](https://preview.nws.broker/api/endpoints/F2245) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/dit-is-de-week.xml>) |
 | podcast.npo.nl | [F2246](https://preview.nws.broker/api/endpoints/F2246) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/dit-is-mijn-lied.xml>) |
 | podcast.npo.nl | [F2247](https://preview.nws.broker/api/endpoints/F2247) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/doe-maar-normaal.xml>) |
-| podcast.npo.nl | [F2248](https://preview.nws.broker/api/endpoints/F2248) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/dokters-en-sjamanen.xml>) |
-| podcast.npo.nl | [F2250](https://preview.nws.broker/api/endpoints/F2250) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/dossier-aivd.xml>) |
-| podcast.npo.nl | [F2251](https://preview.nws.broker/api/endpoints/F2251) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/douze-points.xml>) |
-| podcast.npo.nl | [F2252](https://preview.nws.broker/api/endpoints/F2252) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/dr-bones.xml>) |
-| podcast.npo.nl | [F2253](https://preview.nws.broker/api/endpoints/F2253) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/dream-sounds.xml>) |
-| podcast.npo.nl | [F2254](https://preview.nws.broker/api/endpoints/F2254) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/druk.xml>) |
-| podcast.npo.nl | [F2255](https://preview.nws.broker/api/endpoints/F2255) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/duizend-dagen.xml>) |
-| podcast.npo.nl | [F2256](https://preview.nws.broker/api/endpoints/F2256) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/een-dik-uur-ischa-op-de-radio.xml>) |
-| podcast.npo.nl | [F2257](https://preview.nws.broker/api/endpoints/F2257) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/een-doodnormale-podcast.xml>) |
-| podcast.npo.nl | [F2258](https://preview.nws.broker/api/endpoints/F2258) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/een-nijlpaard-kon-lachen.xml>) |
-| podcast.npo.nl | [F2259](https://preview.nws.broker/api/endpoints/F2259) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/een-verborgen-surinaamse-schat.xml>) |
-| podcast.npo.nl | [F2260](https://preview.nws.broker/api/endpoints/F2260) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/eerst-dit.xml>) |
-| podcast.npo.nl | [F2261](https://preview.nws.broker/api/endpoints/F2261) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/eitje.xml>) |
-| podcast.npo.nl | [F2262](https://preview.nws.broker/api/endpoints/F2262) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/el-tarangu.xml>) |
-| podcast.npo.nl | [F2263](https://preview.nws.broker/api/endpoints/F2263) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/en-de-rest-is-geschiedenis.xml>) |
-| podcast.npo.nl | [F2264](https://preview.nws.broker/api/endpoints/F2264) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/en-niemand-bleef-onaangeraakt.xml>) |
-| podcast.npo.nl | [F2265](https://preview.nws.broker/api/endpoints/F2265) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/en-toen-was-ik-mantelzorger.xml>) |
-| podcast.npo.nl | [F2266](https://preview.nws.broker/api/endpoints/F2266) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/en-toen-werd-het-stil.xml>) |
-| podcast.npo.nl | [F2268](https://preview.nws.broker/api/endpoints/F2268) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/ergens.xml>) |
-| podcast.npo.nl | [F2269](https://preview.nws.broker/api/endpoints/F2269) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/erwin-musper-podcast.xml>) |
-| podcast.npo.nl | [F2270](https://preview.nws.broker/api/endpoints/F2270) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/eurotrippers.xml>) |
-| podcast.npo.nl | [F2271](https://preview.nws.broker/api/endpoints/F2271) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/eus-boekenclub.xml>) |
-| podcast.npo.nl | [F2272](https://preview.nws.broker/api/endpoints/F2272) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/even-aan-mijn-zoon-vragen.xml>) |
-| podcast.npo.nl | [F2273](https://preview.nws.broker/api/endpoints/F2273) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/first-dates.xml>) |
-| podcast.npo.nl | [F2274](https://preview.nws.broker/api/endpoints/F2274) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/focus-wetenschap.xml>) |
-| podcast.npo.nl | [F2275](https://preview.nws.broker/api/endpoints/F2275) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/funx-base.xml>) |
-| podcast.npo.nl | [F2276](https://preview.nws.broker/api/endpoints/F2276) | RSS | nl-NL | 2026-11-02 | [Feed](<https://podcast.npo.nl/feed/funx-bingewatch.xml>) |
