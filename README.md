@@ -4,7 +4,7 @@
 
 A public feed directory from [nws.broker](https://nws.broker/). Find publisher feeds for your reader or use the catalogue data in your own tools.
 
-[![Visit nws.broker](https://img.shields.io/badge/Visit-nws.broker-005675)](https://nws.broker/) [![Download feed catalogue CSV](https://img.shields.io/badge/Download-CSV-005675)](https://raw.githubusercontent.com/powerpuff-kitty/feeds.nws.broker/main/directory/feeds.csv) [![Download subscription OPML](https://img.shields.io/badge/Download-OPML-713053)](https://raw.githubusercontent.com/powerpuff-kitty/feeds.nws.broker/main/directory/opml/all.opml) [![Directory checks on main pushes](https://img.shields.io/github/actions/workflow/status/powerpuff-kitty/feeds.nws.broker/validate.yml?branch=main&event=push&label=directory%20checks)](https://github.com/powerpuff-kitty/feeds.nws.broker/actions/workflows/validate.yml)
+[![Visit nws.broker](https://img.shields.io/badge/Visit-nws.broker-315d86)](https://nws.broker/) [![Download feed catalogue CSV](https://img.shields.io/badge/Download-CSV-315d86)](https://raw.githubusercontent.com/powerpuff-kitty/feeds.nws.broker/main/directory/feeds.csv) [![Download subscription OPML](https://img.shields.io/badge/Download-OPML-315d86)](https://raw.githubusercontent.com/powerpuff-kitty/feeds.nws.broker/main/directory/opml/all.opml) [![Directory checks on main pushes](https://img.shields.io/github/actions/workflow/status/powerpuff-kitty/feeds.nws.broker/validate.yml?branch=main&event=push&label=directory%20checks)](https://github.com/powerpuff-kitty/feeds.nws.broker/actions/workflows/validate.yml)
 
 **25,175 endpoint records** · **12,113 sources** · **38 topics**
 

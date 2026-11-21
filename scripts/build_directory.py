@@ -192,9 +192,9 @@ def readme_opening(endpoint_count, source_count, topic_count, subscription_count
         '# nws.broker Feed Directory', '',
         f'<a href="{SITE}/"><img src="assets/nws-broker-mark.svg" alt="nws.broker brand mark" width="40" height="40"></a>', '',
         f'A public feed directory from [nws.broker]({SITE}/). Find publisher feeds for your reader or use the catalogue data in your own tools.', '',
-        f'[![Visit nws.broker]({SHIELDS}/badge/Visit-nws.broker-005675)]({SITE}/) '
-        f'[![Download feed catalogue CSV]({SHIELDS}/badge/Download-CSV-005675)]({RAW_URL}/directory/feeds.csv) '
-        f'[![Download subscription OPML]({SHIELDS}/badge/Download-OPML-713053)]({RAW_URL}/directory/opml/all.opml) '
+        f'[![Visit nws.broker]({SHIELDS}/badge/Visit-nws.broker-315d86)]({SITE}/) '
+        f'[![Download feed catalogue CSV]({SHIELDS}/badge/Download-CSV-315d86)]({RAW_URL}/directory/feeds.csv) '
+        f'[![Download subscription OPML]({SHIELDS}/badge/Download-OPML-315d86)]({RAW_URL}/directory/opml/all.opml) '
         f'[![Directory checks on main pushes]({SHIELDS}/github/actions/workflow/status/{REPOSITORY}/validate.yml?branch=main&event=push&label=directory%20checks)]({REPO_URL}/actions/workflows/validate.yml)', '',
         f'**{endpoint_count:,} endpoint records** · **{source_count:,} sources** · **{topic_count:,} topics**', '',
         '## Quick start', '',
