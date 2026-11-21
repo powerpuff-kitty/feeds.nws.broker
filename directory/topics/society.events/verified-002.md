@@ -4,6 +4,8 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Fondation Boghossian – Villa Empain | [F26754](https://preview.nws.broker/api/endpoints/F26754) | RSS | fr-FR | 2026-11-20 | [Feed](<https://villaempain.com/feed/>) |
+| FOSDEM 2027 | [F26742](https://preview.nws.broker/api/endpoints/F26742) | RSS | und | 2026-11-20 | [Feed](<https://fosdem.org/2027/rss.xml>) |
 | Freak Talk! Podcast | [F27214](https://preview.nws.broker/api/endpoints/F27214) | RSS | en | 2026-11-21 | — |
 | FREAK’N SEE | [F26942](https://preview.nws.broker/api/endpoints/F26942) | RSS | en | 2026-11-21 | — |
 | Freedom Film Network | [F26930](https://preview.nws.broker/api/endpoints/F26930) | RSS | en-GB | 2026-11-21 | [Feed](<https://freedomfilm.my/feed/>) |
@@ -16,6 +18,7 @@
 | G-Punktet | [F27031](https://preview.nws.broker/api/endpoints/F27031) | RSS | no | 2026-11-21 | — |
 | GameSpot - All Content | [F4453](https://preview.nws.broker/api/endpoints/F4453) | RSS | en-US | 2026-11-02 | [Feed](<https://www.gamespot.com/feeds/mashup/>) |
 | Gay Erotica by Liam Williams | [F27247](https://preview.nws.broker/api/endpoints/F27247) | RSS | en | 2026-11-21 | — |
+| Geneva Natural History and History of Science Museums Events | [F27364](https://preview.nws.broker/api/endpoints/F27364) | RSS | fr | 2026-11-21 | [Feed](<https://openagenda.com/agendas/14758456/events.v2.rss>) |
 | Girl on the Net | [F26807](https://preview.nws.broker/api/endpoints/F26807) | RSS | en-US | 2026-11-21 | — |
 | Goethe-Institut Accra Events | [F26841](https://preview.nws.broker/api/endpoints/F26841) | RSS | en | 2026-11-21 | [Feed](<https://www.goethe.de/ins/gh/en/rss/ver.rss>) |
 | Goethe-Institut Almaty Events | [F26851](https://preview.nws.broker/api/endpoints/F26851) | RSS | kk | 2026-11-21 | [Feed](<https://www.goethe.de/ins/kz/kk/rss/ver.rss>) |
@@ -48,6 +51,7 @@
 | Goethe-Institut São Paulo Events | [F26916](https://preview.nws.broker/api/endpoints/F26916) | RSS | pt | 2026-11-21 | [Feed](<https://www.goethe.de/ins/br/pt/rss/sap/ver.rss>) |
 | Goethe-Institut Togo Events | [F26843](https://preview.nws.broker/api/endpoints/F26843) | RSS | fr | 2026-11-21 | [Feed](<https://www.goethe.de/ins/tg/fr/rss/ver.rss>) |
 | Goethe-Institut Uruguay Events | [F26918](https://preview.nws.broker/api/endpoints/F26918) | RSS | es-CL | 2026-11-21 | [Feed](<https://www.goethe.de/ins/uy/es/rss/ver.rss>) |
+| Grand Châtellerault Libraries Events | [F27366](https://preview.nws.broker/api/endpoints/F27366) | RSS | fr | 2026-11-21 | [Feed](<https://openagenda.com/agendas/86040631/events.v2.rss>) |
 | Groupe Spéléologique de Charleroi public agenda feed | [F6917](https://preview.nws.broker/api/endpoints/F6917) | RSS | fr-FR | 2026-11-04 | [Feed](<https://www.gsc-asbl.be/index.php?option=com_jevents&task=modlatest.rss&format=feed&lang=fr-FR&type=rss&modid=116>) |
 | Grün Stadt Zürich Events | [F26976](https://preview.nws.broker/api/endpoints/F26976) | RSS | de | 2026-11-21 | [Feed](<https://www.stadt-zuerich.ch/content/web/de/aktuell/veranstaltungen/umwelt-und-energie/gruenagenda/jcr:content/mainparsys/teaser.rss>) |
 | GSARA Bruxelles | [F26774](https://preview.nws.broker/api/endpoints/F26774) | RSS | fr-FR | 2026-11-20 | [Feed](<https://bruxelles.gsara.be/feed/>) |
@@ -78,6 +82,7 @@
 | Jewish Museum of Belgium | [F26755](https://preview.nws.broker/api/endpoints/F26755) | RSS | fr-FR | 2026-11-20 | [Feed](<https://www.mjb-jmb.org/feed/>) |
 | Joburg Theatre Events | [F26966](https://preview.nws.broker/api/endpoints/F26966) | RSS | en-ZA | 2026-11-21 | [Feed](<https://www.joburgtheatre.com/feed/>) |
 | Joeten-Kiyu Public Library | [F26572](https://preview.nws.broker/api/endpoints/F26572) | RSS | en-US | 2026-11-19 | [Feed](<https://www.cnmilib.org/feed/>) |
+| Jogja-NETPAC Asian Film Festival Programme Announcements | [F27361](https://preview.nws.broker/api/endpoints/F27361) | RSS | en-US | 2026-11-21 | [Feed](<https://jaff-filmfest.org/feed/>) |
 | Journal du Japon | [F7257](https://preview.nws.broker/api/endpoints/F7257) | RSS | fr-FR | 2026-11-18 | [Feed](<https://www.journaldujapon.com/feed/>) |
 | JSTOR Daily | [F7520](https://preview.nws.broker/api/endpoints/F7520) | RSS | en-US | 2026-11-18 | [Feed](<https://daily.jstor.org/feed>) |
 | Kaaitheater | [F26750](https://preview.nws.broker/api/endpoints/F26750) | RSS | nl | 2026-11-20 | [Feed](<https://www.kaaitheater.be/nl/rss.xml>) |
@@ -94,6 +99,7 @@
 | Kyoto City KYOCERA Museum of Art | [F26962](https://preview.nws.broker/api/endpoints/F26962) | RSS | ja | 2026-11-21 | [Feed](<https://kyotocity-kyocera.museum/feed/>) |
 | La biblioteca prohibida | [F27036](https://preview.nws.broker/api/endpoints/F27036) | RSS | es | 2026-11-21 | — |
 | La Concertation | [F26758](https://preview.nws.broker/api/endpoints/F26758) | RSS | fr-FR | 2026-11-20 | [Feed](<https://www.laconcertation-asbl.org/feed/>) |
+| La Condition Publique Events | [F27367](https://preview.nws.broker/api/endpoints/F27367) | RSS | fr | 2026-11-21 | [Feed](<https://openagenda.com/agendas/23355730/events.v2.rss>) |
 | La Fonderie | [F26747](https://preview.nws.broker/api/endpoints/F26747) | RSS | fr | 2026-11-20 | [Feed](<https://www.lafonderie.be/feed/>) |
 | La Tricoterie | [F26738](https://preview.nws.broker/api/endpoints/F26738) | RSS | fr | 2026-11-20 | [Feed](<https://latricoterie.net/spip.php?page=backend>) |
 | La Vénerie | [F26746](https://preview.nws.broker/api/endpoints/F26746) | RSS | und | 2026-11-20 | [Feed](<https://www.lavenerie.be/feed/>) |
@@ -148,9 +154,3 @@
 | Museums Wellington | [F26798](https://preview.nws.broker/api/endpoints/F26798) | RSS | en-NZ | 2026-11-21 | [Feed](<https://www.museumswellington.org.nz/feed/>) |
 | Music Business Worldwide | [F5007](https://preview.nws.broker/api/endpoints/F5007) | RSS | en-US | 2026-11-02 | [Feed](<https://www.musicbusinessworldwide.com/feed/>) |
 | Musée de la Médecine de Bruxelles | [F26756](https://preview.nws.broker/api/endpoints/F26756) | RSS | fr-FR | 2026-11-20 | [Feed](<https://www.museemedecine.be/feed/>) |
-| Muziekpublique | [F26764](https://preview.nws.broker/api/endpoints/F26764) | RSS | fr-FR | 2026-11-20 | [Feed](<https://muziekpublique.be/concerts/feed/>) |
-| Nafasi Art Space Programmes | [F27234](https://preview.nws.broker/api/endpoints/F27234) | RSS | en-US | 2026-11-21 | [Feed](<https://www.nafasiartspace.org/feed/>) |
-| National Gallery of Jamaica Exhibitions | [F27202](https://preview.nws.broker/api/endpoints/F27202) | RSS | en | 2026-11-21 | [Feed](<https://nationalgalleryofjamaica.wordpress.com/category/exhibitions/feed/>) |
-| National Library of Australia | [F26797](https://preview.nws.broker/api/endpoints/F26797) | RSS | en | 2026-11-21 | [Feed](<https://www.library.gov.au/rss.xml>) |
-| National Museum of the Philippines | [F26825](https://preview.nws.broker/api/endpoints/F26825) | RSS | en-US | 2026-11-21 | [Feed](<https://www.nationalmuseum.gov.ph/feed/>) |
-| National Museums of Kenya | [F26785](https://preview.nws.broker/api/endpoints/F26785) | RSS | en-US | 2026-11-21 | [Feed](<https://museums.or.ke/feed/>) |

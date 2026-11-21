@@ -1,13 +1,13 @@
 {
-  "catalogue_import": "21523f8eeb6460e39c99e678d306b36c4129c1bce442f7621d962d5ca9798ba8",
-  "endpoint_count": 27302,
-  "opml_count": 9602,
+  "catalogue_import": "2c467dd32fe7f061b326ef6685b6958ef455b563f7505bf39cbbd79f771fe840",
+  "endpoint_count": 27310,
+  "opml_count": 9610,
   "source": "https://preview.nws.broker/api",
   "status_counts": {
     "advertised": 12574,
     "needs_review": 3857,
     "unavailable": 687,
-    "verified": 10184
+    "verified": 10192
   },
   "topics": {
     "business": {
@@ -301,13 +301,13 @@
       }
     },
     "society.events": {
-      "endpoint_count": 489,
-      "opml_count": 315,
+      "endpoint_count": 497,
+      "opml_count": 323,
       "status_counts": {
         "advertised": 0,
         "needs_review": 33,
         "unavailable": 0,
-        "verified": 456
+        "verified": 464
       }
     },
     "society.geography": {

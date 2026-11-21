@@ -6,12 +6,12 @@ A public feed directory from [nws.broker](https://nws.broker/). Find publisher f
 
 [![Visit nws.broker](https://img.shields.io/badge/Visit-nws.broker-315d86)](https://nws.broker/) [![Download feed catalogue CSV](https://img.shields.io/badge/Download-CSV-315d86)](https://raw.githubusercontent.com/powerpuff-kitty/feeds.nws.broker/main/directory/feeds.csv) [![Download subscription OPML](https://img.shields.io/badge/Download-OPML-315d86)](https://raw.githubusercontent.com/powerpuff-kitty/feeds.nws.broker/main/directory/opml/all.opml) [![Directory checks on main pushes](https://img.shields.io/github/actions/workflow/status/powerpuff-kitty/feeds.nws.broker/validate.yml?branch=main&event=push&label=directory%20checks)](https://github.com/powerpuff-kitty/feeds.nws.broker/actions/workflows/validate.yml)
 
-**27,302 endpoint records** · **13,702 sources** · **38 topics**
+**27,310 endpoint records** · **13,710 sources** · **38 topics**
 
 ## Quick start
 
 1. [Choose a topic](#browse-by-topic) and open its verified feeds.
-2. Save that topic’s OPML file and import it into your feed reader, or [import 9,602 subscriptions](https://raw.githubusercontent.com/powerpuff-kitty/feeds.nws.broker/main/directory/opml/all.opml) from the combined file.
+2. Save that topic’s OPML file and import it into your feed reader, or [import 9,610 subscriptions](https://raw.githubusercontent.com/powerpuff-kitty/feeds.nws.broker/main/directory/opml/all.opml) from the combined file.
 3. Use the [CSV](directory/feeds.csv) to filter by language, country, publisher, or feed status.
 
 [Browse the live catalogue](https://nws.broker/catalogue/) · [Snapshot manifest](directory/manifest.json) · [Platform feeds](PLATFORMS.md) · [Maintenance](MAINTENANCE.md)
@@ -29,7 +29,7 @@ This snapshot comes from the [Preview catalogue API](https://preview.nws.broker/
 | [Economics and statistics](directory/topics/business.economics/README.md) | Business | 353 | 0 | 44 | 7 | [348](directory/opml/business.economics.opml) |
 | [Energy](directory/topics/environment.energy/README.md) | Environment | 28 | 0 | 8 | 3 | [28](directory/opml/environment.energy.opml) |
 | [Environment](directory/topics/environment/README.md) |  | 81 | 0 | 9 | 6 | [81](directory/opml/environment.opml) |
-| [Events and culture](directory/topics/society.events/README.md) | Society | 456 | 0 | 33 | 0 | [315](directory/opml/society.events.opml) |
+| [Events and culture](directory/topics/society.events/README.md) | Society | 464 | 0 | 33 | 0 | [323](directory/opml/society.events.opml) |
 | [General](directory/topics/general/README.md) |  | 4,872 | 12,572 | 1,955 | 401 | [4,788](directory/opml/general.opml) |
 | [General journalism](directory/topics/news.general/README.md) | News | 1,784 | 1 | 571 | 133 | [1,642](directory/opml/news.general.opml) |
 | [Government](directory/topics/government/README.md) |  | 301 | 0 | 602 | 5 | [298](directory/opml/government.opml) |

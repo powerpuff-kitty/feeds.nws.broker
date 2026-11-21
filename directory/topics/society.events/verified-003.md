@@ -4,6 +4,12 @@
 
 | Source | Endpoint | Format | Language | Last checked (UTC) | Subscribe |
 | --- | --- | --- | --- | --- | --- |
+| Muziekpublique | [F26764](https://preview.nws.broker/api/endpoints/F26764) | RSS | fr-FR | 2026-11-20 | [Feed](<https://muziekpublique.be/concerts/feed/>) |
+| Nafasi Art Space Programmes | [F27234](https://preview.nws.broker/api/endpoints/F27234) | RSS | en-US | 2026-11-21 | [Feed](<https://www.nafasiartspace.org/feed/>) |
+| National Gallery of Jamaica Exhibitions | [F27202](https://preview.nws.broker/api/endpoints/F27202) | RSS | en | 2026-11-21 | [Feed](<https://nationalgalleryofjamaica.wordpress.com/category/exhibitions/feed/>) |
+| National Library of Australia | [F26797](https://preview.nws.broker/api/endpoints/F26797) | RSS | en | 2026-11-21 | [Feed](<https://www.library.gov.au/rss.xml>) |
+| National Museum of the Philippines | [F26825](https://preview.nws.broker/api/endpoints/F26825) | RSS | en-US | 2026-11-21 | [Feed](<https://www.nationalmuseum.gov.ph/feed/>) |
+| National Museums of Kenya | [F26785](https://preview.nws.broker/api/endpoints/F26785) | RSS | en-US | 2026-11-21 | [Feed](<https://museums.or.ke/feed/>) |
 | NewInBooks | [F5035](https://preview.nws.broker/api/endpoints/F5035) | RSS | en-US | 2026-11-02 | [Feed](<https://www.newinbooks.com/feed/>) |
 | Newsletter de Barbara Vanzo | [F27038](https://preview.nws.broker/api/endpoints/F27038) | RSS | pt-BR | 2026-11-21 | — |
 | Newsletter Lasciva | [F27037](https://preview.nws.broker/api/endpoints/F27037) | RSS | pt | 2026-11-21 | — |
@@ -118,6 +124,7 @@
 | Toronto International Festival of Authors | [F26971](https://preview.nws.broker/api/endpoints/F26971) | RSS | en-US | 2026-11-21 | [Feed](<https://festivalofauthors.ca/feed/>) |
 | Turned On With Sue And John | [F26878](https://preview.nws.broker/api/endpoints/F26878) | RSS | en | 2026-11-21 | — |
 | TVLine - All TV. No Interference. TV News &amp; Spoilers by TVLine | [F2949](https://preview.nws.broker/api/endpoints/F2949) | RSS | en-US | 2026-11-02 | [Feed](<https://tvline.com/feed/>) |
+| Ubatuba Tourism and Cultural Programmes | [F27362](https://preview.nws.broker/api/endpoints/F27362) | RSS | pt-BR | 2026-11-21 | [Feed](<https://turismo.ubatuba.sp.gov.br/feed/>) |
 | UC Berkeley Events | [F26857](https://preview.nws.broker/api/endpoints/F26857) | RSS | en-US | 2026-11-21 | [Feed](<https://events.berkeley.edu/live/rss/events>) |
 | Uchify | [F7462](https://preview.nws.broker/api/endpoints/F7462) | RSS | en-GB | 2026-11-18 | [Feed](<https://uchify.com/feed/>) |
 | Uchify | [F7463](https://preview.nws.broker/api/endpoints/F7463) | Atom | en-GB | 2026-11-18 | [Feed](<https://uchify.com/feed/atom/>) |
@@ -147,10 +154,3 @@
 | Waterloo Public Library Events | [F26882](https://preview.nws.broker/api/endpoints/F26882) | RSS | en-US | 2026-11-21 | [Feed](<https://calendar.wpl.ca/feeds?data=eyJmZWVkVHlwZSI6InJzcyIsImZpbHRlcnMiOnsibG9jYXRpb24iOlsiYWxsIl0sImFnZXMiOlsiYWxsIl0sInR5cGVzIjpbImFsbCJdLCJ0YWdzIjpbXSwidGVybSI6IiIsImRheXMiOjF9fQ==>) |
 | Wellington City Libraries Events | [F26960](https://preview.nws.broker/api/endpoints/F26960) | RSS | en-US | 2026-11-21 | [Feed](<https://www.trumba.com/calendars/wellington-city-libraries.rss>) |
 | Whispher | [F26995](https://preview.nws.broker/api/endpoints/F26995) | RSS | de | 2026-11-21 | — |
-| Whore School with Ms. Harper | [F27292](https://preview.nws.broker/api/endpoints/F27292) | RSS | en | 2026-11-21 | — |
-| Why Are People Into That?! | [F26956](https://preview.nws.broker/api/endpoints/F26956) | RSS | en | 2026-11-21 | — |
-| Wild Sex | [F27293](https://preview.nws.broker/api/endpoints/F27293) | RSS | en | 2026-11-21 | — |
-| WIPO — intellectual property news | [F25777](https://preview.nws.broker/api/endpoints/F25777) | RSS | en | 2026-11-19 | [Feed](<https://www.wipo.int/rss/index.xml?col=meetings>) |
-| Wokeread | [F2991](https://preview.nws.broker/api/endpoints/F2991) | RSS | en | 2026-11-02 | [Feed](<https://wokeread.home.blog/feed/>) |
-| Wolubilis | [F26768](https://preview.nws.broker/api/endpoints/F26768) | RSS | fr-FR | 2026-11-20 | [Feed](<https://www.wolubilis.be/feed/>) |
-| Yong’an Arts Centre Events | [F27261](https://preview.nws.broker/api/endpoints/F27261) | RSS | zh-TW | 2026-11-21 | [Feed](<https://www.yalac.ntpc.gov.tw/xceventsnews/rss?xsmsid=0G278762856907255656>) |

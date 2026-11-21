@@ -52,6 +52,7 @@
 | Barbershop Harmony Australia Events | [F26894](https://preview.nws.broker/api/endpoints/F26894) | RSS | en-GB | 2026-11-21 | [Feed](<https://www.barbershop.org.au/dbaction.php?action=rss&dbase=events>) |
 | Basium | [F27243](https://preview.nws.broker/api/endpoints/F27243) | RSS | fr | 2026-11-21 | — |
 | Behind the Squirt | [F26897](https://preview.nws.broker/api/endpoints/F26897) | RSS | en | 2026-11-21 | — |
+| Belgian Comic Strip Center Events | [F27365](https://preview.nws.broker/api/endpoints/F27365) | RSS | fr | 2026-11-21 | [Feed](<https://openagenda.com/agendas/46558486/events.v2.rss>) |
 | Belgian Comic Strip Center publication feeds | [F26762](https://preview.nws.broker/api/endpoints/F26762) | Atom | und | 2026-11-20 | [Feed](<https://www.comicscenter.net/en/the-great-temporary-exhibitions/rss>) |
 | Belgian Comic Strip Center publication feeds | [F6440](https://preview.nws.broker/api/endpoints/F6440) | Atom | und | 2026-11-04 | [Feed](<https://www.cbbd.be/fr/flash-info/rss>) |
 | Belgian Comic Strip Center publication feeds | [F6441](https://preview.nws.broker/api/endpoints/F6441) | Atom | und | 2026-11-04 | [Feed](<https://www.cbbd.be/fr/les-grandes-expositions-temporaires/rss>) |
@@ -98,6 +99,7 @@
 | City Gallery Wellington | [F26827](https://preview.nws.broker/api/endpoints/F26827) | RSS | en-US | 2026-11-21 | [Feed](<https://citygallery.org.nz/feed/>) |
 | City of Asylum Pittsburgh Events | [F26973](https://preview.nws.broker/api/endpoints/F26973) | RSS | en-US | 2026-11-21 | [Feed](<https://cityofasylum.org/programs/feed/>) |
 | City of Saitama Culture and Arts Announcements | [F27322](https://preview.nws.broker/api/endpoints/F27322) | RSS | ja | 2026-11-21 | [Feed](<https://www.city.saitama.lg.jp/004/005/news.xml>) |
+| City of Toulouse Events | [F27368](https://preview.nws.broker/api/endpoints/F27368) | RSS | fr | 2026-11-21 | [Feed](<https://openagenda.com/agendas/42448083/events.v2.rss>) |
 | City of Vancouver Events | [F27267](https://preview.nws.broker/api/endpoints/F27267) | RSS | en-US | 2026-11-21 | [Feed](<https://www.trumba.com/calendars/city-of-vancouver-events.rss>) |
 | Cocos Blue Charters | [F26586](https://preview.nws.broker/api/endpoints/F26586) | RSS | en-AU | 2026-11-19 | [Feed](<https://cocosblue.com.au/feed/>) |
 | Cocos Castaway destination notes | [F26587](https://preview.nws.broker/api/endpoints/F26587) | RSS | en-AU | 2026-11-19 | [Feed](<https://cocoscastaway.com/feed/>) |
@@ -152,5 +154,3 @@
 | Festival Internacional de Cine de Valdivia | [F26968](https://preview.nws.broker/api/endpoints/F26968) | RSS | es | 2026-11-21 | [Feed](<https://ficvaldivia.cl/feed/>) |
 | FILTHY MILFS | [F26941](https://preview.nws.broker/api/endpoints/F26941) | RSS | en | 2026-11-21 | — |
 | FirstShowing.net | [F4392](https://preview.nws.broker/api/endpoints/F4392) | RSS | en-US | 2026-11-02 | [Feed](<https://www.firstshowing.net/feed/>) |
-| Fondation Boghossian – Villa Empain | [F26754](https://preview.nws.broker/api/endpoints/F26754) | RSS | fr-FR | 2026-11-20 | [Feed](<https://villaempain.com/feed/>) |
-| FOSDEM 2027 | [F26742](https://preview.nws.broker/api/endpoints/F26742) | RSS | und | 2026-11-20 | [Feed](<https://fosdem.org/2027/rss.xml>) |
